@@ -45,7 +45,9 @@ index,date,account_name,amount,message,vs,name
 43,2026-05-29,Višňovský Peter,25.0,Platba/Dar,"35
 VS35/SS/KS",Progresívne Slovensko
 44,2026-05-28,,-29.77,Transakčná daň 27.05.2026,,Progresívne Slovensko
-45,2026-05-27,"AKO, s.r.o.",-3407.1,"
+45,2026-05-27,"
+                            AKO, s.r.o.
+                    ",-3407.1,"
                         Platba
                     /
                         AKO prieskum verejnej mienky VUC Kosice 15.5-18.5.2026
@@ -679,94 +681,16 @@ VS2621017/SS03/KS",Progresívne Slovensko
 376,2026-05-02,,-0.08,Transakčná daň 30.04.2026,,Demokrati
 377,2026-04-30,,-19.0,Poplatok za balík,,Demokrati
 378,2026-04-01,,-0.08,Transakčná daň 31.03.2026,,Demokrati
-379,2026-03-31,,-19.0,"
-                        Poplatok za balík
-                    /
-                        
-                    ","
-                        
-                    ",Demokrati
-380,2026-03-02,"
-                            
-                    ",-0.08,"
-                        Transakčná daň 28.02.2026
-                    /
-                        
-                    ","
-                        
-                    ",Demokrati
-381,2026-02-28,"
-                            
-                    ",-19.0,"
-                        Poplatok za balík
-                    /
-                        
-                    ","
-                        
-                    ",Demokrati
-382,2026-02-02,"
-                            
-                    ",-0.08,"
-                        Transakčná daň 31.01.2026
-                    /
-                        
-                    ","
-                        
-                    ",Demokrati
-383,2026-01-31,"
-                            
-                    ",-19.0,"
-                        Poplatok za balík
-                    /
-                        
-                    ","
-                        
-                    ",Demokrati
-384,2026-01-02,"
-                            
-                    ",-0.08,"
-                        Transakčná daň 31.12.2025
-                    /
-                        
-                    ","
-                        
-                    ",Demokrati
-385,2025-12-31,"
-                            
-                    ",-19.0,"
-                        Poplatok za balík
-                    /
-                        
-                    ","
-                        
-                    ",Demokrati
-386,2025-12-01,"
-                            
-                    ",-0.08,"
-                        Transakčná daň 29.11.2025
-                    /
-                        
-                    ","
-                        
-                    ",Demokrati
-387,2025-11-29,"
-                            
-                    ",-19.0,"
-                        Poplatok za balík
-                    /
-                        
-                    ","
-                        
-                    ",Demokrati
-388,2025-11-03,"
-                            
-                    ",-0.08,"
-                        Transakčná daň 31.10.2025
-                    /
-                        
-                    ","
-                        
-                    ",Demokrati
+379,2026-03-31,,-19.0,Poplatok za balík,,Demokrati
+380,2026-03-02,,-0.08,Transakčná daň 28.02.2026,,Demokrati
+381,2026-02-28,,-19.0,Poplatok za balík,,Demokrati
+382,2026-02-02,,-0.08,Transakčná daň 31.01.2026,,Demokrati
+383,2026-01-31,,-19.0,Poplatok za balík,,Demokrati
+384,2026-01-02,,-0.08,Transakčná daň 31.12.2025,,Demokrati
+385,2025-12-31,,-19.0,Poplatok za balík,,Demokrati
+386,2025-12-01,,-0.08,Transakčná daň 29.11.2025,,Demokrati
+387,2025-11-29,,-19.0,Poplatok za balík,,Demokrati
+388,2025-11-03,,-0.08,Transakčná daň 31.10.2025,,Demokrati
 389,2025-10-31,,-19.0,Poplatok za balík,,Demokrati
 390,2025-10-01,,-0.08,Transakčná daň 30.09.2025,,Demokrati
 391,2025-09-30,,-19.0,Poplatok za balík,,Demokrati
@@ -1460,50 +1384,114 @@ VS1226203012/SS/KS308",Dunaj
 VS264089/SS/KS",Dunaj
 998,2026-04-21,Dunaj,1000.0,Platba/Presun prostriedkov,,Dunaj
 999,2026-04-17,,-4.57,Transakčná daň 16.04.2026,,Dunaj
-1000,2026-04-16,Bittner print s.r.o.,-492.0,"
-                        Platba
-                    /
-                        CTL 100 ks tlac
-                    ","
-                        1020261425VS1020261425/SS/KS308
-                    ",Dunaj
-1001,2026-04-16,"
-                            BigMedia, spol. s r.o.
-                    ",-649.44,"
-                        Platba
-                    /
-                        CLV 6 ks
-                    ","
-                        1226201661VS1226201661/SS/KS308
-                    ",Dunaj
-1002,2026-04-16,"
-                            Dunaj
-                    ",1500.0,"
-                        Platba
-                    /
-                        Presun prostriedkov
-                    ","
-                        
-                    ",Dunaj
+1000,2026-04-16,Bittner print s.r.o.,-492.0,Platba/CTL 100 ks tlac,"1020261425
+VS1020261425/SS/KS308",Dunaj
+1001,2026-04-16,"BigMedia, spol. s r.o.",-649.44,Platba/CLV 6 ks,"1226201661
+VS1226201661/SS/KS308",Dunaj
+1002,2026-04-16,Dunaj,1500.0,Platba/Presun prostriedkov,,Dunaj
 1003,2026-04-07,,-6.07,Transakčná daň 04.04.2026,,Dunaj
 1004,2026-04-04,Skip Ad s. r. o.,-1516.79,Platba/Inzercia regionoress,"20260002
 VS20260002/SS/KS308",Dunaj
 1005,2026-04-04,Dunaj,1600.0,Platba/Prevod prostriedkov,,Dunaj
-1006,2026-03-31,,-2.16,Transakčná daň 30.03.2026,,Dunaj
-1007,2026-03-31,,-0.0,Poplatok za balík,,Dunaj
-1008,2026-03-30,"BigMedia, spol. s r.o.",-541.2,Platba/Outdoor reklama 3/2026,"1226201654
-VS1226201654/SS/KS",Dunaj
-1009,2026-03-30,Dunaj,100.0,Platba/Prevod prostriedkov,,Dunaj
-1010,2026-03-25,,-3.3,Transakčná daň 24.03.2026,,Dunaj
-1011,2026-03-24,ARTON s.r.o.,-55.35,Platba/tlac plagatov 3 ks,"260098
-VS260098/SS/KS",Dunaj
-1012,2026-03-24,ARTON s.r.o.,-768.75,Platba/Prenajom reklamneho priestoru 4-6/2026,"260097
-VS260097/SS/KS",Dunaj
-1013,2026-03-24,Dunaj,300.0,Platba/Prevod prostriedkov,,Dunaj
-1014,2026-03-09,,-5.27,Transakčná daň 07.03.2026,,Dunaj
-1015,2026-03-07,Regionpress,-1318.56,Platba/Inzercia bratislavsko,"914260006
-VS914260006/SS/KS",Dunaj
-1016,2026-03-07,Dunaj,1000.0,Platba/Prevod prostriedkov na kampan komunal,,Dunaj
+1006,2026-03-31,"
+                            
+                    ",-2.16,"
+                        Transakčná daň 30.03.2026
+                    /
+                        
+                    ","
+                        
+                    ",Dunaj
+1007,2026-03-31,"
+                            
+                    ",-0.0,"
+                        Poplatok za balík
+                    /
+                        
+                    ","
+                        
+                    ",Dunaj
+1008,2026-03-30,"
+                            BigMedia, spol. s r.o.
+                    ",-541.2,"
+                        Platba
+                    /
+                        Outdoor reklama 3/2026
+                    ","
+                        1226201654VS1226201654/SS/KS
+                    ",Dunaj
+1009,2026-03-30,"
+                            Dunaj
+                    ",100.0,"
+                        Platba
+                    /
+                        Prevod prostriedkov
+                    ","
+                        
+                    ",Dunaj
+1010,2026-03-25,"
+                            
+                    ",-3.3,"
+                        Transakčná daň 24.03.2026
+                    /
+                        
+                    ","
+                        
+                    ",Dunaj
+1011,2026-03-24,"
+                            ARTON s.r.o.
+                    ",-55.35,"
+                        Platba
+                    /
+                        tlac plagatov 3 ks
+                    ","
+                        260098VS260098/SS/KS
+                    ",Dunaj
+1012,2026-03-24,"
+                            ARTON s.r.o.
+                    ",-768.75,"
+                        Platba
+                    /
+                        Prenajom reklamneho priestoru 4-6/2026
+                    ","
+                        260097VS260097/SS/KS
+                    ",Dunaj
+1013,2026-03-24,"
+                            Dunaj
+                    ",300.0,"
+                        Platba
+                    /
+                        Prevod prostriedkov
+                    ","
+                        
+                    ",Dunaj
+1014,2026-03-09,"
+                            
+                    ",-5.27,"
+                        Transakčná daň 07.03.2026
+                    /
+                        
+                    ","
+                        
+                    ",Dunaj
+1015,2026-03-07,"
+                            Regionpress
+                    ",-1318.56,"
+                        Platba
+                    /
+                        Inzercia bratislavsko
+                    ","
+                        914260006VS914260006/SS/KS
+                    ",Dunaj
+1016,2026-03-07,"
+                            Dunaj
+                    ",1000.0,"
+                        Platba
+                    /
+                        Prevod prostriedkov na kampan komunal
+                    ","
+                        
+                    ",Dunaj
 1017,2026-03-02,,-0.33,Transakčná daň 28.02.2026,,Dunaj
 1018,2026-02-28,,-0.0,Poplatok za balík,,Dunaj
 1019,2026-02-28,Garaz centrum Bratislava,-82.0,Platba/Vyroba reklamneho plagatu,"20260097
@@ -1896,87 +1884,20 @@ VS16120020/SS/KS",Martin Winkler
 1396,2026-05-26,"NUBIUM, s. r. o.",-170.97,Platba/Prenajom reklamnej plochy a tlac,"2610003051
 VS2610003051/SS/KS",Martin Winkler
 1397,2026-05-26,Dunaj,1000.0,Platba/Presun prostriedkov,,Martin Winkler
-1398,2026-05-16,"
-                            
-                    ",-10.7,"
-                        Transakčná daň 15.05.2026
-                    /
-                        
-                    ","
-                        
-                    ",Martin Winkler
-1399,2026-05-15,"
-                            BigMedia, spol. s r.o.
-                    ",-649.44,"
-                        Platba
-                    /
-                        CLV 6ks
-                    ","
-                        1226203023VS1226203023/SS/KS308
-                    ",Martin Winkler
-1400,2026-05-15,"
-                            Skip Ad s. r. o.
-                    ",-1516.79,"
-                        Platba
-                    /
-                        Reklamne a propagacne sluzby
-                    ","
-                        20260005VS20260005/SS/KS
-                    ",Martin Winkler
-1401,2026-05-15,"
-                            Skip Ad s. r. o.
-                    ",-266.48,"
-                        Platba
-                    /
-                        Rollupy a magnetky
-                    ","
-                        20260003VS20260003/SS/KS
-                    ",Martin Winkler
-1402,2026-05-15,"
-                            Skip Ad s. r. o.
-                    ",-240.4,"
-                        Platba
-                    /
-                        Prevadzkaren 2xstan
-                    ","
-                        2026004VS2026004/SS/KS
-                    ",Martin Winkler
-1403,2026-05-15,"
-                            Dunaj
-                    ",2500.0,"
-                        Platba
-                    /
-                        Presun prostriedkov
-                    ","
-                        
-                    ",Martin Winkler
-1404,2026-04-30,"
-                            
-                    ",-0.0,"
-                        Poplatok za balík
-                    /
-                        
-                    ","
-                        
-                    ",Martin Winkler
-1405,2026-04-29,"
-                            
-                    ",-9.91,"
-                        Transakčná daň 28.04.2026
-                    /
-                        
-                    ","
-                        
-                    ",Martin Winkler
-1406,2026-04-28,"
-                            NUBIUM, s. r. o.
-                    ",-403.44,"
-                        Platba
-                    /
-                        Prenajom reklamnych ploch
-                    ","
-                        16120011VS16120011/SS/KS
-                    ",Martin Winkler
+1398,2026-05-16,,-10.7,Transakčná daň 15.05.2026,,Martin Winkler
+1399,2026-05-15,"BigMedia, spol. s r.o.",-649.44,Platba/CLV 6ks,"1226203023
+VS1226203023/SS/KS308",Martin Winkler
+1400,2026-05-15,Skip Ad s. r. o.,-1516.79,Platba/Reklamne a propagacne sluzby,"20260005
+VS20260005/SS/KS",Martin Winkler
+1401,2026-05-15,Skip Ad s. r. o.,-266.48,Platba/Rollupy a magnetky,"20260003
+VS20260003/SS/KS",Martin Winkler
+1402,2026-05-15,Skip Ad s. r. o.,-240.4,Platba/Prevadzkaren 2xstan,"2026004
+VS2026004/SS/KS",Martin Winkler
+1403,2026-05-15,Dunaj,2500.0,Platba/Presun prostriedkov,,Martin Winkler
+1404,2026-04-30,,-0.0,Poplatok za balík,,Martin Winkler
+1405,2026-04-29,,-9.91,Transakčná daň 28.04.2026,,Martin Winkler
+1406,2026-04-28,"NUBIUM, s. r. o.",-403.44,Platba/Prenajom reklamnych ploch,"16120011
+VS16120011/SS/KS",Martin Winkler
 1407,2026-04-28,ARTON s.r.o.,-2075.63,Platba/Prenajom ploch 7-10/2026,"260155
 VS260155/SS/KS",Martin Winkler
 1408,2026-04-28,Dunaj,3000.0,Platba/Presun prostriedkov,,Martin Winkler
@@ -1994,9 +1915,24 @@ VS264089/SS/KS",Martin Winkler
 1417,2026-04-17,,-4.57,Transakčná daň 16.04.2026,,Martin Winkler
 1418,2026-04-16,Bittner print s.r.o.,-492.0,Platba/CTL 100 ks tlac,"1020261425
 VS1020261425/SS/KS308",Martin Winkler
-1419,2026-04-16,"BigMedia, spol. s r.o.",-649.44,Platba/CLV 6 ks,"1226201661
-VS1226201661/SS/KS308",Martin Winkler
-1420,2026-04-16,Dunaj,1500.0,Platba/Presun prostriedkov,,Martin Winkler
+1419,2026-04-16,"
+                            BigMedia, spol. s r.o.
+                    ",-649.44,"
+                        Platba
+                    /
+                        CLV 6 ks
+                    ","
+                        1226201661VS1226201661/SS/KS308
+                    ",Martin Winkler
+1420,2026-04-16,"
+                            Dunaj
+                    ",1500.0,"
+                        Platba
+                    /
+                        Presun prostriedkov
+                    ","
+                        
+                    ",Martin Winkler
 1421,2026-04-07,,-6.07,Transakčná daň 04.04.2026,,Martin Winkler
 1422,2026-04-04,Skip Ad s. r. o.,-1516.79,Platba/Inzercia regionoress,"20260002
 VS20260002/SS/KS308",Martin Winkler
@@ -2575,25 +2511,92 @@ olby 2026",,Zuzana Šubová
 1981,2026-05-29,Višňovský Peter,25.0,Platba/Dar,"35
 VS35/SS/KS",Marián Porvažník
 1982,2026-05-28,,-29.77,Transakčná daň 27.05.2026,,Marián Porvažník
-1983,2026-05-27,"AKO, s.r.o.",-3407.1,Platba/AKO prieskum verejnej mienky VUC Kosice 15.5-18.5.2026,"332026
-VS332026/SS12/KS",Marián Porvažník
-1984,2026-05-27,"AKO, s.r.o.",-4035.63,Platba/AKO prieskum verejnej mienky VUC Kosice 24.4-28.4,"272026
-VS272026/SS12/KS",Marián Porvažník
-1985,2026-05-27,Kristina Gajdosova,25.0,Platba/dar,"35
-VS35/SS/KS",Marián Porvažník
-1986,2026-05-27,Ivana Meszaros Skoumalova,50.0,Platba,"2
-VS2/SS/KS",Marián Porvažník
-1987,2026-05-26,,-16.12,Transakčná daň 25.05.2026,,Marián Porvažník
-1988,2026-05-25,Hauerland spol. s r.o.,-1377.11,Platba/Hauerland merch predmety hanulik pezinok,"20260077
-VS20260077/SS03/KS",Marián Porvažník
-1989,2026-05-25,Magat Marcel,-146.8,Platba/catering diskusia pezinok hanulik 21.5.2026,"2026007
-VS2026007/SS03/KS",Marián Porvažník
-1990,2026-05-25,"Petit Press, a.s.",-1441.56,Platba/petitpress inzercia mybystrica reklama 28.5-29.5.2026 javorcikova bb,"2633100845
-VS2633100845/SS01/KS308",Marián Porvažník
-1991,2026-05-25,ARIES reklama s.r.o.,-461.25,Platba/aries merch pero holeczy ke,"1020260050
-VS1020260050/SS08/KS308",Marián Porvažník
-1992,2026-05-25,Fotosnek s.r.o.,-600.0,Platba/fotosnek foto sluzby javorcikova 05 25,"1260005
-VS1260005/SS01/KS",Marián Porvažník
+1983,2026-05-27,"AKO, s.r.o.",-3407.1,"Platba/
+                        AKO prieskum verejnej mienky VUC Kosice 15.5-18.5.2026
+                    ","
+                        332026VS332026/SS12/KS
+                    ",Marián Porvažník
+1984,2026-05-27,"
+                            AKO, s.r.o.
+                    ",-4035.63,"
+                        Platba
+                    /
+                        AKO prieskum verejnej mienky VUC Kosice 24.4-28.4
+                    ","
+                        272026VS272026/SS12/KS
+                    ",Marián Porvažník
+1985,2026-05-27,"
+                            Kristina Gajdosova
+                    ",25.0,"
+                        Platba
+                    /
+                        dar
+                    ","
+                        35VS35/SS/KS
+                    ",Marián Porvažník
+1986,2026-05-27,"
+                            Ivana Meszaros Skoumalova
+                    ",50.0,"
+                        Platba
+                    /
+                        
+                    ","
+                        2VS2/SS/KS
+                    ",Marián Porvažník
+1987,2026-05-26,"
+                            
+                    ",-16.12,"
+                        Transakčná daň 25.05.2026
+                    /
+                        
+                    ","
+                        
+                    ",Marián Porvažník
+1988,2026-05-25,"
+                            Hauerland spol. s r.o.
+                    ",-1377.11,"
+                        Platba
+                    /
+                        Hauerland merch predmety hanulik pezinok
+                    ","
+                        20260077VS20260077/SS03/KS
+                    ",Marián Porvažník
+1989,2026-05-25,"
+                            Magat Marcel
+                    ",-146.8,"
+                        Platba
+                    /
+                        catering diskusia pezinok hanulik 21.5.2026
+                    ","
+                        2026007VS2026007/SS03/KS
+                    ",Marián Porvažník
+1990,2026-05-25,"
+                            Petit Press, a.s.
+                    ",-1441.56,"
+                        Platba
+                    /
+                        petitpress inzercia mybystrica reklama 28.5-29.5.2026 javorcikova bb
+                    ","
+                        2633100845VS2633100845/SS01/KS308
+                    ",Marián Porvažník
+1991,2026-05-25,"
+                            ARIES reklama s.r.o.
+                    ",-461.25,"
+                        Platba
+                    /
+                        aries merch pero holeczy ke
+                    ","
+                        1020260050VS1020260050/SS08/KS308
+                    ",Marián Porvažník
+1992,2026-05-25,"
+                            Fotosnek s.r.o.
+                    ",-600.0,"
+                        Platba
+                    /
+                        fotosnek foto sluzby javorcikova 05 25
+                    ","
+                        1260005VS1260005/SS01/KS
+                    ",Marián Porvažník
 1993,2026-05-23,,-34.04,Transakčná daň 22.05.2026,,Marián Porvažník
 1994,2026-05-22,Občianske združenie BONA FIDE,-4041.03,"Platba/tabacka krst knihy ke, prenajom, strazne sluzby, obcerstvenie; 07.05.2026","2026132
 VS2026132/SS0212/KS308",Marián Porvažník
@@ -2639,49 +2642,16 @@ VS12260069/SS12/KS",Marián Porvažník
 2016,2026-05-21,HOWK s.r.o.,-1968.0,Platba/howk praca fotografa v atelieri postprodukcia mudrak ke,"20260042
 VS20260042/SS02/KS308",Marián Porvažník
 2017,2026-05-21,Progresívne Slovensko,20000.0,Platba/prevod medzi uctami,,Marián Porvažník
-2018,2026-05-21,Zuzana Pitková,-150.0,"
-                        Platba
-                    /
-                        pitkova dj vystupenie krst knihy 7.5.2026
-                    ","
-                        20260502VS20260502/SS0212/KS
-                    ",Marián Porvažník
-2019,2026-05-21,"
-                            PPE oz
-                    ",-2800.0,"
-                        Platba
-                    /
-                        koncert 7.5.2026 ke zeby dobre bolo krst knihy honorar kapela
-                    ","
-                        202606VS202606/SS0212/KS
-                    ",Marián Porvažník
-2020,2026-05-21,"
-                            UNIMEDIA, s.r.o.
-                    ",-3590.62,"
-                        Platba
-                    /
-                        unimedia reklamna kampan outdoor KV KE zupan 05 26
-                    ","
-                        420260421VS420260421/SS02/KS
-                    ",Marián Porvažník
-2021,2026-05-21,"
-                            UNIMEDIA, s.r.o.
-                    ",-5712.61,"
-                        Platba
-                    /
-                        unimedia reklamna kampan outdoor KV KE primator 05 26
-                    ","
-                        420260420VS420260420/SS12/KS
-                    ",Marián Porvažník
-2022,2026-05-21,"
-                            lulip s.r.o.
-                    ",-357.8,"
-                        Platba
-                    /
-                        lulip prenajom priestorov , obcerstvenie 03.05.2026 pezinok hanulik
-                    ","
-                        20260001VS20260001/SS03/KS
-                    ",Marián Porvažník
+2018,2026-05-21,Zuzana Pitková,-150.0,Platba/pitkova dj vystupenie krst knihy 7.5.2026,"20260502
+VS20260502/SS0212/KS",Marián Porvažník
+2019,2026-05-21,PPE oz,-2800.0,Platba/koncert 7.5.2026 ke zeby dobre bolo krst knihy honorar kapela,"202606
+VS202606/SS0212/KS",Marián Porvažník
+2020,2026-05-21,"UNIMEDIA, s.r.o.",-3590.62,Platba/unimedia reklamna kampan outdoor KV KE zupan 05 26,"420260421
+VS420260421/SS02/KS",Marián Porvažník
+2021,2026-05-21,"UNIMEDIA, s.r.o.",-5712.61,Platba/unimedia reklamna kampan outdoor KV KE primator 05 26,"420260420
+VS420260420/SS12/KS",Marián Porvažník
+2022,2026-05-21,lulip s.r.o.,-357.8,"Platba/lulip prenajom priestorov , obcerstvenie 03.05.2026 pezinok hanulik","20260001
+VS20260001/SS03/KS",Marián Porvažník
 2023,2026-05-21,SEDEM - vasa kreativna s. r. o.,-3045.48,Platba/SEDEM - vasa kreativna s. r. o. - tlac noviny doplatok ke,"16260017
 VS16260017/SS012/KS",Marián Porvažník
 2024,2026-05-21,HOWK s.r.o.,-307.5,Platba/howk praca fotografa v atelieri postprodukcia mudrak ke,"20260041
@@ -3323,13 +3293,7 @@ VS2621017/SS03/KS",Marián Porvažník
 2464,2026-05-02,,-0.08,Transakčná daň 30.04.2026,,František Oľha
 2465,2026-04-30,,-19.0,Poplatok za balík,,František Oľha
 2466,2026-04-01,,-0.08,Transakčná daň 31.03.2026,,František Oľha
-2467,2026-03-31,,-19.0,"
-                        Poplatok za balík
-                    /
-                        
-                    ","
-                        
-                    ",František Oľha
+2467,2026-03-31,,-19.0,Poplatok za balík,,František Oľha
 2468,2026-03-02,"
                             
                     ",-0.08,"

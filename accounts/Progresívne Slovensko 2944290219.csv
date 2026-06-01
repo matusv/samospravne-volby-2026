@@ -4,7 +4,9 @@ index,date,amount,currency,account_name,message,vs
 2,2026-05-29,25.0,EUR,Višňovský Peter,Platba/Dar,"35
 VS35/SS/KS"
 3,2026-05-28,-29.77,EUR,,Transakčná daň 27.05.2026,
-4,2026-05-27,-3407.1,EUR,"AKO, s.r.o.","
+4,2026-05-27,-3407.1,EUR,"
+                            AKO, s.r.o.
+                    ","
                         Platba
                     /
                         AKO prieskum verejnej mienky VUC Kosice 15.5-18.5.2026

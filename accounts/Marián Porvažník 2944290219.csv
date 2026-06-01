@@ -4,25 +4,92 @@ index,date,amount,currency,account_name,message,vs
 2,2026-05-29,25.0,EUR,Višňovský Peter,Platba/Dar,"35
 VS35/SS/KS"
 3,2026-05-28,-29.77,EUR,,Transakčná daň 27.05.2026,
-4,2026-05-27,-3407.1,EUR,"AKO, s.r.o.",Platba/AKO prieskum verejnej mienky VUC Kosice 15.5-18.5.2026,"332026
-VS332026/SS12/KS"
-5,2026-05-27,-4035.63,EUR,"AKO, s.r.o.",Platba/AKO prieskum verejnej mienky VUC Kosice 24.4-28.4,"272026
-VS272026/SS12/KS"
-6,2026-05-27,25.0,EUR,Kristina Gajdosova,Platba/dar,"35
-VS35/SS/KS"
-7,2026-05-27,50.0,EUR,Ivana Meszaros Skoumalova,Platba,"2
-VS2/SS/KS"
-8,2026-05-26,-16.12,EUR,,Transakčná daň 25.05.2026,
-9,2026-05-25,-1377.11,EUR,Hauerland spol. s r.o.,Platba/Hauerland merch predmety hanulik pezinok,"20260077
-VS20260077/SS03/KS"
-10,2026-05-25,-146.8,EUR,Magat Marcel,Platba/catering diskusia pezinok hanulik 21.5.2026,"2026007
-VS2026007/SS03/KS"
-11,2026-05-25,-1441.56,EUR,"Petit Press, a.s.",Platba/petitpress inzercia mybystrica reklama 28.5-29.5.2026 javorcikova bb,"2633100845
-VS2633100845/SS01/KS308"
-12,2026-05-25,-461.25,EUR,ARIES reklama s.r.o.,Platba/aries merch pero holeczy ke,"1020260050
-VS1020260050/SS08/KS308"
-13,2026-05-25,-600.0,EUR,Fotosnek s.r.o.,Platba/fotosnek foto sluzby javorcikova 05 25,"1260005
-VS1260005/SS01/KS"
+4,2026-05-27,-3407.1,EUR,"AKO, s.r.o.","Platba/
+                        AKO prieskum verejnej mienky VUC Kosice 15.5-18.5.2026
+                    ","
+                        332026VS332026/SS12/KS
+                    "
+5,2026-05-27,-4035.63,EUR,"
+                            AKO, s.r.o.
+                    ","
+                        Platba
+                    /
+                        AKO prieskum verejnej mienky VUC Kosice 24.4-28.4
+                    ","
+                        272026VS272026/SS12/KS
+                    "
+6,2026-05-27,25.0,EUR,"
+                            Kristina Gajdosova
+                    ","
+                        Platba
+                    /
+                        dar
+                    ","
+                        35VS35/SS/KS
+                    "
+7,2026-05-27,50.0,EUR,"
+                            Ivana Meszaros Skoumalova
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        2VS2/SS/KS
+                    "
+8,2026-05-26,-16.12,EUR,"
+                            
+                    ","
+                        Transakčná daň 25.05.2026
+                    /
+                        
+                    ","
+                        
+                    "
+9,2026-05-25,-1377.11,EUR,"
+                            Hauerland spol. s r.o.
+                    ","
+                        Platba
+                    /
+                        Hauerland merch predmety hanulik pezinok
+                    ","
+                        20260077VS20260077/SS03/KS
+                    "
+10,2026-05-25,-146.8,EUR,"
+                            Magat Marcel
+                    ","
+                        Platba
+                    /
+                        catering diskusia pezinok hanulik 21.5.2026
+                    ","
+                        2026007VS2026007/SS03/KS
+                    "
+11,2026-05-25,-1441.56,EUR,"
+                            Petit Press, a.s.
+                    ","
+                        Platba
+                    /
+                        petitpress inzercia mybystrica reklama 28.5-29.5.2026 javorcikova bb
+                    ","
+                        2633100845VS2633100845/SS01/KS308
+                    "
+12,2026-05-25,-461.25,EUR,"
+                            ARIES reklama s.r.o.
+                    ","
+                        Platba
+                    /
+                        aries merch pero holeczy ke
+                    ","
+                        1020260050VS1020260050/SS08/KS308
+                    "
+13,2026-05-25,-600.0,EUR,"
+                            Fotosnek s.r.o.
+                    ","
+                        Platba
+                    /
+                        fotosnek foto sluzby javorcikova 05 25
+                    ","
+                        1260005VS1260005/SS01/KS
+                    "
 14,2026-05-23,-34.04,EUR,,Transakčná daň 22.05.2026,
 15,2026-05-22,-144.49,EUR,,Transakčná daň 21.05.2026,
 16,2026-05-22,-687.06,EUR,Marmima s. r. o.,Platba/marmima sro merch predmety kampan sufliarska LM,"15126014
@@ -38,49 +105,16 @@ VS12260071/SS0212/KS"
 21,2026-05-22,-4041.03,EUR,Občianske združenie BONA FIDE,"Platba/tabacka krst knihy ke, prenajom, strazne sluzby, obcerstvenie; 07.05.2026","2026132
 VS2026132/SS0212/KS308"
 22,2026-05-21,20000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
-23,2026-05-21,-150.0,EUR,Zuzana Pitková,"
-                        Platba
-                    /
-                        pitkova dj vystupenie krst knihy 7.5.2026
-                    ","
-                        20260502VS20260502/SS0212/KS
-                    "
-24,2026-05-21,-2800.0,EUR,"
-                            PPE oz
-                    ","
-                        Platba
-                    /
-                        koncert 7.5.2026 ke zeby dobre bolo krst knihy honorar kapela
-                    ","
-                        202606VS202606/SS0212/KS
-                    "
-25,2026-05-21,-3590.62,EUR,"
-                            UNIMEDIA, s.r.o.
-                    ","
-                        Platba
-                    /
-                        unimedia reklamna kampan outdoor KV KE zupan 05 26
-                    ","
-                        420260421VS420260421/SS02/KS
-                    "
-26,2026-05-21,-5712.61,EUR,"
-                            UNIMEDIA, s.r.o.
-                    ","
-                        Platba
-                    /
-                        unimedia reklamna kampan outdoor KV KE primator 05 26
-                    ","
-                        420260420VS420260420/SS12/KS
-                    "
-27,2026-05-21,-357.8,EUR,"
-                            lulip s.r.o.
-                    ","
-                        Platba
-                    /
-                        lulip prenajom priestorov , obcerstvenie 03.05.2026 pezinok hanulik
-                    ","
-                        20260001VS20260001/SS03/KS
-                    "
+23,2026-05-21,-150.0,EUR,Zuzana Pitková,Platba/pitkova dj vystupenie krst knihy 7.5.2026,"20260502
+VS20260502/SS0212/KS"
+24,2026-05-21,-2800.0,EUR,PPE oz,Platba/koncert 7.5.2026 ke zeby dobre bolo krst knihy honorar kapela,"202606
+VS202606/SS0212/KS"
+25,2026-05-21,-3590.62,EUR,"UNIMEDIA, s.r.o.",Platba/unimedia reklamna kampan outdoor KV KE zupan 05 26,"420260421
+VS420260421/SS02/KS"
+26,2026-05-21,-5712.61,EUR,"UNIMEDIA, s.r.o.",Platba/unimedia reklamna kampan outdoor KV KE primator 05 26,"420260420
+VS420260420/SS12/KS"
+27,2026-05-21,-357.8,EUR,lulip s.r.o.,"Platba/lulip prenajom priestorov , obcerstvenie 03.05.2026 pezinok hanulik","20260001
+VS20260001/SS03/KS"
 28,2026-05-21,-1968.0,EUR,HOWK s.r.o.,Platba/howk praca fotografa v atelieri postprodukcia mudrak ke,"20260042
 VS20260042/SS02/KS308"
 29,2026-05-21,-307.5,EUR,HOWK s.r.o.,Platba/howk praca fotografa v atelieri postprodukcia mudrak ke,"20260041
