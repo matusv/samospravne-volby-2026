@@ -1,0 +1,11 @@
+index,date,amount,tx_type,account_name,message,ks,vs,ss,note
+0,2026-05-28,-1.68,Transakčná daň - bezhotovostná platba,,,,,,
+1,2026-05-28,-420.0,Okamžitá odchádzajúca Europlatba,,"prenajom konf. foyer TB komunalne v
+olby 2026",,,,prenajom konf. foyer TB komunalne volby 2026
+2,2026-05-28,400.0,Platba prevodom v rámci banky,Pirátska strana - Slovensko,komunalne volby 2026,,,,komunalne volby 2026
+3,2026-05-24,-0.7,Transakčná daň - bezhotovostná platba,,,,,,
+4,2026-05-24,-175.0,Okamžitá odchádzajúca Europlatba,,videozaznam TB,0308,2026010,,videozaznam TB
+5,2026-05-24,200.0,Platba prevodom v rámci banky,Pirátska strana - Slovensko,,,,,
+6,2026-05-19,-1.16,Transakčná daň - bezhotovostná platba,,,,,,
+7,2026-05-19,-290.28,Okamžitá odchádzajúca Europlatba,,Piratska strana - Slovensko,0308,202605004,,Potlač komatex panelov
+8,2026-05-19,300.0,Platba prevodom v rámci banky,Pirátska strana - Slovensko,,,,,

@@ -1,0 +1,12 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,,2026-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,Websupport s.r.o.,2026-05-20,-12.18,EUR,"Za dodané služby, doména trencin2026plus.sk",Okamžitá platba (elektronicky),1026177184.0,3.0
+2,,2026-04-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+3,,2026-03-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+4,,2026-02-28,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+5,Websupport s.r.o.,2026-02-24,-20.79,EUR,"Za dodané služby, doména janforgac.sk",Okamžitá platba (elektronicky),102641649.0,2.0
+6,"ISPA, spol. s r.o.",2026-02-13,-617.46,EUR,"Zálohová platba za poskytnutie reklamného priestoru 202504951 za obdobie 1.8.2026 až 31.10.2026, billboard 301011703, výroba a tlač.",Okamžitá platba (elektronicky),26950053.0,1.0
+7,Forgáč Ján,2026-02-11,300.0,EUR,"Mgr. Ján Fogáč, Partizánska 7859/50A, 91101 Trenčín, prispevok",Prijatá SEPA platba,,
+8,Forgáč Ján,2026-02-01,500.0,EUR,"Mgr. Ján Fogáč, Partizánska 7859/50A, 91101 Trenčín, prispevok",Prijatá SEPA platba,,
+9,,2026-01-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+10,,2026-01-31,-0.45,EUR,Poplatok za vedenie účtu,Poplatok,,

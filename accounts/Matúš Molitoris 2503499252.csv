@@ -1,0 +1,20 @@
+index,date,amount,tx_type,account_name,message,ks,vs,ss,note
+0,2026-05-28,10.0,Okamžitá prichádzajúca Europlatba,Franko Boris,"Mesto s ľuďmi -  držím palce, Podpora kandidatury",,,,Franko Boris
+1,2026-05-28,10.0,Okamžitá prichádzajúca Europlatba,"Sedláček Jakub, Ing.",Mesto s ľudmi - podpora kandidatúry,,,,"Sedláček Jakub, Ing."
+2,2026-05-24,-583.22,Okamžitá odchádzajúca Europlatba,,5505360 ASK12288651,,,,
+3,2026-05-22,200.0,Okamžitá prichádzajúca Europlatba,Slavomir Lamper,nech sa podari,,,,Slavomir Lamper
+4,2026-05-22,100.0,Okamžitá prichádzajúca Europlatba,Jozef Slivka,"Drzime palce, Podpora kandidatury",,,,Jozef Slivka
+5,2026-05-21,50.0,Okamžitá prichádzajúca Europlatba,Daniel Hederer,"Mesto s ludmi - drzim palce, Podpora kandidatury",,,,Daniel Hederer
+6,2026-05-21,30.0,Okamžitá prichádzajúca Europlatba,Matej Ruttkay,"Mesto s ludmi, ?/VS/SS/KS",,,,Matej Ruttkay
+7,2026-05-21,10.0,Okamžitá prichádzajúca Europlatba,"Tornyos Tomáš, Ing.","Mesto s ľuďmi -  držím palce, Podpora kandidatury",,,,"Tornyos Tomáš, Ing."
+8,2026-05-21,10.0,Okamžitá prichádzajúca Europlatba,IMPRESA,"Mesto s ludmi - drzim palce, Podpora kandidatury",,,,IMPRESA
+9,2026-05-19,10.0,Okamžitá prichádzajúca Europlatba,Martin Tišťan,"Mesto s ludmi - drzim palce Tisto, Podpora kandidatury",,,,Martin Tišťan
+10,2026-05-14,1000.0,Okamžitá prichádzajúca Europlatba,EcoPlan 11 s.r.o.,,,,,EcoPlan 11 s.r.o.
+11,2026-05-14,100.0,Bezhotovostný príjem,"Molitóris Vladimír,",?/DO2026-05-13/SPPodpora kandidáta na primátora,0558,260513,,"Molitóris Vladimír,"
+12,2026-05-13,100.0,Okamžitá prichádzajúca Europlatba,"Šelestiaková Júlia,",,,,,"Šelestiaková Júlia,"
+13,2026-05-12,10.0,Okamžitá prichádzajúca Europlatba,Andrea Mydlová,Andrea Mydlova,,,,Andrea Mydlová
+14,2026-05-12,10.0,Okamžitá prichádzajúca Europlatba,Janštová Dominika,,,,,Janštová Dominika
+15,2026-05-12,20.0,Okamžitá prichádzajúca Europlatba,Michaela Cabova,Coskoro p. Primator Molitoris,,,,Michaela Cabova
+16,2026-05-12,1.0,Okamžitá prichádzajúca Europlatba,Eliaš Dominik,Na politiku sa vykašli. Kúp si radšej kopček zmrzliny.,,,,Eliaš Dominik
+17,2026-05-12,10.0,Okamžitá prichádzajúca Europlatba,Veronika Sentinekova,,,,,Veronika Sentinekova
+18,2026-05-06,10.0,Okamžitá prichádzajúca Europlatba,"Molitoris Matúš, Mgr",,,,,"Molitoris Matúš, Mgr"
