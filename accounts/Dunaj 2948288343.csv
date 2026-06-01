@@ -35,11 +35,31 @@ VS1226203012/SS/KS308"
 VS264089/SS/KS"
 23,2026-04-21,1000.0,EUR,Dunaj,Platba/Presun prostriedkov,
 24,2026-04-17,-4.57,EUR,,Transakčná daň 16.04.2026,
-25,2026-04-16,-492.0,EUR,Bittner print s.r.o.,Platba/CTL 100 ks tlac,"1020261425
-VS1020261425/SS/KS308"
-26,2026-04-16,-649.44,EUR,"BigMedia, spol. s r.o.",Platba/CLV 6 ks,"1226201661
-VS1226201661/SS/KS308"
-27,2026-04-16,1500.0,EUR,Dunaj,Platba/Presun prostriedkov,
+25,2026-04-16,-492.0,EUR,Bittner print s.r.o.,"
+                        Platba
+                    /
+                        CTL 100 ks tlac
+                    ","
+                        1020261425VS1020261425/SS/KS308
+                    "
+26,2026-04-16,-649.44,EUR,"
+                            BigMedia, spol. s r.o.
+                    ","
+                        Platba
+                    /
+                        CLV 6 ks
+                    ","
+                        1226201661VS1226201661/SS/KS308
+                    "
+27,2026-04-16,1500.0,EUR,"
+                            Dunaj
+                    ","
+                        Platba
+                    /
+                        Presun prostriedkov
+                    ","
+                        
+                    "
 28,2026-04-07,-6.07,EUR,,Transakčná daň 04.04.2026,
 29,2026-04-04,-1516.79,EUR,Skip Ad s. r. o.,Platba/Inzercia regionoress,"20260002
 VS20260002/SS/KS308"
