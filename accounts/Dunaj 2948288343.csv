@@ -6,20 +6,87 @@ VS16120020/SS/KS"
 3,2026-05-26,-170.97,EUR,"NUBIUM, s. r. o.",Platba/Prenajom reklamnej plochy a tlac,"2610003051
 VS2610003051/SS/KS"
 4,2026-05-26,1000.0,EUR,Dunaj,Platba/Presun prostriedkov,
-5,2026-05-16,-10.7,EUR,,Transakčná daň 15.05.2026,
-6,2026-05-15,-649.44,EUR,"BigMedia, spol. s r.o.",Platba/CLV 6ks,"1226203023
-VS1226203023/SS/KS308"
-7,2026-05-15,-1516.79,EUR,Skip Ad s. r. o.,Platba/Reklamne a propagacne sluzby,"20260005
-VS20260005/SS/KS"
-8,2026-05-15,-266.48,EUR,Skip Ad s. r. o.,Platba/Rollupy a magnetky,"20260003
-VS20260003/SS/KS"
-9,2026-05-15,-240.4,EUR,Skip Ad s. r. o.,Platba/Prevadzkaren 2xstan,"2026004
-VS2026004/SS/KS"
-10,2026-05-15,2500.0,EUR,Dunaj,Platba/Presun prostriedkov,
-11,2026-04-30,-0.0,EUR,,Poplatok za balík,
-12,2026-04-29,-9.91,EUR,,Transakčná daň 28.04.2026,
-13,2026-04-28,-403.44,EUR,"NUBIUM, s. r. o.",Platba/Prenajom reklamnych ploch,"16120011
-VS16120011/SS/KS"
+5,2026-05-16,-10.7,EUR,"
+                            
+                    ","
+                        Transakčná daň 15.05.2026
+                    /
+                        
+                    ","
+                        
+                    "
+6,2026-05-15,-649.44,EUR,"
+                            BigMedia, spol. s r.o.
+                    ","
+                        Platba
+                    /
+                        CLV 6ks
+                    ","
+                        1226203023VS1226203023/SS/KS308
+                    "
+7,2026-05-15,-1516.79,EUR,"
+                            Skip Ad s. r. o.
+                    ","
+                        Platba
+                    /
+                        Reklamne a propagacne sluzby
+                    ","
+                        20260005VS20260005/SS/KS
+                    "
+8,2026-05-15,-266.48,EUR,"
+                            Skip Ad s. r. o.
+                    ","
+                        Platba
+                    /
+                        Rollupy a magnetky
+                    ","
+                        20260003VS20260003/SS/KS
+                    "
+9,2026-05-15,-240.4,EUR,"
+                            Skip Ad s. r. o.
+                    ","
+                        Platba
+                    /
+                        Prevadzkaren 2xstan
+                    ","
+                        2026004VS2026004/SS/KS
+                    "
+10,2026-05-15,2500.0,EUR,"
+                            Dunaj
+                    ","
+                        Platba
+                    /
+                        Presun prostriedkov
+                    ","
+                        
+                    "
+11,2026-04-30,-0.0,EUR,"
+                            
+                    ","
+                        Poplatok za balík
+                    /
+                        
+                    ","
+                        
+                    "
+12,2026-04-29,-9.91,EUR,"
+                            
+                    ","
+                        Transakčná daň 28.04.2026
+                    /
+                        
+                    ","
+                        
+                    "
+13,2026-04-28,-403.44,EUR,"
+                            NUBIUM, s. r. o.
+                    ","
+                        Platba
+                    /
+                        Prenajom reklamnych ploch
+                    ","
+                        16120011VS16120011/SS/KS
+                    "
 14,2026-04-28,-2075.63,EUR,ARTON s.r.o.,Platba/Prenajom ploch 7-10/2026,"260155
 VS260155/SS/KS"
 15,2026-04-28,3000.0,EUR,Dunaj,Platba/Presun prostriedkov,
@@ -44,105 +111,21 @@ VS1226201661/SS/KS308"
 29,2026-04-04,-1516.79,EUR,Skip Ad s. r. o.,Platba/Inzercia regionoress,"20260002
 VS20260002/SS/KS308"
 30,2026-04-04,1600.0,EUR,Dunaj,Platba/Prevod prostriedkov,
-31,2026-03-31,-0.0,EUR,"
-                            
-                    ","
-                        Poplatok za balík
-                    /
-                        
-                    ","
-                        
-                    "
-32,2026-03-31,-2.16,EUR,"
-                            
-                    ","
-                        Transakčná daň 30.03.2026
-                    /
-                        
-                    ","
-                        
-                    "
-33,2026-03-30,-541.2,EUR,"
-                            BigMedia, spol. s r.o.
-                    ","
-                        Platba
-                    /
-                        Outdoor reklama 3/2026
-                    ","
-                        1226201654VS1226201654/SS/KS
-                    "
-34,2026-03-30,100.0,EUR,"
-                            Dunaj
-                    ","
-                        Platba
-                    /
-                        Prevod prostriedkov
-                    ","
-                        
-                    "
-35,2026-03-25,-3.3,EUR,"
-                            
-                    ","
-                        Transakčná daň 24.03.2026
-                    /
-                        
-                    ","
-                        
-                    "
-36,2026-03-24,-55.35,EUR,"
-                            ARTON s.r.o.
-                    ","
-                        Platba
-                    /
-                        tlac plagatov 3 ks
-                    ","
-                        260098VS260098/SS/KS
-                    "
-37,2026-03-24,-768.75,EUR,"
-                            ARTON s.r.o.
-                    ","
-                        Platba
-                    /
-                        Prenajom reklamneho priestoru 4-6/2026
-                    ","
-                        260097VS260097/SS/KS
-                    "
-38,2026-03-24,300.0,EUR,"
-                            Dunaj
-                    ","
-                        Platba
-                    /
-                        Prevod prostriedkov
-                    ","
-                        
-                    "
-39,2026-03-09,-5.27,EUR,"
-                            
-                    ","
-                        Transakčná daň 07.03.2026
-                    /
-                        
-                    ","
-                        
-                    "
-40,2026-03-07,-1318.56,EUR,"
-                            Regionpress
-                    ","
-                        Platba
-                    /
-                        Inzercia bratislavsko
-                    ","
-                        914260006VS914260006/SS/KS
-                    "
-41,2026-03-07,1000.0,EUR,"
-                            Dunaj
-                    ","
-                        Platba
-                    /
-                        Prevod prostriedkov na kampan komunal
-                    ","
-                        
-                    "
+31,2026-03-31,-0.0,EUR,,Poplatok za balík,
+32,2026-03-31,-2.16,EUR,,Transakčná daň 30.03.2026,
+33,2026-03-30,-541.2,EUR,"BigMedia, spol. s r.o.",Platba/Outdoor reklama 3/2026,"1226201654
+VS1226201654/SS/KS"
+34,2026-03-30,100.0,EUR,Dunaj,Platba/Prevod prostriedkov,
+35,2026-03-25,-3.3,EUR,,Transakčná daň 24.03.2026,
+36,2026-03-24,-55.35,EUR,ARTON s.r.o.,Platba/tlac plagatov 3 ks,"260098
+VS260098/SS/KS"
+37,2026-03-24,-768.75,EUR,ARTON s.r.o.,Platba/Prenajom reklamneho priestoru 4-6/2026,"260097
+VS260097/SS/KS"
+38,2026-03-24,300.0,EUR,Dunaj,Platba/Prevod prostriedkov,
+39,2026-03-09,-5.27,EUR,,Transakčná daň 07.03.2026,
+40,2026-03-07,-1318.56,EUR,Regionpress,Platba/Inzercia bratislavsko,"914260006
+VS914260006/SS/KS"
+41,2026-03-07,1000.0,EUR,Dunaj,Platba/Prevod prostriedkov na kampan komunal,
 42,2026-03-02,-0.33,EUR,,Transakčná daň 28.02.2026,
 43,2026-02-28,-0.0,EUR,,Poplatok za balík,
 44,2026-02-28,-82.0,EUR,Garaz centrum Bratislava,Platba/Vyroba reklamneho plagatu,"20260097
