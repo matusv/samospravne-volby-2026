@@ -1,6 +1,8 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2026-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-1,,2026-05-31,-3.84,EUR,Poplatok za vedenie účtu,Poplatok,,
-2,,2026-05-31,-10.0,EUR,"Vydanie a doručenie Platobnej karty,2114,5,Karta č. 4544 12** **** 9784Poplatok za vydanie a doručenie Platobnej karty",Kartový poplatok,,
-3,"Šimko Igor, Ing., PhD.",2026-05-17,2000.0,EUR,Podpora kampane z vlastnych zdrojov,Prijatá Okamžitá platba,,
-4,"Šimko Igor, Ing., PhD.",2026-05-15,3000.0,EUR,Podpora kampane z vlastnych zdrojov,Prijatá Okamžitá platba,,
+0,KPK Print s.r.o.,2026-06-02,-2230.64,EUR,Reklamne predmety a materialy,SEPA platba (elektronicky),92605182.0,
+1,"ROTAPRINT, spol. s r.o., Kosice",2026-06-02,-1697.4,EUR,Platba za letaky,Okamžitá platba (elektronicky),26010440.0,
+2,,2026-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+3,,2026-05-31,-3.84,EUR,Poplatok za vedenie účtu,Poplatok,,
+4,,2026-05-31,-10.0,EUR,"Vydanie a doručenie Platobnej karty,2114,5,Karta č. 4544 12** **** 9784Poplatok za vydanie a doručenie Platobnej karty",Kartový poplatok,,
+5,"Šimko Igor, Ing., PhD.",2026-05-17,2000.0,EUR,Podpora kampane z vlastnych zdrojov,Prijatá Okamžitá platba,,
+6,"Šimko Igor, Ing., PhD.",2026-05-15,3000.0,EUR,Podpora kampane z vlastnych zdrojov,Prijatá Okamžitá platba,,
