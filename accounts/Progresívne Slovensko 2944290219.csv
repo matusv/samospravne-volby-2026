@@ -9,20 +9,85 @@ VS15/SS/KS"
 VS1/SS/KS"
 4,2026-06-01,50.0,EUR,Ludmila Moravcikova,Platba,"1
 VS1/SS/KS"
-5,2026-06-01,-0.12,EUR,,Transakčná daň 30.05.2026,
-6,2026-05-30,-29.92,EUR,,Poplatky za transakcie,
-7,2026-05-30,-0.0,EUR,,Poplatok za balík,
-8,2026-05-29,25.0,EUR,Višňovský Peter,Platba/Dar,"35
-VS35/SS/KS"
-9,2026-05-28,-29.77,EUR,,Transakčná daň 27.05.2026,
-10,2026-05-27,-3407.1,EUR,"AKO, s.r.o.",Platba/AKO prieskum verejnej mienky VUC Kosice 15.5-18.5.2026,"332026
-VS332026/SS12/KS"
-11,2026-05-27,-4035.63,EUR,"AKO, s.r.o.",Platba/AKO prieskum verejnej mienky VUC Kosice 24.4-28.4,"272026
-VS272026/SS12/KS"
-12,2026-05-27,25.0,EUR,Kristina Gajdosova,Platba/dar,"35
-VS35/SS/KS"
-13,2026-05-27,50.0,EUR,Ivana Meszaros Skoumalova,Platba,"2
-VS2/SS/KS"
+5,2026-06-01,-0.12,EUR,,"
+                        Transakčná daň 30.05.2026
+                    /
+                        
+                    ","
+                        
+                    "
+6,2026-05-30,-29.92,EUR,"
+                            
+                    ","
+                        Poplatky za transakcie
+                    /
+                        
+                    ","
+                        
+                    "
+7,2026-05-30,-0.0,EUR,"
+                            
+                    ","
+                        Poplatok za balík
+                    /
+                        
+                    ","
+                        
+                    "
+8,2026-05-29,25.0,EUR,"
+                            Višňovský Peter
+                    ","
+                        Platba
+                    /
+                        Dar
+                    ","
+                        35VS35/SS/KS
+                    "
+9,2026-05-28,-29.77,EUR,"
+                            
+                    ","
+                        Transakčná daň 27.05.2026
+                    /
+                        
+                    ","
+                        
+                    "
+10,2026-05-27,-3407.1,EUR,"
+                            AKO, s.r.o.
+                    ","
+                        Platba
+                    /
+                        AKO prieskum verejnej mienky VUC Kosice 15.5-18.5.2026
+                    ","
+                        332026VS332026/SS12/KS
+                    "
+11,2026-05-27,-4035.63,EUR,"
+                            AKO, s.r.o.
+                    ","
+                        Platba
+                    /
+                        AKO prieskum verejnej mienky VUC Kosice 24.4-28.4
+                    ","
+                        272026VS272026/SS12/KS
+                    "
+12,2026-05-27,25.0,EUR,"
+                            Kristina Gajdosova
+                    ","
+                        Platba
+                    /
+                        dar
+                    ","
+                        35VS35/SS/KS
+                    "
+13,2026-05-27,50.0,EUR,"
+                            Ivana Meszaros Skoumalova
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        2VS2/SS/KS
+                    "
 14,2026-05-26,-16.12,EUR,,Transakčná daň 25.05.2026,
 15,2026-05-25,-1377.11,EUR,Hauerland spol. s r.o.,Platba/Hauerland merch predmety hanulik pezinok,"20260077
 VS20260077/SS03/KS"
@@ -35,69 +100,19 @@ VS1020260050/SS08/KS308"
 19,2026-05-25,-600.0,EUR,Fotosnek s.r.o.,Platba/fotosnek foto sluzby javorcikova 05 25,"1260005
 VS1260005/SS01/KS"
 20,2026-05-23,-34.04,EUR,,Transakčná daň 22.05.2026,
-21,2026-05-22,-144.49,EUR,"
-                            
-                    ","
-                        Transakčná daň 21.05.2026
-                    /
-                        
-                    ","
-                        
-                    "
-22,2026-05-22,-687.06,EUR,"
-                            Marmima s. r. o.
-                    ","
-                        Platba
-                    /
-                        marmima sro merch predmety kampan sufliarska LM
-                    ","
-                        15126014VS15126014/SS04/KS8
-                    "
-23,2026-05-22,-762.6,EUR,"
-                            Pandan, s. r. o.
-                    ","
-                        Platba
-                    /
-                        pandan tlac letaky, rollup, banner benesova
-                    ","
-                        202605040VS202605040/SS05/KS
-                    "
-24,2026-05-22,-615.0,EUR,"
-                            Ondreáš Juraj
-                    ","
-                        Platba
-                    /
-                        +421 design studio ondreas graficke prace kampan sufliarska 04 26
-                    ","
-                        20260010VS20260010/SS04/KS
-                    "
-25,2026-05-22,-1722.0,EUR,"
-                            UNIMEDIA, s.r.o.
-                    ","
-                        Platba
-                    /
-                        unimedia reklamna kampan outdoor KV kraje 05 26
-                    ","
-                        420260422VS420260422/SS/KS
-                    "
-26,2026-05-22,-683.51,EUR,"
-                            SEDEM - vasa kreativna s. r. o.
-                    ","
-                        Platba
-                    /
-                        SEDEM - vasa kreativna sro tlac rollupy ke
-                    ","
-                        12260071VS12260071/SS0212/KS
-                    "
-27,2026-05-22,-4041.03,EUR,"
-                            Občianske združenie BONA FIDE
-                    ","
-                        Platba
-                    /
-                        tabacka krst knihy  ke, prenajom, strazne sluzby, obcerstvenie; 07.05.2026
-                    ","
-                        2026132VS2026132/SS0212/KS308
-                    "
+21,2026-05-22,-144.49,EUR,,Transakčná daň 21.05.2026,
+22,2026-05-22,-687.06,EUR,Marmima s. r. o.,Platba/marmima sro merch predmety kampan sufliarska LM,"15126014
+VS15126014/SS04/KS8"
+23,2026-05-22,-762.6,EUR,"Pandan, s. r. o.","Platba/pandan tlac letaky, rollup, banner benesova","202605040
+VS202605040/SS05/KS"
+24,2026-05-22,-615.0,EUR,Ondreáš Juraj,Platba/+421 design studio ondreas graficke prace kampan sufliarska 04 26,"20260010
+VS20260010/SS04/KS"
+25,2026-05-22,-1722.0,EUR,"UNIMEDIA, s.r.o.",Platba/unimedia reklamna kampan outdoor KV kraje 05 26,"420260422
+VS420260422/SS/KS"
+26,2026-05-22,-683.51,EUR,SEDEM - vasa kreativna s. r. o.,Platba/SEDEM - vasa kreativna sro tlac rollupy ke,"12260071
+VS12260071/SS0212/KS"
+27,2026-05-22,-4041.03,EUR,Občianske združenie BONA FIDE,"Platba/tabacka krst knihy ke, prenajom, strazne sluzby, obcerstvenie; 07.05.2026","2026132
+VS2026132/SS0212/KS308"
 28,2026-05-21,20000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
 29,2026-05-21,-150.0,EUR,Zuzana Pitková,Platba/pitkova dj vystupenie krst knihy 7.5.2026,"20260502
 VS20260502/SS0212/KS"
