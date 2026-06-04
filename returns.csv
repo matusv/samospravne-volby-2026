@@ -1,8 +1,8 @@
 index,index,date,amount,account_name,message,vs,name
 0,31,2026-04-17,-0.01,Ivan Rostas,Mylná platba,,Kresťanskodemokratické hnutie
 1,32,2026-04-15,0.01,Ivan Rostas,SK73 0200 0000 0045 5336 2157 . dakujem,,Kresťanskodemokratické hnutie
-2,126,2026-04-30,-25.0,Stanislav Dubovsky,Platba/vratenie daru stanislav dubovsky,,Progresívne Slovensko
-3,174,2026-04-15,25.0,Stanislav Dubovsky,PLATBA/Dar,"35
+2,127,2026-04-30,-25.0,Stanislav Dubovsky,Platba/vratenie daru stanislav dubovsky,,Progresívne Slovensko
+3,175,2026-04-15,25.0,Stanislav Dubovsky,PLATBA/Dar,"35
 VS35/SS/KS",Progresívne Slovensko
 4,154,2024-05-29,-900.0,Juraj Podracky,"Platba/mylna platba, vratenie",,Demokrati
 5,155,2024-05-29,900.0,Juraj Podracky,Platba,,Demokrati
@@ -16,10 +16,10 @@ VS35/SS/KS",Progresívne Slovensko
 13,362,2024-04-04,20.0,MONSOWILO,Platba PO24040480812690/Dar Komoca,,Demokrati
 14,29,2025-04-05,-5.0,Kuzmanová Anna,Platba/vratenie neopravneneho daru,,Demokrati
 15,242,2024-05-09,5.0,Kuzmanová Anna,Platba/dar Vricko,,Demokrati
-16,119,2026-04-20,-2000.0,"Cicman Dalibor, Ing.",Vrateny dar,,Team Bratislava
-17,120,2026-04-15,2000.0,"Cicman Dalibor, Ing.",dar,20263164.0,Team Bratislava
-18,96,2026-05-06,-1670.0,Lukas Krajcik - Digital stories,Tvorba webu,2026023.0,Team Bratislava
-19,74,2026-05-14,1670.0,Lukáš Krajčík - Digital stories,Vratenie platby,,Team Bratislava
+16,166,2026-04-20,-2000.0,"Cicman Dalibor, Ing.",Vrateny dar,,Team Bratislava
+17,167,2026-04-15,2000.0,"Cicman Dalibor, Ing.",dar,20263164.0,Team Bratislava
+18,143,2026-05-06,-1670.0,Lukas Krajcik - Digital stories,Tvorba webu,2026023.0,Team Bratislava
+19,121,2026-05-14,1670.0,Lukáš Krajčík - Digital stories,Vratenie platby,,Team Bratislava
 20,126,2022-11-12,-1000.0,Alexej Hanko,neoprávnená platba Hanko Alexej,,Jaroslav Polaček
 21,132,2022-10-28,1000.0,Alexej Hanko,F001281020221809151,,Jaroslav Polaček
 22,127,2022-11-12,-1500.0,Majernik Karol,neoprávnená platba Majernik Karol,,Jaroslav Polaček
