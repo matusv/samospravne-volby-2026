@@ -4,7 +4,9 @@ index,date,amount,currency,account_name,message,vs
 2,2026-05-02,-0.08,EUR,,Transakčná daň 30.04.2026,
 3,2026-04-30,-19.0,EUR,,Poplatok za balík,
 4,2026-04-01,-0.08,EUR,,Transakčná daň 31.03.2026,
-5,2026-03-31,-19.0,EUR,,"
+5,2026-03-31,-19.0,EUR,"
+                            
+                    ","
                         Poplatok za balík
                     /
                         

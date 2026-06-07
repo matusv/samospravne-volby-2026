@@ -1,16 +1,17 @@
 index,date,amount,currency,account_name,message,vs
-0,2026-05-31,-10.0,EUR,,"Za vedenie účtu, výpisy a transakcie, od 30.04.2026 do 31.05.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 7 x prijaté platby: 0,00, 3 x debet - elektronicky: 0,00",
-1,2026-05-29,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA CLASSIC DEB. CL Suma: 3 EUR 28.05.2026","VS: 495000148
+0,2026-06-05,20.0,EUR,KUNIK ROBERT,"Prijatá platba, /DO2026-06-05/SPdar",
+1,2026-05-31,-10.0,EUR,,"Za vedenie účtu, výpisy a transakcie, od 30.04.2026 do 31.05.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 7 x prijaté platby: 0,00, 3 x debet - elektronicky: 0,00",
+2,2026-05-29,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA CLASSIC DEB. CL Suma: 3 EUR 28.05.2026","VS: 495000148
 ŠS: 1139269320
 KS: 6898"
-2,2026-05-28,-44.13,EUR,,"Odoslaná okamžitá platba, Web hosting","VS: 1026186001
+3,2026-05-28,-44.13,EUR,,"Odoslaná okamžitá platba, Web hosting","VS: 1026186001
 KS: 0308"
-3,2026-05-12,-1000.0,EUR,,"Odoslaná okamžitá platba, Fotoprodukcia",
-4,2026-05-04,-14077.35,EUR,,"Odoslaná okamžitá platba, ",
-5,2026-05-04,3000.0,EUR,MAROS MIKUS,"Prijatá platba, Maros Mikus prispevok na kampan",
-6,2026-05-03,5000.0,EUR,"Svítok Juraj, JUDr.","Prijatá platba, ",
-7,2026-05-03,1000.0,EUR,Maros Mikus,"Prijatá platba, Maros Mikus prispevok na kampan",
-8,2026-05-02,3000.0,EUR,Maros Mikus,"Prijatá platba, Maros Mikus prispevok na kampan",
-9,2026-05-01,3000.0,EUR,Maros Mikus,"Prijatá platba, Maros Mikus prispevok na kampan",
-10,2026-04-30,3000.0,EUR,Maros Mikus,"Prijatá platba, Maros Mikus prispevok na kampan",
-11,2026-04-30,5000.0,EUR,Huba Radovan,"Prijatá platba, ",
+4,2026-05-12,-1000.0,EUR,,"Odoslaná okamžitá platba, Fotoprodukcia",
+5,2026-05-04,-14077.35,EUR,,"Odoslaná okamžitá platba, ",
+6,2026-05-04,3000.0,EUR,MAROS MIKUS,"Prijatá platba, Maros Mikus prispevok na kampan",
+7,2026-05-03,5000.0,EUR,"Svítok Juraj, JUDr.","Prijatá platba, ",
+8,2026-05-03,1000.0,EUR,Maros Mikus,"Prijatá platba, Maros Mikus prispevok na kampan",
+9,2026-05-02,3000.0,EUR,Maros Mikus,"Prijatá platba, Maros Mikus prispevok na kampan",
+10,2026-05-01,3000.0,EUR,Maros Mikus,"Prijatá platba, Maros Mikus prispevok na kampan",
+11,2026-04-30,3000.0,EUR,Maros Mikus,"Prijatá platba, Maros Mikus prispevok na kampan",
+12,2026-04-30,5000.0,EUR,Huba Radovan,"Prijatá platba, ",
