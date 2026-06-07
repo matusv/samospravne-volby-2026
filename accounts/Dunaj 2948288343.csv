@@ -3,13 +3,8 @@ index,date,amount,currency,account_name,message,vs
 VS2026336/SS/KS"
 1,2026-06-05,-379.2,EUR,Skip Ad s. r. o.,Platba/Inzercia,"20260007
 VS20260007/SS/KS"
-2,2026-06-05,-346.86,EUR,"NUBIUM, s. r. o.","
-                        Platba
-                    /
-                        Prenajom ploch a tlac
-                    ","
-                        2610003052VS2610003052/SS/KS
-                    "
+2,2026-06-05,-346.86,EUR,"NUBIUM, s. r. o.",Platba/Prenajom ploch a tlac,"2610003052
+VS2610003052/SS/KS"
 3,2026-06-05,-649.44,EUR,"
                             BigMedia, spol. s r.o.
                     ","

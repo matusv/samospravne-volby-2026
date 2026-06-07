@@ -1,4 +1,5 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2026-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-1,,2026-05-31,-2.15,EUR,Poplatok za vedenie účtu,Poplatok,,
-2,Adam Ustupsky,2026-05-18,10.0,EUR,F001180520266089170,Prijatá SEPA platba,,
+0,"Fiabáne Peter, Mgr.",2026-06-07,10000.0,EUR,financie na kampan,Prijatá Okamžitá platba,,
+1,,2026-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+2,,2026-05-31,-2.15,EUR,Poplatok za vedenie účtu,Poplatok,,
+3,Adam Ustupsky,2026-05-18,10.0,EUR,F001180520266089170,Prijatá SEPA platba,,
