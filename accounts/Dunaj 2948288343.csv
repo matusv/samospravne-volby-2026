@@ -3,9 +3,20 @@ index,date,amount,currency,account_name,message,vs
 1,2026-06-06,-1623.95,EUR,Skip Ad s. r. o.,Platba/Inzercia,"20260009
 VS20260009/SS/KS"
 2,2026-06-06,1000.0,EUR,Dunaj,Platba/Prevod prostriedkov,
-3,2026-06-05,-1360.26,EUR,"Fibra print, s.r.o.","Platba/Tlacoviny, nalepky, brozury, letaky","2026336
-VS2026336/SS/KS"
-4,2026-06-05,-379.2,EUR,Skip Ad s. r. o.,Platba/Inzercia,"
+3,2026-06-05,-1360.26,EUR,"Fibra print, s.r.o.","
+                        Platba
+                    /
+                        Tlacoviny, nalepky, brozury, letaky
+                    ","
+                        2026336VS2026336/SS/KS
+                    "
+4,2026-06-05,-379.2,EUR,"
+                            Skip Ad s. r. o.
+                    ","
+                        Platba
+                    /
+                        Inzercia
+                    ","
                         20260007VS20260007/SS/KS
                     "
 5,2026-06-05,-346.86,EUR,"

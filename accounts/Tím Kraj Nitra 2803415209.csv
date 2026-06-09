@@ -1,4 +1,7 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2026-05-25,-2.0,Transakčná daň - použitie platobnej karty,,,,6248,,
-1,2026-05-25,-42.8,Transakcia kartou,,"Nákup: WWW.WEBSUPPORT.SK, WWW.WEBSUPPOR, SK, dne 24.5.2026, částka  42.80 EUR",,6248,,"Nákup: WWW.WEBSUPPORT.SK, WWW.WEBSUPPOR, SK, dne 24.5.2026, částka  42.80 EUR"
-2,2026-05-23,1000.0,Platba prevodom v rámci banky,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho,prevod z hlavného účtu,,,,prevod z hlavného účtu
+0,2026-06-09,-1.38,Transakčná daň - bezhotovostná platba,,,,,,
+1,2026-06-09,-344.4,Okamžitá odchádzajúca Europlatba,,"euroAWK, spol. s r.o. - CLV kampanH
+attas",0308,263311,,"euroAWK, spol. s r.o. - CLV kampaň Hattas - TKN NR"
+2,2026-05-25,-2.0,Transakčná daň - použitie platobnej karty,,,,6248,,
+3,2026-05-25,-42.8,Transakcia kartou,,"Nákup: WWW.WEBSUPPORT.SK, WWW.WEBSUPPOR, SK, dne 24.5.2026, částka  42.80 EUR",,6248,,"Nákup: WWW.WEBSUPPORT.SK, WWW.WEBSUPPOR, SK, dne 24.5.2026, částka  42.80 EUR"
+4,2026-05-23,1000.0,Platba prevodom v rámci banky,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho,prevod z hlavného účtu,,,,prevod z hlavného účtu
