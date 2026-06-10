@@ -1,667 +1,683 @@
 index,date,amount,currency,account_name,message,vs
-0,2026-06-06,-3.92,EUR,,Transakčná daň 05.06.2026,
-1,2026-06-05,-78.53,EUR,,Transakčná daň 04.06.2026,
-2,2026-06-05,-479.7,EUR,More Design s. r. o.,Platba/More Design s.r.o. vyvoj webu KSK KE Porvaznik 04/2026,"202616
-VS202616/SS12/KS"
-3,2026-06-05,-500.0,EUR,Mesto Gelnica,Platba/Mesto Gelnica - prenajom plochy na promo knihy KSK KE Porvaznik 22.5.2026,"9919600275
-VS9919600275/SS12/KS"
-4,2026-06-04,10.0,EUR,"Futáková Janka, Mgr.","
+0,2026-06-08,-169.2,EUR,swallows project s.r.o.,Platba/swallows project - podpora kampane malovanie - Ke Mudrak 06/2026,"10120394
+VS10120394/SS02/KS"
+1,2026-06-08,-750.0,EUR,CyberSoft s.r.o.,Platba/CyberSoft - prenajom reklamnych ploch - KSK KE porvaznik 06-08/2026,"26060101
+VS26060101/SS12/KS"
+2,2026-06-08,-1500.0,EUR,Mgr. Martina Bartekova,Platba/bartekova manazment kampane bb javorcikova 05 26,"2026003
+VS2026003/SS01/KS308"
+3,2026-06-08,-1205.4,EUR,Multiprint s.r.o.,"Platba/Multiprint - tlac a spracovanie letaky, nalepky - Ke Mudrak 05/2026","20260178
+VS20260178/SS02/KS308"
+4,2026-06-08,-1033.2,EUR,More Design s. r. o.,Platba/More Design s.r.o.: dizajn pre KE Mudrak 04/2026,"202617
+VS202617/SS02/KS"
+5,2026-06-08,-3000.0,EUR,"
+                            Andrea Nina Gašparovičová
+                    ","
                         Platba
                     /
-                        
+                        gasparovicova Manazment kampane ke Mudrak 05/2026
                     ","
-                        1VS1/SS/KS
+                        2026006VS2026006/SS02/KS
                     "
-5,2026-06-04,-39.13,EUR,"
+6,2026-06-08,-88.56,EUR,"
+                            Multiprint s.r.o.
+                    ","
+                        Platba
+                    /
+                        Multiprint - tlac letakov - Vysne Opatske - Lucia Rafaj Becova 05/2026
+                    ","
+                        20260180VS20260180/SS/KS308
+                    "
+7,2026-06-08,-80.0,EUR,"
+                            Mesto Kosice
+                    ","
+                        Platba
+                    /
+                        spravny poplatok k propagacii knihy porvaznik ke 25.5.2026
+                    ","
+                        3451260223VS3451260223/SS012/KS
+                    "
+8,2026-06-08,-103.32,EUR,"
+                            Multiprint s.r.o.
+                    ","
+                        Platba
+                    /
+                        Multiprint - tlac letakov - Vysne Opatske - Lucia Rafaj Becova 06/2026
+                    ","
+                        20260188VS20260188/SS18/KS308
+                    "
+9,2026-06-08,3000.0,EUR,"
+                            Robert Dusik
+                    ","
+                        Platba
+                    /
+                        Dar - Volby: Marian Porvaznik
+                    ","
+                        
+                    "
+10,2026-06-06,-3.92,EUR,"
                             
                     ","
-                        Transakčná daň 03.06.2026
+                        Transakčná daň 05.06.2026
                     /
                         
                     ","
                         
                     "
-6,2026-06-04,-400.0,EUR,"
-                            Mariia Tarnarutska
+11,2026-06-05,-78.53,EUR,"
+                            
+                    ","
+                        Transakčná daň 04.06.2026
+                    /
+                        
+                    ","
+                        
+                    "
+12,2026-06-05,-479.7,EUR,"
+                            More Design s. r. o.
                     ","
                         Platba
                     /
-                        Tarnarutska - fotograficke a marketingove sluzby Sufliarska 05/26
+                        More Design s.r.o. vyvoj webu KSK KE Porvaznik 04/2026
                     ","
-                        4VS04/SS/KS308
+                        202616VS202616/SS12/KS
                     "
-7,2026-06-04,-100.0,EUR,"
-                            Svetozár Šomšák
+13,2026-06-05,-500.0,EUR,"
+                            Mesto Gelnica
                     ","
                         Platba
                     /
-                        somsak - krst knihy umelecke vystupenie 7.5.2026
+                        Mesto Gelnica - prenajom plochy na promo knihy KSK KE Porvaznik 22.5.2026
                     ","
-                        202605VS202605/SS/KS
+                        9919600275VS9919600275/SS12/KS
                     "
-8,2026-06-04,-873.3,EUR,"
-                            Pandan, s. r. o.
-                    ","
-                        Platba
-                    /
-                        Pandan - merch Vagac kampan BA
-                    ","
-                        202606001VS202606001/SS07/KS
-                    "
-9,2026-06-04,-249.69,EUR,"
-                            Pandan, s. r. o.
-                    ","
-                        Platba
-                    /
-                        Pandan - tlac letaky Luscikova
-                    ","
-                        202606004VS202606004/SS/KS
-                    "
-10,2026-06-04,-246.0,EUR,"
-                            Vinohradnícko vinárske družstvo podielníkov KARPATY, družstvo
-                    ","
-                        Platba
-                    /
-                        Karpaty - prenajom priestorov 06/05/26 a 13/05/26 Pezinok Hanulik
-                    ","
-                        260041VS260041/SS03/KS
-                    "
-11,2026-06-04,-2200.0,EUR,"
-                            Martin Majdak
-                    ","
-                        Platba
-                    /
-                        majdak reklamne sluzby KE mudrak 05/26
-                    ","
-                        20260502VS20260502/SS02/KS
-                    "
-12,2026-06-04,-2500.0,EUR,"
-                            Dominika Volanska
-                    ","
-                        Platba
-                    /
-                        Volanska - marketingove sluzby KSK KE 05/26
-                    ","
-                        52026VS0052026/SS/KS
-                    "
-13,2026-06-04,-1300.0,EUR,"
-                            Tomas Krjak
-                    ","
-                        Platba
-                    /
-                        Krjak - manazment kampane Revuca Benesova 05/26
-                    ","
-                        20260003VS20260003/SS05/KS308
-                    "
-14,2026-06-04,-774.9,EUR,Fiona s. r. o.,Platba/marketingove prace pre kandidatov,"20260013
+14,2026-06-04,10.0,EUR,"Futáková Janka, Mgr.",Platba,"1
+VS1/SS/KS"
+15,2026-06-04,-39.13,EUR,,Transakčná daň 03.06.2026,
+16,2026-06-04,-400.0,EUR,Mariia Tarnarutska,Platba/Tarnarutska - fotograficke a marketingove sluzby Sufliarska 05/26,"4
+VS04/SS/KS308"
+17,2026-06-04,-100.0,EUR,Svetozár Šomšák,Platba/somsak - krst knihy umelecke vystupenie 7.5.2026,"202605
+VS202605/SS/KS"
+18,2026-06-04,-873.3,EUR,"Pandan, s. r. o.",Platba/Pandan - merch Vagac kampan BA,"202606001
+VS202606001/SS07/KS"
+19,2026-06-04,-249.69,EUR,"Pandan, s. r. o.",Platba/Pandan - tlac letaky Luscikova,"202606004
+VS202606004/SS/KS"
+20,2026-06-04,-246.0,EUR,"Vinohradnícko vinárske družstvo podielníkov KARPATY, družstvo",Platba/Karpaty - prenajom priestorov 06/05/26 a 13/05/26 Pezinok Hanulik,"260041
+VS260041/SS03/KS"
+21,2026-06-04,-2200.0,EUR,Martin Majdak,Platba/majdak reklamne sluzby KE mudrak 05/26,"20260502
+VS20260502/SS02/KS"
+22,2026-06-04,-2500.0,EUR,Dominika Volanska,Platba/Volanska - marketingove sluzby KSK KE 05/26,"52026
+VS0052026/SS/KS"
+23,2026-06-04,-1300.0,EUR,Tomas Krjak,Platba/Krjak - manazment kampane Revuca Benesova 05/26,"20260003
+VS20260003/SS05/KS308"
+24,2026-06-04,-774.9,EUR,Fiona s. r. o.,Platba/marketingove prace pre kandidatov,"20260013
 VS20260013/SS/KS"
-15,2026-06-04,30000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
-16,2026-06-04,-150.0,EUR,STONED MEDIA s.r.o.,Platba/stoned media produkcia videospotu pezinok hanulik,"26050005
+25,2026-06-04,30000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
+26,2026-06-04,-150.0,EUR,STONED MEDIA s.r.o.,Platba/stoned media produkcia videospotu pezinok hanulik,"26050005
 VS26050005/SS03/KS"
-17,2026-06-04,-5336.48,EUR,"UNIMEDIA, s.r.o.","Platba/unimedia reklamna kampan outdoor KV BA Vagac 05,06/26","420260454
+27,2026-06-04,-5336.48,EUR,"UNIMEDIA, s.r.o.","Platba/unimedia reklamna kampan outdoor KV BA Vagac 05,06/26","420260454
 VS420260454/SS07/KS"
-18,2026-06-04,-1008.0,EUR,Majo Sucháč,Platba/Suchac - videosluzby RS Vaľo 05/26,"262521
+28,2026-06-04,-1008.0,EUR,Majo Sucháč,Platba/Suchac - videosluzby RS Vaľo 05/26,"262521
 VS262521/SS09/KS"
-19,2026-06-04,-90.0,EUR,Jazdecký klub Haniska - Prešov o.z.,"Platba/Jazdecky klub - Haniska, animacny program kampan KE Mudrak 23.5.2026","2605017
+29,2026-06-04,-90.0,EUR,Jazdecký klub Haniska - Prešov o.z.,"Platba/Jazdecky klub - Haniska, animacny program kampan KE Mudrak 23.5.2026","2605017
 VS2605017/SS02/KS"
-20,2026-06-04,-73.8,EUR,ARTON s.r.o.,Platba/arton tlac plagatov mudrak ke 06 26,"260223
+30,2026-06-04,-73.8,EUR,ARTON s.r.o.,Platba/arton tlac plagatov mudrak ke 06 26,"260223
 VS260223/SS02/KS"
-21,2026-06-04,-2496.9,EUR,ARTON s.r.o.,Platba/Arton najom billboardov 06 26 mudrak ke,"260222
+31,2026-06-04,-2496.9,EUR,ARTON s.r.o.,Platba/Arton najom billboardov 06 26 mudrak ke,"260222
 VS260222/SS02/KS"
-22,2026-06-04,-1000.0,EUR,Pavol Krajci Consulting,Platba/Krajci manazment komunalnej kampane 05/2026,"2026053101
+32,2026-06-04,-1000.0,EUR,Pavol Krajci Consulting,Platba/Krajci manazment komunalnej kampane 05/2026,"2026053101
 VS2026053101/SS/KS"
-23,2026-06-04,-833.0,EUR,Kristina Gajdosova,Platba OP26060447825862/Gajdosova - manazment kampane Liptovsky Mikulas 05/26 2026-05/1,
-24,2026-06-03,25.0,EUR,David Puchovsky,Platba/DAR,
-25,2026-06-03,-221.4,EUR,ARTON s.r.o.,Platba/arton tlac plagatov mudrak ke 05 26,"260157
+33,2026-06-04,-833.0,EUR,Kristina Gajdosova,Platba OP26060447825862/Gajdosova - manazment kampane Liptovsky Mikulas 05/26 2026-05/1,
+34,2026-06-03,25.0,EUR,David Puchovsky,Platba/DAR,
+35,2026-06-03,-221.4,EUR,ARTON s.r.o.,Platba/arton tlac plagatov mudrak ke 05 26,"260157
 VS260157/SS02/KS"
-26,2026-06-03,-1623.6,EUR,ARTON s.r.o.,Platba/Arton najom billboardov 05 26 mudrak ke,"260156
+36,2026-06-03,-1623.6,EUR,ARTON s.r.o.,Platba/Arton najom billboardov 05 26 mudrak ke,"260156
 VS260156/SS02/KS"
-27,2026-06-03,-3008.09,EUR,"REGIONPRESS, s.r.o.",Platba/Regionpress reklama kosicka mudrak 06 26,"664260061
+37,2026-06-03,-3008.09,EUR,"REGIONPRESS, s.r.o.",Platba/Regionpress reklama kosicka mudrak 06 26,"664260061
 VS664260061/SS02/KS"
-28,2026-06-03,-4931.07,EUR,Policy Insights s. r. o.,PLATBA VA26060302422/policy insights komunalna kampan konzultacne sluzby,VS2026014
-29,2026-06-03,20000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
-30,2026-06-02,10.0,EUR,David Kapusta,Platba,"1
+38,2026-06-03,-4931.07,EUR,Policy Insights s. r. o.,PLATBA VA26060302422/policy insights komunalna kampan konzultacne sluzby,VS2026014
+39,2026-06-03,20000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
+40,2026-06-02,10.0,EUR,David Kapusta,Platba,"1
 VS1/SS/KS"
-31,2026-06-01,25.0,EUR,ANDREA ŠUSTEKOVÁ,Platba/DIANA JAVORCIKOVA,"1
+41,2026-06-01,25.0,EUR,ANDREA ŠUSTEKOVÁ,Platba/DIANA JAVORCIKOVA,"1
 VS1/SS/KS"
-32,2026-06-01,10.0,EUR,Krajči Pavol,Platba,"1
+42,2026-06-01,10.0,EUR,Krajči Pavol,Platba,"1
 VS01/SS/KS"
-33,2026-06-01,300.0,EUR,GALA LADISLAV,Platba/15,"15
+43,2026-06-01,300.0,EUR,GALA LADISLAV,Platba/15,"15
 VS15/SS/KS"
-34,2026-06-01,150.0,EUR,Eva Alderighi,Platba,"1
+44,2026-06-01,150.0,EUR,Eva Alderighi,Platba,"1
 VS1/SS/KS"
-35,2026-06-01,50.0,EUR,Ludmila Moravcikova,Platba,"1
+45,2026-06-01,50.0,EUR,Ludmila Moravcikova,Platba,"1
 VS1/SS/KS"
-36,2026-06-01,-0.12,EUR,,Transakčná daň 30.05.2026,
-37,2026-05-30,-29.92,EUR,,Poplatky za transakcie,
-38,2026-05-30,-0.0,EUR,,Poplatok za balík,
-39,2026-05-29,25.0,EUR,Višňovský Peter,Platba/Dar,"35
+46,2026-06-01,-0.12,EUR,,Transakčná daň 30.05.2026,
+47,2026-05-30,-29.92,EUR,,Poplatky za transakcie,
+48,2026-05-30,-0.0,EUR,,Poplatok za balík,
+49,2026-05-29,25.0,EUR,Višňovský Peter,Platba/Dar,"35
 VS35/SS/KS"
-40,2026-05-28,-29.77,EUR,,Transakčná daň 27.05.2026,
-41,2026-05-27,-3407.1,EUR,"AKO, s.r.o.",Platba/AKO prieskum verejnej mienky VUC Kosice 15.5-18.5.2026,"332026
+50,2026-05-28,-29.77,EUR,,Transakčná daň 27.05.2026,
+51,2026-05-27,-3407.1,EUR,"AKO, s.r.o.",Platba/AKO prieskum verejnej mienky VUC Kosice 15.5-18.5.2026,"332026
 VS332026/SS12/KS"
-42,2026-05-27,-4035.63,EUR,"AKO, s.r.o.",Platba/AKO prieskum verejnej mienky VUC Kosice 24.4-28.4,"272026
+52,2026-05-27,-4035.63,EUR,"AKO, s.r.o.",Platba/AKO prieskum verejnej mienky VUC Kosice 24.4-28.4,"272026
 VS272026/SS12/KS"
-43,2026-05-27,25.0,EUR,Kristina Gajdosova,Platba/dar,"35
+53,2026-05-27,25.0,EUR,Kristina Gajdosova,Platba/dar,"35
 VS35/SS/KS"
-44,2026-05-27,50.0,EUR,Ivana Meszaros Skoumalova,Platba,"2
+54,2026-05-27,50.0,EUR,Ivana Meszaros Skoumalova,Platba,"2
 VS2/SS/KS"
-45,2026-05-26,-16.12,EUR,,Transakčná daň 25.05.2026,
-46,2026-05-25,-1377.11,EUR,Hauerland spol. s r.o.,Platba/Hauerland merch predmety hanulik pezinok,"20260077
+55,2026-05-26,-16.12,EUR,,Transakčná daň 25.05.2026,
+56,2026-05-25,-1377.11,EUR,Hauerland spol. s r.o.,Platba/Hauerland merch predmety hanulik pezinok,"20260077
 VS20260077/SS03/KS"
-47,2026-05-25,-146.8,EUR,Magat Marcel,Platba/catering diskusia pezinok hanulik 21.5.2026,"2026007
+57,2026-05-25,-146.8,EUR,Magat Marcel,Platba/catering diskusia pezinok hanulik 21.5.2026,"2026007
 VS2026007/SS03/KS"
-48,2026-05-25,-1441.56,EUR,"Petit Press, a.s.",Platba/petitpress inzercia mybystrica reklama 28.5-29.5.2026 javorcikova bb,"2633100845
+58,2026-05-25,-1441.56,EUR,"Petit Press, a.s.",Platba/petitpress inzercia mybystrica reklama 28.5-29.5.2026 javorcikova bb,"2633100845
 VS2633100845/SS01/KS308"
-49,2026-05-25,-461.25,EUR,ARIES reklama s.r.o.,Platba/aries merch pero holeczy ke,"1020260050
+59,2026-05-25,-461.25,EUR,ARIES reklama s.r.o.,Platba/aries merch pero holeczy ke,"1020260050
 VS1020260050/SS08/KS308"
-50,2026-05-25,-600.0,EUR,Fotosnek s.r.o.,Platba/fotosnek foto sluzby javorcikova 05 25,"1260005
+60,2026-05-25,-600.0,EUR,Fotosnek s.r.o.,Platba/fotosnek foto sluzby javorcikova 05 25,"1260005
 VS1260005/SS01/KS"
-51,2026-05-23,-34.04,EUR,,Transakčná daň 22.05.2026,
-52,2026-05-22,-144.49,EUR,,Transakčná daň 21.05.2026,
-53,2026-05-22,-687.06,EUR,Marmima s. r. o.,Platba/marmima sro merch predmety kampan sufliarska LM,"15126014
+61,2026-05-23,-34.04,EUR,,Transakčná daň 22.05.2026,
+62,2026-05-22,-144.49,EUR,,Transakčná daň 21.05.2026,
+63,2026-05-22,-687.06,EUR,Marmima s. r. o.,Platba/marmima sro merch predmety kampan sufliarska LM,"15126014
 VS15126014/SS04/KS8"
-54,2026-05-22,-762.6,EUR,"Pandan, s. r. o.","Platba/pandan tlac letaky, rollup, banner benesova","202605040
+64,2026-05-22,-762.6,EUR,"Pandan, s. r. o.","Platba/pandan tlac letaky, rollup, banner benesova","202605040
 VS202605040/SS05/KS"
-55,2026-05-22,-615.0,EUR,Ondreáš Juraj,Platba/+421 design studio ondreas graficke prace kampan sufliarska 04 26,"20260010
+65,2026-05-22,-615.0,EUR,Ondreáš Juraj,Platba/+421 design studio ondreas graficke prace kampan sufliarska 04 26,"20260010
 VS20260010/SS04/KS"
-56,2026-05-22,-1722.0,EUR,"UNIMEDIA, s.r.o.",Platba/unimedia reklamna kampan outdoor KV kraje 05 26,"420260422
+66,2026-05-22,-1722.0,EUR,"UNIMEDIA, s.r.o.",Platba/unimedia reklamna kampan outdoor KV kraje 05 26,"420260422
 VS420260422/SS/KS"
-57,2026-05-22,-683.51,EUR,SEDEM - vasa kreativna s. r. o.,Platba/SEDEM - vasa kreativna sro tlac rollupy ke,"12260071
+67,2026-05-22,-683.51,EUR,SEDEM - vasa kreativna s. r. o.,Platba/SEDEM - vasa kreativna sro tlac rollupy ke,"12260071
 VS12260071/SS0212/KS"
-58,2026-05-22,-4041.03,EUR,Občianske združenie BONA FIDE,"Platba/tabacka krst knihy ke, prenajom, strazne sluzby, obcerstvenie; 07.05.2026","2026132
+68,2026-05-22,-4041.03,EUR,Občianske združenie BONA FIDE,"Platba/tabacka krst knihy ke, prenajom, strazne sluzby, obcerstvenie; 07.05.2026","2026132
 VS2026132/SS0212/KS308"
-59,2026-05-21,20000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
-60,2026-05-21,-150.0,EUR,Zuzana Pitková,Platba/pitkova dj vystupenie krst knihy 7.5.2026,"20260502
+69,2026-05-21,20000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
+70,2026-05-21,-150.0,EUR,Zuzana Pitková,Platba/pitkova dj vystupenie krst knihy 7.5.2026,"20260502
 VS20260502/SS0212/KS"
-61,2026-05-21,-2800.0,EUR,PPE oz,Platba/koncert 7.5.2026 ke zeby dobre bolo krst knihy honorar kapela,"202606
+71,2026-05-21,-2800.0,EUR,PPE oz,Platba/koncert 7.5.2026 ke zeby dobre bolo krst knihy honorar kapela,"202606
 VS202606/SS0212/KS"
-62,2026-05-21,-3590.62,EUR,"UNIMEDIA, s.r.o.",Platba/unimedia reklamna kampan outdoor KV KE zupan 05 26,"420260421
+72,2026-05-21,-3590.62,EUR,"UNIMEDIA, s.r.o.",Platba/unimedia reklamna kampan outdoor KV KE zupan 05 26,"420260421
 VS420260421/SS02/KS"
-63,2026-05-21,-5712.61,EUR,"UNIMEDIA, s.r.o.",Platba/unimedia reklamna kampan outdoor KV KE primator 05 26,"420260420
+73,2026-05-21,-5712.61,EUR,"UNIMEDIA, s.r.o.",Platba/unimedia reklamna kampan outdoor KV KE primator 05 26,"420260420
 VS420260420/SS12/KS"
-64,2026-05-21,-357.8,EUR,lulip s.r.o.,"Platba/lulip prenajom priestorov , obcerstvenie 03.05.2026 pezinok hanulik","20260001
+74,2026-05-21,-357.8,EUR,lulip s.r.o.,"Platba/lulip prenajom priestorov , obcerstvenie 03.05.2026 pezinok hanulik","20260001
 VS20260001/SS03/KS"
-65,2026-05-21,-1968.0,EUR,HOWK s.r.o.,Platba/howk praca fotografa v atelieri postprodukcia mudrak ke,"20260042
+75,2026-05-21,-1968.0,EUR,HOWK s.r.o.,Platba/howk praca fotografa v atelieri postprodukcia mudrak ke,"20260042
 VS20260042/SS02/KS308"
-66,2026-05-21,-307.5,EUR,HOWK s.r.o.,Platba/howk praca fotografa v atelieri postprodukcia mudrak ke,"20260041
+76,2026-05-21,-307.5,EUR,HOWK s.r.o.,Platba/howk praca fotografa v atelieri postprodukcia mudrak ke,"20260041
 VS20260041/SS02/KS308"
-67,2026-05-21,-80.0,EUR,Mesto Kosice,Platba/spravny poplatok za toacovu konferenciu porvaznik ke 13.5.2026,"3451260195
+77,2026-05-21,-80.0,EUR,Mesto Kosice,Platba/spravny poplatok za toacovu konferenciu porvaznik ke 13.5.2026,"3451260195
 VS3451260195/SS012/KS"
-68,2026-05-21,-344.4,EUR,Cookies s. r. o.,Platba/Cookies s. r.o merch cookies mudrak ke,"26050601
+78,2026-05-21,-344.4,EUR,Cookies s. r. o.,Platba/Cookies s. r.o merch cookies mudrak ke,"26050601
 VS26050601/SS02/KS"
-69,2026-05-21,-60.0,EUR,ARIES reklama s.r.o.,Platba/aries reklama sro tlac nalepky mudrak ke,"1020260048
+79,2026-05-21,-60.0,EUR,ARIES reklama s.r.o.,Platba/aries reklama sro tlac nalepky mudrak ke,"1020260048
 VS1020260048/SS02/KS308"
-70,2026-05-21,-774.9,EUR,Fiona s. r. o.,Platba/Fiona sro reklamne a marketingove sluzby na komunalnej kampani,"20260011
+80,2026-05-21,-774.9,EUR,Fiona s. r. o.,Platba/Fiona sro reklamne a marketingove sluzby na komunalnej kampani,"20260011
 VS20260011/SS/KS"
-71,2026-05-21,-7223.42,EUR,SEDEM - vasa kreativna s. r. o.,Platba/SEDEM - vasa kreativna s. r. o. merch predmety porvaznik ke,"12260070
+81,2026-05-21,-7223.42,EUR,SEDEM - vasa kreativna s. r. o.,Platba/SEDEM - vasa kreativna s. r. o. merch predmety porvaznik ke,"12260070
 VS12260070/SS12/KS"
-72,2026-05-21,-369.0,EUR,SEDEM - vasa kreativna s. r. o.,Platba/SEDEM - vasa kreativna s. r. o. tlac bannerov porvaznik ke,"12260069
+82,2026-05-21,-369.0,EUR,SEDEM - vasa kreativna s. r. o.,Platba/SEDEM - vasa kreativna s. r. o. tlac bannerov porvaznik ke,"12260069
 VS12260069/SS12/KS"
-73,2026-05-21,-1205.4,EUR,SEDEM - vasa kreativna s. r. o.,Platba/SEDEM - vasa kreativna sro polep aut porvaznik ke,"12260068
+83,2026-05-21,-1205.4,EUR,SEDEM - vasa kreativna s. r. o.,Platba/SEDEM - vasa kreativna sro polep aut porvaznik ke,"12260068
 VS12260068/SS12/KS"
-74,2026-05-21,-3045.48,EUR,SEDEM - vasa kreativna s. r. o.,Platba/SEDEM - vasa kreativna s. r. o. - tlac noviny doplatok ke,"16260017
+84,2026-05-21,-3045.48,EUR,SEDEM - vasa kreativna s. r. o.,Platba/SEDEM - vasa kreativna s. r. o. - tlac noviny doplatok ke,"16260017
 VS16260017/SS012/KS"
-75,2026-05-21,-383.45,EUR,"LUKY MZ, s.r.o.",Platba/luky mz merch balony javorcikova,"2610200167
+85,2026-05-21,-383.45,EUR,"LUKY MZ, s.r.o.",Platba/luky mz merch balony javorcikova,"2610200167
 VS2610200167/SS01/KS8"
-76,2026-05-21,-862.46,EUR,Marila trade s.r.o.,Platba/Marila trade technicke zabezpecenie podujatia BB 5.5.2026 Nam.SNP,"2026008
+86,2026-05-21,-862.46,EUR,Marila trade s.r.o.,Platba/Marila trade technicke zabezpecenie podujatia BB 5.5.2026 Nam.SNP,"2026008
 VS2026008/SS01/KS308"
-77,2026-05-21,-3674.17,EUR,GRAFPRINT s.r.o.,Platba/grafprint merch tlac javorcikova,"426119
+87,2026-05-21,-3674.17,EUR,GRAFPRINT s.r.o.,Platba/grafprint merch tlac javorcikova,"426119
 VS426119/SS01/KS"
-78,2026-05-21,-251.0,EUR,"COLORgrafik, spol. s r.o.","Platba/colorgrafik tlac letakov, plagatov javorcikova 04 26","20260048
+88,2026-05-21,-251.0,EUR,"COLORgrafik, spol. s r.o.","Platba/colorgrafik tlac letakov, plagatov javorcikova 04 26","20260048
 VS20260048/SS01/KS"
-79,2026-05-21,-2453.85,EUR,stringo sro,Platba/stringo merch porvaznik ke kampan,"20260022
+89,2026-05-21,-2453.85,EUR,stringo sro,Platba/stringo merch porvaznik ke kampan,"20260022
 VS20260022/SS012/KS"
-80,2026-05-21,-100.0,EUR,Martin Babarik,Platba/babarik reportazne foto z diskusii rimavska sobota,"42026
+90,2026-05-21,-100.0,EUR,Martin Babarik,Platba/babarik reportazne foto z diskusii rimavska sobota,"42026
 VS042026/SS09/KS"
-81,2026-05-21,-100.0,EUR,Martin Babarik,Platba/babarik reportazne foto z diskusii povedz mi to do oci rimavska sobota,"32026
+91,2026-05-21,-100.0,EUR,Martin Babarik,Platba/babarik reportazne foto z diskusii povedz mi to do oci rimavska sobota,"32026
 VS032026/SS09/KS"
-82,2026-05-21,-210.0,EUR,Martin Babarik,Platba/babarik reportazne foto z diskusii rimavska sobota,"22026
+92,2026-05-21,-210.0,EUR,Martin Babarik,Platba/babarik reportazne foto z diskusii rimavska sobota,"22026
 VS022026/SS09/KS"
-83,2026-05-21,25000.0,EUR,Hapák Samuel,Platba/Marian Porvaznik,
-84,2026-05-21,-100.0,EUR,Martin Babarik,Platba/babarik reportazne foto z tlacovej besedy rimavska sobota,"12026
+93,2026-05-21,25000.0,EUR,Hapák Samuel,Platba/Marian Porvaznik,
+94,2026-05-21,-100.0,EUR,Martin Babarik,Platba/babarik reportazne foto z tlacovej besedy rimavska sobota,"12026
 VS012026/SS09/KS"
-85,2026-05-21,-7.52,EUR,,Transakčná daň 20.05.2026,
-86,2026-05-21,100.0,EUR,Pavol Rafael,Platba/Prispevok na kampan - Za lepsie Stare Mesto (Kosice),"8
+95,2026-05-21,-7.52,EUR,,Transakčná daň 20.05.2026,
+96,2026-05-21,100.0,EUR,Pavol Rafael,Platba/Prispevok na kampan - Za lepsie Stare Mesto (Kosice),"8
 VS08/SS/KS"
-87,2026-05-21,100.0,EUR,DAGMAR KAŽIMÍROVÁ,Platba/Za lepsie Stare Mesto,"8
+97,2026-05-21,100.0,EUR,DAGMAR KAŽIMÍROVÁ,Platba/Za lepsie Stare Mesto,"8
 VS08/SS/KS"
-88,2026-05-20,25.0,EUR,Michal Palka,Platba/Dar,"35
+98,2026-05-20,25.0,EUR,Michal Palka,Platba/Dar,"35
 VS35/SS/KS"
-89,2026-05-20,-59.28,EUR,,Transakčná daň 19.05.2026,
-90,2026-05-20,-1880.0,EUR,Mgr. Michaela Gromová,Platba/gromova manazovanie kampane PK ha 04 26,"20260005
+99,2026-05-20,-59.28,EUR,,Transakčná daň 19.05.2026,
+100,2026-05-20,-1880.0,EUR,Mgr. Michaela Gromová,Platba/gromova manazovanie kampane PK ha 04 26,"20260005
 VS20260005/SS03/KS"
-91,2026-05-19,7857.49,EUR,"Petit Press, a.s.",Platba,"2623100317
+101,2026-05-19,7857.49,EUR,"Petit Press, a.s.",Platba,"2623100317
 VS2623100317/SS311903/KS"
-92,2026-05-19,-7410.0,EUR,Čifári Zuzana,VÝBER V HOTOVOSTI/výber do pokladne,
-93,2026-05-19,20.0,EUR,Antol Peter,Platba/Peter Antol,"4
+102,2026-05-19,-7410.0,EUR,Čifári Zuzana,VÝBER V HOTOVOSTI/výber do pokladne,
+103,2026-05-19,20.0,EUR,Antol Peter,Platba/Peter Antol,"4
 VS4/SS/KS"
-94,2026-05-19,416.6,EUR,Diana Javorcikova,Platba,"1
+104,2026-05-19,416.6,EUR,Diana Javorcikova,Platba,"1
 VS1/SS/KS"
-95,2026-05-18,75.0,EUR,Matej Grajcár,Platba,"2
+105,2026-05-18,75.0,EUR,Matej Grajcár,Platba,"2
 VS2/SS/KS"
-96,2026-05-18,25.0,EUR,LENKA ZÁMEČNÍKOVÁ,Platba/DAR KOMUNAL,"35
+106,2026-05-18,25.0,EUR,LENKA ZÁMEČNÍKOVÁ,Platba/DAR KOMUNAL,"35
 VS35/SS/KS"
-97,2026-05-16,-5.17,EUR,,Transakčná daň 15.05.2026,
-98,2026-05-16,50.0,EUR,"Sciranka Adrián, Ing.",Platba/Drzim palce Martin,"2
+107,2026-05-16,-5.17,EUR,,Transakčná daň 15.05.2026,
+108,2026-05-16,50.0,EUR,"Sciranka Adrián, Ing.",Platba/Drzim palce Martin,"2
 VS2/SS/KS"
-99,2026-05-15,-18.88,EUR,,Transakčná daň 14.05.2026,
-100,2026-05-15,-1291.5,EUR,KING MEDIA s. r. o.,Platba/KING MEDIA prenajom city light luscikova poprad 13.10-26.10.2026,"312026
+109,2026-05-15,-18.88,EUR,,Transakčná daň 14.05.2026,
+110,2026-05-15,-1291.5,EUR,KING MEDIA s. r. o.,Platba/KING MEDIA prenajom city light luscikova poprad 13.10-26.10.2026,"312026
 VS312026/SS10/KS308"
-101,2026-05-15,25.0,EUR,ROMAN BARTA,Platba/DAR ROMAN BARTA,"35
+111,2026-05-15,25.0,EUR,ROMAN BARTA,Platba/DAR ROMAN BARTA,"35
 VS35/SS/KS"
-102,2026-05-14,35.0,EUR,Barbora Reháková,Platba/Dar,"35
+112,2026-05-14,35.0,EUR,Barbora Reháková,Platba/Dar,"35
 VS35/SS/KS"
-103,2026-05-14,-780.0,EUR,"VISTA real Pezinok, s.r.o.",Platba/vista real pezinok prenajom reklamnej plochy pezinok 23.4-24.10.2026,"2601116
+113,2026-05-14,-780.0,EUR,"VISTA real Pezinok, s.r.o.",Platba/vista real pezinok prenajom reklamnej plochy pezinok 23.4-24.10.2026,"2601116
 VS2601116/SS03/KS308"
-104,2026-05-14,-9.0,EUR,"CONFIDENCE MEDIA SR, s.r.o.",Platba/doplatok confidence media hanulik pezinok prenajom +produkcia billboard 06 2026,"2621060
+114,2026-05-14,-9.0,EUR,"CONFIDENCE MEDIA SR, s.r.o.",Platba/doplatok confidence media hanulik pezinok prenajom +produkcia billboard 06 2026,"2621060
 VS2621060/SS03/KS"
-105,2026-05-14,-3929.85,EUR,"BUY NOW studio, s. r. o.",Platba/buy now studio grafika javorcikova kampaň bb,"2026018
+115,2026-05-14,-3929.85,EUR,"BUY NOW studio, s. r. o.",Platba/buy now studio grafika javorcikova kampaň bb,"2026018
 VS2026018/SS01/KS308"
-106,2026-05-14,37.0,EUR,Rastislav Medved,Platba,"1
+116,2026-05-14,37.0,EUR,Rastislav Medved,Platba,"1
 VS1/SS/KS"
-107,2026-05-13,250.0,EUR,"Lábaj Ondrej, Ing., PhD.",Platba/Podpora kampane Tímu za Lepšie Staré Mesto,"8
+117,2026-05-13,250.0,EUR,"Lábaj Ondrej, Ing., PhD.",Platba/Podpora kampane Tímu za Lepšie Staré Mesto,"8
 VS8/SS/KS"
-108,2026-05-13,990.0,EUR,Ciprus Pavel,Platba,"9
+118,2026-05-13,990.0,EUR,Ciprus Pavel,Platba,"9
 VS9/SS/KS"
-109,2026-05-13,2400.0,EUR,Roman Valo,Platba/Roman Valo,"9
+119,2026-05-13,2400.0,EUR,Roman Valo,Platba/Roman Valo,"9
 VS9/SS/KS"
-110,2026-05-13,-2.0,EUR,,Transakčná daň 12.05.2026,
-111,2026-05-12,-500.0,EUR,"Litterra, n. o.",Platba/literra revuca prenajom priestorov 15.5.2026,"260800004
+120,2026-05-13,-2.0,EUR,,Transakčná daň 12.05.2026,
+121,2026-05-12,-500.0,EUR,"Litterra, n. o.",Platba/literra revuca prenajom priestorov 15.5.2026,"260800004
 VS260800004/SS05/KS"
-112,2026-05-12,25.0,EUR,Nemergut Ján,Platba/Dar,"35
+122,2026-05-12,25.0,EUR,Nemergut Ján,Platba/Dar,"35
 VS35/SS/KS"
-113,2026-05-11,22.0,EUR,Patricia Holikova,Platba,"1
+123,2026-05-11,22.0,EUR,Patricia Holikova,Platba,"1
 VS1/SS/KS"
-114,2026-05-11,-23.87,EUR,,Transakčná daň 09.05.2026,
-115,2026-05-09,-39.21,EUR,,Transakčná daň 08.05.2026,
-116,2026-05-09,-861.0,EUR,More Design s. r. o.,Platba/More Design vizual billborady mudrak ke kampan- 2026/04,"202614
+124,2026-05-11,-23.87,EUR,,Transakčná daň 09.05.2026,
+125,2026-05-09,-39.21,EUR,,Transakčná daň 08.05.2026,
+126,2026-05-09,-861.0,EUR,More Design s. r. o.,Platba/More Design vizual billborady mudrak ke kampan- 2026/04,"202614
 VS202614/SS02/KS"
-117,2026-05-09,-1500.0,EUR,Mgr. Martina Bartekova,Platba/bartekova manazment kampane bb 04 26,"2026002
+127,2026-05-09,-1500.0,EUR,Mgr. Martina Bartekova,Platba/bartekova manazment kampane bb 04 26,"2026002
 VS2026002/SS01/KS308"
-118,2026-05-09,-281.19,EUR,Expresta s.r.o.,Platba/expresta tlac nalepky sufliarska kampan,"41399253
+128,2026-05-09,-281.19,EUR,Expresta s.r.o.,Platba/expresta tlac nalepky sufliarska kampan,"41399253
 VS41399253/SS4/KS"
-119,2026-05-09,-3000.0,EUR,Andrea Nina Gašparovičová,Platba/gasparovicova Manazment kampane ke Mudrak 04/2026,"2026005
+129,2026-05-09,-3000.0,EUR,Andrea Nina Gašparovičová,Platba/gasparovicova Manazment kampane ke Mudrak 04/2026,"2026005
 VS2026005/SS02/KS"
-120,2026-05-09,20000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
-121,2026-05-09,-128.0,EUR,Mesto rimavska sobota,Platba/zabratie priestranstva dan rimavska sobota 8.5-9.52026,"1500128954
+130,2026-05-09,20000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
+131,2026-05-09,-128.0,EUR,Mesto rimavska sobota,Platba/zabratie priestranstva dan rimavska sobota 8.5-9.52026,"1500128954
 VS1500128954/SS2603020828/KS0308"
-122,2026-05-09,-200.0,EUR,REKLAMA BOKA,Platba/reklama boka inzercia michalovske noviny 05 26 porvaznik,"26111
+132,2026-05-09,-200.0,EUR,REKLAMA BOKA,Platba/reklama boka inzercia michalovske noviny 05 26 porvaznik,"26111
 VS026111/SS12/KS"
-123,2026-05-08,-2200.0,EUR,Martin Majdak,Platba/majdak reklamne sluzby mudrak 04 26,"20260402
+133,2026-05-08,-2200.0,EUR,Martin Majdak,Platba/majdak reklamne sluzby mudrak 04 26,"20260402
 VS20260402/SS02/KS"
-124,2026-05-08,-2000.0,EUR,Lenka Bikárová,Platba/Bikarova produkcia eventov kampan ke Mudrak 04 26,"20260005
+134,2026-05-08,-2000.0,EUR,Lenka Bikárová,Platba/Bikarova produkcia eventov kampan ke Mudrak 04 26,"20260005
 VS20260005/SS02/KS308"
-125,2026-05-08,-688.8,EUR,"Pandan, s. r. o.",Platba/pandan recnicky put komunalna kampan,"202604087
+135,2026-05-08,-688.8,EUR,"Pandan, s. r. o.",Platba/pandan recnicky put komunalna kampan,"202604087
 VS202604087/SS/KS"
-126,2026-05-08,-723.24,EUR,"AVEST, s.r.o.",Platba/avest merch pre komunalnu kampan PS,"20260225
+136,2026-05-08,-723.24,EUR,"AVEST, s.r.o.",Platba/avest merch pre komunalnu kampan PS,"20260225
 VS20260225/SS/KS8"
-127,2026-05-08,-189.54,EUR,IMI TRADE s.r.o.,Platba/imi trade merch sufliarska,"7002606375
+137,2026-05-08,-189.54,EUR,IMI TRADE s.r.o.,Platba/imi trade merch sufliarska,"7002606375
 VS7002606375/SS04/KS"
-128,2026-05-08,-1000.0,EUR,Pavol Krajci Consulting,Platba/Krajci manazment komunalnej kampane PS 2026,"2026050101
+138,2026-05-08,-1000.0,EUR,Pavol Krajci Consulting,Platba/Krajci manazment komunalnej kampane PS 2026,"2026050101
 VS2026050101/SS/KS"
-129,2026-05-08,-3000.0,EUR,Martin Péchy,Platba/Pechy kampanova komunikacia 04 26,"20260005
+139,2026-05-08,-3000.0,EUR,Martin Péchy,Platba/Pechy kampanova komunikacia 04 26,"20260005
 VS20260005/SS/KS"
-130,2026-05-08,25.0,EUR,"Jurč Andrej, Bc.",Platba/Dar,"35
+140,2026-05-08,25.0,EUR,"Jurč Andrej, Bc.",Platba/Dar,"35
 VS35/SS/KS"
-131,2026-05-08,-35.77,EUR,,Transakčná daň 07.05.2026,
-132,2026-05-07,-5.2,EUR,,Transakčná daň 06.05.2026,
-133,2026-05-07,-4944.6,EUR,CyberSoft s.r.o.,Platba/Cybersoft prenajomreklamnych ploch porvaznik 29 ks 05 26,"26050101
+141,2026-05-08,-35.77,EUR,,Transakčná daň 07.05.2026,
+142,2026-05-07,-5.2,EUR,,Transakčná daň 06.05.2026,
+143,2026-05-07,-4944.6,EUR,CyberSoft s.r.o.,Platba/Cybersoft prenajomreklamnych ploch porvaznik 29 ks 05 26,"26050101
 VS26050101/SS12/KS"
-134,2026-05-07,-2952.0,EUR,BURO MILK S.R.O.,Platba/Buro Milk graficke prace vizual,"2526244
+144,2026-05-07,-2952.0,EUR,BURO MILK S.R.O.,Platba/Buro Milk graficke prace vizual,"2526244
 VS2526244/SS/KS"
-135,2026-05-07,-1045.5,EUR,Pop studio s. r. o.,Platba/pop studio marketingove sluzby foto a video pre soc.siete,"20260020
+145,2026-05-07,-1045.5,EUR,Pop studio s. r. o.,Platba/pop studio marketingove sluzby foto a video pre soc.siete,"20260020
 VS20260020/SS/KS"
-136,2026-05-06,25.0,EUR,"Olláriová Adriána, Ing.",Platba/dar_LuboChmela,"35
+146,2026-05-06,25.0,EUR,"Olláriová Adriána, Ing.",Platba/dar_LuboChmela,"35
 VS35/SS/KS"
-137,2026-05-06,25.0,EUR,"Olláriová Adriána, Ing.",Platba/dar_OlláriováAdriana,"35
+147,2026-05-06,25.0,EUR,"Olláriová Adriána, Ing.",Platba/dar_OlláriováAdriana,"35
 VS35/SS/KS"
-138,2026-05-06,-4.87,EUR,,Transakčná daň 05.05.2026,
-139,2026-05-06,25.0,EUR,Miroslav Olah,Platba/Dar,"35
+148,2026-05-06,-4.87,EUR,,Transakčná daň 05.05.2026,
+149,2026-05-06,25.0,EUR,Miroslav Olah,Platba/Dar,"35
 VS35/SS/KS"
-140,2026-05-06,-1300.0,EUR,Tomas Krjak,Platba/krjak organizacia kampane,"20260002
+150,2026-05-06,-1300.0,EUR,Tomas Krjak,Platba/krjak organizacia kampane,"20260002
 VS20260002/SS05/KS308"
-141,2026-05-06,10.0,EUR,"Futáková Janka, Mgr.",Platba,"1
+151,2026-05-06,10.0,EUR,"Futáková Janka, Mgr.",Platba,"1
 VS1/SS/KS"
-142,2026-05-05,-1217.7,EUR,stringo sro,Platba/stringo merch porvaznik ke kampan,"20260019
+152,2026-05-05,-1217.7,EUR,stringo sro,Platba/stringo merch porvaznik ke kampan,"20260019
 VS20260019/SS012/KS"
-143,2026-05-05,100.0,EUR,Dusan Vigas,Platba,
-144,2026-05-04,10.0,EUR,DÁVID VARADZIN,Platba/PRE KOSICE,"2
+153,2026-05-05,100.0,EUR,Dusan Vigas,Platba,
+154,2026-05-04,10.0,EUR,DÁVID VARADZIN,Platba/PRE KOSICE,"2
 VS2/SS/KS"
-145,2026-05-04,10.0,EUR,Kopka Michal,Platba/Michal Kopka,"2
+155,2026-05-04,10.0,EUR,Kopka Michal,Platba/Michal Kopka,"2
 VS2/SS/KS"
-146,2026-05-04,25.0,EUR,Miroslav Tomek,Platba/Dar,"35
+156,2026-05-04,25.0,EUR,Miroslav Tomek,Platba/Dar,"35
 VS35/SS/KS"
-147,2026-05-02,-44.27,EUR,,Transakčná daň 30.04.2026,
-148,2026-04-30,-13.44,EUR,,Poplatky za transakcie,
-149,2026-04-30,-0.0,EUR,,Poplatok za balík,
-150,2026-04-30,150.0,EUR,JUDr.Stanislava Majerova,Platba/Spolocne za lepsie Stare Mesto,"8
+157,2026-05-02,-44.27,EUR,,Transakčná daň 30.04.2026,
+158,2026-04-30,-13.44,EUR,,Poplatky za transakcie,
+159,2026-04-30,-0.0,EUR,,Poplatok za balík,
+160,2026-04-30,150.0,EUR,JUDr.Stanislava Majerova,Platba/Spolocne za lepsie Stare Mesto,"8
 VS08/SS/KS"
-151,2026-04-30,43.0,EUR,Ing.Peter Majer,Platba/Kosice s viziou,"2
+161,2026-04-30,43.0,EUR,Ing.Peter Majer,Platba/Kosice s viziou,"2
 VS2/SS/KS"
-152,2026-04-30,-10.33,EUR,"JUDr. Daniela Kováčová, notár",Platba/notar osvedcenie podpisu darovacia zmluva,"20260017
+162,2026-04-30,-10.33,EUR,"JUDr. Daniela Kováčová, notár",Platba/notar osvedcenie podpisu darovacia zmluva,"20260017
 VS20260017/SS02/KS308"
-153,2026-04-30,-184.5,EUR,HOWK s.r.o.,Platba/foto technika a postprodukcia ke mudrak,"20260027
+163,2026-04-30,-184.5,EUR,HOWK s.r.o.,Platba/foto technika a postprodukcia ke mudrak,"20260027
 VS20260027/SS02/KS308"
-154,2026-04-30,-49.2,EUR,ARTON s.r.o.,Platba/Arton tlac plagatov billboardy LM sufliarska 05 26,"260167
+164,2026-04-30,-49.2,EUR,ARTON s.r.o.,Platba/Arton tlac plagatov billboardy LM sufliarska 05 26,"260167
 VS260167/SS04/KS"
-155,2026-04-30,-270.6,EUR,ARTON s.r.o.,Platba/Arton reklamny priestor billboardy LM sufliarska 05 26,"260166
+165,2026-04-30,-270.6,EUR,ARTON s.r.o.,Platba/Arton reklamny priestor billboardy LM sufliarska 05 26,"260166
 VS260166/SS04/KS"
-156,2026-04-30,-15076.97,EUR,"Petit Press, a.s.",Platba/petitpress inzercia sme.sk ke porvaznik mudrak 05 26,"262210056
+166,2026-04-30,-15076.97,EUR,"Petit Press, a.s.",Platba/petitpress inzercia sme.sk ke porvaznik mudrak 05 26,"262210056
 VS262210056/SS0212/KS"
-157,2026-04-30,-25.0,EUR,Stanislav Dubovsky,Platba/vratenie daru stanislav dubovsky,
-158,2026-04-30,-300.0,EUR,SPAJZKA s. r. o.,Platba/prenajom priestorov spajzka pezinok diskusia 21.4.2026,"20260005
+167,2026-04-30,-25.0,EUR,Stanislav Dubovsky,Platba/vratenie daru stanislav dubovsky,
+168,2026-04-30,-300.0,EUR,SPAJZKA s. r. o.,Platba/prenajom priestorov spajzka pezinok diskusia 21.4.2026,"20260005
 VS20260005/SS03/KS"
-159,2026-04-30,-215.48,EUR,Ing. Jozef Šivec - Webing.sk,Platba/webing tlac letakov SNV,"2600076
+169,2026-04-30,-215.48,EUR,Ing. Jozef Šivec - Webing.sk,Platba/webing tlac letakov SNV,"2600076
 VS2600076/SS/KS308"
-160,2026-04-29,100.0,EUR,Rafaj Becová Lucia,Platba,"2
+170,2026-04-29,100.0,EUR,Rafaj Becová Lucia,Platba,"2
 VS2/SS/KS"
-161,2026-04-29,10.0,EUR,TAMARA TÓTHOVÁ MARKOVIČOVÁ,Platba/PLATBA,"2
+171,2026-04-29,10.0,EUR,TAMARA TÓTHOVÁ MARKOVIČOVÁ,Platba/PLATBA,"2
 VS2/SS/KS"
-162,2026-04-28,6800.0,EUR,Marián Porvažník,Platba/Prevod prostriedkov na TU PS na zaklade darovacej zmluvuy zo dna 16.04.2026,"12
+172,2026-04-28,6800.0,EUR,Marián Porvažník,Platba/Prevod prostriedkov na TU PS na zaklade darovacej zmluvuy zo dna 16.04.2026,"12
 VS12/SS/KS"
-163,2026-04-28,10.0,EUR,"Holéczy Igor, Mgr.",Platba,"2
+173,2026-04-28,10.0,EUR,"Holéczy Igor, Mgr.",Platba,"2
 VS2/SS/KS"
-164,2026-04-28,-18.27,EUR,,Transakčná daň 27.04.2026,
-165,2026-04-27,-4568.22,EUR,SEDEM - vasa kreativna s. r. o.,Platba/SEDEM - vasa kreativna s. r. o. - tlac noviny ke,"12026012
+174,2026-04-28,-18.27,EUR,,Transakčná daň 27.04.2026,
+175,2026-04-27,-4568.22,EUR,SEDEM - vasa kreativna s. r. o.,Platba/SEDEM - vasa kreativna s. r. o. - tlac noviny ke,"12026012
 VS12026012/SS012/KS"
-166,2026-04-27,500.0,EUR,"Bauer Miklošovičová Bibiana, MVDr.",Platba,"3
+176,2026-04-27,500.0,EUR,"Bauer Miklošovičová Bibiana, MVDr.",Platba,"3
 VS3/SS/KS"
-167,2026-04-25,-5.53,EUR,,Transakčná daň 24.04.2026,
-168,2026-04-24,-166.05,EUR,ARTON s.r.o.,Platba/arton tlac plagatov mudrak ke p4 26,"260116
+177,2026-04-25,-5.53,EUR,,Transakčná daň 24.04.2026,
+178,2026-04-24,-166.05,EUR,ARTON s.r.o.,Platba/arton tlac plagatov mudrak ke p4 26,"260116
 VS260116/SS02/KS"
-169,2026-04-24,-1217.7,EUR,ARTON s.r.o.,Platba/Arton najom billboardov 04 26 mudrak ke,"260115
+179,2026-04-24,-1217.7,EUR,ARTON s.r.o.,Platba/Arton najom billboardov 04 26 mudrak ke,"260115
 VS260115/SS02/KS"
-170,2026-04-24,-64.22,EUR,,Transakčná daň 23.04.2026,
-171,2026-04-24,2000.0,EUR,"Cicman Dalibor, Ing.",Platba,"2
+180,2026-04-24,-64.22,EUR,,Transakčná daň 23.04.2026,
+181,2026-04-24,2000.0,EUR,"Cicman Dalibor, Ing.",Platba,"2
 VS2/SS/KS"
-172,2026-04-23,-500.0,EUR,"Litterra, n. o.",Platba/Literra prenajom diskusia revuca 9.4.2026,"260100019
+182,2026-04-23,-500.0,EUR,"Litterra, n. o.",Platba/Literra prenajom diskusia revuca 9.4.2026,"260100019
 VS260100019/SS/KS"
-173,2026-04-23,-856.92,EUR,"CONFIDENCE MEDIA SR, s.r.o.",Platba/confidence media hanulik pezinok prenajom +produkcia billboard 06 2026,"2621060
+183,2026-04-23,-856.92,EUR,"CONFIDENCE MEDIA SR, s.r.o.",Platba/confidence media hanulik pezinok prenajom +produkcia billboard 06 2026,"2621060
 VS2621060/SS03/KS"
-174,2026-04-23,-1076.25,EUR,"Petit Press, a.s.",Platba/petitpress inzercia bb javorcikova 04 26,"2633100592
+184,2026-04-23,-1076.25,EUR,"Petit Press, a.s.",Platba/petitpress inzercia bb javorcikova 04 26,"2633100592
 VS2633100592/SS01/KS308"
-175,2026-04-23,-20.0,EUR,Michal Valašik,Platba/valasik licencia na web javorcikova,"20260042
+185,2026-04-23,-20.0,EUR,Michal Valašik,Platba/valasik licencia na web javorcikova,"20260042
 VS20260042/SS01/KS"
-176,2026-04-23,-1463.7,EUR,ARIES reklama s.r.o.,Platba/Aries mudrak reklamne predmety,"1020260040
+186,2026-04-23,-1463.7,EUR,ARIES reklama s.r.o.,Platba/Aries mudrak reklamne predmety,"1020260040
 VS1020260040/SS02/KS308"
-177,2026-04-23,-2078.7,EUR,"REGIONPRESS, s.r.o.",Platba/Regionpress KE+KSK reklama porvaznik mudrak 05 26,"664260053
+187,2026-04-23,-2078.7,EUR,"REGIONPRESS, s.r.o.",Platba/Regionpress KE+KSK reklama porvaznik mudrak 05 26,"664260053
 VS664260053/SS/KS"
-178,2026-04-23,-442.8,EUR,ARTON s.r.o.,Platba/arton tlac plagatov billboardy 05 26 porvaznik ke,"260159
+188,2026-04-23,-442.8,EUR,ARTON s.r.o.,Platba/arton tlac plagatov billboardy 05 26 porvaznik ke,"260159
 VS260159/SS12/KS"
-179,2026-04-23,-3247.2,EUR,ARTON s.r.o.,Platba/Arton najom billboardov 1.5-31.5.2026 porvaznik ke,"260158
+189,2026-04-23,-3247.2,EUR,ARTON s.r.o.,Platba/Arton najom billboardov 1.5-31.5.2026 porvaznik ke,"260158
 VS260158/SS12/KS"
-180,2026-04-23,-227.03,EUR,"LemonCreative, s.r.o.","Platba/LemonCreative tlac nalepky, letaky ke","26010119
+190,2026-04-23,-227.03,EUR,"LemonCreative, s.r.o.","Platba/LemonCreative tlac nalepky, letaky ke","26010119
 VS26010119/SS08/KS"
-181,2026-04-23,-1517.25,EUR,"LemonCreative, s.r.o.",Platba/LemonCreative noviny KE tlac,"26010118
+191,2026-04-23,-1517.25,EUR,"LemonCreative, s.r.o.",Platba/LemonCreative noviny KE tlac,"26010118
 VS26010118/SS08/KS"
-182,2026-04-23,-260.0,EUR,Vladimir Ferdinandy,Platba/tlac letakov revuca,"260078
+192,2026-04-23,-260.0,EUR,Vladimir Ferdinandy,Platba/tlac letakov revuca,"260078
 VS260078/SS05/KS8"
-183,2026-04-23,-25.68,EUR,,Transakčná daň 22.04.2026,
-184,2026-04-23,-4365.27,EUR,Policy Insights s. r. o.,PLATBA VA26042300398/policy insights komunalna kampan,VS2026006
-185,2026-04-22,-3059.13,EUR,"UNIMEDIA, s.r.o.",Platba/unimedia reklamna kampan outdoor KV KE zupan 03 26,"420260193
+193,2026-04-23,-25.68,EUR,,Transakčná daň 22.04.2026,
+194,2026-04-23,-4365.27,EUR,Policy Insights s. r. o.,PLATBA VA26042300398/policy insights komunalna kampan,VS2026006
+195,2026-04-22,-3059.13,EUR,"UNIMEDIA, s.r.o.",Platba/unimedia reklamna kampan outdoor KV KE zupan 03 26,"420260193
 VS420260193/SS12/KS"
-186,2026-04-22,50000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
-187,2026-04-22,-3360.61,EUR,"UNIMEDIA, s.r.o.",Platba/unimedia reklamna kampan outdoor KV KE zupan 04 26,"420260300
+196,2026-04-22,50000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
+197,2026-04-22,-3360.61,EUR,"UNIMEDIA, s.r.o.",Platba/unimedia reklamna kampan outdoor KV KE zupan 04 26,"420260300
 VS420260300/SS12/KS"
-188,2026-04-22,25.0,EUR,Gašparovičová Andrea Nina,Platba/dar komunál,
-189,2026-04-21,40.0,EUR,Tomáš Varga,Platba,"3
+198,2026-04-22,25.0,EUR,Gašparovičová Andrea Nina,Platba/dar komunál,
+199,2026-04-21,40.0,EUR,Tomáš Varga,Platba,"3
 VS3/SS/KS"
-190,2026-04-20,20.0,EUR,Daniela Nguyen Vanova,DE26042062054 RVDITR2604204906/VS - 3 (nsoci),
-191,2026-04-18,500.0,EUR,Štúrik Marián,Platba,"9
+200,2026-04-20,20.0,EUR,Daniela Nguyen Vanova,DE26042062054 RVDITR2604204906/VS - 3 (nsoci),
+201,2026-04-18,500.0,EUR,Štúrik Marián,Platba,"9
 VS9/SS/KS"
-192,2026-04-18,10.0,EUR,Soboličová Lucia,Platba,"3
+202,2026-04-18,10.0,EUR,Soboličová Lucia,Platba,"3
 VS3/SS/KS"
-193,2026-04-18,-8.0,EUR,,Transakčná daň 17.04.2026,
-194,2026-04-17,-0.39,EUR,,Transakčná daň 16.04.2026,
-195,2026-04-17,-2000.0,EUR,Dalibor Cicman,Platba/vratenie daru podla 85/2005 Z.z.,
-196,2026-04-16,-41.56,EUR,,Transakčná daň 15.04.2026,
-197,2026-04-16,25.0,EUR,Petra Majernikova,Platba/Dar komunal,"35
+203,2026-04-18,-8.0,EUR,,Transakčná daň 17.04.2026,
+204,2026-04-17,-0.39,EUR,,Transakčná daň 16.04.2026,
+205,2026-04-17,-2000.0,EUR,Dalibor Cicman,Platba/vratenie daru podla 85/2005 Z.z.,
+206,2026-04-16,-41.56,EUR,,Transakčná daň 15.04.2026,
+207,2026-04-16,25.0,EUR,Petra Majernikova,Platba/Dar komunal,"35
 VS35/SS/KS"
-198,2026-04-16,-97.54,EUR,grafon,Platba/grafon plagaty sufliarska,"6260728
+208,2026-04-16,-97.54,EUR,grafon,Platba/grafon plagaty sufliarska,"6260728
 VS6260728/SS04/KS308"
-199,2026-04-15,-7620.34,EUR,"UNIMEDIA, s.r.o.",Platba/unimedia outdoor reklamna kampan KV KE primator 04 26,"420260306
+209,2026-04-15,-7620.34,EUR,"UNIMEDIA, s.r.o.",Platba/unimedia outdoor reklamna kampan KV KE primator 04 26,"420260306
 VS420260306/SS02/KS"
-200,2026-04-15,-650.0,EUR,STONED MEDIA s.r.o.,Platba/stoned media inzercia led obrazovka 14.4-24.10.2026 pezinok hanulik,"26040005
+210,2026-04-15,-650.0,EUR,STONED MEDIA s.r.o.,Platba/stoned media inzercia led obrazovka 14.4-24.10.2026 pezinok hanulik,"26040005
 VS26040005/SS03/KS"
-201,2026-04-15,-345.0,EUR,ondreas,Platba/doplatenie dph ondreas navrh a spracovanie vizualnej identity sufliarska,"20260007
+211,2026-04-15,-345.0,EUR,ondreas,Platba/doplatenie dph ondreas navrh a spracovanie vizualnej identity sufliarska,"20260007
 VS20260007/SS04/KS"
-202,2026-04-15,-164.07,EUR,"Media Creative Production, spol. s r.o.","Platba/Media Creative Production tlac plagatov, letakov bb javorcikova","2612316
+212,2026-04-15,-164.07,EUR,"Media Creative Production, spol. s r.o.","Platba/Media Creative Production tlac plagatov, letakov bb javorcikova","2612316
 VS2612316/SS1/KS308"
-203,2026-04-15,-109.27,EUR,ARIES reklama s.r.o.,Platba/aries prezentacny pult ke,"1020260037
+213,2026-04-15,-109.27,EUR,ARIES reklama s.r.o.,Platba/aries prezentacny pult ke,"1020260037
 VS1020260037/SS/KS308"
-204,2026-04-15,-1500.0,EUR,Mgr. Martina Bartekova,Platba/bartekova manazment kampane bb javorska 03 26,"2026001
+214,2026-04-15,-1500.0,EUR,Mgr. Martina Bartekova,Platba/bartekova manazment kampane bb javorska 03 26,"2026001
 VS2026001/SS01/KS308"
-205,2026-04-15,25.0,EUR,Stanislav Dubovsky,PLATBA/Dar,"35
+215,2026-04-15,25.0,EUR,Stanislav Dubovsky,PLATBA/Dar,"35
 VS35/SS/KS"
-206,2026-04-15,2000.0,EUR,"Cicman Dalibor, Ing.",Platba,"2
+216,2026-04-15,2000.0,EUR,"Cicman Dalibor, Ing.",Platba,"2
 VS2/SS/KS"
-207,2026-04-14,-65.25,EUR,,Transakčná daň 13.04.2026,
-208,2026-04-14,100.0,EUR,Lubomir Susol,Platba/mudr. susol,"3
+217,2026-04-14,-65.25,EUR,,Transakčná daň 13.04.2026,
+218,2026-04-14,100.0,EUR,Lubomir Susol,Platba/mudr. susol,"3
 VS3/SS/KS"
-209,2026-04-13,50.0,EUR,Paulini Samuel,Platba,"3
+219,2026-04-13,50.0,EUR,Paulini Samuel,Platba,"3
 VS3/SS/KS"
-210,2026-04-13,10.0,EUR,MILOSLAV OŽVALD,Platba/PLATBA,"3
+220,2026-04-13,10.0,EUR,MILOSLAV OŽVALD,Platba/PLATBA,"3
 VS3/SS/KS"
-211,2026-04-13,-2410.8,EUR,More Design s. r. o.,Platba/more design dizajnove sluzby komunalne volby,"202612
+221,2026-04-13,-2410.8,EUR,More Design s. r. o.,Platba/more design dizajnove sluzby komunalne volby,"202612
 VS202612/SS/KS"
-212,2026-04-13,-368.58,EUR,grafon,"Platba/grafon letaky, plagaty sufliarska","6260668
+222,2026-04-13,-368.58,EUR,grafon,"Platba/grafon letaky, plagaty sufliarska","6260668
 VS6260668/SS04/KS308"
-213,2026-04-13,-3000.0,EUR,Andrea Nina Gašparovičová,Platba/Gasparovicova Manazment kampane Mudrak 03/2026,"2026004
+223,2026-04-13,-3000.0,EUR,Andrea Nina Gašparovičová,Platba/Gasparovicova Manazment kampane Mudrak 03/2026,"2026004
 VS2026004/SS02/KS"
-214,2026-04-13,-1500.0,EUR,ondreas,Platba/ondreas navrh a spracovanie vizualnej identity sufliarska,"20260007
+224,2026-04-13,-1500.0,EUR,ondreas,Platba/ondreas navrh a spracovanie vizualnej identity sufliarska,"20260007
 VS20260007/SS04/KS"
-215,2026-04-13,-12.18,EUR,Websupport s. r. o.,"Platba/lepsistarosta.sk, ke domena","1026125655
+225,2026-04-13,-12.18,EUR,Websupport s. r. o.,"Platba/lepsistarosta.sk, ke domena","1026125655
 VS1026125655/SS08/KS308"
-216,2026-04-13,-150.0,EUR,Samuel Snek,"Platba/snek, tb bb foto sluzby 31.3","1260017
+226,2026-04-13,-150.0,EUR,Samuel Snek,"Platba/snek, tb bb foto sluzby 31.3","1260017
 VS1260017/SS01/KS"
-217,2026-04-13,-172.0,EUR,"LemonCreative, s.r.o.","Platba/LemonCreative 2026/03 polyam, montaz ke","26010077
+227,2026-04-13,-172.0,EUR,"LemonCreative, s.r.o.","Platba/LemonCreative 2026/03 polyam, montaz ke","26010077
 VS26010077/SS08/KS"
-218,2026-04-13,-492.0,EUR,Cookies s. r. o.,Platba/Cookies s. r. o.: mini cookies ke,"26040201
+228,2026-04-13,-492.0,EUR,Cookies s. r. o.,Platba/Cookies s. r. o.: mini cookies ke,"26040201
 VS26040201/SS08/KS"
-219,2026-04-13,-184.5,EUR,Artforum Košice s.r.o.,Platba/artforum kosice diskusia prenajom priestorov 30.3.2026,"1151806
+229,2026-04-13,-184.5,EUR,Artforum Košice s.r.o.,Platba/artforum kosice diskusia prenajom priestorov 30.3.2026,"1151806
 VS1151806/SS0212/KS8"
-220,2026-04-13,-1000.0,EUR,krajci,Platba/Krajci manazovanie komunalnej a regionalnej kampane PS 03 26,"2026033101
+230,2026-04-13,-1000.0,EUR,krajci,Platba/Krajci manazovanie komunalnej a regionalnej kampane PS 03 26,"2026033101
 VS2026033101/SS/KS"
-221,2026-04-13,-372.16,EUR,"LFABRICA, s.r.o.",Platba/lfabrica zilina potlac textil stena,"24080753
+231,2026-04-13,-372.16,EUR,"LFABRICA, s.r.o.",Platba/lfabrica zilina potlac textil stena,"24080753
 VS24080753/SS4/KS8"
-222,2026-04-13,-403.7,EUR,"COLORgrafik, spol. s r.o.","Platba/colorgarfik tlacoviny letaky, vizitky, plagaty javorcikova 03 26","20260034
+232,2026-04-13,-403.7,EUR,"COLORgrafik, spol. s r.o.","Platba/colorgarfik tlacoviny letaky, vizitky, plagaty javorcikova 03 26","20260034
 VS20260034/SS01/KS"
-223,2026-04-13,-384.95,EUR,Marila trade s.r.o.,Platba/marila trade zbezpecenie tb javorcikova banska bystrica 31.3.26,"2026007
+233,2026-04-13,-384.95,EUR,Marila trade s.r.o.,Platba/marila trade zbezpecenie tb javorcikova banska bystrica 31.3.26,"2026007
 VS2026007/SS01/KS308"
-224,2026-04-13,-2000.0,EUR,Lenka Bikárová,Platba/Bikarova produkcia eventov kampan ke Mudrak 03 26,"20260004
+234,2026-04-13,-2000.0,EUR,Lenka Bikárová,Platba/Bikarova produkcia eventov kampan ke Mudrak 03 26,"20260004
 VS20260004/SS02/KS308"
-225,2026-04-13,-3862.2,EUR,CyberSoft s.r.o.,Platba/Cybersoft prenajom reklamnych ploch porvaznik 23ks 04 26,"26032302
+235,2026-04-13,-3862.2,EUR,CyberSoft s.r.o.,Platba/Cybersoft prenajom reklamnych ploch porvaznik 23ks 04 26,"26032302
 VS26032302/SS12/KS"
-226,2026-04-11,-22.33,EUR,,Transakčná daň 10.04.2026,
-227,2026-04-10,-2200.0,EUR,Martin Majdak,Platba/majdak reklamne sluzby mudrak 03 26,"20260304
+236,2026-04-11,-22.33,EUR,,Transakčná daň 10.04.2026,
+237,2026-04-10,-2200.0,EUR,Martin Majdak,Platba/majdak reklamne sluzby mudrak 03 26,"20260304
 VS20260304/SS02/KS"
-228,2026-04-10,10.0,EUR,Iglarova Renata,PLATBA/DAR,"4
+238,2026-04-10,10.0,EUR,Iglarova Renata,PLATBA/DAR,"4
 VS04/SS/KS"
-229,2026-04-10,-2976.6,EUR,ARTON s.r.o.,Platba/arton porvaznik najom billboardu 1.4-30.4.2026,"260113
+239,2026-04-10,-2976.6,EUR,ARTON s.r.o.,Platba/arton porvaznik najom billboardu 1.4-30.4.2026,"260113
 VS260113/SS12/KS"
-230,2026-04-10,-405.9,EUR,ARTON s.r.o.,Platba/arton porvaznik tlac plagatov,"260114
+240,2026-04-10,-405.9,EUR,ARTON s.r.o.,Platba/arton porvaznik tlac plagatov,"260114
 VS260114/SS12/KS"
-231,2026-04-09,-5.2,EUR,,Transakčná daň 08.04.2026,
-232,2026-04-09,500.0,EUR,Martina Medvecova,Platba/pre lepsi Mikulas,"4
+241,2026-04-09,-5.2,EUR,,Transakčná daň 08.04.2026,
+242,2026-04-09,500.0,EUR,Martina Medvecova,Platba/pre lepsi Mikulas,"4
 VS04/SS/KS"
-233,2026-04-09,5.0,EUR,"Ďurecová Ivana, Ing. arch., arch.",Platba,"4
+243,2026-04-09,5.0,EUR,"Ďurecová Ivana, Ing. arch., arch.",Platba,"4
 VS4/SS/KS"
-234,2026-04-09,25.0,EUR,Iveta Jászberényiová,Platba/dar,"35
+244,2026-04-09,25.0,EUR,Iveta Jászberényiová,Platba/dar,"35
 VS35/SS/KS"
-235,2026-04-08,-1300.0,EUR,Tomas Krjak,Platba/krjak organizacia kampane benesova,"20260001
+245,2026-04-08,-1300.0,EUR,Tomas Krjak,Platba/krjak organizacia kampane benesova,"20260001
 VS20260001/SS05/KS308"
-236,2026-04-07,25.0,EUR,Dalibor Žigo,Platba/Dar,"35
+246,2026-04-07,25.0,EUR,Dalibor Žigo,Platba/Dar,"35
 VS35/SS/KS"
-237,2026-04-07,60.0,EUR,RASTISLAV LETNICKY,Platba,"3
+247,2026-04-07,60.0,EUR,RASTISLAV LETNICKY,Platba,"3
 VS03/SS/KS"
-238,2026-04-07,25.0,EUR,Dalida Kondacova,Platba,"35
+248,2026-04-07,25.0,EUR,Dalida Kondacova,Platba,"35
 VS35/SS/KS"
-239,2026-04-07,500.0,EUR,Dusan Vigas,Platba,"1
+249,2026-04-07,500.0,EUR,Dusan Vigas,Platba,"1
 VS01/SS/KS"
-240,2026-04-04,25.0,EUR,"Kováčová Monika, JUDr.",Platba/Dar,"35
+250,2026-04-04,25.0,EUR,"Kováčová Monika, JUDr.",Platba/Dar,"35
 VS35/SS/KS"
-241,2026-04-04,25.0,EUR,"Krištúfek Michal, JUDr.",Platba/Dar Kristufkova,"35
+251,2026-04-04,25.0,EUR,"Krištúfek Michal, JUDr.",Platba/Dar Kristufkova,"35
 VS35/SS/KS"
-242,2026-04-02,25.0,EUR,Marian Brlaz,"Platba/dar, Marian Brlaz","35
+252,2026-04-02,25.0,EUR,Marian Brlaz,"Platba/dar, Marian Brlaz","35
 VS35/SS/KS"
-243,2026-04-02,25.0,EUR,Jakub Goda,Platba/Dar,"35
+253,2026-04-02,25.0,EUR,Jakub Goda,Platba/Dar,"35
 VS35/SS/KS"
-244,2026-04-02,25.0,EUR,Bízek Boris,Platba/dar,"35
+254,2026-04-02,25.0,EUR,Bízek Boris,Platba/dar,"35
 VS35/SS/KS"
-245,2026-04-01,-0.04,EUR,,Transakčná daň 31.03.2026,
-246,2026-03-31,-10.8,EUR,,Poplatky za transakcie,
-247,2026-03-31,-0.0,EUR,,Poplatok za balík,
-248,2026-03-31,5.0,EUR,Kristina Gajdosova,Platba,"4
+255,2026-04-01,-0.04,EUR,,Transakčná daň 31.03.2026,
+256,2026-03-31,-10.8,EUR,,Poplatky za transakcie,
+257,2026-03-31,-0.0,EUR,,Poplatok za balík,
+258,2026-03-31,5.0,EUR,Kristina Gajdosova,Platba,"4
 VS04/SS/KS"
-249,2026-03-31,-0.29,EUR,,Transakčná daň 30.03.2026,
-250,2026-03-30,-73.3,EUR,Marian Kmeťo,Platba/green garden pezinok hanulik obcerstvenie 26.3,"260001
+259,2026-03-31,-0.29,EUR,,Transakčná daň 30.03.2026,
+260,2026-03-30,-73.3,EUR,Marian Kmeťo,Platba/green garden pezinok hanulik obcerstvenie 26.3,"260001
 VS260001/SS03/KS308"
-251,2026-03-30,300.0,EUR,GALA LADISLAV,Platba/15,"15
+261,2026-03-30,300.0,EUR,GALA LADISLAV,Platba/15,"15
 VS15/SS/KS"
-252,2026-03-28,-44.44,EUR,,Transakčná daň 27.03.2026,
-253,2026-03-27,-130.0,EUR,STONED MEDIA s.r.o.,"Platba/stoned media, pezinok inzercia led obrazovka 6.3-5.4.2026","26030007
+262,2026-03-28,-44.44,EUR,,Transakčná daň 27.03.2026,
+263,2026-03-27,-130.0,EUR,STONED MEDIA s.r.o.,"Platba/stoned media, pezinok inzercia led obrazovka 6.3-5.4.2026","26030007
 VS26030007/SS03/KS"
-254,2026-03-27,-307.5,EUR,MULTIPRINT s.r.o.,Platba/multiprint tlacoviny letaky a plagaty mudrak,"20260082
+264,2026-03-27,-307.5,EUR,MULTIPRINT s.r.o.,Platba/multiprint tlacoviny letaky a plagaty mudrak,"20260082
 VS20260082/SS02/KS308"
-255,2026-03-27,-12.92,EUR,MULTIPRINT S.R.O.,Platba/multiprint tlacoviny mudrak letak,"20260074
+265,2026-03-27,-12.92,EUR,MULTIPRINT S.R.O.,Platba/multiprint tlacoviny mudrak letak,"20260074
 VS20260074/SS02/KS308"
-256,2026-03-27,-126.69,EUR,Nckr s. r. o.,Platba/nckr prenajom priestorov+catering pezinok hanulik,"2026001
+266,2026-03-27,-126.69,EUR,Nckr s. r. o.,Platba/nckr prenajom priestorov+catering pezinok hanulik,"2026001
 VS2026001/SS03/KS308"
-257,2026-03-27,-224.0,EUR,Bc. Patrik Kuchta,Platba/kuchta pocitacove sluzby 02 26 mudrak ke,"202601021
+267,2026-03-27,-224.0,EUR,Bc. Patrik Kuchta,Platba/kuchta pocitacove sluzby 02 26 mudrak ke,"202601021
 VS202601021/SS02/KS308"
-258,2026-03-27,-51.66,EUR,"LemonCreative, s.r.o.","Platba/LemonCreative tabule na bicykel , doska, folia mudrak ke","26010037
+268,2026-03-27,-51.66,EUR,"LemonCreative, s.r.o.","Platba/LemonCreative tabule na bicykel , doska, folia mudrak ke","26010037
 VS26010037/SS02/KS"
-259,2026-03-27,-811.8,EUR,ARTON s.r.o.,Platba/arton najom billboard mudrak ke 1.3-31.3.2026,"260074
+269,2026-03-27,-811.8,EUR,ARTON s.r.o.,Platba/arton najom billboard mudrak ke 1.3-31.3.2026,"260074
 VS260074/SS02/KS"
-260,2026-03-27,-688.8,EUR,"Pandan, s. r. o.",Platba/pandan recnicke pukty pre komunalnu kampan,"202603041
+270,2026-03-27,-688.8,EUR,"Pandan, s. r. o.",Platba/pandan recnicke pukty pre komunalnu kampan,"202603041
 VS202603041/SS01/KS05"
-261,2026-03-27,-5229.59,EUR,"UNIMEDIA, s.r.o.",Platba/unimedia outdoor reklamna kampan KV KE primator 03 26,"420260200
+271,2026-03-27,-5229.59,EUR,"UNIMEDIA, s.r.o.",Platba/unimedia outdoor reklamna kampan KV KE primator 03 26,"420260200
 VS420260200/SS02/KS"
-262,2026-03-27,-1076.25,EUR,GBS s.r.o.,Platba/gbs marketingove sluzby 02 26 r.valo,"260100023
+272,2026-03-27,-1076.25,EUR,GBS s.r.o.,Platba/gbs marketingove sluzby 02 26 r.valo,"260100023
 VS260100023/SS09/KS308"
-263,2026-03-27,-1800.0,EUR,Mgr. Michaela Gromová,Platba/gromova manazovanie kampane PK hanulik 02 26,"20260003
+273,2026-03-27,-1800.0,EUR,Mgr. Michaela Gromová,Platba/gromova manazovanie kampane PK hanulik 02 26,"20260003
 VS20260003/SS03/KS"
-264,2026-03-27,50000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
-265,2026-03-27,-644.41,EUR,"LFABRICA, s.r.o.","Platba/sufliarska lfabrica promo stolik, vlajka","24080742
+274,2026-03-27,50000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
+275,2026-03-27,-644.41,EUR,"LFABRICA, s.r.o.","Platba/sufliarska lfabrica promo stolik, vlajka","24080742
 VS24080742/SS4/KS8"
-266,2026-03-21,100.0,EUR,Erik Michalides,Platba,"3
+276,2026-03-21,100.0,EUR,Erik Michalides,Platba,"3
 VS3/SS/KS"
-267,2026-03-19,50.0,EUR,Lubomir Janecka,"Platba/Prispevok na kampan, Janecka","3
+277,2026-03-19,50.0,EUR,Lubomir Janecka,"Platba/Prispevok na kampan, Janecka","3
 VS3/SS/KS"
-268,2026-03-18,50.0,EUR,Elena Kralikova,Platba,"3
+278,2026-03-18,50.0,EUR,Elena Kralikova,Platba,"3
 VS3/SS/KS"
-269,2026-03-18,-2.32,EUR,,Transakčná daň 17.03.2026,
-270,2026-03-17,-579.33,EUR,ARIES reklama s.r.o.,Platba/Aries merch pera porvaznik,"1020260026
+279,2026-03-18,-2.32,EUR,,Transakčná daň 17.03.2026,
+280,2026-03-17,-579.33,EUR,ARIES reklama s.r.o.,Platba/Aries merch pera porvaznik,"1020260026
 VS1020260026/SS12/KS308"
-271,2026-03-17,50.0,EUR,Konečný Bohuš,Platba/Dar pre Juraja,"3
+281,2026-03-17,50.0,EUR,Konečný Bohuš,Platba/Dar pre Juraja,"3
 VS3/SS/KS"
-272,2026-03-16,20.0,EUR,Edita Jakubacova,Platba,"3
+282,2026-03-16,20.0,EUR,Edita Jakubacova,Platba,"3
 VS3/SS/KS"
-273,2026-03-14,-19.9,EUR,,Transakčná daň 13.03.2026,
-274,2026-03-13,-750.0,EUR,Michal Valašik,Platba/valasik tvorba webu dianajavorcikova.sk,"20260006
+283,2026-03-14,-19.9,EUR,,Transakčná daň 13.03.2026,
+284,2026-03-13,-750.0,EUR,Michal Valašik,Platba/valasik tvorba webu dianajavorcikova.sk,"20260006
 VS20260006/SS01/KS"
-275,2026-03-13,-39.36,EUR,MULTIPRINT s.r.o.,Platba/multiprint tlacoviny mudrak,"20260067
+285,2026-03-13,-39.36,EUR,MULTIPRINT s.r.o.,Platba/multiprint tlacoviny mudrak,"20260067
 VS20260067/SS02/KS308"
-276,2026-03-13,-12.3,EUR,MULTIPRINT s.r.o.,"Platba/multiprint tlac letak plagat, mudrak","20260064
+286,2026-03-13,-12.3,EUR,MULTIPRINT s.r.o.,"Platba/multiprint tlac letak plagat, mudrak","20260064
 VS20260064/SS02/KS308"
-277,2026-03-13,-263.0,EUR,Skofficz s. r. o.,"Platba/fotenie, vizas kandidata Javorcikova","261001
+287,2026-03-13,-263.0,EUR,Skofficz s. r. o.,"Platba/fotenie, vizas kandidata Javorcikova","261001
 VS261001/SS01/KS"
-278,2026-03-13,-250.0,EUR,Bagin Ľubomír,Platba/Bagin moderovanie podujatia town hall Pezinok,"2026346
+288,2026-03-13,-250.0,EUR,Bagin Ľubomír,Platba/Bagin moderovanie podujatia town hall Pezinok,"2026346
 VS2026346/SS03/KS"
-279,2026-03-13,-3000.0,EUR,Andrea Nina Gašparovičová,Platba/gasparovicova manazment kampan ke mudrak 02 26,"2026003
+289,2026-03-13,-3000.0,EUR,Andrea Nina Gašparovičová,Platba/gasparovicova manazment kampan ke mudrak 02 26,"2026003
 VS2026003/SS02/KS"
-280,2026-03-13,-660.02,EUR,"LemonCreative, s.r.o.","Platba/LemonCreative rollup, letak, polep holeczy","26010035
+290,2026-03-13,-660.02,EUR,"LemonCreative, s.r.o.","Platba/LemonCreative rollup, letak, polep holeczy","26010035
 VS26010035/SS08/KS"
-281,2026-03-12,-16.0,EUR,,Transakčná daň 11.03.2026,
-282,2026-03-11,-2000.0,EUR,Čifári Zuzana,VÝBER V HOTOVOSTI/vklad do pokladne,
-283,2026-03-11,-14.66,EUR,,Transakčná daň 10.03.2026,
-284,2026-03-10,-3665.4,EUR,"AKO, s.r.o.",Platba/AKO prieskum verejnej mienky VUC Kosice 20.2-26.2.2026,"102026
+291,2026-03-12,-16.0,EUR,,Transakčná daň 11.03.2026,
+292,2026-03-11,-2000.0,EUR,Čifári Zuzana,VÝBER V HOTOVOSTI/vklad do pokladne,
+293,2026-03-11,-14.66,EUR,,Transakčná daň 10.03.2026,
+294,2026-03-10,-3665.4,EUR,"AKO, s.r.o.",Platba/AKO prieskum verejnej mienky VUC Kosice 20.2-26.2.2026,"102026
 VS102026/SS12/KS"
-285,2026-03-05,-7.2,EUR,,Transakčná daň 04.03.2026,
-286,2026-03-04,-1200.0,EUR,Martin Majdak,Platba/majdak reklamne sluzby mudrak 02 26,"20260303
+295,2026-03-05,-7.2,EUR,,Transakčná daň 04.03.2026,
+296,2026-03-04,-1200.0,EUR,Martin Majdak,Platba/majdak reklamne sluzby mudrak 02 26,"20260303
 VS20260303/SS02/KS"
-287,2026-03-04,-600.0,EUR,Martin Majdak,Platba/majdak reklamne sluzby mudrak 01 26,"20260203
+297,2026-03-04,-600.0,EUR,Martin Majdak,Platba/majdak reklamne sluzby mudrak 01 26,"20260203
 VS20260203/SS02/KS"
-288,2026-03-04,-12.16,EUR,,Transakčná daň 03.03.2026,
-289,2026-03-03,-27.95,EUR,,Transakčná daň 02.03.2026,
-290,2026-03-03,500.0,EUR,"Prostredník Ondrej, Mgr., PhD.",Platba,"3
+298,2026-03-04,-12.16,EUR,,Transakčná daň 03.03.2026,
+299,2026-03-03,-27.95,EUR,,Transakčná daň 02.03.2026,
+300,2026-03-03,500.0,EUR,"Prostredník Ondrej, Mgr., PhD.",Platba,"3
 VS3/SS/KS"
-291,2026-03-03,-40.59,EUR,MULTIPRINT s.r.o.,"Platba/multiprint mudrak tlac letakov, menovky","20260056
+301,2026-03-03,-40.59,EUR,MULTIPRINT s.r.o.,"Platba/multiprint mudrak tlac letakov, menovky","20260056
 VS20260056/SS02/KS308"
-292,2026-03-03,-1000.0,EUR,"MVLVMK, s.r.o.",Platba/marketingove sluzby 02 26,"282220261
+302,2026-03-03,-1000.0,EUR,"MVLVMK, s.r.o.",Platba/marketingove sluzby 02 26,"282220261
 VS282220261/SS/KS"
-293,2026-03-03,-2000.0,EUR,Lenka Bikárová,"Platba/bikarova, produkcia eventov ke mudrak 02 26","20260002
+303,2026-03-03,-2000.0,EUR,Lenka Bikárová,"Platba/bikarova, produkcia eventov ke mudrak 02 26","20260002
 VS20260002/SS02/KS308"
-294,2026-03-02,-417.5,EUR,Mesto Pezinok,Platba/mesto pezinok prenajom DK 1.3 town hall hanulik,"20260103
+304,2026-03-02,-417.5,EUR,Mesto Pezinok,Platba/mesto pezinok prenajom DK 1.3 town hall hanulik,"20260103
 VS20260103/SS03/KS"
-295,2026-03-02,-3142.5,EUR,Mgr. Michaela Rýdza,Platba/ridza pezinok marketingove sluzby 01 26,"202602001
+305,2026-03-02,-3142.5,EUR,Mgr. Michaela Rýdza,Platba/ridza pezinok marketingove sluzby 01 26,"202602001
 VS202602001/SS03/KS"
-296,2026-03-02,-1000.0,EUR,"MVLVMK, s.r.o.",Platba/marketingove sluzby 01 26,"311220261
+306,2026-03-02,-1000.0,EUR,"MVLVMK, s.r.o.",Platba/marketingove sluzby 01 26,"311220261
 VS311220261/SS/KS"
-297,2026-03-02,-916.35,EUR,"Pandan, s. r. o.",Platba/pandan tlacoviny judita ilasova,"202602095
+307,2026-03-02,-916.35,EUR,"Pandan, s. r. o.",Platba/pandan tlacoviny judita ilasova,"202602095
 VS202602095/SS06/KS"
-298,2026-03-02,-1511.06,EUR,"Petit Press, a.s.","Platba/petittpress, inzercia sme.sk ke mudrak 03 26","262210046
+308,2026-03-02,-1511.06,EUR,"Petit Press, a.s.","Platba/petittpress, inzercia sme.sk ke mudrak 03 26","262210046
 VS262210046/SS02/KS"
-299,2026-03-02,-0.02,EUR,,Transakčná daň 28.02.2026,
-300,2026-02-28,-0.02,EUR,,Úroky,
-301,2026-02-28,-1.44,EUR,,Poplatky za transakcie,
-302,2026-02-28,-0.0,EUR,,Poplatok za balík,
-303,2026-02-26,990.0,EUR,"Sukupčák Martin, Ing.",Platba,"4
+309,2026-03-02,-0.02,EUR,,Transakčná daň 28.02.2026,
+310,2026-02-28,-0.02,EUR,,Úroky,
+311,2026-02-28,-1.44,EUR,,Poplatky za transakcie,
+312,2026-02-28,-0.0,EUR,,Poplatok za balík,
+313,2026-02-26,990.0,EUR,"Sukupčák Martin, Ing.",Platba,"4
 VS04/SS/KS"
-304,2026-02-26,-5.77,EUR,,Transakčná daň 25.02.2026,
-305,2026-02-25,-1.16,EUR,,Transakčná daň 24.02.2026,
-306,2026-02-25,-1000.0,EUR,Martin Sukupčák,Platba/vratenie daru podla 85/2005 Z.z.,
-307,2026-02-25,-442.8,EUR,"BUY NOW studio, s. r. o.","Platba/Graficke prace ku komunalnej kampani kandidata R. Valo, RS.","2026001
+314,2026-02-26,-5.77,EUR,,Transakčná daň 25.02.2026,
+315,2026-02-25,-1.16,EUR,,Transakčná daň 24.02.2026,
+316,2026-02-25,-1000.0,EUR,Martin Sukupčák,Platba/vratenie daru podla 85/2005 Z.z.,
+317,2026-02-25,-442.8,EUR,"BUY NOW studio, s. r. o.","Platba/Graficke prace ku komunalnej kampani kandidata R. Valo, RS.","2026001
 VS2026001/SS09/KS308"
-308,2026-02-24,-290.0,EUR,STONED MEDIA s.r.o.,"Platba/stoned media, pezinok inzercia led obrazovka 23.2-1.3.2026, fotosluzby","26020003
+318,2026-02-24,-290.0,EUR,STONED MEDIA s.r.o.,"Platba/stoned media, pezinok inzercia led obrazovka 23.2-1.3.2026, fotosluzby","26020003
 VS26020003/SS03/KS"
-309,2026-02-24,-10.41,EUR,,Transakčná daň 23.02.2026,
-310,2026-02-23,-2000.0,EUR,Mgr. Ján Olexa,Platba/olexa poradenske a konzultacne sluzby 01 26 bb kraj,"2026001
+319,2026-02-24,-10.41,EUR,,Transakčná daň 23.02.2026,
+320,2026-02-23,-2000.0,EUR,Mgr. Ján Olexa,Platba/olexa poradenske a konzultacne sluzby 01 26 bb kraj,"2026001
 VS2026001/SS/KS"
-311,2026-02-23,-602.7,EUR,More Design s. r. o.,Platba/more design dizajnove konzultacie rimavska sobota,"202603
+321,2026-02-23,-602.7,EUR,More Design s. r. o.,Platba/more design dizajnove konzultacie rimavska sobota,"202603
 VS202603/SS/KS"
-312,2026-02-20,-10.23,EUR,,Transakčná daň 19.02.2026,
-313,2026-02-19,-644.52,EUR,"ISPA, spol. s r.o.","Platba/ispa reklamny priestor billboardy Revuca 06, 07,09 26","26950056
+322,2026-02-20,-10.23,EUR,,Transakčná daň 19.02.2026,
+323,2026-02-19,-644.52,EUR,"ISPA, spol. s r.o.","Platba/ispa reklamny priestor billboardy Revuca 06, 07,09 26","26950056
 VS26950056/SS05/KS"
-314,2026-02-19,-1912.5,EUR,Mgr. Michaela Gromová,Platba/gromova manazovanie kampane PK hanulik 01 26,"20260001
+324,2026-02-19,-1912.5,EUR,Mgr. Michaela Gromová,Platba/gromova manazovanie kampane PK hanulik 01 26,"20260001
 VS20260001/SS03/KS"
-315,2026-02-19,-72.32,EUR,,Transakčná daň 18.02.2026,
-316,2026-02-18,-676.5,EUR,More Design s. r. o.,Platba/More Design web dizajn komunalny kandidati,"202606
+325,2026-02-19,-72.32,EUR,,Transakčná daň 18.02.2026,
+326,2026-02-18,-676.5,EUR,More Design s. r. o.,Platba/More Design web dizajn komunalny kandidati,"202606
 VS202606/SS/KS"
-317,2026-02-18,-830.25,EUR,"Pandan, s. r. o.","Platba/pandan, rs kampan valo beachflag, rollup, recnicky pult","202601040
+327,2026-02-18,-830.25,EUR,"Pandan, s. r. o.","Platba/pandan, rs kampan valo beachflag, rollup, recnicky pult","202601040
 VS202601040/SS09/KS"
-318,2026-02-18,-1000.0,EUR,Lenka Bikarova,"Platba/bikarova, produkcia eventov ke mudrak 01 26","20260001
+328,2026-02-18,-1000.0,EUR,Lenka Bikarova,"Platba/bikarova, produkcia eventov ke mudrak 01 26","20260001
 VS20260001/SS02/KS308"
-319,2026-02-18,-7189.84,EUR,"UNIMEDIA, s.r.o.",Platba/unimedia outdoor reklamna kampan KV KE primator 02 26,"420260102
+329,2026-02-18,-7189.84,EUR,"UNIMEDIA, s.r.o.",Platba/unimedia outdoor reklamna kampan KV KE primator 02 26,"420260102
 VS420260102/SS02/KS"
-320,2026-02-18,-3000.0,EUR,Andrea Nina Gasparovicova,Platba/gasparovicova manazment kampan ke mudrak 01 26,"2026002
+330,2026-02-18,-3000.0,EUR,Andrea Nina Gasparovicova,Platba/gasparovicova manazment kampan ke mudrak 01 26,"2026002
 VS2026002/SS02/KS"
-321,2026-02-18,-90.0,EUR,Divadlo NA PERONE,Platba/divadlo na perone ke workshop 02 26,"282026
+331,2026-02-18,-90.0,EUR,Divadlo NA PERONE,Platba/divadlo na perone ke workshop 02 26,"282026
 VS282026/SS02/KS"
-322,2026-02-18,-338.25,EUR,More Design s. r. o.,"Platba/more design, billboard dizajn 01 26 ke mudrak","202604
+332,2026-02-18,-338.25,EUR,More Design s. r. o.,"Platba/more design, billboard dizajn 01 26 ke mudrak","202604
 VS202604/SS02/KS"
-323,2026-02-18,-1455.09,EUR,"Petit Press, a.s.","Platba/petittpress, inzercia sme.sk ke mudrak 02/26","262210039
+333,2026-02-18,-1455.09,EUR,"Petit Press, a.s.","Platba/petittpress, inzercia sme.sk ke mudrak 02/26","262210039
 VS262210039/SS02/KS"
-324,2026-02-18,-600.0,EUR,LoraVeber s. r. o.,"Platba/loraveber, ke kameraman sluzby 01 26","22026
+334,2026-02-18,-600.0,EUR,LoraVeber s. r. o.,"Platba/loraveber, ke kameraman sluzby 01 26","22026
 VS022026/SS02/KS"
-325,2026-02-18,-45.0,EUR,Divadlo NA PERONE,Platba/divadlo na perone ke workshop,"272026
+335,2026-02-18,-45.0,EUR,Divadlo NA PERONE,Platba/divadlo na perone ke workshop,"272026
 VS272026/SS02/KS"
-326,2026-02-18,-2327.16,EUR,"ISPA, spol. s r.o.",Platba/ispa reklamny priestor billboardy Banska bystrica 1.9-31.10.2026,"26950063
+336,2026-02-18,-2327.16,EUR,"ISPA, spol. s r.o.",Platba/ispa reklamny priestor billboardy Banska bystrica 1.9-31.10.2026,"26950063
 VS26950063/SS01/KS"
-327,2026-02-18,-285.36,EUR,ABYSS s.r.o.,"Platba/abyss sro, vesty dobrovolnici mudrak","32602006
+337,2026-02-18,-285.36,EUR,ABYSS s.r.o.,"Platba/abyss sro, vesty dobrovolnici mudrak","32602006
 VS32602006/SS02/KS8"
-328,2026-02-18,-242.0,EUR,polep.sk s.r.o.,"Platba/polep.sk letaky tlac, valo","20260104
+338,2026-02-18,-242.0,EUR,polep.sk s.r.o.,"Platba/polep.sk letaky tlac, valo","20260104
 VS20260104/SS09/KS"
-329,2026-02-18,-3.69,EUR,,Transakčná daň 17.02.2026,
-330,2026-02-18,1000.0,EUR,"Sukupčák Martin, Ing.",Platba,"4
+339,2026-02-18,-3.69,EUR,,Transakčná daň 17.02.2026,
+340,2026-02-18,1000.0,EUR,"Sukupčák Martin, Ing.",Platba,"4
 VS04/SS/KS"
-331,2026-02-17,-110.7,EUR,ARTON s.r.o.,Platba/arton tlac plagatov ke mudrak 02 26,"260021
+341,2026-02-17,-110.7,EUR,ARTON s.r.o.,Platba/arton tlac plagatov ke mudrak 02 26,"260021
 VS260021/SS2/KS"
-332,2026-02-17,-811.8,EUR,ARTON s.r.o.,Platba/arton najom billboard 1.2-28.2.26 mudrak ke,"260020
+342,2026-02-17,-811.8,EUR,ARTON s.r.o.,Platba/arton najom billboard 1.2-28.2.26 mudrak ke,"260020
 VS260020/SS02/KS"
-333,2026-02-12,-8.5,EUR,,Transakčná daň 11.02.2026,
-334,2026-02-11,-2124.21,EUR,"CONFIDENCE MEDIA SR, s.r.o.",Platba/confidence media hanulik pezinok prenajom +produkcia billboard 09-10 2026,"2621017
+343,2026-02-12,-8.5,EUR,,Transakčná daň 11.02.2026,
+344,2026-02-11,-2124.21,EUR,"CONFIDENCE MEDIA SR, s.r.o.",Platba/confidence media hanulik pezinok prenajom +produkcia billboard 09-10 2026,"2621017
 VS2621017/SS03/KS"
-335,2026-02-09,50000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
-336,2026-02-06,-10.0,EUR,DORUČENIE KARTY - POBOČKA,DORUČENIE KARTY - POBOČKA DORUČENIE KARTY - POBOČKA,
+345,2026-02-09,50000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
+346,2026-02-06,-10.0,EUR,DORUČENIE KARTY - POBOČKA,DORUČENIE KARTY - POBOČKA DORUČENIE KARTY - POBOČKA,
