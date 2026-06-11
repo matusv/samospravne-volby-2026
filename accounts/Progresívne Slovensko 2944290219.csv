@@ -6,94 +6,23 @@ VS10120394/SS02/KS"
 VS26060101/SS12/KS"
 3,2026-06-08,-1500.0,EUR,Mgr. Martina Bartekova,Platba/bartekova manazment kampane bb javorcikova 05 26,"2026003
 VS2026003/SS01/KS308"
-4,2026-06-08,-1205.4,EUR,Multiprint s.r.o.,"
-                        Platba
-                    /
-                        Multiprint - tlac a spracovanie letaky, nalepky - Ke Mudrak 05/2026
-                    ","
-                        20260178VS20260178/SS02/KS308
-                    "
-5,2026-06-08,-1033.2,EUR,"
-                            More Design s. r. o.
-                    ","
-                        Platba
-                    /
-                        More Design s.r.o.: dizajn pre KE Mudrak 04/2026
-                    ","
-                        202617VS202617/SS02/KS
-                    "
-6,2026-06-08,-3000.0,EUR,"
-                            Andrea Nina Gašparovičová
-                    ","
-                        Platba
-                    /
-                        gasparovicova Manazment kampane ke Mudrak 05/2026
-                    ","
-                        2026006VS2026006/SS02/KS
-                    "
-7,2026-06-08,-88.56,EUR,"
-                            Multiprint s.r.o.
-                    ","
-                        Platba
-                    /
-                        Multiprint - tlac letakov - Vysne Opatske - Lucia Rafaj Becova 05/2026
-                    ","
-                        20260180VS20260180/SS/KS308
-                    "
-8,2026-06-08,-80.0,EUR,"
-                            Mesto Kosice
-                    ","
-                        Platba
-                    /
-                        spravny poplatok k propagacii knihy porvaznik ke 25.5.2026
-                    ","
-                        3451260223VS3451260223/SS012/KS
-                    "
-9,2026-06-08,-103.32,EUR,"
-                            Multiprint s.r.o.
-                    ","
-                        Platba
-                    /
-                        Multiprint - tlac letakov - Vysne Opatske - Lucia Rafaj Becova 06/2026
-                    ","
-                        20260188VS20260188/SS18/KS308
-                    "
-10,2026-06-08,3000.0,EUR,"
-                            Robert Dusik
-                    ","
-                        Platba
-                    /
-                        Dar - Volby: Marian Porvaznik
-                    ","
-                        
-                    "
-11,2026-06-06,-3.92,EUR,"
-                            
-                    ","
-                        Transakčná daň 05.06.2026
-                    /
-                        
-                    ","
-                        
-                    "
-12,2026-06-05,-78.53,EUR,"
-                            
-                    ","
-                        Transakčná daň 04.06.2026
-                    /
-                        
-                    ","
-                        
-                    "
-13,2026-06-05,-479.7,EUR,"
-                            More Design s. r. o.
-                    ","
-                        Platba
-                    /
-                        More Design s.r.o. vyvoj webu KSK KE Porvaznik 04/2026
-                    ","
-                        202616VS202616/SS12/KS
-                    "
+4,2026-06-08,-1205.4,EUR,Multiprint s.r.o.,"Platba/Multiprint - tlac a spracovanie letaky, nalepky - Ke Mudrak 05/2026","20260178
+VS20260178/SS02/KS308"
+5,2026-06-08,-1033.2,EUR,More Design s. r. o.,Platba/More Design s.r.o.: dizajn pre KE Mudrak 04/2026,"202617
+VS202617/SS02/KS"
+6,2026-06-08,-3000.0,EUR,Andrea Nina Gašparovičová,Platba/gasparovicova Manazment kampane ke Mudrak 05/2026,"2026006
+VS2026006/SS02/KS"
+7,2026-06-08,-88.56,EUR,Multiprint s.r.o.,Platba/Multiprint - tlac letakov - Vysne Opatske - Lucia Rafaj Becova 05/2026,"20260180
+VS20260180/SS/KS308"
+8,2026-06-08,-80.0,EUR,Mesto Kosice,Platba/spravny poplatok k propagacii knihy porvaznik ke 25.5.2026,"3451260223
+VS3451260223/SS012/KS"
+9,2026-06-08,-103.32,EUR,Multiprint s.r.o.,Platba/Multiprint - tlac letakov - Vysne Opatske - Lucia Rafaj Becova 06/2026,"20260188
+VS20260188/SS18/KS308"
+10,2026-06-08,3000.0,EUR,Robert Dusik,Platba/Dar - Volby: Marian Porvaznik,
+11,2026-06-06,-3.92,EUR,,Transakčná daň 05.06.2026,
+12,2026-06-05,-78.53,EUR,,Transakčná daň 04.06.2026,
+13,2026-06-05,-479.7,EUR,More Design s. r. o.,Platba/More Design s.r.o. vyvoj webu KSK KE Porvaznik 04/2026,"202616
+VS202616/SS12/KS"
 14,2026-06-05,-500.0,EUR,Mesto Gelnica,Platba/Mesto Gelnica - prenajom plochy na promo knihy KSK KE Porvaznik 22.5.2026,"9919600275
 VS9919600275/SS12/KS"
 15,2026-06-04,10.0,EUR,"Futáková Janka, Mgr.",Platba,"1
