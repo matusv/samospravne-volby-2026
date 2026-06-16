@@ -6,94 +6,24 @@ VS6/SS/KS"
 2,2026-06-12,900.0,EUR,Bc.Jana Gajdosova,Platba,"4
 VS04/SS/KS"
 3,2026-06-12,-44.45,EUR,,Transakčná daň 11.06.2026,
-4,2026-06-12,100.0,EUR,MICHAL DEMO,"
-                        PLATBA
-                    /
-                        PLATBA
-                    ","
-                        8VS0000000008/SS/KS
-                    "
-5,2026-06-12,150.0,EUR,"
-                            Horváth Imrich
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        1VS1/SS/KS
-                    "
-6,2026-06-12,20.0,EUR,"
-                            Marcinek Opiňárová Martina, Mgr.
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        
-                    "
-7,2026-06-11,-115.0,EUR,"
-                            Ondreáš Juraj, Ing. + 421 DESIGN STUDIO
-                    ","
-                        Platba
-                    /
-                        +421 design studio ondreas graficke prace kampan sufliarska 05/26 doplatok DPH
-                    ","
-                        20260012VS20260012/SS04/KS
-                    "
-8,2026-06-11,10.0,EUR,"
-                            Miroslav Razga
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        1VS1/SS/KS
-                    "
-9,2026-06-11,-8.0,EUR,"
-                            
-                    ","
-                        Transakčná daň 10.06.2026
-                    /
-                        
-                    ","
-                        
-                    "
-10,2026-06-11,100.0,EUR,"
-                            Judita Ilasova
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        6VS6/SS/KS
-                    "
-11,2026-06-11,150.0,EUR,"
-                            Andrej Šimko
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        6VS6/SS/KS
-                    "
-12,2026-06-11,500.0,EUR,"
-                            Anton Moravek
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        6VS6/SS/KS
-                    "
-13,2026-06-11,-254.22,EUR,"
-                            Grafprint
-                    ","
-                        Platba
-                    /
-                        grafprint merch tlac BB javorcikova 05/2026
-                    ","
-                        426160VS426160/SS01/KS
-                    "
+4,2026-06-12,100.0,EUR,MICHAL DEMO,PLATBA/PLATBA,"8
+VS0000000008/SS/KS"
+5,2026-06-12,150.0,EUR,Horváth Imrich,Platba,"1
+VS1/SS/KS"
+6,2026-06-12,20.0,EUR,"Marcinek Opiňárová Martina, Mgr.",Platba,
+7,2026-06-11,-115.0,EUR,"Ondreáš Juraj, Ing. + 421 DESIGN STUDIO",Platba/+421 design studio ondreas graficke prace kampan sufliarska 05/26 doplatok DPH,"20260012
+VS20260012/SS04/KS"
+8,2026-06-11,10.0,EUR,Miroslav Razga,Platba,"1
+VS1/SS/KS"
+9,2026-06-11,-8.0,EUR,,Transakčná daň 10.06.2026,
+10,2026-06-11,100.0,EUR,Judita Ilasova,Platba,"6
+VS6/SS/KS"
+11,2026-06-11,150.0,EUR,Andrej Šimko,Platba,"6
+VS6/SS/KS"
+12,2026-06-11,500.0,EUR,Anton Moravek,Platba,"6
+VS6/SS/KS"
+13,2026-06-11,-254.22,EUR,Grafprint,Platba/grafprint merch tlac BB javorcikova 05/2026,"426160
+VS426160/SS01/KS"
 14,2026-06-11,-2000.0,EUR,Lucia Janšová,Platba/Jansova - produkcia kampan Ke KSK Porvaznik 05/2026,"20260003
 VS20260003/SS12/KS"
 15,2026-06-11,-500.0,EUR,"Ondreáš Juraj, Ing. + 421 DESIGN STUDIO",Platba/+421 design studio ondreas graficke prace kampan sufliarska 05/26,"20260012
@@ -111,14 +41,51 @@ VS260010/SS12/KS"
 21,2026-06-11,-2000.0,EUR,Lenka Bikárová,Platba/Bikarova produkcia eventov kampan ke Mudrak 05/26,"20260006
 VS20260006/SS02/KS308"
 22,2026-06-10,3000.0,EUR,Erdélyi Ladislav,Platba,
-23,2026-06-10,100.0,EUR,PhDr.Jarmila Pribulova,Platba,"6
-VS6/SS/KS"
-24,2026-06-10,-1000.0,EUR,Čifári Zuzana,VÝBER V HOTOVOSTI/vklad do pokladne,
-25,2026-06-10,100.0,EUR,NOEMI RACZOVA,PLATBA/PLATBA,"8
-VS0000000008/SS/KS"
-26,2026-06-10,3000.0,EUR,Lubomira Benesova,Platba/Komunalna kampan Luba Benesova,"5
-VS05/SS/KS"
-27,2026-06-09,-31.71,EUR,,Transakčná daň 08.06.2026,
+23,2026-06-10,100.0,EUR,"
+                            PhDr.Jarmila Pribulova
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        6VS6/SS/KS
+                    "
+24,2026-06-10,-1000.0,EUR,"
+                            Čifári Zuzana
+                    ","
+                        VÝBER V HOTOVOSTI
+                    /
+                        vklad do pokladne
+                    ","
+                        
+                    "
+25,2026-06-10,100.0,EUR,"
+                            NOEMI RACZOVA
+                    ","
+                        PLATBA
+                    /
+                        PLATBA
+                    ","
+                        8VS0000000008/SS/KS
+                    "
+26,2026-06-10,3000.0,EUR,"
+                            Lubomira Benesova
+                    ","
+                        Platba
+                    /
+                        Komunalna kampan Luba Benesova
+                    ","
+                        5VS05/SS/KS
+                    "
+27,2026-06-09,-31.71,EUR,"
+                            
+                    ","
+                        Transakčná daň 08.06.2026
+                    /
+                        
+                    ","
+                        
+                    "
 28,2026-06-08,-169.2,EUR,swallows project s.r.o.,Platba/swallows project - podpora kampane malovanie - Ke Mudrak 06/2026,"10120394
 VS10120394/SS02/KS"
 29,2026-06-08,-750.0,EUR,CyberSoft s.r.o.,Platba/CyberSoft - prenajom reklamnych ploch - KSK KE porvaznik 06-08/2026,"26060101
