@@ -1,55 +1,56 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2026-06-15,10.0,Bezhotovostný príjem,Minarechova Sona,"?/DO2026-06-15/SP, NOT PROVIDED",,,,Minarechova Sona
-1,2026-06-11,20.0,Bezhotovostný príjem,Mgr. Zuzana Novakova,?/DO2026-06-10/SPPrispevok Sala,,,,Mgr. Zuzana Novakova
-2,2026-06-08,20.0,Bezhotovostný príjem,Michal Toma,?/DO2026-06-07/SPmesacny prispevok Michal Toma,,,,Michal Toma
-3,2026-06-05,20.0,Bezhotovostný príjem,IVAN VLK,?/DO2026-06-05/SPPRISPEVOK SALA,,,,IVAN VLK
-4,2026-06-02,20.0,Bezhotovostný príjem,Schreiber Szarková D,"?/DO2026-06-01/SPprispevok Sala, prispevok Sala",,,,Schreiber Szarková D
-5,2026-05-27,990.0,Okamžitá prichádzajúca Europlatba,Paulina Alfoldiova,,,,,Paulina Alfoldiova
-6,2026-05-27,990.0,Okamžitá prichádzajúca Europlatba,Peter Alfoldi,,,,,Peter Alfoldi
-7,2026-05-26,30.0,Bezhotovostný príjem,Kovacova Katarina,podpora Sala,,,,Kovacova Katarina
-8,2026-05-24,20.0,Platba prevodom v rámci banky,"Ondrušková, Gabriela",,,,,príspevok Šaľa
-9,2026-05-23,20.0,Okamžitá prichádzajúca Europlatba,Juraj Ondruska,Prispevok na kampan,,,,Juraj Ondruska
-10,2026-05-22,30.0,Bezhotovostný príjem,MARTIN JAKUS,?/DO2026-05-22/SPPRISPEVOK SALA,,,,MARTIN JAKUS
-11,2026-05-19,50.0,Okamžitá prichádzajúca Europlatba,RAFAJDUSOVA MILENA,?/DO2026-05-19/SP,,,,RAFAJDUSOVA MILENA
-12,2026-05-18,20.0,Bezhotovostný príjem,MATAJS JAKUB,?/DO2026-05-18/SP,,,,MATAJS JAKUB
-13,2026-05-18,30.0,Okamžitá prichádzajúca Europlatba,Peter Baláž,Podpora Balaz,,,,Peter Baláž
-14,2026-05-15,10.0,Bezhotovostný príjem,Minarechova Sona,"?/DO2026-05-15/SP, NOT PROVIDED",,,,Minarechova Sona
-15,2026-05-12,30.0,Okamžitá prichádzajúca Europlatba,"Petrušek Boris, Mgr.",", kampan 26",,,,"Petrušek Boris, Mgr."
-16,2026-05-11,20.0,Bezhotovostný príjem,Mgr. Zuzana Novakova,?/DO2026-05-10/SPPrispevok Sala,,,,Mgr. Zuzana Novakova
-17,2026-05-06,20.0,Bezhotovostný príjem,IVAN VLK,?/DO2026-05-06/SPPRISPEVOK SALA,,,,IVAN VLK
-18,2026-05-06,20.0,Okamžitá prichádzajúca Europlatba,Michal Toma,mesacny prispevok Michal Toma,,,,Michal Toma
-19,2026-05-05,-88.19,Transakcia kartou,,"Nákup: QUANTUMTRAIL,  Korunni 2569/108 Vinohrady, PRAHA 10, 101 00, CZE, dne 4.5.2026, částka  88.19 EUR",,4368,,"Nákup: QUANTUMTRAIL,  Korunni 2569/108 Vinohrady, PRAHA 10, 101 00, CZE, dne 4.5.2026, částka  88.19 EUR"
-20,2026-05-04,20.0,Bezhotovostný príjem,Schreiber Szarková D,"?/DO2026-04-30/SPprispevok Sala, prispevok Sala",,,,Schreiber Szarková D
-21,2026-04-24,30.0,Bezhotovostný príjem,Kovacova Katarina,podpora Sala,,,,Kovacova Katarina
-22,2026-04-23,30.0,Bezhotovostný príjem,MARTIN JAKUS,?/DO2026-04-23/SPPRISPEVOK SALA,,,,MARTIN JAKUS
-23,2026-04-18,30.0,Okamžitá prichádzajúca Europlatba,Peter Baláž,Podpora Balaz,,,,Peter Baláž
-24,2026-04-17,30.0,Okamžitá prichádzajúca Europlatba,Zuzana Marekova,Zuzana Marekova,,,,Zuzana Marekova
-25,2026-04-17,30.0,Okamžitá prichádzajúca Europlatba,BACA PETER,?/DO2026-04-17/SP,0308,,,BACA PETER
-26,2026-04-17,150.0,Okamžitá prichádzajúca Europlatba,Michael Simek,Kampan 2026,,,,Michael Simek
-27,2026-04-17,20.0,Bezhotovostný príjem,MATAJS JAKUB,?/DO2026-04-17/SP,,,,MATAJS JAKUB
-28,2026-04-17,30.0,Okamžitá prichádzajúca Europlatba,"Petrušek Boris, Mgr.",", kampan 26",,,,"Petrušek Boris, Mgr."
-29,2026-04-15,10.0,Bezhotovostný príjem,Minarechova Sona,"?/DO2026-04-15/SP, NOT PROVIDED",,,,Minarechova Sona
-30,2026-04-13,20.0,Bezhotovostný príjem,Mgr. Zuzana Novakova,?/DO2026-04-10/SPPrispevok Sala,,,,Mgr. Zuzana Novakova
-31,2026-04-06,20.0,Okamžitá prichádzajúca Europlatba,Michal Toma,mesacny prispevok Michal Toma,,,,Michal Toma
-32,2026-04-02,20.0,Bezhotovostný príjem,IVAN VLK,?/DO2026-04-02/SPPRISPEVOK SALA,,,,IVAN VLK
-33,2026-04-02,20.0,Bezhotovostný príjem,Schreiber Szarková D,"?/DO2026-04-01/SPprispevok Sala, prispevok Sala",,,,Schreiber Szarková D
-34,2026-03-24,30.0,Bezhotovostný príjem,Kovacova Katarina,podpora Sala,,,,Kovacova Katarina
-35,2026-03-23,30.0,Bezhotovostný príjem,MARTIN JAKUS,?/DO2026-03-23/SPPRISPEVOK SALA,,,,MARTIN JAKUS
-36,2026-03-23,30.0,Okamžitá prichádzajúca Europlatba,"Petrušek Boris, Mgr.",", kampan 26",,,,"Petrušek Boris, Mgr."
-37,2026-03-20,50.0,Okamžitá prichádzajúca Europlatba,Marek Lences,prispevok Sala,,,,Marek Lences
-38,2026-03-20,100.0,Okamžitá prichádzajúca Europlatba,SL Team s.r.o.,Prispevok na kampan - financny dar,0558,20032026,,SL Team s.r.o.
-39,2026-03-17,20.0,Bezhotovostný príjem,MATAJS JAKUB,?/DO2026-03-17/SP,,,,MATAJS JAKUB
-40,2026-03-16,10.0,Bezhotovostný príjem,Minarechova Sona,"?/DO2026-03-15/SP, NOT PROVIDED",,,,Minarechova Sona
-41,2026-03-11,20.0,Bezhotovostný príjem,Mgr. Zuzana Novakova,?/DO2026-03-10/SPPrispevok Sala,,,,Mgr. Zuzana Novakova
-42,2026-03-11,-2.0,Transakčná daň - použitie platobnej karty,,,,4368,,
-43,2026-03-11,-90.19,Transakcia kartou,,"Nákup: QUANTUMTRAIL,  Korunni 2569/108 Vinohrady, PRAHA 10, 101 00, CZE, dne 10.3.2026, částka  90.19 EUR",,4368,,"Nákup: QUANTUMTRAIL,  Korunni 2569/108 Vinohrady, PRAHA 10, 101 00, CZE, dne 10.3.2026, částka  90.19 EUR"
-44,2026-03-06,20.0,Bezhotovostný príjem,IVAN VLK,?/DO2026-03-06/SPPRISPEVOK SALA,,,,IVAN VLK
-45,2026-03-02,20.0,Bezhotovostný príjem,Schreiber Szarková D,"?/DO2026-02-27/SPprispevok Sala, prispevok Sala",,,,Schreiber Szarková D
-46,2026-03-01,300.0,Okamžitá prichádzajúca Europlatba,Peter Balaz,Peter Balaz,,,,Peter Balaz
-47,2026-02-24,30.0,Bezhotovostný príjem,MARTIN JAKUS,?/DO2026-02-23/SPPRISPEVOK SALA,,,,MARTIN JAKUS
-48,2026-02-24,30.0,Bezhotovostný príjem,Kovacova Katarina,podpora Sala,,,,Kovacova Katarina
-49,2026-02-18,50.0,Okamžitá prichádzajúca Europlatba,"Petrušek Boris, Mgr.",", kampan 26",,,,"Petrušek Boris, Mgr."
-50,2026-02-16,10.0,Bezhotovostný príjem,Minarechova Sona,"?/DO2026-02-15/SP, NOT PROVIDED",,,,Minarechova Sona
-51,2026-02-13,50.0,Okamžitá prichádzajúca Europlatba,"Kántorová Ingrid, In",,,,,"Kántorová Ingrid, In"
-52,2026-02-11,20.0,Bezhotovostný príjem,Mgr. Zuzana Novakova,?/DO2026-02-10/SPPrispevok Sala,,,,Mgr. Zuzana Novakova
-53,2026-02-06,20.0,Bezhotovostný príjem,IVAN VLK,?/DO2026-02-06/SPPRISPEVOK SALA,,,,IVAN VLK
+0,2026-06-17,20.0,Bezhotovostný príjem,MATAJS JAKUB,?/DO2026-06-17/SP,,,,MATAJS JAKUB
+1,2026-06-15,10.0,Bezhotovostný príjem,Minarechova Sona,"?/DO2026-06-15/SP, NOT PROVIDED",,,,Minarechova Sona
+2,2026-06-11,20.0,Bezhotovostný príjem,Mgr. Zuzana Novakova,?/DO2026-06-10/SPPrispevok Sala,,,,Mgr. Zuzana Novakova
+3,2026-06-08,20.0,Bezhotovostný príjem,Michal Toma,?/DO2026-06-07/SPmesacny prispevok Michal Toma,,,,Michal Toma
+4,2026-06-05,20.0,Bezhotovostný príjem,IVAN VLK,?/DO2026-06-05/SPPRISPEVOK SALA,,,,IVAN VLK
+5,2026-06-02,20.0,Bezhotovostný príjem,Schreiber Szarková D,"?/DO2026-06-01/SPprispevok Sala, prispevok Sala",,,,Schreiber Szarková D
+6,2026-05-27,990.0,Okamžitá prichádzajúca Europlatba,Paulina Alfoldiova,,,,,Paulina Alfoldiova
+7,2026-05-27,990.0,Okamžitá prichádzajúca Europlatba,Peter Alfoldi,,,,,Peter Alfoldi
+8,2026-05-26,30.0,Bezhotovostný príjem,Kovacova Katarina,podpora Sala,,,,Kovacova Katarina
+9,2026-05-24,20.0,Platba prevodom v rámci banky,"Ondrušková, Gabriela",,,,,príspevok Šaľa
+10,2026-05-23,20.0,Okamžitá prichádzajúca Europlatba,Juraj Ondruska,Prispevok na kampan,,,,Juraj Ondruska
+11,2026-05-22,30.0,Bezhotovostný príjem,MARTIN JAKUS,?/DO2026-05-22/SPPRISPEVOK SALA,,,,MARTIN JAKUS
+12,2026-05-19,50.0,Okamžitá prichádzajúca Europlatba,RAFAJDUSOVA MILENA,?/DO2026-05-19/SP,,,,RAFAJDUSOVA MILENA
+13,2026-05-18,20.0,Bezhotovostný príjem,MATAJS JAKUB,?/DO2026-05-18/SP,,,,MATAJS JAKUB
+14,2026-05-18,30.0,Okamžitá prichádzajúca Europlatba,Peter Baláž,Podpora Balaz,,,,Peter Baláž
+15,2026-05-15,10.0,Bezhotovostný príjem,Minarechova Sona,"?/DO2026-05-15/SP, NOT PROVIDED",,,,Minarechova Sona
+16,2026-05-12,30.0,Okamžitá prichádzajúca Europlatba,"Petrušek Boris, Mgr.",", kampan 26",,,,"Petrušek Boris, Mgr."
+17,2026-05-11,20.0,Bezhotovostný príjem,Mgr. Zuzana Novakova,?/DO2026-05-10/SPPrispevok Sala,,,,Mgr. Zuzana Novakova
+18,2026-05-06,20.0,Bezhotovostný príjem,IVAN VLK,?/DO2026-05-06/SPPRISPEVOK SALA,,,,IVAN VLK
+19,2026-05-06,20.0,Okamžitá prichádzajúca Europlatba,Michal Toma,mesacny prispevok Michal Toma,,,,Michal Toma
+20,2026-05-05,-88.19,Transakcia kartou,,"Nákup: QUANTUMTRAIL,  Korunni 2569/108 Vinohrady, PRAHA 10, 101 00, CZE, dne 4.5.2026, částka  88.19 EUR",,4368,,"Nákup: QUANTUMTRAIL,  Korunni 2569/108 Vinohrady, PRAHA 10, 101 00, CZE, dne 4.5.2026, částka  88.19 EUR"
+21,2026-05-04,20.0,Bezhotovostný príjem,Schreiber Szarková D,"?/DO2026-04-30/SPprispevok Sala, prispevok Sala",,,,Schreiber Szarková D
+22,2026-04-24,30.0,Bezhotovostný príjem,Kovacova Katarina,podpora Sala,,,,Kovacova Katarina
+23,2026-04-23,30.0,Bezhotovostný príjem,MARTIN JAKUS,?/DO2026-04-23/SPPRISPEVOK SALA,,,,MARTIN JAKUS
+24,2026-04-18,30.0,Okamžitá prichádzajúca Europlatba,Peter Baláž,Podpora Balaz,,,,Peter Baláž
+25,2026-04-17,30.0,Okamžitá prichádzajúca Europlatba,Zuzana Marekova,Zuzana Marekova,,,,Zuzana Marekova
+26,2026-04-17,30.0,Okamžitá prichádzajúca Europlatba,BACA PETER,?/DO2026-04-17/SP,0308,,,BACA PETER
+27,2026-04-17,150.0,Okamžitá prichádzajúca Europlatba,Michael Simek,Kampan 2026,,,,Michael Simek
+28,2026-04-17,20.0,Bezhotovostný príjem,MATAJS JAKUB,?/DO2026-04-17/SP,,,,MATAJS JAKUB
+29,2026-04-17,30.0,Okamžitá prichádzajúca Europlatba,"Petrušek Boris, Mgr.",", kampan 26",,,,"Petrušek Boris, Mgr."
+30,2026-04-15,10.0,Bezhotovostný príjem,Minarechova Sona,"?/DO2026-04-15/SP, NOT PROVIDED",,,,Minarechova Sona
+31,2026-04-13,20.0,Bezhotovostný príjem,Mgr. Zuzana Novakova,?/DO2026-04-10/SPPrispevok Sala,,,,Mgr. Zuzana Novakova
+32,2026-04-06,20.0,Okamžitá prichádzajúca Europlatba,Michal Toma,mesacny prispevok Michal Toma,,,,Michal Toma
+33,2026-04-02,20.0,Bezhotovostný príjem,IVAN VLK,?/DO2026-04-02/SPPRISPEVOK SALA,,,,IVAN VLK
+34,2026-04-02,20.0,Bezhotovostný príjem,Schreiber Szarková D,"?/DO2026-04-01/SPprispevok Sala, prispevok Sala",,,,Schreiber Szarková D
+35,2026-03-24,30.0,Bezhotovostný príjem,Kovacova Katarina,podpora Sala,,,,Kovacova Katarina
+36,2026-03-23,30.0,Bezhotovostný príjem,MARTIN JAKUS,?/DO2026-03-23/SPPRISPEVOK SALA,,,,MARTIN JAKUS
+37,2026-03-23,30.0,Okamžitá prichádzajúca Europlatba,"Petrušek Boris, Mgr.",", kampan 26",,,,"Petrušek Boris, Mgr."
+38,2026-03-20,50.0,Okamžitá prichádzajúca Europlatba,Marek Lences,prispevok Sala,,,,Marek Lences
+39,2026-03-20,100.0,Okamžitá prichádzajúca Europlatba,SL Team s.r.o.,Prispevok na kampan - financny dar,0558,20032026,,SL Team s.r.o.
+40,2026-03-17,20.0,Bezhotovostný príjem,MATAJS JAKUB,?/DO2026-03-17/SP,,,,MATAJS JAKUB
+41,2026-03-16,10.0,Bezhotovostný príjem,Minarechova Sona,"?/DO2026-03-15/SP, NOT PROVIDED",,,,Minarechova Sona
+42,2026-03-11,20.0,Bezhotovostný príjem,Mgr. Zuzana Novakova,?/DO2026-03-10/SPPrispevok Sala,,,,Mgr. Zuzana Novakova
+43,2026-03-11,-2.0,Transakčná daň - použitie platobnej karty,,,,4368,,
+44,2026-03-11,-90.19,Transakcia kartou,,"Nákup: QUANTUMTRAIL,  Korunni 2569/108 Vinohrady, PRAHA 10, 101 00, CZE, dne 10.3.2026, částka  90.19 EUR",,4368,,"Nákup: QUANTUMTRAIL,  Korunni 2569/108 Vinohrady, PRAHA 10, 101 00, CZE, dne 10.3.2026, částka  90.19 EUR"
+45,2026-03-06,20.0,Bezhotovostný príjem,IVAN VLK,?/DO2026-03-06/SPPRISPEVOK SALA,,,,IVAN VLK
+46,2026-03-02,20.0,Bezhotovostný príjem,Schreiber Szarková D,"?/DO2026-02-27/SPprispevok Sala, prispevok Sala",,,,Schreiber Szarková D
+47,2026-03-01,300.0,Okamžitá prichádzajúca Europlatba,Peter Balaz,Peter Balaz,,,,Peter Balaz
+48,2026-02-24,30.0,Bezhotovostný príjem,MARTIN JAKUS,?/DO2026-02-23/SPPRISPEVOK SALA,,,,MARTIN JAKUS
+49,2026-02-24,30.0,Bezhotovostný príjem,Kovacova Katarina,podpora Sala,,,,Kovacova Katarina
+50,2026-02-18,50.0,Okamžitá prichádzajúca Europlatba,"Petrušek Boris, Mgr.",", kampan 26",,,,"Petrušek Boris, Mgr."
+51,2026-02-16,10.0,Bezhotovostný príjem,Minarechova Sona,"?/DO2026-02-15/SP, NOT PROVIDED",,,,Minarechova Sona
+52,2026-02-13,50.0,Okamžitá prichádzajúca Europlatba,"Kántorová Ingrid, In",,,,,"Kántorová Ingrid, In"
+53,2026-02-11,20.0,Bezhotovostný príjem,Mgr. Zuzana Novakova,?/DO2026-02-10/SPPrispevok Sala,,,,Mgr. Zuzana Novakova
+54,2026-02-06,20.0,Bezhotovostný príjem,IVAN VLK,?/DO2026-02-06/SPPRISPEVOK SALA,,,,IVAN VLK
