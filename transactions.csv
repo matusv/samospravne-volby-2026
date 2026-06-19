@@ -89,15 +89,7 @@ VS1500005709/SS2603007861/KS0308",Progresívne Slovensko
 VS5/SS/KS",Progresívne Slovensko
 82,2026-06-16,Ing.Radomir Revilak,100.0,Platba,"8
 VS8/SS/KS",Progresívne Slovensko
-83,2026-06-16,"
-                            
-                    ",-8.8,"
-                        Transakčná daň 15.06.2026
-                    /
-                        
-                    ","
-                        
-                    ",Progresívne Slovensko
+83,2026-06-16,,-8.8,Transakčná daň 15.06.2026,,Progresívne Slovensko
 84,2026-06-15,"
                             ING. IVAN RUSNÁK
                     ",-150.0,"
@@ -880,16 +872,94 @@ VS2621017/SS03/KS",Progresívne Slovensko
 504,2026-05-30,,-19.0,Poplatok za balík,,Demokrati
 505,2026-05-02,,-0.08,Transakčná daň 30.04.2026,,Demokrati
 506,2026-04-30,,-19.0,Poplatok za balík,,Demokrati
-507,2026-04-01,,-0.08,Transakčná daň 31.03.2026,,Demokrati
-508,2026-03-31,,-19.0,Poplatok za balík,,Demokrati
-509,2026-03-02,,-0.08,Transakčná daň 28.02.2026,,Demokrati
-510,2026-02-28,,-19.0,Poplatok za balík,,Demokrati
-511,2026-02-02,,-0.08,Transakčná daň 31.01.2026,,Demokrati
-512,2026-01-31,,-19.0,Poplatok za balík,,Demokrati
-513,2026-01-02,,-0.08,Transakčná daň 31.12.2025,,Demokrati
-514,2025-12-31,,-19.0,Poplatok za balík,,Demokrati
-515,2025-12-01,,-0.08,Transakčná daň 29.11.2025,,Demokrati
-516,2025-11-29,,-19.0,Poplatok za balík,,Demokrati
+507,2026-04-01,,-0.08,"
+                        Transakčná daň 31.03.2026
+                    /
+                        
+                    ","
+                        
+                    ",Demokrati
+508,2026-03-31,"
+                            
+                    ",-19.0,"
+                        Poplatok za balík
+                    /
+                        
+                    ","
+                        
+                    ",Demokrati
+509,2026-03-02,"
+                            
+                    ",-0.08,"
+                        Transakčná daň 28.02.2026
+                    /
+                        
+                    ","
+                        
+                    ",Demokrati
+510,2026-02-28,"
+                            
+                    ",-19.0,"
+                        Poplatok za balík
+                    /
+                        
+                    ","
+                        
+                    ",Demokrati
+511,2026-02-02,"
+                            
+                    ",-0.08,"
+                        Transakčná daň 31.01.2026
+                    /
+                        
+                    ","
+                        
+                    ",Demokrati
+512,2026-01-31,"
+                            
+                    ",-19.0,"
+                        Poplatok za balík
+                    /
+                        
+                    ","
+                        
+                    ",Demokrati
+513,2026-01-02,"
+                            
+                    ",-0.08,"
+                        Transakčná daň 31.12.2025
+                    /
+                        
+                    ","
+                        
+                    ",Demokrati
+514,2025-12-31,"
+                            
+                    ",-19.0,"
+                        Poplatok za balík
+                    /
+                        
+                    ","
+                        
+                    ",Demokrati
+515,2025-12-01,"
+                            
+                    ",-0.08,"
+                        Transakčná daň 29.11.2025
+                    /
+                        
+                    ","
+                        
+                    ",Demokrati
+516,2025-11-29,"
+                            
+                    ",-19.0,"
+                        Poplatok za balík
+                    /
+                        
+                    ","
+                        
+                    ",Demokrati
 517,2025-11-03,,-0.08,Transakčná daň 31.10.2025,,Demokrati
 518,2025-10-31,,-19.0,Poplatok za balík,,Demokrati
 519,2025-10-01,,-0.08,Transakčná daň 30.09.2025,,Demokrati
@@ -1265,12 +1335,18 @@ olby 2026",,Pirátska strana Slovensko
 887,2026-05-19,Pirátska strana - Slovensko,300.0,,,Pirátska strana Slovensko
 888,2026-06-13,,-43.74,Transakčná daň 12.06.2026,,Dunaj
 889,2026-06-12,Dunaj,11000.0,Platba/Prevod prostriedkov,,Dunaj
-890,2026-06-12,,-1.14,Transakčná daň 11.06.2026,,Dunaj
+890,2026-06-12,,-1.14,"Transakčná daň 11.06.2026/
+                        
+                    ","
+                        
+                    ",Dunaj
 891,2026-06-12,"MT INVESTMENT, spol. s r.o.",-3936.0,Platba/Prenajom reklamnej plochy,"2026025
 VS2026025/SS/KS",Dunaj
 892,2026-06-12,"ANDALEX REALITY, s.r.o.",-7000.0,Platba/Prenajom reklamnych ploch,"62026
 VS62026/SS/KS",Dunaj
-893,2026-06-11,"NUBIUM, s. r. o.",-285.36,"
+893,2026-06-11,"
+                            NUBIUM, s. r. o.
+                    ",-285.36,"
                         Platba
                     /
                         Prenajom reklamneho panela
@@ -2188,75 +2264,107 @@ islav Baros - 2026/03",2026009.0,Branislav Baroš
 1705,2026-03-31,,-5.0,Zverejňovanie účtu,,Igor Petrovčík
 1706,2026-03-31,,-1.58,Poplatok za vedenie účtu,,Igor Petrovčík
 1707,2026-03-26,IGOR PETROVČIK,1000.0,STAROSTA SO SRDCOM,1.0,Igor Petrovčík
-1708,2026-06-17,Tím Ružinov,-15000.0,,,Martin Chren
-1709,2026-06-17,"Chren Martin, Ing.",100.0,Prevod medzi vlastnymi uctami,,Martin Chren
-1710,2026-05-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-1711,2026-04-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-1712,2026-04-17,Tím Ružinov,-10000.0,Dar na zaklade overenej zmluvy,2026002.0,Martin Chren
-1713,2026-04-17,Tím Ružinov,-5000.0,Dar na základe overenej zmluvy,2026001.0,Martin Chren
-1714,2026-03-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-1715,2026-02-28,,-5.0,Zverejňovanie účtu,,Martin Chren
-1716,2026-01-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-1717,2025-12-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-1718,2025-11-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-1719,2025-10-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-1720,2025-09-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-1721,2025-08-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-1722,2025-08-12,"Barcajová Zuzana, Ing.",15000.0,32514941,,Martin Chren
-1723,2025-07-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-1724,2025-06-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-1725,2025-05-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-1726,2025-04-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-1727,2025-03-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-1728,2025-02-28,,-5.0,Zverejňovanie účtu,,Martin Chren
-1729,2025-01-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-1730,2024-12-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-1731,2024-11-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-1732,2024-10-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-1733,2024-09-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-1734,2024-08-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-1735,2024-07-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-1736,2024-06-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-1737,2024-05-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-1738,2024-04-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-1739,2024-03-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-1740,2024-02-29,,-5.0,Zverejňovanie účtu,,Martin Chren
-1741,2024-01-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-1742,2023-12-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-1743,2023-11-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-1744,2023-10-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-1745,2023-09-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-1746,2023-08-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-1747,2023-07-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-1748,2023-06-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-1749,2023-05-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-1750,2023-04-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-1751,2023-03-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-1752,2023-02-28,,-5.0,Zverejňovanie účtu,,Martin Chren
-1753,2023-01-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-1754,2026-06-15,Babjak Vladimír,100.0,Mgr.art. Vladimír Babjak/ STAROMESTSKÁ 25/ KAMPAŇ,,Zuzana Aufrichtová
-1755,2026-06-11,Hotel Devin,-715.8,Zuzana Aufrichtova / Najom k ohlaseniu Hotel Devin,2026005001.0,Zuzana Aufrichtová
-1756,2026-05-31,,-5.0,Zverejňovanie účtu,,Zuzana Aufrichtová
-1757,2026-05-31,,-7.0,Poplatok za vedenie účtu,,Zuzana Aufrichtová
-1758,2026-05-22,Zuzana Magalova,100.0,2614290000645678,,Zuzana Aufrichtová
-1759,2026-05-22,Fialová Zuzana,100.0,F001220520260849777,,Zuzana Aufrichtová
-1760,2026-05-20,Halka Lezovicova,100.0,2614090001805962,,Zuzana Aufrichtová
-1761,2026-05-20,"Makovníková Halina, Mgr.",100.0,Komunalna Kampan Makovnikova,,Zuzana Aufrichtová
-1762,2026-05-13,Robert Borgula,100.0,1161261330972388,,Zuzana Aufrichtová
-1763,2026-05-11,MÁRIO LEŽOVIČ,100.0,KAMPAN 2026,,Zuzana Aufrichtová
-1764,2026-05-10,Hříchová Barbora,100.0,Príspevok na kampaň,,Zuzana Aufrichtová
-1765,2026-05-10,Adam Batovsky,100.0,27625868432,,Zuzana Aufrichtová
-1766,2026-05-10,Grendel Gábor,100.0,F001100520263007638,,Zuzana Aufrichtová
-1767,2026-05-09,MIROSLAV VRÁBEL,100.0,VRABEL MIROSLAV,,Zuzana Aufrichtová
-1768,2026-05-08,Španko Patrik,100.0,jana spankova,,Zuzana Aufrichtová
-1769,2026-05-08,Anna Andrejuvová,100.0,Andrejuvova stare mesto,,Zuzana Aufrichtová
-1770,2026-05-08,Krajniaková Andrea,100.0,,,Zuzana Aufrichtová
-1771,2026-05-08,"Machajová Záhorská Denisa, Mgr.",100.0,OO26050800102698,,Zuzana Aufrichtová
-1772,2026-05-08,Tibor Hlavaty,1900.0,Tibor Hlavaty,,Zuzana Aufrichtová
-1773,2026-05-08,Orviská Adriana,100.0,F001080520261213590,,Zuzana Aufrichtová
-1774,2026-05-08,"Černý Tomáš, Ing.",100.0,Tomas Cerny,8052026.0,Zuzana Aufrichtová
-1775,2026-05-08,"Števčík Radoslav, Mgr.",200.0,OO26050800034311,,Zuzana Aufrichtová
-1776,2026-05-08,"Krta Ján, Ing.",100.0,OO26050800034255,,Zuzana Aufrichtová
-1777,2026-04-30,,-5.6,Poplatok za vedenie účtu,,Zuzana Aufrichtová
-1778,2026-04-30,,-5.0,Zverejňovanie účtu,,Zuzana Aufrichtová
-1779,2026-04-21,Palko Vladimír,100.0,F001210420264010272,,Zuzana Aufrichtová
+1708,2026-06-19,Platba kartou,-54.0,FACEBK *EC6UUSDS42 fb.me/ads,****1970,Rudolf Kusý
+1709,2026-06-18,Lengyel Monika,200.0,rudolf kusy_monika lengyel,,Rudolf Kusý
+1710,2026-06-16,Kaprinay Zuzana,200.0,,,Rudolf Kusý
+1711,2026-06-16,Gabriela Galbavá,200.0,,,Rudolf Kusý
+1712,2026-06-16,Valovicova Pavlina,200.0,?/DO2026-06-15/SPDar do kampanr,,Rudolf Kusý
+1713,2026-06-16,"SLOVENSKA POSTA, A.S.",230.0,19082010000612062026/SS-0000000000/ZDENKA BELAKOVA-RAZTOCNO/ENA,21012026,Rudolf Kusý
+1714,2026-06-15,EventiQ s.r.o.,-860.0,,2026027,Rudolf Kusý
+1715,2026-06-15,Rudolf Kusý,940.0,,,Rudolf Kusý
+1716,2026-06-15,SHS Rad svateho Galahada,-600.0,,,Rudolf Kusý
+1717,2026-06-15,VRTIEL PETER,200.0,Peter Vrtiel dar,15062026,Rudolf Kusý
+1718,2026-06-15,Platba kartou,-15.44,FACEBK-.7KDF8RV fb.me/ads------,****1970,Rudolf Kusý
+1719,2026-06-12,Dan Pavelka,30.0,Preplatok za roznasanie,,Rudolf Kusý
+1720,2026-06-12,Michaela Gabovicova,20.0,,,Rudolf Kusý
+1721,2026-06-12,NATASA ZAHOROVA,200.0,?/DO2026-06-12/SPPLATBA,110606,Rudolf Kusý
+1722,2026-06-11,"Stano Adam, Ing.",250.0,,,Rudolf Kusý
+1723,2026-06-09,Jan Havranek,200.0,,,Rudolf Kusý
+1724,2026-06-09,Ladislav Vitkovič,200.0,LV,,Rudolf Kusý
+1725,2026-06-09,Juraj Švec,200.0,Podpor a zachran MC BA -NM,,Rudolf Kusý
+1726,2026-06-09,EVENTS 3000 s.r.o.,-500.0,SEPA Europrevod/NonSEPAPrevod,55112026,Rudolf Kusý
+1727,2026-06-09,Dobrovolny hasicsky zbor Bratislava - Raca Organizacna jednotka,-120.0,SEPA Europrevod/NonSEPAPrevod,,Rudolf Kusý
+1728,2026-06-09,"EKOHOLDING SLOVAKIA, s.r.o",-276.0,SEPA Europrevod/NonSEPAPrevod,2026010,Rudolf Kusý
+1729,2026-06-09,"EKOHOLDING SLOVAKIA, s.r.o.",-606.0,SEPA Europrevod/NonSEPAPrevod,2026009,Rudolf Kusý
+1730,2026-06-08,PhDr. Lubos Fiam PhD.,200.0,?/DO2026-06-05/SPLubos Fiam,,Rudolf Kusý
+1731,2026-06-08,Mário Vladár,200.0,,,Rudolf Kusý
+1732,2026-06-05,Monika Partlova MP,-750.0,,202647,Rudolf Kusý
+1733,2026-06-05,MINERALNE VODY a.s.,-54.0,,52680337,Rudolf Kusý
+1734,2026-06-05,"Filipovič Branislav, PhDr.",800.0,Kampaň 2026 BF,1,Rudolf Kusý
+1735,2026-06-03,Eduard Demel,200.0,,,Rudolf Kusý
+1736,2026-06-02,Zuzana Bírová,400.0,,,Rudolf Kusý
+1737,2026-06-02,"Filipovič Branislav, PhDr.",200.0,Kampaň 2026 BF,1,Rudolf Kusý
+1738,2026-05-29,,5.0,Storno-popl.za platby a ved.úč/kon,9,Rudolf Kusý
+1739,2026-05-29,,-5.0,Vedenie účtu,9,Rudolf Kusý
+1740,2026-06-17,Tím Ružinov,-15000.0,,,Martin Chren
+1741,2026-06-17,"Chren Martin, Ing.",100.0,Prevod medzi vlastnymi uctami,,Martin Chren
+1742,2026-05-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+1743,2026-04-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+1744,2026-04-17,Tím Ružinov,-10000.0,Dar na zaklade overenej zmluvy,2026002.0,Martin Chren
+1745,2026-04-17,Tím Ružinov,-5000.0,Dar na základe overenej zmluvy,2026001.0,Martin Chren
+1746,2026-03-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+1747,2026-02-28,,-5.0,Zverejňovanie účtu,,Martin Chren
+1748,2026-01-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+1749,2025-12-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+1750,2025-11-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+1751,2025-10-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+1752,2025-09-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+1753,2025-08-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+1754,2025-08-12,"Barcajová Zuzana, Ing.",15000.0,32514941,,Martin Chren
+1755,2025-07-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+1756,2025-06-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+1757,2025-05-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+1758,2025-04-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+1759,2025-03-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+1760,2025-02-28,,-5.0,Zverejňovanie účtu,,Martin Chren
+1761,2025-01-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+1762,2024-12-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+1763,2024-11-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+1764,2024-10-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+1765,2024-09-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+1766,2024-08-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+1767,2024-07-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+1768,2024-06-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+1769,2024-05-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+1770,2024-04-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+1771,2024-03-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+1772,2024-02-29,,-5.0,Zverejňovanie účtu,,Martin Chren
+1773,2024-01-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+1774,2023-12-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+1775,2023-11-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+1776,2023-10-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+1777,2023-09-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+1778,2023-08-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+1779,2023-07-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+1780,2023-06-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+1781,2023-05-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+1782,2023-04-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+1783,2023-03-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+1784,2023-02-28,,-5.0,Zverejňovanie účtu,,Martin Chren
+1785,2023-01-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+1786,2026-06-15,Babjak Vladimír,100.0,Mgr.art. Vladimír Babjak/ STAROMESTSKÁ 25/ KAMPAŇ,,Zuzana Aufrichtová
+1787,2026-06-11,Hotel Devin,-715.8,Zuzana Aufrichtova / Najom k ohlaseniu Hotel Devin,2026005001.0,Zuzana Aufrichtová
+1788,2026-05-31,,-5.0,Zverejňovanie účtu,,Zuzana Aufrichtová
+1789,2026-05-31,,-7.0,Poplatok za vedenie účtu,,Zuzana Aufrichtová
+1790,2026-05-22,Zuzana Magalova,100.0,2614290000645678,,Zuzana Aufrichtová
+1791,2026-05-22,Fialová Zuzana,100.0,F001220520260849777,,Zuzana Aufrichtová
+1792,2026-05-20,Halka Lezovicova,100.0,2614090001805962,,Zuzana Aufrichtová
+1793,2026-05-20,"Makovníková Halina, Mgr.",100.0,Komunalna Kampan Makovnikova,,Zuzana Aufrichtová
+1794,2026-05-13,Robert Borgula,100.0,1161261330972388,,Zuzana Aufrichtová
+1795,2026-05-11,MÁRIO LEŽOVIČ,100.0,KAMPAN 2026,,Zuzana Aufrichtová
+1796,2026-05-10,Hříchová Barbora,100.0,Príspevok na kampaň,,Zuzana Aufrichtová
+1797,2026-05-10,Adam Batovsky,100.0,27625868432,,Zuzana Aufrichtová
+1798,2026-05-10,Grendel Gábor,100.0,F001100520263007638,,Zuzana Aufrichtová
+1799,2026-05-09,MIROSLAV VRÁBEL,100.0,VRABEL MIROSLAV,,Zuzana Aufrichtová
+1800,2026-05-08,Španko Patrik,100.0,jana spankova,,Zuzana Aufrichtová
+1801,2026-05-08,Anna Andrejuvová,100.0,Andrejuvova stare mesto,,Zuzana Aufrichtová
+1802,2026-05-08,Krajniaková Andrea,100.0,,,Zuzana Aufrichtová
+1803,2026-05-08,"Machajová Záhorská Denisa, Mgr.",100.0,OO26050800102698,,Zuzana Aufrichtová
+1804,2026-05-08,Tibor Hlavaty,1900.0,Tibor Hlavaty,,Zuzana Aufrichtová
+1805,2026-05-08,Orviská Adriana,100.0,F001080520261213590,,Zuzana Aufrichtová
+1806,2026-05-08,"Černý Tomáš, Ing.",100.0,Tomas Cerny,8052026.0,Zuzana Aufrichtová
+1807,2026-05-08,"Števčík Radoslav, Mgr.",200.0,OO26050800034311,,Zuzana Aufrichtová
+1808,2026-05-08,"Krta Ján, Ing.",100.0,OO26050800034255,,Zuzana Aufrichtová
+1809,2026-04-30,,-5.6,Poplatok za vedenie účtu,,Zuzana Aufrichtová
+1810,2026-04-30,,-5.0,Zverejňovanie účtu,,Zuzana Aufrichtová
+1811,2026-04-21,Palko Vladimír,100.0,F001210420264010272,,Zuzana Aufrichtová
