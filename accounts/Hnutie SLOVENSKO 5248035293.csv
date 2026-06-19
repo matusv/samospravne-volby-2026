@@ -1,0 +1,5 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,Hnutie SLOVENSKO,2026-06-17,235000.0,EUR,Prevod na TU,Prijatá SEPA platba,,
+1,,2026-06-16,-40.0,EUR,"/VS3120262653/SS/KS 16.06.2026 11555,85 EUR",Transakčná daň,,
+2,"AKO, s.r.o. ICO:35863781",2026-06-16,-11555.85,EUR,Prieskum,SEPA platba (elektronicky),3120262653.0,
+3,Hnutie SLOVENSKO,2026-06-16,15000.0,EUR,Prevod na TU,Prijatá Okamžitá platba,,
