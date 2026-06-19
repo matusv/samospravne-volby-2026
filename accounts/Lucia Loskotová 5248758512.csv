@@ -1,0 +1,5 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,Šiška Matej,2026-06-19,200.0,EUR,F001190620264214146,Prijatá SEPA platba,,
+1,ALACARTE s.r.o.,2026-06-11,-493.5,EUR,Úhrada faktúry: 20260067,Okamžitá platba (elektronicky),20260067.0,
+2,,2026-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+3,LUCIA LOSKOTOVÁ,2026-05-28,10000.0,EUR,PLATBA,Prijatá Okamžitá platba,,

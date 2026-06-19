@@ -1,0 +1,7 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,,2026-05-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+1,Turenič Miroslav,2026-05-11,644,EUR,Prevod medzi vlastnými účtami,Prijatá SEPA platba,,
+2,"Shenzhen XKD Technology Co., LTD",2026-05-11,-930,EUR,"payment Miroslav Turenic for ballpoint pens, PI NO: KD20260508",SEPA platba (elektronicky),,
+3,Turenič Miroslav,2026-05-10,1000,EUR,Vlastny vklad na kampan,Prijatá SEPA platba,,
+4,,2026-04-30,0,EUR,Poplatok za vedenie účtu,Poplatok,,
+5,,2026-04-30,-10,EUR,"Vydanie a doručenie Platobnej karty,2114,5,Karta č. 4544 12** **** 5927Poplatok za vydanie a doručenie Platobnej karty",Kartový poplatok,,

@@ -1,0 +1,6 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,ANDREJ SITKAR,2026-06-09,3000.0,EUR,Kampan 2026,Prijatá Okamžitá platba,,
+1,,2026-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+2,,2026-05-31,-2.71,EUR,Poplatok za vedenie účtu,Poplatok,,
+3,,2026-05-31,-10.0,EUR,"Vydanie a doručenie Platobnej karty,2114,5,Karta č. 4544 12** **** 7705Poplatok za vydanie a doručenie Platobnej karty",Kartový poplatok,,
+4,ANDREJ SITKAR,2026-05-25,100.0,EUR,Transparentny ucet,Prijatá Okamžitá platba,,
