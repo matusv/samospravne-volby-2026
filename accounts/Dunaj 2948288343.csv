@@ -4,22 +4,103 @@ index,date,amount,currency,account_name,message,vs
 VS2026025/SS/KS"
 2,2026-06-12,-7000.0,EUR,"ANDALEX REALITY, s.r.o.",Platba/Prenajom reklamnych ploch,"62026
 VS62026/SS/KS"
-3,2026-06-12,11000.0,EUR,Dunaj,Platba/Prevod prostriedkov,
-4,2026-06-12,-1.14,EUR,,Transakčná daň 11.06.2026,
-5,2026-06-11,-285.36,EUR,"NUBIUM, s. r. o.",Platba/Prenajom reklamneho panela,"2610003491
-VS2610003491/SS/KS"
-6,2026-06-11,290.0,EUR,Dunaj,Platba/Prevod prostriedkov,
-7,2026-06-08,-6.5,EUR,,Transakčná daň 06.06.2026,
-8,2026-06-06,-14.85,EUR,,Transakčná daň 05.06.2026,
-9,2026-06-06,-1623.95,EUR,Skip Ad s. r. o.,Platba/Inzercia,"20260009
-VS20260009/SS/KS"
-10,2026-06-06,1000.0,EUR,Dunaj,Platba/Prevod prostriedkov,
-11,2026-06-05,-1360.26,EUR,"Fibra print, s.r.o.","Platba/Tlacoviny, nalepky, brozury, letaky","2026336
-VS2026336/SS/KS"
-12,2026-06-05,-379.2,EUR,Skip Ad s. r. o.,Platba/Inzercia,"20260007
-VS20260007/SS/KS"
-13,2026-06-05,-346.86,EUR,"NUBIUM, s. r. o.",Platba/Prenajom ploch a tlac,"2610003052
-VS2610003052/SS/KS"
+3,2026-06-12,11000.0,EUR,Dunaj,"
+                        Platba
+                    /
+                        Prevod prostriedkov
+                    ","
+                        
+                    "
+4,2026-06-12,-1.14,EUR,"
+                            
+                    ","
+                        Transakčná daň 11.06.2026
+                    /
+                        
+                    ","
+                        
+                    "
+5,2026-06-11,-285.36,EUR,"
+                            NUBIUM, s. r. o.
+                    ","
+                        Platba
+                    /
+                        Prenajom reklamneho panela
+                    ","
+                        2610003491VS2610003491/SS/KS
+                    "
+6,2026-06-11,290.0,EUR,"
+                            Dunaj
+                    ","
+                        Platba
+                    /
+                        Prevod prostriedkov
+                    ","
+                        
+                    "
+7,2026-06-08,-6.5,EUR,"
+                            
+                    ","
+                        Transakčná daň 06.06.2026
+                    /
+                        
+                    ","
+                        
+                    "
+8,2026-06-06,-14.85,EUR,"
+                            
+                    ","
+                        Transakčná daň 05.06.2026
+                    /
+                        
+                    ","
+                        
+                    "
+9,2026-06-06,-1623.95,EUR,"
+                            Skip Ad s. r. o.
+                    ","
+                        Platba
+                    /
+                        Inzercia
+                    ","
+                        20260009VS20260009/SS/KS
+                    "
+10,2026-06-06,1000.0,EUR,"
+                            Dunaj
+                    ","
+                        Platba
+                    /
+                        Prevod prostriedkov
+                    ","
+                        
+                    "
+11,2026-06-05,-1360.26,EUR,"
+                            Fibra print, s.r.o.
+                    ","
+                        Platba
+                    /
+                        Tlacoviny, nalepky, brozury, letaky
+                    ","
+                        2026336VS2026336/SS/KS
+                    "
+12,2026-06-05,-379.2,EUR,"
+                            Skip Ad s. r. o.
+                    ","
+                        Platba
+                    /
+                        Inzercia
+                    ","
+                        20260007VS20260007/SS/KS
+                    "
+13,2026-06-05,-346.86,EUR,"
+                            NUBIUM, s. r. o.
+                    ","
+                        Platba
+                    /
+                        Prenajom ploch a tlac
+                    ","
+                        2610003052VS2610003052/SS/KS
+                    "
 14,2026-06-05,-649.44,EUR,"BigMedia, spol. s r.o.","Platba/CLV maj, jun","1226203668
 VS1226203668/SS/KS308"
 15,2026-06-05,-974.16,EUR,"BigMedia, spol. s r.o.",Platba/Prenajom reklamnych ploch,"1226203655
@@ -35,42 +116,12 @@ VS20260001/SS/KS"
 21,2026-06-01,2700.0,EUR,Dunaj,Platba/Prevod prostriedkov na kampan,
 22,2026-05-30,-0.0,EUR,,Poplatok za balík,
 23,2026-05-27,-2.73,EUR,,Transakčná daň 26.05.2026,
-24,2026-05-26,-512.91,EUR,"
-                            NUBIUM, s. r. o.
-                    ","
-                        Platba
-                    /
-                        Prenajom ploch
-                    ","
-                        16120020VS16120020/SS/KS
-                    "
-25,2026-05-26,-170.97,EUR,"
-                            NUBIUM, s. r. o.
-                    ","
-                        Platba
-                    /
-                        Prenajom reklamnej plochy a tlac
-                    ","
-                        2610003051VS2610003051/SS/KS
-                    "
-26,2026-05-26,1000.0,EUR,"
-                            Dunaj
-                    ","
-                        Platba
-                    /
-                        Presun prostriedkov
-                    ","
-                        
-                    "
-27,2026-05-16,-10.7,EUR,"
-                            
-                    ","
-                        Transakčná daň 15.05.2026
-                    /
-                        
-                    ","
-                        
-                    "
+24,2026-05-26,-512.91,EUR,"NUBIUM, s. r. o.",Platba/Prenajom ploch,"16120020
+VS16120020/SS/KS"
+25,2026-05-26,-170.97,EUR,"NUBIUM, s. r. o.",Platba/Prenajom reklamnej plochy a tlac,"2610003051
+VS2610003051/SS/KS"
+26,2026-05-26,1000.0,EUR,Dunaj,Platba/Presun prostriedkov,
+27,2026-05-16,-10.7,EUR,,Transakčná daň 15.05.2026,
 28,2026-05-15,-649.44,EUR,"BigMedia, spol. s r.o.",Platba/CLV 6ks,"1226203023
 VS1226203023/SS/KS308"
 29,2026-05-15,-1516.79,EUR,Skip Ad s. r. o.,Platba/Reklamne a propagacne sluzby,"20260005

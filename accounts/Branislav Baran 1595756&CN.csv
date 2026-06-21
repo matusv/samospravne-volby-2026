@@ -1,11 +1,13 @@
 index,date,amount,account_name,message,vs
-0,2026-06-18,-2.0,Platba kartou,FACEBK *89NJNSZJC2 fb.me/ads,****7272
-1,2026-06-18,-2.0,Platba kartou,FACEBK *FTEJ3TDKC2 FACEBOOK.COM,****7272
-2,2026-06-17,-2.0,Platba kartou,FACEBK *Y7XH2TMJC2 fb.me/ads,****7272
-3,2026-06-01,-470.0,LUPTAK Studios s. r. o.,kampanove video,2026008
-4,2026-05-29,5.25,,Storno-popl.za platby a ved.úč/kon,9
-5,2026-05-29,-0.25,,Poplatky za platby spolu,9
-6,2026-05-29,-5.0,,Vedenie účtu,9
-7,2026-05-29,-180.0,Milan Korim,Vratenie financnych prostriedkov,
-8,2026-05-27,180.0,Milan Korim,,
-9,2026-05-20,1000.0,Branislav Baran,Na predvolebnu kampan,
+0,2026-06-20,-3.0,Platba kartou,FACEBK *9SU37V5KC2 FACEBOOK.COM,****7272
+1,2026-06-19,-3.0,Platba kartou,FACEBK *BUUPUSZJC2 FACEBOOK.COM,****7272
+2,2026-06-18,-2.0,Platba kartou,FACEBK *89NJNSZJC2 fb.me/ads,****7272
+3,2026-06-18,-2.0,Platba kartou,FACEBK *FTEJ3TDKC2 FACEBOOK.COM,****7272
+4,2026-06-19,-2.0,Platba kartou,FACEBK-.Y7XH2TM fb.me/ads------,****7272
+5,2026-06-01,-470.0,LUPTAK Studios s. r. o.,kampanove video,2026008
+6,2026-05-29,5.25,,Storno-popl.za platby a ved.úč/kon,9
+7,2026-05-29,-0.25,,Poplatky za platby spolu,9
+8,2026-05-29,-5.0,,Vedenie účtu,9
+9,2026-05-29,-180.0,Milan Korim,Vratenie financnych prostriedkov,
+10,2026-05-27,180.0,Milan Korim,,
+11,2026-05-20,1000.0,Branislav Baran,Na predvolebnu kampan,
