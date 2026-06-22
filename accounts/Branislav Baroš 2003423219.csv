@@ -1,29 +1,32 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2026-06-01,5000.0,Bezhotovostný príjem,KDH - Kresťanskodemo,?/DO2026-05-29/SPPeňažný dar,,27052026,,KDH - Kresťanskodemo
-1,2026-05-24,900.0,Okamžitá prichádzajúca Europlatba,MARIAN KUBAL,"Marian Kubal, volby",,,,MARIAN KUBAL
-2,2026-05-22,-387.45,Okamžitá odchádzajúca Europlatba,,,,20260422,,tričká
-3,2026-05-22,-162.36,Okamžitá odchádzajúca Europlatba,,,,20260362,,výroba banneru
-4,2026-05-19,-594.09,Okamžitá odchádzajúca Europlatba,,,,68000022,,reklamné predmety
-5,2026-05-18,-102.75,Okamžitá odchádzajúca Europlatba,,,,596906544,,mikrofón
-6,2026-05-12,900.0,Okamžitá prichádzajúca Europlatba,Margita Marsalikova,Prosmanova Daniela,,,,Margita Marsalikova
-7,2026-05-10,900.0,Okamžitá prichádzajúca Europlatba,Branislav Kramár,Brano Kramar,,,,Branislav Kramár
-8,2026-04-30,900.0,Okamžitá prichádzajúca Europlatba,Katarína Kolevová,Kristian Kolev,,,,Katarína Kolevová
-9,2026-04-16,900.0,Okamžitá prichádzajúca Europlatba,FRANTIŠEK DRGOŇ,PLATBA,,11101960,,FRANTIŠEK DRGOŇ
-10,2026-04-15,900.0,Bezhotovostný príjem,JOZEF MITOSINKA,?/DO2026-04-14/SPKOMUNALNE VOLBY 2026,,,,JOZEF MITOSINKA
-11,2026-04-14,900.0,Platba prevodom v rámci banky,"PhDr. Lipovský, Michal",Prispevok volby 2026 Lipovsky,,,,Prispevok volby 2026 Lipovsky
-12,2026-04-11,900.0,Okamžitá prichádzajúca Europlatba,VIKTOR KRIŽAN,"Viktor Krizan, prispevok na volby - komunalne volby 2026",,,,VIKTOR KRIŽAN
-13,2026-04-10,900.0,Okamžitá prichádzajúca Europlatba,Lubica Gergelyova,Volby 2026,,,,Lubica Gergelyova
-14,2026-04-07,-2349.3,Okamžitá odchádzajúca Europlatba,,,,20260221,,"tlač bannerov, prenájom BB"
-15,2026-03-31,900.0,Okamžitá prichádzajúca Europlatba,Jozef Študenc,Volby 2026,,,,Jozef Študenc
-16,2026-03-30,900.0,Okamžitá prichádzajúca Europlatba,MAREK DOMES,MAREK DOMES,,,,MAREK DOMES
-17,2026-03-29,900.0,Okamžitá prichádzajúca Europlatba,RASTISLAV MRÁZ,,,,,RASTISLAV MRÁZ
-18,2026-03-23,-814.26,Okamžitá odchádzajúca Europlatba,,,,26950119,,reklamný priestor kampane - BB
-19,2026-03-23,-1404.66,Okamžitá odchádzajúca Europlatba,,,,26950115,,reklamný priestor kampane - BB
-20,2026-03-13,-360.0,Okamžitá odchádzajúca Europlatba,,"Dusan Kobliska: 2026009 - Ing. Bran
+0,2026-06-22,-900.0,Okamžitá odchádzajúca Europlatba,,,,,,vrátenie príspevku
+1,2026-06-22,-738.0,Okamžitá odchádzajúca Europlatba,,,,20260426,,výroba bannerov
+2,2026-06-22,-745.96,Okamžitá odchádzajúca Europlatba,,,,20260488,,reklamné predmety
+3,2026-06-01,5000.0,Bezhotovostný príjem,KDH - Kresťanskodemo,?/DO2026-05-29/SPPeňažný dar,,27052026,,KDH - Kresťanskodemo
+4,2026-05-24,900.0,Okamžitá prichádzajúca Europlatba,MARIAN KUBAL,"Marian Kubal, volby",,,,MARIAN KUBAL
+5,2026-05-22,-387.45,Okamžitá odchádzajúca Europlatba,,,,20260422,,tričká
+6,2026-05-22,-162.36,Okamžitá odchádzajúca Europlatba,,,,20260362,,výroba banneru
+7,2026-05-19,-594.09,Okamžitá odchádzajúca Europlatba,,,,68000022,,reklamné predmety
+8,2026-05-18,-102.75,Okamžitá odchádzajúca Europlatba,,,,596906544,,mikrofón
+9,2026-05-12,900.0,Okamžitá prichádzajúca Europlatba,Margita Marsalikova,Prosmanova Daniela,,,,Margita Marsalikova
+10,2026-05-10,900.0,Okamžitá prichádzajúca Europlatba,Branislav Kramár,Brano Kramar,,,,Branislav Kramár
+11,2026-04-30,900.0,Okamžitá prichádzajúca Europlatba,Katarína Kolevová,Kristian Kolev,,,,Katarína Kolevová
+12,2026-04-16,900.0,Okamžitá prichádzajúca Europlatba,FRANTIŠEK DRGOŇ,PLATBA,,11101960,,FRANTIŠEK DRGOŇ
+13,2026-04-15,900.0,Bezhotovostný príjem,JOZEF MITOSINKA,?/DO2026-04-14/SPKOMUNALNE VOLBY 2026,,,,JOZEF MITOSINKA
+14,2026-04-14,900.0,Platba prevodom v rámci banky,"PhDr. Lipovský, Michal",Prispevok volby 2026 Lipovsky,,,,Prispevok volby 2026 Lipovsky
+15,2026-04-11,900.0,Okamžitá prichádzajúca Europlatba,VIKTOR KRIŽAN,"Viktor Krizan, prispevok na volby - komunalne volby 2026",,,,VIKTOR KRIŽAN
+16,2026-04-10,900.0,Okamžitá prichádzajúca Europlatba,Lubica Gergelyova,Volby 2026,,,,Lubica Gergelyova
+17,2026-04-07,-2349.3,Okamžitá odchádzajúca Europlatba,,,,20260221,,"tlač bannerov, prenájom BB"
+18,2026-03-31,900.0,Okamžitá prichádzajúca Europlatba,Jozef Študenc,Volby 2026,,,,Jozef Študenc
+19,2026-03-30,900.0,Okamžitá prichádzajúca Europlatba,MAREK DOMES,MAREK DOMES,,,,MAREK DOMES
+20,2026-03-29,900.0,Okamžitá prichádzajúca Europlatba,RASTISLAV MRÁZ,,,,,RASTISLAV MRÁZ
+21,2026-03-23,-814.26,Okamžitá odchádzajúca Europlatba,,,,26950119,,reklamný priestor kampane - BB
+22,2026-03-23,-1404.66,Okamžitá odchádzajúca Europlatba,,,,26950115,,reklamný priestor kampane - BB
+23,2026-03-13,-360.0,Okamžitá odchádzajúca Europlatba,,"Dusan Kobliska: 2026009 - Ing. Bran
 islav Baros - 2026/03",0008,2026009,,vizuál kampane
-21,2026-03-05,900.0,Okamžitá prichádzajúca Europlatba,"Butt Kashif, Ing.",,,,,"Butt Kashif, Ing."
-22,2026-03-03,900.0,Okamžitá prichádzajúca Europlatba,Branislav Baros,prispevok na volby 2026,,,,Branislav Baros
-23,2026-03-03,-447.72,Okamžitá odchádzajúca Europlatba,,,,26950095,,reklamný priestor kampane - BB
-24,2026-03-02,900.0,Okamžitá prichádzajúca Europlatba,"Hejduk Milan, MUDr.",MUDr. Hejduk,,,,"Hejduk Milan, MUDr."
-25,2026-02-26,900.0,Okamžitá prichádzajúca Europlatba,"Bullová Mária, Ing.",,,,,"Bullová Mária, Ing."
-26,2026-02-24,900.0,Okamžitá prichádzajúca Europlatba,"Krištofík Miloš, PhD",kristofik milos komunalne volby vklad,0308,,,"Krištofík Miloš, PhD"
+24,2026-03-05,900.0,Okamžitá prichádzajúca Europlatba,"Butt Kashif, Ing.",,,,,"Butt Kashif, Ing."
+25,2026-03-03,900.0,Okamžitá prichádzajúca Europlatba,Branislav Baros,prispevok na volby 2026,,,,Branislav Baros
+26,2026-03-03,-447.72,Okamžitá odchádzajúca Europlatba,,,,26950095,,reklamný priestor kampane - BB
+27,2026-03-02,900.0,Okamžitá prichádzajúca Europlatba,"Hejduk Milan, MUDr.",MUDr. Hejduk,,,,"Hejduk Milan, MUDr."
+28,2026-02-26,900.0,Okamžitá prichádzajúca Europlatba,"Bullová Mária, Ing.",,,,,"Bullová Mária, Ing."
+29,2026-02-24,900.0,Okamžitá prichádzajúca Europlatba,"Krištofík Miloš, PhD",kristofik milos komunalne volby vklad,0308,,,"Krištofík Miloš, PhD"
