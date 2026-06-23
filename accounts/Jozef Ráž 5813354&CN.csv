@@ -1,0 +1,18 @@
+index,date,amount,account_name,message,vs
+0,2026-06-22,500.0,"Slovák Ľubomír, Ing.",,20260622
+1,2026-06-22,100000.0,Jozef Ráž,,
+2,2026-06-02,-615.0,Relations consulting,,26800012
+3,2026-05-29,-6.0,,Vedenie konta Transparentný účet,9
+4,2026-05-25,400.0,Lucia Ovšáková,,
+5,2026-05-25,600.0,Marek Hocher,,
+6,2026-05-25,2000.0,Peter Braska,,
+7,2026-05-18,250.0,Radko Fercak,,
+8,2026-05-12,-615.0,Relations consulting,SEPA Okamžitá platba,26800010
+9,2026-05-08,-500.0,Daylightstudio s. r. o.,SEPA Okamžitá platba,12026
+10,2026-05-08,-500.0,Dobrovodsky,Jozef Raz,2026016
+11,2026-04-30,5.0,,Storno-popl.za platby a ved.úč/kon,9
+12,2026-04-30,-5.0,,Vedenie účtu,9
+13,2026-04-22,0.01,TOMAS JASUREK,Smeracky Trt,
+14,2026-04-22,0.01,TOMAS JASUREK,,
+15,2026-04-21,0.01,Lukas Klimcik,Na teplaky do Leopoldova,
+16,2026-04-17,6500.0,Jozef Ráž,,

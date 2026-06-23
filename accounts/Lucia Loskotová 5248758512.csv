@@ -1,5 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Šiška Matej,2026-06-19,200.0,EUR,F001190620264214146,Prijatá SEPA platba,,
-1,ALACARTE s.r.o.,2026-06-11,-493.5,EUR,Úhrada faktúry: 20260067,Okamžitá platba (elektronicky),20260067.0,
-2,,2026-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-3,LUCIA LOSKOTOVÁ,2026-05-28,10000.0,EUR,PLATBA,Prijatá Okamžitá platba,,
+0,Xtra Slovakia s.r.o.,2026-06-22,-240.47,EUR,Platba faktury 260100569,Okamžitá platba (elektronicky),260100569.0,
+1,ALACARTE s.r.o.,2026-06-22,-546.0,EUR,Úhrada faktúry: 20260075,Okamžitá platba (elektronicky),20260075.0,
+2,Šiška Matej,2026-06-19,200.0,EUR,F001190620264214146,Prijatá SEPA platba,,
+3,ALACARTE s.r.o.,2026-06-11,-493.5,EUR,Úhrada faktúry: 20260067,Okamžitá platba (elektronicky),20260067.0,
+4,,2026-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+5,LUCIA LOSKOTOVÁ,2026-05-28,10000.0,EUR,PLATBA,Prijatá Okamžitá platba,,
