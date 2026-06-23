@@ -6,25 +6,94 @@ VS4/SS/KS"
 2,2026-06-19,-0.98,EUR,,Transakčná daň 18.06.2026,
 3,2026-06-19,5.0,EUR,Diana Javorcikova,PLATBA,"1
 VS1/SS/KS"
-4,2026-06-18,10.0,EUR,"Futáková Janka, Mgr.",Platba,"1
-VS1/SS/KS"
-5,2026-06-18,-246.0,EUR,Artforum Kosice,"Platba/Artforum Kosice - prenajom priestorov 1.6.2026 - debata o knihe - KE KSK porvaznik, mudrak","1151821
-VS1151821/SS/KS8"
-6,2026-06-18,-0.04,EUR,,Transakčná daň 17.06.2026,
-7,2026-06-18,20.0,EUR,Kováč Mergová Magdaléna,Platba,"1
-VS1/SS/KS"
-8,2026-06-18,20.0,EUR,Milan Novotný,Platba/Diana Javorcikova rozhybe BB,"2012
-VS2012/SS/KS"
-9,2026-06-18,20.0,EUR,McClain Martina,Platba,"1
-VS1/SS/KS"
-10,2026-06-18,50.0,EUR,Miroslava Vranovska,Platba,"1
-VS1/SS/KS0968"
-11,2026-06-18,20.0,EUR,Zuzana Pleskova,Platba/Vsetko najlepsie Dianka,"1
-VS1/SS/KS"
-12,2026-06-17,100.0,EUR,Martina Potomova,Platba,"8
-VS8/SS/KS"
-13,2026-06-17,250.0,EUR,Mikulas Bendula,Platba/Dar na kampan L.Benesova,"5
-VS5/SS/KS"
+4,2026-06-18,10.0,EUR,"Futáková Janka, Mgr.","
+                        Platba
+                    /
+                        
+                    ","
+                        1VS1/SS/KS
+                    "
+5,2026-06-18,-246.0,EUR,"
+                            Artforum Kosice
+                    ","
+                        Platba
+                    /
+                        Artforum Kosice - prenajom priestorov 1.6.2026 - debata o knihe - KE KSK porvaznik, mudrak
+                    ","
+                        1151821VS1151821/SS/KS8
+                    "
+6,2026-06-18,-0.04,EUR,"
+                            
+                    ","
+                        Transakčná daň 17.06.2026
+                    /
+                        
+                    ","
+                        
+                    "
+7,2026-06-18,20.0,EUR,"
+                            Kováč Mergová Magdaléna
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        1VS1/SS/KS
+                    "
+8,2026-06-18,20.0,EUR,"
+                            Milan Novotný
+                    ","
+                        Platba
+                    /
+                        Diana Javorcikova rozhybe BB
+                    ","
+                        2012VS2012/SS/KS
+                    "
+9,2026-06-18,20.0,EUR,"
+                            McClain Martina
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        1VS1/SS/KS
+                    "
+10,2026-06-18,50.0,EUR,"
+                            Miroslava Vranovska
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        1VS1/SS/KS0968
+                    "
+11,2026-06-18,20.0,EUR,"
+                            Zuzana Pleskova
+                    ","
+                        Platba
+                    /
+                        Vsetko najlepsie Dianka
+                    ","
+                        1VS1/SS/KS
+                    "
+12,2026-06-17,100.0,EUR,"
+                            Martina Potomova
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        8VS8/SS/KS
+                    "
+13,2026-06-17,250.0,EUR,"
+                            Mikulas Bendula
+                    ","
+                        Platba
+                    /
+                        Dar na kampan L.Benesova
+                    ","
+                        5VS5/SS/KS
+                    "
 14,2026-06-17,-10.0,EUR,Mesto Revuca,Platba/Mesto Revuca dan zabratie priestranstva 19.06.2026,"1500005709
 VS1500005709/SS2603007861/KS0308"
 15,2026-06-16,100.0,EUR,Ing.Radomir Revilak,Platba,"8

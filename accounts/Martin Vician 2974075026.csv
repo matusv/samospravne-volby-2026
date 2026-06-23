@@ -4,8 +4,20 @@ index,date,amount,currency,account_name,message,vs
 VS420260530/SS/KS"
 2,2026-06-15,-200.0,EUR,MAGIC OFFICE s. r. o.,"Platba/kuzelnik, MDD, 30.5.2026","20260010
 VS20260010/SS/KS308"
-3,2026-06-11,100.0,EUR,Lenka Hajekova,Platba/Dar_Lenka Hajekova,
-4,2026-06-09,-29.99,EUR,CapCut,"INT NÁKUP POS EUR CapCut / SINGAPORE / (POS 99999999)/
+3,2026-06-11,100.0,EUR,"
+                            Lenka Hajekova
+                    ","
+                        Platba
+                    /
+                        Dar_Lenka Hajekova
+                    ","
+                        
+                    "
+4,2026-06-09,-29.99,EUR,"
+                            CapCut
+                    ","
+                        INT NÁKUP POS EUR CapCut / SINGAPORE / (POS 99999999)
+                    /
                         
                     ","
                         

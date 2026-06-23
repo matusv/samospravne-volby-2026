@@ -3,9 +3,16 @@ index,date,amount,currency,account_name,message,vs
 1,2026-06-18,5000.0,EUR,Martin Patoprsty,Platba/Dar,
 2,2026-06-18,10000.0,EUR,Vladimír Sirotka,PLATBA/Dar na základe zmluvy,
 3,2026-06-18,15000.0,EUR,Martin Chren,PLATBA,
-4,2026-06-16,2000.0,EUR,Vojtech Bihary,PLATBA/Dar podla zmluvy 2000 Eur Misa,"2026
-VS2026/SS/KS0308"
-5,2026-05-30,-0.0,EUR,,"
+4,2026-06-16,2000.0,EUR,Vojtech Bihary,"
+                        PLATBA
+                    /
+                        Dar podla zmluvy 2000 Eur Misa
+                    ","
+                        2026VS2026/SS/KS0308
+                    "
+5,2026-05-30,-0.0,EUR,"
+                            
+                    ","
                         Poplatok za balík
                     /
                         
