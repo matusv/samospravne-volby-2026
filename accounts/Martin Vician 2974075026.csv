@@ -1,18 +1,31 @@
 index,date,amount,currency,account_name,message,vs
-0,2026-06-19,70.0,EUR,"Schultz Boris, Ing. arch.",TPP/Dar,
-1,2026-06-16,-959.4,EUR,"UNIMEDIA, s.r.o.","Platba/reklamna kampan, reklamne plochy","420260530
+0,2026-06-23,-700.0,EUR,Mgr. Matej Mísal,Platba/graficke prace,"202612
+VS202612/SS/KS"
+1,2026-06-23,-43.16,EUR,BUFFER PLAN,INT NÁKUP POS EUR BUFFER PLAN / BUFFER.COM / (POS 2TMTLWQ7),
+2,2026-06-19,70.0,EUR,"Schultz Boris, Ing. arch.",TPP/Dar,
+3,2026-06-16,-959.4,EUR,"UNIMEDIA, s.r.o.","Platba/reklamna kampan, reklamne plochy","420260530
 VS420260530/SS/KS"
-2,2026-06-15,-200.0,EUR,MAGIC OFFICE s. r. o.,"Platba/kuzelnik, MDD, 30.5.2026","20260010
+4,2026-06-15,-200.0,EUR,MAGIC OFFICE s. r. o.,"Platba/kuzelnik, MDD, 30.5.2026","20260010
 VS20260010/SS/KS308"
-3,2026-06-11,100.0,EUR,Lenka Hajekova,Platba/Dar_Lenka Hajekova,
-4,2026-06-09,-29.99,EUR,CapCut,"
+5,2026-06-11,100.0,EUR,"
+                            Lenka Hajekova
+                    ","
+                        Platba
+                    /
+                        Dar_Lenka Hajekova
+                    ","
+                        
+                    "
+6,2026-06-09,-29.99,EUR,"
+                            CapCut
+                    ","
                         INT NÁKUP POS EUR CapCut / SINGAPORE / (POS 99999999)
                     /
                         
                     ","
                         
                     "
-5,2026-06-08,-13.86,EUR,"
+7,2026-06-08,-13.86,EUR,"
                             Intuit Mailchimp
                     ","
                         EUR NÁKUP POS Intuit Mailchimp / Dublin 2 / (POS 99999999)
@@ -21,7 +34,7 @@ VS20260010/SS/KS308"
                     ","
                         
                     "
-6,2026-06-06,10000.0,EUR,"
+8,2026-06-06,10000.0,EUR,"
                             Horváth Tomáš, Ing.
                     ","
                         Platba
@@ -30,7 +43,7 @@ VS20260010/SS/KS308"
                     ","
                         
                     "
-7,2026-06-04,-777.36,EUR,"
+9,2026-06-04,-777.36,EUR,"
                             Helou Crocco! s.r.o.
                     ","
                         Platba
@@ -39,7 +52,7 @@ VS20260010/SS/KS308"
                     ","
                         26053109VS26053109/SS/KS
                     "
-8,2026-06-02,100.0,EUR,"
+10,2026-06-02,100.0,EUR,"
                             Zuzana Jajcayova
                     ","
                         Platba
@@ -48,7 +61,7 @@ VS20260010/SS/KS308"
                     ","
                         
                     "
-9,2026-06-02,100.0,EUR,"
+11,2026-06-02,100.0,EUR,"
                             Richard Jajcay
                     ","
                         Platba
@@ -57,7 +70,7 @@ VS20260010/SS/KS308"
                     ","
                         
                     "
-10,2026-06-01,-209.1,EUR,"
+12,2026-06-01,-209.1,EUR,"
                             Bittner print s.r.o.
                     ","
                         Platba
@@ -66,7 +79,7 @@ VS20260010/SS/KS308"
                     ","
                         1020262465VS1020262465/SS/KS308
                     "
-11,2026-05-30,-0.0,EUR,"
+13,2026-05-30,-0.0,EUR,"
                             
                     ","
                         Poplatok za účet
@@ -75,71 +88,55 @@ VS20260010/SS/KS308"
                     ","
                         
                     "
-12,2026-05-25,200.0,EUR,"
-                            MICHAL MIHÁLIK
-                    ","
-                        Platba
-                    /
-                        PLATBA
-                    ","
-                        
-                    "
-13,2026-05-25,-294.39,EUR,"
-                            gastrokuchyne.sk
-                    ","
-                        POS nákup gastrokuchyne.sk / Bardejov / (POS G1037815)
-                    /
-                        
-                    ","
-                        
-                    "
-14,2026-05-22,-43.16,EUR,BUFFER PLAN,INT NÁKUP POS EUR BUFFER PLAN / BUFFER.COM / (POS 2TMTLWQ7),
-15,2026-05-21,500.0,EUR,"Hrda Stanislav, Mgr.",Platba/dar od Stanislav Hrda,
-16,2026-05-21,70.0,EUR,"Schultz Boris, Ing. arch.",TPP/Dar,
-17,2026-05-21,100.0,EUR,Zuzana Jajcayova,Platba/dobrovolny dar na kampan,
-18,2026-05-21,250.0,EUR,Martin Ganz,Platba/dar,
-19,2026-05-21,140.0,EUR,"Michlík Martin, Ing.",Platba,
-20,2026-05-20,140.0,EUR,Paško Martin,Platba/Dobrovolny dar,
-21,2026-05-15,-1723.72,EUR,"UNIMEDIA, s.r.o.","Platba/reklamna kampan, reklamne plochy","420260416
+14,2026-05-25,200.0,EUR,MICHAL MIHÁLIK,Platba/PLATBA,
+15,2026-05-25,-294.39,EUR,gastrokuchyne.sk,POS nákup gastrokuchyne.sk / Bardejov / (POS G1037815),
+16,2026-05-22,-43.16,EUR,BUFFER PLAN,INT NÁKUP POS EUR BUFFER PLAN / BUFFER.COM / (POS 2TMTLWQ7),
+17,2026-05-21,500.0,EUR,"Hrda Stanislav, Mgr.",Platba/dar od Stanislav Hrda,
+18,2026-05-21,70.0,EUR,"Schultz Boris, Ing. arch.",TPP/Dar,
+19,2026-05-21,100.0,EUR,Zuzana Jajcayova,Platba/dobrovolny dar na kampan,
+20,2026-05-21,250.0,EUR,Martin Ganz,Platba/dar,
+21,2026-05-21,140.0,EUR,"Michlík Martin, Ing.",Platba,
+22,2026-05-20,140.0,EUR,Paško Martin,Platba/Dobrovolny dar,
+23,2026-05-15,-1723.72,EUR,"UNIMEDIA, s.r.o.","Platba/reklamna kampan, reklamne plochy","420260416
 VS420260416/SS/KS"
-22,2026-05-15,1000.0,EUR,"Vician Martin, Ing.",Platba/dotacia transparentneho uctu,
-23,2026-05-13,100.0,EUR,Lenka Hajekova,Platba/Dar_Lenka Hajekova,
-24,2026-05-11,100.0,EUR,Richard Jajcay,Platba,
-25,2026-05-11,-29.99,EUR,CapCut,INT NÁKUP POS EUR CapCut / SINGAPORE / (POS 99999999),
-26,2026-05-07,-13.76,EUR,Intuit Mailchimp,EUR NÁKUP POS Intuit Mailchimp / Dublin 2 / (POS 99999999),
-27,2026-05-06,100.0,EUR,Zuzana Jajcayova,Platba/dobrovolny dar na kampan,
-28,2026-05-04,1000.0,EUR,"Vician Martin, Ing.",Platba/dotacia transparentneho uctu,
-29,2026-04-30,-0.0,EUR,,Poplatok za účet,
-30,2026-04-30,-1.1,EUR,FACEBK* MM4ZMN5RX2,EUR NÁKUP POS FACEBK* MM4ZMN5RX2 / DUBLIN / (POS AJ3N08UJ),
-31,2026-04-30,-50.0,EUR,FACEBK* CUNPULVQX2,EUR NÁKUP POS FACEBK* CUNPULVQX2 / DUBLIN / (POS AJ3N08UJ),
-32,2026-04-28,-947.1,EUR,"UNIMEDIA, s.r.o.","Platba/reklamna kampan, reklamne plochy","420260330
+24,2026-05-15,1000.0,EUR,"Vician Martin, Ing.",Platba/dotacia transparentneho uctu,
+25,2026-05-13,100.0,EUR,Lenka Hajekova,Platba/Dar_Lenka Hajekova,
+26,2026-05-11,100.0,EUR,Richard Jajcay,Platba,
+27,2026-05-11,-29.99,EUR,CapCut,INT NÁKUP POS EUR CapCut / SINGAPORE / (POS 99999999),
+28,2026-05-07,-13.76,EUR,Intuit Mailchimp,EUR NÁKUP POS Intuit Mailchimp / Dublin 2 / (POS 99999999),
+29,2026-05-06,100.0,EUR,Zuzana Jajcayova,Platba/dobrovolny dar na kampan,
+30,2026-05-04,1000.0,EUR,"Vician Martin, Ing.",Platba/dotacia transparentneho uctu,
+31,2026-04-30,-0.0,EUR,,Poplatok za účet,
+32,2026-04-30,-1.1,EUR,FACEBK* MM4ZMN5RX2,EUR NÁKUP POS FACEBK* MM4ZMN5RX2 / DUBLIN / (POS AJ3N08UJ),
+33,2026-04-30,-50.0,EUR,FACEBK* CUNPULVQX2,EUR NÁKUP POS FACEBK* CUNPULVQX2 / DUBLIN / (POS AJ3N08UJ),
+34,2026-04-28,-947.1,EUR,"UNIMEDIA, s.r.o.","Platba/reklamna kampan, reklamne plochy","420260330
 VS420260330/SS/KS"
-33,2026-04-28,1000.0,EUR,"Vician Martin, Ing.",Platba/dotacia transparentneho uctu,
-34,2026-04-27,-50.0,EUR,FACEBK* W8VPULDRX2,EUR NÁKUP POS FACEBK* W8VPULDRX2 / DUBLIN / (POS AJ3N08UJ),
-35,2026-04-22,-43.16,EUR,BUFFER PLAN,INT NÁKUP POS EUR BUFFER PLAN / BUFFER.COM / (POS 2TMTLWQ7),
-36,2026-04-20,-50.0,EUR,FACEBK* 9HZG7MRQX2,EUR NÁKUP POS FACEBK* 9HZG7MRQX2 / DUBLIN / (POS AJ3N08UJ),
-37,2026-04-15,-50.0,EUR,FACEBK* FMP6KLMQX2,EUR NÁKUP POS FACEBK* FMP6KLMQX2 / DUBLIN / (POS AJ3N08UJ),
-38,2026-04-14,-615.0,EUR,"Petit Press, a.s.",Platba/Zálohová faktúra č.:,"2622100057
+35,2026-04-28,1000.0,EUR,"Vician Martin, Ing.",Platba/dotacia transparentneho uctu,
+36,2026-04-27,-50.0,EUR,FACEBK* W8VPULDRX2,EUR NÁKUP POS FACEBK* W8VPULDRX2 / DUBLIN / (POS AJ3N08UJ),
+37,2026-04-22,-43.16,EUR,BUFFER PLAN,INT NÁKUP POS EUR BUFFER PLAN / BUFFER.COM / (POS 2TMTLWQ7),
+38,2026-04-20,-50.0,EUR,FACEBK* 9HZG7MRQX2,EUR NÁKUP POS FACEBK* 9HZG7MRQX2 / DUBLIN / (POS AJ3N08UJ),
+39,2026-04-15,-50.0,EUR,FACEBK* FMP6KLMQX2,EUR NÁKUP POS FACEBK* FMP6KLMQX2 / DUBLIN / (POS AJ3N08UJ),
+40,2026-04-14,-615.0,EUR,"Petit Press, a.s.",Platba/Zálohová faktúra č.:,"2622100057
 VS2622100057/SS/KS"
-39,2026-04-09,-5.99,EUR,CapCut,INT NÁKUP POS EUR CapCut / SINGAPORE / (POS 99999999),
-40,2026-04-02,-10.0,EUR,,SPRAC.POPLATOK VA26040201012,
-41,2026-04-02,-711.27,EUR,Jakub Reznicek,PLATBA VA26040201012/UHRADA FAKTURY 202600005,
-42,2026-04-02,-500.0,EUR,TB Metodova,Výber z bankomatu TB Metodova / Bratislava / (ATM TBIN026G),
-43,2026-03-31,-0.0,EUR,,Poplatok za účet,
-44,2026-03-26,-92.68,EUR,GOPAY *BEZPOTISKU.CZ,INT NÁKUP POS EUR GOPAY *BEZPOTISKU.CZ / PRAHA / (POS EE800048),
-45,2026-03-23,-43.16,EUR,BUFFER PLAN,INT NÁKUP POS EUR BUFFER PLAN / BUFFER.COM / (POS 2TMTLWQ7),
-46,2026-03-19,-141.45,EUR,Bittner print s.r.o.,POS nákup Bittner print s.r.o. / Bratislava / (POS TN124400),
-47,2026-03-16,-6.31,EUR,Lidl dakuje 292,POS nákup Lidl dakuje 292 / Bratislava / (POS 06542628),
-48,2026-03-16,-29.01,EUR,"HORNBACH DEV.NOVA VES,","POS nákup HORNBACH DEV.NOVA VES, / BRATISLAVA / (POS 05048153)",
-49,2026-03-11,-163.72,EUR,"GRAFIS REKLAMA SK, s.r.o.",Platba/Platba faktury 267024,"267024
+41,2026-04-09,-5.99,EUR,CapCut,INT NÁKUP POS EUR CapCut / SINGAPORE / (POS 99999999),
+42,2026-04-02,-10.0,EUR,,SPRAC.POPLATOK VA26040201012,
+43,2026-04-02,-711.27,EUR,Jakub Reznicek,PLATBA VA26040201012/UHRADA FAKTURY 202600005,
+44,2026-04-02,-500.0,EUR,TB Metodova,Výber z bankomatu TB Metodova / Bratislava / (ATM TBIN026G),
+45,2026-03-31,-0.0,EUR,,Poplatok za účet,
+46,2026-03-26,-92.68,EUR,GOPAY *BEZPOTISKU.CZ,INT NÁKUP POS EUR GOPAY *BEZPOTISKU.CZ / PRAHA / (POS EE800048),
+47,2026-03-23,-43.16,EUR,BUFFER PLAN,INT NÁKUP POS EUR BUFFER PLAN / BUFFER.COM / (POS 2TMTLWQ7),
+48,2026-03-19,-141.45,EUR,Bittner print s.r.o.,POS nákup Bittner print s.r.o. / Bratislava / (POS TN124400),
+49,2026-03-16,-6.31,EUR,Lidl dakuje 292,POS nákup Lidl dakuje 292 / Bratislava / (POS 06542628),
+50,2026-03-16,-29.01,EUR,"HORNBACH DEV.NOVA VES,","POS nákup HORNBACH DEV.NOVA VES, / BRATISLAVA / (POS 05048153)",
+51,2026-03-11,-163.72,EUR,"GRAFIS REKLAMA SK, s.r.o.",Platba/Platba faktury 267024,"267024
 VS267024/SS/KS308"
-50,2026-03-11,-10.0,EUR,,SPRAC.POPLATOK VA26031100749,
-51,2026-03-11,-714.86,EUR,Jakub Reznicek,PLATBA VA26031100749/UHRADA FAKTURY 202600004,
-52,2026-03-10,-294.92,EUR,Alza.cz a.s.,INT NÁKUP POS EUR Alza.cz a.s. / Prague / (POS 99999999),
-53,2026-02-28,-0.0,EUR,,Poplatok za účet,
-54,2026-02-26,-160.65,EUR,"Decathlon online,BA Bo","POS nákup Decathlon online,BA Bo / BRATISLAVA / (POS 05063964)",
-55,2026-02-18,-40.0,EUR,TB Pri Vapenickom,Výber z bankomatu TB Pri Vapenickom / Zahorska Byst / (ATM TBIN127E),
-56,2026-01-31,-0.0,EUR,,Poplatok za účet,
-57,2026-01-30,-5904.61,EUR,Media and Digital Services a.s.,Platba/Zalohova faktura 260003,"260003
+52,2026-03-11,-10.0,EUR,,SPRAC.POPLATOK VA26031100749,
+53,2026-03-11,-714.86,EUR,Jakub Reznicek,PLATBA VA26031100749/UHRADA FAKTURY 202600004,
+54,2026-03-10,-294.92,EUR,Alza.cz a.s.,INT NÁKUP POS EUR Alza.cz a.s. / Prague / (POS 99999999),
+55,2026-02-28,-0.0,EUR,,Poplatok za účet,
+56,2026-02-26,-160.65,EUR,"Decathlon online,BA Bo","POS nákup Decathlon online,BA Bo / BRATISLAVA / (POS 05063964)",
+57,2026-02-18,-40.0,EUR,TB Pri Vapenickom,Výber z bankomatu TB Pri Vapenickom / Zahorska Byst / (ATM TBIN127E),
+58,2026-01-31,-0.0,EUR,,Poplatok za účet,
+59,2026-01-30,-5904.61,EUR,Media and Digital Services a.s.,Platba/Zalohova faktura 260003,"260003
 VS260003/SS/KS"
-58,2026-01-27,10000.0,EUR,"Vician Martin, Ing.",Platba/dotacia transparentneho uctu,
+60,2026-01-27,10000.0,EUR,"Vician Martin, Ing.",Platba/dotacia transparentneho uctu,
