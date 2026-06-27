@@ -1,7 +1,13 @@
 index,date,account_name,amount,message,vs,name
 0,2026-06-25,KAMET s r. o.,-403.6,"Platba/Kamet - prenajom a texhnicke zabezpecenie, kampan PK Hanulik 06/2026","260604
 VS260604/SS03/KS",Progresívne Slovensko
-1,2026-06-25,,-1.96,Transakčná daň 24.06.2026,"
+1,2026-06-25,"
+                            
+                    ",-1.96,"
+                        Transakčná daň 24.06.2026
+                    /
+                        
+                    ","
                         
                     ",Progresívne Slovensko
 2,2026-06-25,"
@@ -13,10 +19,22 @@ VS260604/SS03/KS",Progresívne Slovensko
                     ","
                         5VS5/SS/KS
                     ",Progresívne Slovensko
-3,2026-06-25,Polana TRANS s.r.o.,-615.0,Platba/Poprad - rodinny festival Poprad 06/2026,"20260119
-VS20260119/SS/KS",Progresívne Slovensko
-4,2026-06-25,Martin Péchy,-3000.0,Platba/Pechy kampanova komunikacia ba 05 26,"20260007
-VS20260007/SS/KS",Progresívne Slovensko
+3,2026-06-25,Polana TRANS s.r.o.,-615.0,"
+                        Platba
+                    /
+                        Poprad - rodinny festival Poprad 06/2026
+                    ","
+                        20260119VS20260119/SS/KS
+                    ",Progresívne Slovensko
+4,2026-06-25,"
+                            Martin Péchy
+                    ",-3000.0,"
+                        Platba
+                    /
+                        Pechy kampanova komunikacia  ba 05 26
+                    ","
+                        20260007VS20260007/SS/KS
+                    ",Progresívne Slovensko
 5,2026-06-24,"
                             Michal Valašik
                     ",-120.0,"
@@ -968,9 +986,7 @@ VS2621017/SS03/KS",Progresívne Slovensko
 554,2026-05-30,,-19.0,Poplatok za balík,,Demokrati
 555,2026-05-02,,-0.08,Transakčná daň 30.04.2026,,Demokrati
 556,2026-04-30,,-19.0,Poplatok za balík,,Demokrati
-557,2026-04-01,"
-                            
-                    ",-0.08,"
+557,2026-04-01,,-0.08,"
                         Transakčná daň 31.03.2026
                     /
                         
@@ -1721,12 +1737,23 @@ olby 2026",,Pirátska strana - Slovensko
 1214,2026-05-19,,-290.28,Piratska strana - Slovensko,202605004.0,Pirátska strana - Slovensko
 1215,2026-05-19,Pirátska strana - Slovensko,300.0,,,Pirátska strana - Slovensko
 1216,2026-06-25,,-0.12,Transakčná daň 24.06.2026,,Dunaj
-1217,2026-06-25,Dunaj,1000.0,Platba/Prevod financii kampan,,Dunaj
+1217,2026-06-25,"
+                            Dunaj
+                    ",1000.0,"
+                        Platba
+                    /
+                        Prevod financii kampan
+                    ","
+                        
+                    ",Dunaj
 1218,2026-06-25,"NUBIUM, s. r. o.",-512.91,Platba/Prenajom ploch,"16120027
 VS16120027/SS/KS",Dunaj
-1219,2026-06-25,"NUBIUM, s. r. o.",-92.25,Platba/Tlac plagato 3ks,"2610003814
-VS2610003814/SS/KS",Dunaj
-1220,2026-06-24,Dunaj,30.0,"
+1219,2026-06-25,"NUBIUM, s. r. o.",-92.25,Platba/Tlac plagato 3ks,"
+                        2610003814VS2610003814/SS/KS
+                    ",Dunaj
+1220,2026-06-24,"
+                            Dunaj
+                    ",30.0,"
                         Platba
                     /
                         Prevod financii
@@ -2597,501 +2624,480 @@ VS2026002/SS/KS",TÍM RUŽINOV
 1970,2026-04-22,,-0.22,Poplatok Okamžitá platba (elektronicky),16120010.0,Ondrej Lunter
 1971,2026-04-22,"NUBIUM, s. r. o.",-4723.2,"Mgr. Ondrej Lunter; Zaloha - pobocka Ruzomberok; 02.04.2026, prenajom billboardy",16120010.0,Ondrej Lunter
 1972,2026-04-21,Ondrej Lunter,25000.0,Podpora kampane Ondrej Lunter,,Ondrej Lunter
-1973,2026-06-25,Šulek Peter,5000.3,Platba,,Samuel Migaľ
-1974,2026-06-12,"Migaľ Samuel, Mgr.",2000.0,Platba,,Samuel Migaľ
-1975,2026-06-09,"Migaľ Samuel, Mgr.",10000.0,Platba/Príspevok na kampaň,,Samuel Migaľ
-1976,2026-05-30,,-0.0,Poplatok za účet,,Samuel Migaľ
-1977,2026-05-11,"Migaľ Samuel, Mgr.",5000.0,Platba/Uvodny vklad KAMPAN,,Samuel Migaľ
-1978,2026-06-22,,-900.0,vrátenie príspevku,,Branislav Baroš
-1979,2026-06-22,,-738.0,výroba bannerov,20260426.0,Branislav Baroš
-1980,2026-06-22,,-745.96,reklamné predmety,20260488.0,Branislav Baroš
-1981,2026-06-01,KDH - Kresťanskodemo,5000.0,?/DO2026-05-29/SPPeňažný dar,27052026.0,Branislav Baroš
-1982,2026-05-24,MARIAN KUBAL,900.0,"Marian Kubal, volby",,Branislav Baroš
-1983,2026-05-22,,-387.45,tričká,20260422.0,Branislav Baroš
-1984,2026-05-22,,-162.36,výroba banneru,20260362.0,Branislav Baroš
-1985,2026-05-19,,-594.09,reklamné predmety,68000022.0,Branislav Baroš
-1986,2026-05-18,,-102.75,mikrofón,596906544.0,Branislav Baroš
-1987,2026-05-12,Margita Marsalikova,900.0,Prosmanova Daniela,,Branislav Baroš
-1988,2026-05-10,Branislav Kramár,900.0,Brano Kramar,,Branislav Baroš
-1989,2026-04-30,Katarína Kolevová,900.0,Kristian Kolev,,Branislav Baroš
-1990,2026-04-16,FRANTIŠEK DRGOŇ,900.0,PLATBA,11101960.0,Branislav Baroš
-1991,2026-04-15,JOZEF MITOSINKA,900.0,?/DO2026-04-14/SPKOMUNALNE VOLBY 2026,,Branislav Baroš
-1992,2026-04-14,"PhDr. Lipovský, Michal",900.0,Prispevok volby 2026 Lipovsky,,Branislav Baroš
-1993,2026-04-11,VIKTOR KRIŽAN,900.0,"Viktor Krizan, prispevok na volby - komunalne volby 2026",,Branislav Baroš
-1994,2026-04-10,Lubica Gergelyova,900.0,Volby 2026,,Branislav Baroš
-1995,2026-04-07,,-2349.3,"tlač bannerov, prenájom BB",20260221.0,Branislav Baroš
-1996,2026-03-31,Jozef Študenc,900.0,Volby 2026,,Branislav Baroš
-1997,2026-03-30,MAREK DOMES,900.0,MAREK DOMES,,Branislav Baroš
-1998,2026-03-29,RASTISLAV MRÁZ,900.0,RASTISLAV MRÁZ,,Branislav Baroš
-1999,2026-03-23,,-814.26,reklamný priestor kampane - BB,26950119.0,Branislav Baroš
-2000,2026-03-23,,-1404.66,reklamný priestor kampane - BB,26950115.0,Branislav Baroš
-2001,2026-03-13,,-360.0,"Dusan Kobliska: 2026009 - Ing. Bran
+1973,2026-05-29,,5.0,Storno-popl.za platby a ved.úč/kon,9,Roman Malatinec
+1974,2026-05-29,,-5.0,Vedenie účtu,9,Roman Malatinec
+1975,2026-06-25,Šulek Peter,5000.3,Platba,,Samuel Migaľ
+1976,2026-06-12,"Migaľ Samuel, Mgr.",2000.0,Platba,,Samuel Migaľ
+1977,2026-06-09,"Migaľ Samuel, Mgr.",10000.0,Platba/Príspevok na kampaň,,Samuel Migaľ
+1978,2026-05-30,,-0.0,Poplatok za účet,,Samuel Migaľ
+1979,2026-05-11,"Migaľ Samuel, Mgr.",5000.0,Platba/Uvodny vklad KAMPAN,,Samuel Migaľ
+1980,2026-06-22,,-900.0,vrátenie príspevku,,Branislav Baroš
+1981,2026-06-22,,-738.0,výroba bannerov,20260426.0,Branislav Baroš
+1982,2026-06-22,,-745.96,reklamné predmety,20260488.0,Branislav Baroš
+1983,2026-06-01,KDH - Kresťanskodemo,5000.0,?/DO2026-05-29/SPPeňažný dar,27052026.0,Branislav Baroš
+1984,2026-05-24,MARIAN KUBAL,900.0,"Marian Kubal, volby",,Branislav Baroš
+1985,2026-05-22,,-387.45,tričká,20260422.0,Branislav Baroš
+1986,2026-05-22,,-162.36,výroba banneru,20260362.0,Branislav Baroš
+1987,2026-05-19,,-594.09,reklamné predmety,68000022.0,Branislav Baroš
+1988,2026-05-18,,-102.75,mikrofón,596906544.0,Branislav Baroš
+1989,2026-05-12,Margita Marsalikova,900.0,Prosmanova Daniela,,Branislav Baroš
+1990,2026-05-10,Branislav Kramár,900.0,Brano Kramar,,Branislav Baroš
+1991,2026-04-30,Katarína Kolevová,900.0,Kristian Kolev,,Branislav Baroš
+1992,2026-04-16,FRANTIŠEK DRGOŇ,900.0,PLATBA,11101960.0,Branislav Baroš
+1993,2026-04-15,JOZEF MITOSINKA,900.0,?/DO2026-04-14/SPKOMUNALNE VOLBY 2026,,Branislav Baroš
+1994,2026-04-14,"PhDr. Lipovský, Michal",900.0,Prispevok volby 2026 Lipovsky,,Branislav Baroš
+1995,2026-04-11,VIKTOR KRIŽAN,900.0,"Viktor Krizan, prispevok na volby - komunalne volby 2026",,Branislav Baroš
+1996,2026-04-10,Lubica Gergelyova,900.0,Volby 2026,,Branislav Baroš
+1997,2026-04-07,,-2349.3,"tlač bannerov, prenájom BB",20260221.0,Branislav Baroš
+1998,2026-03-31,Jozef Študenc,900.0,Volby 2026,,Branislav Baroš
+1999,2026-03-30,MAREK DOMES,900.0,MAREK DOMES,,Branislav Baroš
+2000,2026-03-29,RASTISLAV MRÁZ,900.0,RASTISLAV MRÁZ,,Branislav Baroš
+2001,2026-03-23,,-814.26,reklamný priestor kampane - BB,26950119.0,Branislav Baroš
+2002,2026-03-23,,-1404.66,reklamný priestor kampane - BB,26950115.0,Branislav Baroš
+2003,2026-03-13,,-360.0,"Dusan Kobliska: 2026009 - Ing. Bran
 islav Baros - 2026/03",2026009.0,Branislav Baroš
-2002,2026-03-05,"Butt Kashif, Ing.",900.0,"Butt Kashif, Ing.",,Branislav Baroš
-2003,2026-03-03,Branislav Baros,900.0,prispevok na volby 2026,,Branislav Baroš
-2004,2026-03-03,,-447.72,reklamný priestor kampane - BB,26950095.0,Branislav Baroš
-2005,2026-03-02,"Hejduk Milan, MUDr.",900.0,MUDr. Hejduk,,Branislav Baroš
-2006,2026-02-26,"Bullová Mária, Ing.",900.0,"Bullová Mária, Ing.",,Branislav Baroš
-2007,2026-02-24,"Krištofík Miloš, PhD",900.0,kristofik milos komunalne volby vklad,,Branislav Baroš
-2008,2026-06-24,PAVOL HLUCHÝ,1000.0,T2508808894801838083,,Eva Nemčovská
-2009,2026-06-12,Nemčovská Eva,1000.0,Eva Nemčovská - vklad vlastné zdroje - kampaň,,Eva Nemčovská
-2010,2026-06-08,Mesto Trnava,-100.0,Daň/poplatok užívanie verejného priestranstva na rok 2026,1500010410.0,Eva Nemčovská
-2011,2026-06-08,Mesto Trnava,-100.0,Daň/poplatok užívanie verejného priestranstva na rok 2026,1500010409.0,Eva Nemčovská
-2012,2026-06-05,Mesto Trnava,-100.0,Daň/poplatok užívanie verejného priestranstva na rok 2026,1500010391.0,Eva Nemčovská
-2013,2026-06-05,Mesto Trnava,-100.0,Daň/poplatok užívanie verejného priestranstva na rok 2026,1500010390.0,Eva Nemčovská
-2014,2026-06-01,VERGA S.R.O.,-177.12,Tlač letákov A5 - kampaň Nemčovská,2681000100.0,Eva Nemčovská
-2015,2026-05-31,,-5.0,Zverejňovanie účtu,,Eva Nemčovská
-2016,2026-05-28,Mgr. Tibor Pekarcik,5000.0,Podpora Eva Nemcovska volby 2026,,Eva Nemčovská
-2017,2026-05-25,Cabanová Gabriela,1000.0,"volby,2026",,Eva Nemčovská
-2018,2026-05-23,Baďura Juraj,1000.0,OO26052300026137,,Eva Nemčovská
-2019,2026-05-23,Policy Insights s.r.o,-8610.0,"Kvantitatívny prieskum, VS2026009",,Eva Nemčovská
-2020,2026-05-23,Nemčovská Eva,5000.0,Eva Nemčovská - vklad vlastné zdroje - kampaň,,Eva Nemčovská
-2021,2026-05-22,Šúst  Jozef,1000.0,Jozef Sust,,Eva Nemčovská
-2022,2026-05-19,"Ekhardt Vladimír, Ing.",500.0,1/2 - Kampan Eva 2026,,Eva Nemčovská
-2023,2026-05-19,VERGA S.R.O.,-550.0,"Predmet: spracovanie videa, kandidátka",2681000083.0,Eva Nemčovská
-2024,2026-05-18,Mesto Trnava,-80.0,poplatok - záber verejného priestranstva za účelom politického meetingu,5000330490.0,Eva Nemčovská
-2025,2026-05-13,Marek Mečiar,1000.0,T2478500414702526465,,Eva Nemčovská
-2026,2026-05-13,Lukas Bednar,1000.0,Odoslane z Revolutu,,Eva Nemčovská
-2027,2026-05-06,Katarina Durkova,1000.0,Odoslane z Revolutu,,Eva Nemčovská
-2028,2026-05-05,"Schwarz Marián, Ing.",1000.0,OO26050500032400,,Eva Nemčovská
-2029,2026-05-05,Krajčo Marcel,1000.0,OO26050500027745,,Eva Nemčovská
-2030,2026-05-05,Štefánik Ondrej,1000.0,OO26050500023005,,Eva Nemčovská
-2031,2026-04-30,,-5.0,Zverejňovanie účtu,,Eva Nemčovská
-2032,2026-03-31,,-5.0,Zverejňovanie účtu,,Eva Nemčovská
-2033,2026-02-28,,-5.0,Zverejňovanie účtu,,Eva Nemčovská
-2034,2026-01-31,,-5.0,Zverejňovanie účtu,,Eva Nemčovská
-2035,2026-01-28,Nemčovská Eva,1000.0,F001280120268812727,,Eva Nemčovská
-2036,2026-06-27,Cromwell,-947.6,Distribucia letakov do schranok domacnosti v termine 20.-23.6.2026,102260584.0,Igor Kršiak
-2037,2026-06-27,VERGA S.R.O.,-200.0,Produkcia spotu Intro do 90s rezia strih kamera posprodukcia VERGA s.r.o.,2681000141.0,Igor Kršiak
-2038,2026-06-22,Horváth Mário,500.0,,,Igor Kršiak
-2039,2026-06-17,PAMA NITRA SRO,-3011.04,0260617182532.831715,268362.0,Igor Kršiak
-2040,2026-06-16,Andrej Skoda,500.0,Odoslane z Revolutu,,Igor Kršiak
-2041,2026-06-10,Adam Filip,300.0,Volby 2026,,Igor Kršiak
-2042,2026-06-06,PETER OREMUS,500.0,"Peter Oremus, volby 2026",,Igor Kršiak
-2043,2026-06-02,Košťál Peter,500.0,F001020620261075850,,Igor Kršiak
-2044,2026-05-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2045,2026-05-27,"Halaj Martin, MUDr.",3000.0,Martin Halaj,25052026.0,Igor Kršiak
-2046,2026-05-13,Viera Kováčová,1000.0,Fungujuca Nitra,,Igor Kršiak
-2047,2026-04-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2048,2026-04-22,Andrej Skoda,2990.0,Odoslane z Revolutu,,Igor Kršiak
-2049,2026-04-22,Andrej Škoda,-2990.0,Vratenie hotovostneho vkladu,,Igor Kršiak
-2050,2026-04-22,,2990.0,Andrej Škoda,,Igor Kršiak
-2051,2026-04-20,euroAWK,-3497.81,,2670014.0,Igor Kršiak
-2052,2026-04-15,"Pavlovič Jozef, Bc.",1000.0,Prispevok na uspech,780115.0,Igor Kršiak
-2053,2026-03-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2054,2026-03-30,"Sopúšková Zuzana, Bc.",500.0,F001300320267355833,,Igor Kršiak
-2055,2026-03-27,"Sopúšková Zuzana, Bc.",2500.0,F001270320265168529,,Igor Kršiak
-2056,2026-03-27,Matúš Horváth,1500.0,T2443946806057369602,,Igor Kršiak
-2057,2026-03-26,Mario Horvath,1500.0,,,Igor Kršiak
-2058,2026-02-28,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2059,2026-01-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2060,2025-12-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2061,2025-11-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2062,2025-10-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2063,2025-09-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2064,2025-08-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2065,2025-07-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2066,2025-06-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2067,2025-05-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2068,2025-04-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2069,2025-03-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2070,2025-02-28,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2071,2025-01-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2072,2024-12-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2073,2024-11-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2074,2024-11-06,,-2.0,"B1953849586-44544 12** **** 9935;FACEBK *QMVTJBG452 ,Dublin ,IE ;05.11.2024 07:40:04 ;CashBack:0 EUR",,Igor Kršiak
-2075,2024-11-04,,-2.0,"B1952530000-44544 12** **** 9935;FACEBK *B83MDC8452 ,Dublin ,IE ;03.11.2024 21:22:39 ;CashBack:0 EUR",,Igor Kršiak
-2076,2024-11-03,,-2.0,"B1951747201-44544 12** **** 9935;FACEBK *9BQ9ABL452 ,Dublin ,IE ;02.11.2024 17:54:36 ;CashBack:0 EUR",,Igor Kršiak
-2077,2024-11-02,,-2.0,"B1951436845-44544 12** **** 9935;FACEBK *CTMQBEU452 ,Dublin ,IE ;01.11.2024 09:44:05 ;CashBack:0 EUR",,Igor Kršiak
-2078,2024-10-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2079,2024-10-31,,-2.0,"B1949469951-44544 12** **** 9935;FACEBK *8NR3XB4452 ,Dublin ,IE ;30.10.2024 22:38:04 ;CashBack:0 EUR",,Igor Kršiak
-2080,2024-09-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2081,2024-08-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2082,2024-07-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2083,2024-06-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2084,2024-05-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2085,2024-05-31,,-6.0,Poplatok za vedenie účtu,,Igor Kršiak
-2086,2024-04-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2087,2024-03-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2088,2024-02-29,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2089,2024-02-06,,1.82,"B1727460321-44544 12** **** 9935;GoogleAdwordsEU ADS551324 ,Dublin ,IE ;01.01.2009 00:00:00 ",,Igor Kršiak
-2090,2024-01-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2091,2023-12-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2092,2023-11-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2093,2023-10-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2094,2023-09-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2095,2023-08-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2096,2023-07-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2097,2023-06-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2098,2023-06-10,,-23.98,"B1546896846-44544 12** **** 9935;FACEBK HTDR4Q7RY2 ,fb.me/ads ,IE ;09.06.2023 10:37:33 ;CashBack:0 EUR",,Igor Kršiak
-2099,2023-05-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2100,2023-04-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2101,2023-04-23,Websupport,-4.79,0230423212149.867710,1023113353.0,Igor Kršiak
-2102,2023-04-09,,-13.98,"B1503886705-44544 12** **** 9935;FACEBK 3QKMBP3RY2 ,fb.me/ads ,IE ;09.04.2023 03:11:40 ;CashBack:0 EUR",,Igor Kršiak
-2103,2023-03-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2104,2023-02-28,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2105,2023-02-16,,-303.38,"B1467117607-44544 12** **** 9935;FACEBK EDXHXMPQY2 ,fb.me/ads ,IE ;14.02.2023 14:44:38 ;CashBack:0 EUR",,Igor Kršiak
-2106,2023-02-14,Kršiak Igor,300.0,F001140220234096727,,Igor Kršiak
-2107,2023-01-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
-2108,2026-06-24,Gazdíková Eva PhDr.,1800.0,"PhDr. Eva Gazdíková, Šafárikova 14, 911 08 Trenčín, príspevok na kampaň",,Ján Forgáč
-2109,2026-06-01,pregast s. r. o.,-249.0,"Za cateringove sluzby - jedlo, nealko, kava na stretnuti s kandidatmi MsZ zo dna 20.5.2026",1020260025.0,Ján Forgáč
-2110,2026-06-01,Forgáč Ján,150.0,"Mgr. Ján Forgáč, Partizánska 7859/50A, 91101 Trenčín, prispevok",,Ján Forgáč
-2111,2026-05-31,,-5.0,Zverejňovanie účtu,,Ján Forgáč
-2112,2026-05-20,Websupport s.r.o.,-12.18,"Za dodané služby, doména trencin2026plus.sk",1026177184.0,Ján Forgáč
-2113,2026-04-30,,-5.0,Zverejňovanie účtu,,Ján Forgáč
-2114,2026-03-31,,-5.0,Zverejňovanie účtu,,Ján Forgáč
-2115,2026-02-28,,-5.0,Zverejňovanie účtu,,Ján Forgáč
-2116,2026-02-24,Websupport s.r.o.,-20.79,"Za dodané služby, doména janforgac.sk",102641649.0,Ján Forgáč
-2117,2026-02-13,"ISPA, spol. s r.o.",-617.46,"Zálohová platba za poskytnutie reklamného priestoru 202504951 za obdobie 1.8.2026 až 31.10.2026, billboard 301011703, výroba a tlač.",26950053.0,Ján Forgáč
-2118,2026-02-11,Forgáč Ján,300.0,"Mgr. Ján Fogáč, Partizánska 7859/50A, 91101 Trenčín, prispevok",,Ján Forgáč
-2119,2026-02-01,Forgáč Ján,500.0,"Mgr. Ján Fogáč, Partizánska 7859/50A, 91101 Trenčín, prispevok",,Ján Forgáč
-2120,2026-01-31,,-5.0,Zverejňovanie účtu,,Ján Forgáč
-2121,2026-01-31,,-0.45,Poplatok za vedenie účtu,,Ján Forgáč
-2122,2026-06-17,Helena Balážová,100.0,"Prijatá platba, NA KAMPAN, H.Balazova",,Natália Svítková
-2123,2026-06-17,Ivana Bednar Hrda,10.0,"Prijatá platba, Drzim palce",,Natália Svítková
-2124,2026-06-16,Michal Nemethy,10.0,"Prijatá platba, ",,Natália Svítková
-2125,2026-06-16,MARTIN LAMAČKA,44.0,"Prijatá platba, VELA STASTIA",VS: 1,Natália Svítková
-2126,2026-06-16,Bystrík Novák,25.0,"Prijatá platba, Drzime palce",,Natália Svítková
-2127,2026-06-16,Illeš Robert,11.11,"Prijatá platba, Príspevok na kampaň za župana Trenčianskeho kraja,",,Natália Svítková
-2128,2026-06-16,Mydlíková Eva,999.0,"Prijatá platba, ",,Natália Svítková
-2129,2026-06-10,,-1200.0,"Odoslaná okamžitá platba, Graficke sluzby-uvod kampane",,Natália Svítková
-2130,2026-06-08,Bc.Peter Kovacik,20.0,"Prijatá platba, Dar",,Natália Svítková
-2131,2026-06-07,"Lifka Róbert, Ing.",200.0,"Prijatá platba, Zaciatok zmeny . Drzim palce.",,Natália Svítková
-2132,2026-06-07,Matus Vrazba,5.0,"Prijatá platba, Za modru zupu.",,Natália Svítková
-2133,2026-06-05,KUNIK ROBERT,20.0,"Prijatá platba, /DO2026-06-05/SPdar",,Natália Svítková
-2134,2026-05-31,,-10.0,"Za vedenie účtu, výpisy a transakcie, od 30.04.2026 do 31.05.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 7 x prijaté platby: 0,00, 3 x debet - elektronicky: 0,00",,Natália Svítková
-2135,2026-05-29,,-3.0,"Poplatok platobné karty, Miesto: VISA CLASSIC DEB. CL Suma: 3 EUR 28.05.2026","VS: 495000148
+2004,2026-03-05,"Butt Kashif, Ing.",900.0,"Butt Kashif, Ing.",,Branislav Baroš
+2005,2026-03-03,Branislav Baros,900.0,prispevok na volby 2026,,Branislav Baroš
+2006,2026-03-03,,-447.72,reklamný priestor kampane - BB,26950095.0,Branislav Baroš
+2007,2026-03-02,"Hejduk Milan, MUDr.",900.0,MUDr. Hejduk,,Branislav Baroš
+2008,2026-02-26,"Bullová Mária, Ing.",900.0,"Bullová Mária, Ing.",,Branislav Baroš
+2009,2026-02-24,"Krištofík Miloš, PhD",900.0,kristofik milos komunalne volby vklad,,Branislav Baroš
+2010,2026-06-24,PAVOL HLUCHÝ,1000.0,T2508808894801838083,,Eva Nemčovská
+2011,2026-06-12,Nemčovská Eva,1000.0,Eva Nemčovská - vklad vlastné zdroje - kampaň,,Eva Nemčovská
+2012,2026-06-08,Mesto Trnava,-100.0,Daň/poplatok užívanie verejného priestranstva na rok 2026,1500010410.0,Eva Nemčovská
+2013,2026-06-08,Mesto Trnava,-100.0,Daň/poplatok užívanie verejného priestranstva na rok 2026,1500010409.0,Eva Nemčovská
+2014,2026-06-05,Mesto Trnava,-100.0,Daň/poplatok užívanie verejného priestranstva na rok 2026,1500010391.0,Eva Nemčovská
+2015,2026-06-05,Mesto Trnava,-100.0,Daň/poplatok užívanie verejného priestranstva na rok 2026,1500010390.0,Eva Nemčovská
+2016,2026-06-01,VERGA S.R.O.,-177.12,Tlač letákov A5 - kampaň Nemčovská,2681000100.0,Eva Nemčovská
+2017,2026-05-31,,-5.0,Zverejňovanie účtu,,Eva Nemčovská
+2018,2026-05-28,Mgr. Tibor Pekarcik,5000.0,Podpora Eva Nemcovska volby 2026,,Eva Nemčovská
+2019,2026-05-25,Cabanová Gabriela,1000.0,"volby,2026",,Eva Nemčovská
+2020,2026-05-23,Baďura Juraj,1000.0,OO26052300026137,,Eva Nemčovská
+2021,2026-05-23,Policy Insights s.r.o,-8610.0,"Kvantitatívny prieskum, VS2026009",,Eva Nemčovská
+2022,2026-05-23,Nemčovská Eva,5000.0,Eva Nemčovská - vklad vlastné zdroje - kampaň,,Eva Nemčovská
+2023,2026-05-22,Šúst  Jozef,1000.0,Jozef Sust,,Eva Nemčovská
+2024,2026-05-19,"Ekhardt Vladimír, Ing.",500.0,1/2 - Kampan Eva 2026,,Eva Nemčovská
+2025,2026-05-19,VERGA S.R.O.,-550.0,"Predmet: spracovanie videa, kandidátka",2681000083.0,Eva Nemčovská
+2026,2026-05-18,Mesto Trnava,-80.0,poplatok - záber verejného priestranstva za účelom politického meetingu,5000330490.0,Eva Nemčovská
+2027,2026-05-13,Marek Mečiar,1000.0,T2478500414702526465,,Eva Nemčovská
+2028,2026-05-13,Lukas Bednar,1000.0,Odoslane z Revolutu,,Eva Nemčovská
+2029,2026-05-06,Katarina Durkova,1000.0,Odoslane z Revolutu,,Eva Nemčovská
+2030,2026-05-05,"Schwarz Marián, Ing.",1000.0,OO26050500032400,,Eva Nemčovská
+2031,2026-05-05,Krajčo Marcel,1000.0,OO26050500027745,,Eva Nemčovská
+2032,2026-05-05,Štefánik Ondrej,1000.0,OO26050500023005,,Eva Nemčovská
+2033,2026-04-30,,-5.0,Zverejňovanie účtu,,Eva Nemčovská
+2034,2026-03-31,,-5.0,Zverejňovanie účtu,,Eva Nemčovská
+2035,2026-02-28,,-5.0,Zverejňovanie účtu,,Eva Nemčovská
+2036,2026-01-31,,-5.0,Zverejňovanie účtu,,Eva Nemčovská
+2037,2026-01-28,Nemčovská Eva,1000.0,F001280120268812727,,Eva Nemčovská
+2038,2026-06-27,Cromwell,-947.6,Distribucia letakov do schranok domacnosti v termine 20.-23.6.2026,102260584.0,Igor Kršiak
+2039,2026-06-27,VERGA S.R.O.,-200.0,Produkcia spotu Intro do 90s rezia strih kamera posprodukcia VERGA s.r.o.,2681000141.0,Igor Kršiak
+2040,2026-06-22,Horváth Mário,500.0,,,Igor Kršiak
+2041,2026-06-17,PAMA NITRA SRO,-3011.04,0260617182532.831715,268362.0,Igor Kršiak
+2042,2026-06-16,Andrej Skoda,500.0,Odoslane z Revolutu,,Igor Kršiak
+2043,2026-06-10,Adam Filip,300.0,Volby 2026,,Igor Kršiak
+2044,2026-06-06,PETER OREMUS,500.0,"Peter Oremus, volby 2026",,Igor Kršiak
+2045,2026-06-02,Košťál Peter,500.0,F001020620261075850,,Igor Kršiak
+2046,2026-05-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2047,2026-05-27,"Halaj Martin, MUDr.",3000.0,Martin Halaj,25052026.0,Igor Kršiak
+2048,2026-05-13,Viera Kováčová,1000.0,Fungujuca Nitra,,Igor Kršiak
+2049,2026-04-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2050,2026-04-22,Andrej Skoda,2990.0,Odoslane z Revolutu,,Igor Kršiak
+2051,2026-04-22,Andrej Škoda,-2990.0,Vratenie hotovostneho vkladu,,Igor Kršiak
+2052,2026-04-22,,2990.0,Andrej Škoda,,Igor Kršiak
+2053,2026-04-20,euroAWK,-3497.81,,2670014.0,Igor Kršiak
+2054,2026-04-15,"Pavlovič Jozef, Bc.",1000.0,Prispevok na uspech,780115.0,Igor Kršiak
+2055,2026-03-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2056,2026-03-30,"Sopúšková Zuzana, Bc.",500.0,F001300320267355833,,Igor Kršiak
+2057,2026-03-27,"Sopúšková Zuzana, Bc.",2500.0,F001270320265168529,,Igor Kršiak
+2058,2026-03-27,Matúš Horváth,1500.0,T2443946806057369602,,Igor Kršiak
+2059,2026-03-26,Mario Horvath,1500.0,,,Igor Kršiak
+2060,2026-02-28,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2061,2026-01-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2062,2025-12-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2063,2025-11-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2064,2025-10-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2065,2025-09-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2066,2025-08-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2067,2025-07-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2068,2025-06-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2069,2025-05-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2070,2025-04-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2071,2025-03-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2072,2025-02-28,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2073,2025-01-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2074,2024-12-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2075,2024-11-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2076,2024-11-06,,-2.0,"B1953849586-44544 12** **** 9935;FACEBK *QMVTJBG452 ,Dublin ,IE ;05.11.2024 07:40:04 ;CashBack:0 EUR",,Igor Kršiak
+2077,2024-11-04,,-2.0,"B1952530000-44544 12** **** 9935;FACEBK *B83MDC8452 ,Dublin ,IE ;03.11.2024 21:22:39 ;CashBack:0 EUR",,Igor Kršiak
+2078,2024-11-03,,-2.0,"B1951747201-44544 12** **** 9935;FACEBK *9BQ9ABL452 ,Dublin ,IE ;02.11.2024 17:54:36 ;CashBack:0 EUR",,Igor Kršiak
+2079,2024-11-02,,-2.0,"B1951436845-44544 12** **** 9935;FACEBK *CTMQBEU452 ,Dublin ,IE ;01.11.2024 09:44:05 ;CashBack:0 EUR",,Igor Kršiak
+2080,2024-10-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2081,2024-10-31,,-2.0,"B1949469951-44544 12** **** 9935;FACEBK *8NR3XB4452 ,Dublin ,IE ;30.10.2024 22:38:04 ;CashBack:0 EUR",,Igor Kršiak
+2082,2024-09-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2083,2024-08-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2084,2024-07-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2085,2024-06-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2086,2024-05-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2087,2024-05-31,,-6.0,Poplatok za vedenie účtu,,Igor Kršiak
+2088,2024-04-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2089,2024-03-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2090,2024-02-29,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2091,2024-02-06,,1.82,"B1727460321-44544 12** **** 9935;GoogleAdwordsEU ADS551324 ,Dublin ,IE ;01.01.2009 00:00:00 ",,Igor Kršiak
+2092,2024-01-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2093,2023-12-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2094,2023-11-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2095,2023-10-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2096,2023-09-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2097,2023-08-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2098,2023-07-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2099,2023-06-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2100,2023-06-10,,-23.98,"B1546896846-44544 12** **** 9935;FACEBK HTDR4Q7RY2 ,fb.me/ads ,IE ;09.06.2023 10:37:33 ;CashBack:0 EUR",,Igor Kršiak
+2101,2023-05-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2102,2023-04-30,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2103,2023-04-23,Websupport,-4.79,0230423212149.867710,1023113353.0,Igor Kršiak
+2104,2023-04-09,,-13.98,"B1503886705-44544 12** **** 9935;FACEBK 3QKMBP3RY2 ,fb.me/ads ,IE ;09.04.2023 03:11:40 ;CashBack:0 EUR",,Igor Kršiak
+2105,2023-03-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2106,2023-02-28,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2107,2023-02-16,,-303.38,"B1467117607-44544 12** **** 9935;FACEBK EDXHXMPQY2 ,fb.me/ads ,IE ;14.02.2023 14:44:38 ;CashBack:0 EUR",,Igor Kršiak
+2108,2023-02-14,Kršiak Igor,300.0,F001140220234096727,,Igor Kršiak
+2109,2023-01-31,,-5.0,Zverejňovanie účtu,,Igor Kršiak
+2110,2026-06-24,Gazdíková Eva PhDr.,1800.0,"PhDr. Eva Gazdíková, Šafárikova 14, 911 08 Trenčín, príspevok na kampaň",,Ján Forgáč
+2111,2026-06-01,pregast s. r. o.,-249.0,"Za cateringove sluzby - jedlo, nealko, kava na stretnuti s kandidatmi MsZ zo dna 20.5.2026",1020260025.0,Ján Forgáč
+2112,2026-06-01,Forgáč Ján,150.0,"Mgr. Ján Forgáč, Partizánska 7859/50A, 91101 Trenčín, prispevok",,Ján Forgáč
+2113,2026-05-31,,-5.0,Zverejňovanie účtu,,Ján Forgáč
+2114,2026-05-20,Websupport s.r.o.,-12.18,"Za dodané služby, doména trencin2026plus.sk",1026177184.0,Ján Forgáč
+2115,2026-04-30,,-5.0,Zverejňovanie účtu,,Ján Forgáč
+2116,2026-03-31,,-5.0,Zverejňovanie účtu,,Ján Forgáč
+2117,2026-02-28,,-5.0,Zverejňovanie účtu,,Ján Forgáč
+2118,2026-02-24,Websupport s.r.o.,-20.79,"Za dodané služby, doména janforgac.sk",102641649.0,Ján Forgáč
+2119,2026-02-13,"ISPA, spol. s r.o.",-617.46,"Zálohová platba za poskytnutie reklamného priestoru 202504951 za obdobie 1.8.2026 až 31.10.2026, billboard 301011703, výroba a tlač.",26950053.0,Ján Forgáč
+2120,2026-02-11,Forgáč Ján,300.0,"Mgr. Ján Fogáč, Partizánska 7859/50A, 91101 Trenčín, prispevok",,Ján Forgáč
+2121,2026-02-01,Forgáč Ján,500.0,"Mgr. Ján Fogáč, Partizánska 7859/50A, 91101 Trenčín, prispevok",,Ján Forgáč
+2122,2026-01-31,,-5.0,Zverejňovanie účtu,,Ján Forgáč
+2123,2026-01-31,,-0.45,Poplatok za vedenie účtu,,Ján Forgáč
+2124,2026-06-17,Helena Balážová,100.0,"Prijatá platba, NA KAMPAN, H.Balazova",,Natália Svítková
+2125,2026-06-17,Ivana Bednar Hrda,10.0,"Prijatá platba, Drzim palce",,Natália Svítková
+2126,2026-06-16,Michal Nemethy,10.0,"Prijatá platba, ",,Natália Svítková
+2127,2026-06-16,MARTIN LAMAČKA,44.0,"Prijatá platba, VELA STASTIA",VS: 1,Natália Svítková
+2128,2026-06-16,Bystrík Novák,25.0,"Prijatá platba, Drzime palce",,Natália Svítková
+2129,2026-06-16,Illeš Robert,11.11,"Prijatá platba, Príspevok na kampaň za župana Trenčianskeho kraja,",,Natália Svítková
+2130,2026-06-16,Mydlíková Eva,999.0,"Prijatá platba, ",,Natália Svítková
+2131,2026-06-10,,-1200.0,"Odoslaná okamžitá platba, Graficke sluzby-uvod kampane",,Natália Svítková
+2132,2026-06-08,Bc.Peter Kovacik,20.0,"Prijatá platba, Dar",,Natália Svítková
+2133,2026-06-07,"Lifka Róbert, Ing.",200.0,"Prijatá platba, Zaciatok zmeny . Drzim palce.",,Natália Svítková
+2134,2026-06-07,Matus Vrazba,5.0,"Prijatá platba, Za modru zupu.",,Natália Svítková
+2135,2026-06-05,KUNIK ROBERT,20.0,"Prijatá platba, /DO2026-06-05/SPdar",,Natália Svítková
+2136,2026-05-31,,-10.0,"Za vedenie účtu, výpisy a transakcie, od 30.04.2026 do 31.05.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 7 x prijaté platby: 0,00, 3 x debet - elektronicky: 0,00",,Natália Svítková
+2137,2026-05-29,,-3.0,"Poplatok platobné karty, Miesto: VISA CLASSIC DEB. CL Suma: 3 EUR 28.05.2026","VS: 495000148
 ŠS: 1139269320
 KS: 6898",Natália Svítková
-2136,2026-05-28,,-44.13,"Odoslaná okamžitá platba, Web hosting","VS: 1026186001
+2138,2026-05-28,,-44.13,"Odoslaná okamžitá platba, Web hosting","VS: 1026186001
 KS: 0308",Natália Svítková
-2137,2026-05-12,,-1000.0,"Odoslaná okamžitá platba, Fotoprodukcia",,Natália Svítková
-2138,2026-05-04,,-14077.35,"Odoslaná okamžitá platba, ",,Natália Svítková
-2139,2026-05-04,MAROS MIKUS,3000.0,"Prijatá platba, Maros Mikus prispevok na kampan",,Natália Svítková
-2140,2026-05-03,"Svítok Juraj, JUDr.",5000.0,"Prijatá platba, ",,Natália Svítková
-2141,2026-05-03,Maros Mikus,1000.0,"Prijatá platba, Maros Mikus prispevok na kampan",,Natália Svítková
-2142,2026-05-02,Maros Mikus,3000.0,"Prijatá platba, Maros Mikus prispevok na kampan",,Natália Svítková
-2143,2026-05-01,Maros Mikus,3000.0,"Prijatá platba, Maros Mikus prispevok na kampan",,Natália Svítková
-2144,2026-04-30,Maros Mikus,3000.0,"Prijatá platba, Maros Mikus prispevok na kampan",,Natália Svítková
-2145,2026-04-30,Huba Radovan,5000.0,"Prijatá platba, ",,Natália Svítková
-2146,2026-06-25,Repi marketing s. r. o.,-615.0,Repi marketing s. r. o.: 2026113 - Igor Petrovcik - 2026/05,2026113.0,Igor Petrovčík
-2147,2026-06-25,Repi marketing s. r. o.,-369.0,Repi marketing s. r. o.: 2026112 - Igor Petrovcik - 2026/05,2026112.0,Igor Petrovčík
-2148,2026-06-22,IGOR PETROVCIK,100.0,NA VITAZSTVO,1.0,Igor Petrovčík
-2149,2026-06-16,"Rozsívalová Monika, Mgr.",250.0,OO26061600043589,,Igor Petrovčík
-2150,2026-06-15,Jakub Filip,250.0,OO26061500199035,,Igor Petrovčík
-2151,2026-06-11,Zuzana Illesova,250.0,zuzana illesova,,Igor Petrovčík
-2152,2026-06-11,,-46.74,"B2482817543-44544 12** **** 5341;FACEBK *LLM7YRR7H2 ,FACEBOOK.COM ,IE ;09.06.2026 08:23:33 ;CashBack:0 EUR",,Igor Petrovčík
-2153,2026-06-09,,-15.99,"B2481848762-44544 12** **** 5341;FACEBK *MT9EVSD8H2 ,FACEBOOK.COM ,IE ;08.06.2026 14:31:33 ;CashBack:0 EUR",,Igor Petrovčík
-2154,2026-06-09,,-15.99,"B2481760080-44544 12** **** 5341;FACEBK *BNWZVRR7H2 ,FACEBOOK.COM ,IE ;08.06.2026 18:07:34 ;CashBack:0 EUR",,Igor Petrovčík
-2155,2026-06-03,Cais Michal,500.0,Dušan Cais,3062026.0,Igor Petrovčík
-2156,2026-06-03,Zimermanova Ivana,500.0,Katarina Kovacova,,Igor Petrovčík
-2157,2026-05-31,,-7.0,Poplatok za vedenie účtu,,Igor Petrovčík
-2158,2026-05-31,,-5.0,Zverejňovanie účtu,,Igor Petrovčík
-2159,2026-05-29,,-7.6,"B2470459441-44544 12** **** 5341;FACEBK *KBLHNV98H2 ,FACEBOOK.COM ,IE ;28.05.2026 06:41:31 ;CashBack:0 EUR",,Igor Petrovčík
-2160,2026-05-26,,-15.99,"B2467316464-44544 12** **** 5341;FACEBK *L2DERSD7H2 ,FACEBOOK.COM ,IE ;25.05.2026 08:36:59 ;CashBack:0 EUR",,Igor Petrovčík
-2161,2026-05-22,,-15.99,"B2463293474-44544 12** **** 5341;FACEBK *R5D2PPR7H2 ,FACEBOOK.COM ,IE ;21.05.2026 09:50:40 ;CashBack:0 EUR",,Igor Petrovčík
-2162,2026-05-19,,-4.78,"B2459805156-44544 12** **** 5341;FACEBK *ALNYBPR7H2 ,FACEBOOK.COM ,IE ;18.05.2026 13:15:37 ;CashBack:0 EUR",,Igor Petrovčík
-2163,2026-04-30,,-5.0,Zverejňovanie účtu,,Igor Petrovčík
-2164,2026-04-30,,-7.0,Poplatok za vedenie účtu,,Igor Petrovčík
-2165,2026-04-15,IGOR PETROVČIK,1000.0,NAJLEPSI VYHRAVA,1.0,Igor Petrovčík
-2166,2026-04-13,IGOR PETROVČIK,1000.0,STAROSTA SO SRDCOM,1.0,Igor Petrovčík
-2167,2026-04-03,"Barna Tomáš, MDDr.",500.0,Drzim palce,,Igor Petrovčík
-2168,2026-03-31,,-5.0,Zverejňovanie účtu,,Igor Petrovčík
-2169,2026-03-31,,-1.58,Poplatok za vedenie účtu,,Igor Petrovčík
-2170,2026-03-26,IGOR PETROVČIK,1000.0,STAROSTA SO SRDCOM,1.0,Igor Petrovčík
-2171,2026-06-29,FILIP PETRINEC,200.0,prispevok volby,,Rudolf Kusý
-2172,2026-06-26,Platba kartou,-54.0,FACEBK-.X9L3VR5 Dublin---------,****1970,Rudolf Kusý
-2173,2026-06-22,Platba kartou,-54.0,FACEBK-.EC6UUSD fb.me/ads------,****1970,Rudolf Kusý
-2174,2026-06-19,Zjednotena Bratislava,-250.0,,,Rudolf Kusý
-2175,2026-06-19,"Kominarska a.s., organizacna zlozka",-110.7,,20261060,Rudolf Kusý
-2176,2026-06-19,MESZAROS NORBERT,200.0,?/DO2026-06-19/SP,,Rudolf Kusý
-2177,2026-06-18,Lengyel Monika,200.0,rudolf kusy_monika lengyel,,Rudolf Kusý
-2178,2026-06-16,Kaprinay Zuzana,200.0,,,Rudolf Kusý
-2179,2026-06-16,Valovicova Pavlina,200.0,?/DO2026-06-15/SPDar do kampanr,,Rudolf Kusý
-2180,2026-06-16,"SLOVENSKA POSTA, A.S.",230.0,19082010000612062026/SS-0000000000/ZDENKA BELAKOVA-RAZTOCNO/ENA,21012026,Rudolf Kusý
-2181,2026-06-16,Gabriela Galbavá,200.0,,,Rudolf Kusý
-2182,2026-06-15,Platba kartou,-15.44,FACEBK-.7KDF8RV fb.me/ads------,****1970,Rudolf Kusý
-2183,2026-06-15,VRTIEL PETER,200.0,Peter Vrtiel dar,15062026,Rudolf Kusý
-2184,2026-06-15,EventiQ s.r.o.,-860.0,,2026027,Rudolf Kusý
-2185,2026-06-15,SHS Rad svateho Galahada,-600.0,,,Rudolf Kusý
-2186,2026-06-15,Rudolf Kusý,940.0,,,Rudolf Kusý
-2187,2026-06-12,Michaela Gabovicova,20.0,,,Rudolf Kusý
-2188,2026-06-12,NATASA ZAHOROVA,200.0,?/DO2026-06-12/SPPLATBA,110606,Rudolf Kusý
-2189,2026-06-12,Dan Pavelka,30.0,Preplatok za roznasanie,,Rudolf Kusý
-2190,2026-06-11,"Stano Adam, Ing.",250.0,,,Rudolf Kusý
-2191,2026-06-09,"EKOHOLDING SLOVAKIA, s.r.o.",-606.0,SEPA Europrevod/NonSEPAPrevod,2026009,Rudolf Kusý
-2192,2026-06-09,EVENTS 3000 s.r.o.,-500.0,SEPA Europrevod/NonSEPAPrevod,55112026,Rudolf Kusý
-2193,2026-06-09,"EKOHOLDING SLOVAKIA, s.r.o",-276.0,SEPA Europrevod/NonSEPAPrevod,2026010,Rudolf Kusý
-2194,2026-06-09,Dobrovolny hasicsky zbor Bratislava - Raca Organizacna jednotka,-120.0,SEPA Europrevod/NonSEPAPrevod,,Rudolf Kusý
-2195,2026-06-09,Jan Havranek,200.0,,,Rudolf Kusý
-2196,2026-06-09,Juraj Švec,200.0,Podpor a zachran MC BA -NM,,Rudolf Kusý
-2197,2026-06-09,Ladislav Vitkovič,200.0,LV,,Rudolf Kusý
-2198,2026-06-08,Mário Vladár,200.0,,,Rudolf Kusý
-2199,2026-06-08,PhDr. Lubos Fiam PhD.,200.0,?/DO2026-06-05/SPLubos Fiam,,Rudolf Kusý
-2200,2026-06-05,Monika Partlova MP,-750.0,,202647,Rudolf Kusý
-2201,2026-06-05,MINERALNE VODY a.s.,-54.0,,52680337,Rudolf Kusý
-2202,2026-06-05,"Filipovič Branislav, PhDr.",800.0,Kampaň 2026 BF,1,Rudolf Kusý
-2203,2026-06-03,Eduard Demel,200.0,,,Rudolf Kusý
-2204,2026-06-02,Zuzana Bírová,400.0,,,Rudolf Kusý
-2205,2026-06-02,"Filipovič Branislav, PhDr.",200.0,Kampaň 2026 BF,1,Rudolf Kusý
-2206,2026-05-29,,5.0,Storno-popl.za platby a ved.úč/kon,9,Rudolf Kusý
-2207,2026-05-29,,-5.0,Vedenie účtu,9,Rudolf Kusý
-2208,2026-06-17,Tím Ružinov,-15000.0,,,Martin Chren
-2209,2026-06-17,"Chren Martin, Ing.",100.0,Prevod medzi vlastnymi uctami,,Martin Chren
-2210,2026-05-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-2211,2026-04-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-2212,2026-04-17,Tím Ružinov,-10000.0,Dar na zaklade overenej zmluvy,2026002.0,Martin Chren
-2213,2026-04-17,Tím Ružinov,-5000.0,Dar na základe overenej zmluvy,2026001.0,Martin Chren
-2214,2026-03-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-2215,2026-02-28,,-5.0,Zverejňovanie účtu,,Martin Chren
-2216,2026-01-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-2217,2025-12-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-2218,2025-11-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-2219,2025-10-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-2220,2025-09-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-2221,2025-08-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-2222,2025-08-12,"Barcajová Zuzana, Ing.",15000.0,32514941,,Martin Chren
-2223,2025-07-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-2224,2025-06-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-2225,2025-05-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-2226,2025-04-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-2227,2025-03-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-2228,2025-02-28,,-5.0,Zverejňovanie účtu,,Martin Chren
-2229,2025-01-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-2230,2024-12-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-2231,2024-11-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-2232,2024-10-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-2233,2024-09-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-2234,2024-08-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-2235,2024-07-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-2236,2024-06-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-2237,2024-05-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-2238,2024-04-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-2239,2024-03-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-2240,2024-02-29,,-5.0,Zverejňovanie účtu,,Martin Chren
-2241,2024-01-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-2242,2023-12-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-2243,2023-11-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-2244,2023-10-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-2245,2023-09-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-2246,2023-08-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-2247,2023-07-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-2248,2023-06-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-2249,2023-05-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-2250,2023-04-30,,-5.0,Zverejňovanie účtu,,Martin Chren
-2251,2023-03-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-2252,2023-02-28,,-5.0,Zverejňovanie účtu,,Martin Chren
-2253,2023-01-31,,-5.0,Zverejňovanie účtu,,Martin Chren
-2254,2026-06-15,Babjak Vladimír,100.0,Mgr.art. Vladimír Babjak/ STAROMESTSKÁ 25/ KAMPAŇ,,Zuzana Aufrichtová
-2255,2026-06-11,Hotel Devin,-715.8,Zuzana Aufrichtova / Najom k ohlaseniu Hotel Devin,2026005001.0,Zuzana Aufrichtová
-2256,2026-05-31,,-5.0,Zverejňovanie účtu,,Zuzana Aufrichtová
-2257,2026-05-31,,-7.0,Poplatok za vedenie účtu,,Zuzana Aufrichtová
-2258,2026-05-22,Zuzana Magalova,100.0,2614290000645678,,Zuzana Aufrichtová
-2259,2026-05-22,Fialová Zuzana,100.0,F001220520260849777,,Zuzana Aufrichtová
-2260,2026-05-20,Halka Lezovicova,100.0,2614090001805962,,Zuzana Aufrichtová
-2261,2026-05-20,"Makovníková Halina, Mgr.",100.0,Komunalna Kampan Makovnikova,,Zuzana Aufrichtová
-2262,2026-05-13,Robert Borgula,100.0,1161261330972388,,Zuzana Aufrichtová
-2263,2026-05-11,MÁRIO LEŽOVIČ,100.0,KAMPAN 2026,,Zuzana Aufrichtová
-2264,2026-05-10,Hříchová Barbora,100.0,Príspevok na kampaň,,Zuzana Aufrichtová
-2265,2026-05-10,Adam Batovsky,100.0,27625868432,,Zuzana Aufrichtová
-2266,2026-05-10,Grendel Gábor,100.0,F001100520263007638,,Zuzana Aufrichtová
-2267,2026-05-09,MIROSLAV VRÁBEL,100.0,VRABEL MIROSLAV,,Zuzana Aufrichtová
-2268,2026-05-08,Španko Patrik,100.0,jana spankova,,Zuzana Aufrichtová
-2269,2026-05-08,Anna Andrejuvová,100.0,Andrejuvova stare mesto,,Zuzana Aufrichtová
-2270,2026-05-08,Krajniaková Andrea,100.0,,,Zuzana Aufrichtová
-2271,2026-05-08,"Machajová Záhorská Denisa, Mgr.",100.0,OO26050800102698,,Zuzana Aufrichtová
-2272,2026-05-08,Tibor Hlavaty,1900.0,Tibor Hlavaty,,Zuzana Aufrichtová
-2273,2026-05-08,Orviská Adriana,100.0,F001080520261213590,,Zuzana Aufrichtová
-2274,2026-05-08,"Černý Tomáš, Ing.",100.0,Tomas Cerny,8052026.0,Zuzana Aufrichtová
-2275,2026-05-08,"Števčík Radoslav, Mgr.",200.0,OO26050800034311,,Zuzana Aufrichtová
-2276,2026-05-08,"Krta Ján, Ing.",100.0,OO26050800034255,,Zuzana Aufrichtová
-2277,2026-04-30,,-5.6,Poplatok za vedenie účtu,,Zuzana Aufrichtová
-2278,2026-04-30,,-5.0,Zverejňovanie účtu,,Zuzana Aufrichtová
-2279,2026-04-21,Palko Vladimír,100.0,F001210420264010272,,Zuzana Aufrichtová
-2280,2026-06-22,"CreoCom, s.r.o.",-2666.52,,12026205.0,Ľuboš Krajčír
-2281,2026-06-22,Ľuboš Krajčír,1000.0,Vlastne prostriedky na kampan,,Ľuboš Krajčír
-2282,2026-06-15,Mgr. Jaroslav Kovac - KOVAC SERVIS,-314.24,,2624011052.0,Ľuboš Krajčír
-2283,2026-06-04,"IMAGEWELL Slovakia, s. r. o.",-1432.95,,460260040.0,Ľuboš Krajčír
-2284,2026-06-04,Ľuboš Krajčír,2500.0,Osoby vklad,,Ľuboš Krajčír
-2285,2026-06-03,GRYF reklamne studio,-4969.2,,26106.0,Ľuboš Krajčír
-2286,2026-06-03,Ľuboš Krajčír,6000.0,Vklad na kampan,,Ľuboš Krajčír
-2287,2026-05-29,,5.0,Storno-popl.za platby a ved.úč/kon,9.0,Ľuboš Krajčír
-2288,2026-05-29,,-5.0,Vedenie účtu,9.0,Ľuboš Krajčír
-2289,2026-06-09,"BigMedia,spol.s r.o.",-185.73,,122690052.0,Branislav Jaďuď
-2290,2026-06-03,Branislav JAĎUĎ MBA.,1000.0,,,Branislav Jaďuď
-2291,2026-06-25,Platba kartou,-4.0,FACEBK-.REKKPS9 FACEBOOK.C-----,****7272,Branislav Baran
-2292,2026-06-23,Platba kartou,-4.0,FACEBK-.Y8XBKTM FACEBOOK.C-----,****7272,Branislav Baran
-2293,2026-06-22,Platba kartou,-3.0,FACEBK-.9SU37V5 FACEBOOK.C-----,****7272,Branislav Baran
-2294,2026-06-22,Platba kartou,-3.0,FACEBK-.BUUPUSZ FACEBOOK.C-----,****7272,Branislav Baran
-2295,2026-06-22,Platba kartou,-2.0,FACEBK-.FTEJ3TD FACEBOOK.C-----,****7272,Branislav Baran
-2296,2026-06-22,Platba kartou,-2.0,FACEBK-.89NJNSZ fb.me/ads------,****7272,Branislav Baran
-2297,2026-06-19,Platba kartou,-2.0,FACEBK-.Y7XH2TM fb.me/ads------,****7272,Branislav Baran
-2298,2026-06-01,LUPTAK Studios s. r. o.,-470.0,kampanove video,2026008,Branislav Baran
-2299,2026-05-29,,5.25,Storno-popl.za platby a ved.úč/kon,9,Branislav Baran
-2300,2026-05-29,,-0.25,Poplatky za platby spolu,9,Branislav Baran
-2301,2026-05-29,,-5.0,Vedenie účtu,9,Branislav Baran
-2302,2026-05-29,Milan Korim,-180.0,Vratenie financnych prostriedkov,,Branislav Baran
-2303,2026-05-27,Milan Korim,180.0,,,Branislav Baran
-2304,2026-05-20,Branislav Baran,1000.0,Na predvolebnu kampan,,Branislav Baran
-2305,2026-06-26,Eva Dériková,30.0,"Drzim palce, nech sa to podari",,Maroš Chudovský
-2306,2026-06-25,GASPARKOVA JANA,30.0,?/DO2026-06-25/SP,,Maroš Chudovský
-2307,2026-06-23,Stanislav Bednar,100.0,,7779780516,Maroš Chudovský
-2308,2026-06-19,Dana Dzinova,218.0,,,Maroš Chudovský
-2309,2026-06-16,"Galaxi, s.r.o.",-326.8,Reklamne predmety: Pera,1260442,Maroš Chudovský
-2310,2026-06-15,Agneša Lukovicsová Nagyová,250.0,,7772512913,Maroš Chudovský
-2311,2026-06-12,Ladislav Mitrev,10.0,dar vyhrajte,7775689147,Maroš Chudovský
-2312,2026-06-11,RADOSLAV STÍSKAL,100.0,DAR,7775440686,Maroš Chudovský
-2313,2026-06-10,PAVOL ČELKO,10.0,DAR,7771491425,Maroš Chudovský
-2314,2026-06-03,Ruža Rudolf,216.0,,7772512913,Maroš Chudovský
-2315,2026-05-29,Platba kartou,-17.26,FACEBK *Z9ESBR9 FACEBOOK.C,****9632,Maroš Chudovský
-2316,2026-05-29,,-6.0,Vedenie konta Transparentný účet,9,Maroš Chudovský
-2317,2026-05-27,Peter Gajar,215.0,?/DO2026-05-26/SP,26052026,Maroš Chudovský
-2318,2026-05-25,Platba kartou + A-pay,-152.2,Toscana1 Povazska B,****9632,Maroš Chudovský
-2319,2026-05-20,Jaroslav Hurta,201.0,MGR.PHD. MAROŠ CHUDOVSKÝ,112276,Maroš Chudovský
-2320,2026-05-08,Vlasta Križanová,50.0,Dar V.K.,7772512913,Maroš Chudovský
-2321,2026-05-07,Platba kartou,-2.72,FACEBK *G788UN9 FACEBOOK.C,****9632,Maroš Chudovský
-2322,2026-05-04,Platba kartou + A-pay,-104.8,RESTAURACIA HOS POVAZSKA B,****9632,Maroš Chudovský
-2323,2026-05-04,Elena Michalcova,20.0,Dar,,Maroš Chudovský
-2324,2026-04-30,,-6.0,Vedenie konta Transparentný účet,9,Maroš Chudovský
-2325,2026-04-23,"Pauer Veronika, Ing.",50.0,dar,7773504209,Maroš Chudovský
-2326,2026-04-20,"VUB,A.S.",-70.6,DDPIVAREN~VZD~~~~POVAZSKA~B~~~~~A1,****9632,Maroš Chudovský
-2327,2026-04-17,"ISPA, s.r.o.",-420.66,Prenajom ploch,,Maroš Chudovský
-2328,2026-04-17,"Balla Ťažký Miloš, Bc.",100.0,dar,7775900741,Maroš Chudovský
-2329,2026-04-17,Lenka Galanderová,10.0,,,Maroš Chudovský
-2330,2026-04-16,Peter Vačko,2500.0,Dar Peter Vacko,7776630654,Maroš Chudovský
-2331,2026-04-16,Tomas Kremen,25.0,nech sa to podari,,Maroš Chudovský
-2332,2026-04-16,Ján Ondreják,20.0,,,Maroš Chudovský
-2333,2026-04-16,Lena Nochtová,20.0,Nech to vyjde,,Maroš Chudovský
-2334,2026-04-16,VOJTKO ANTON,15.0,dar na zmenu k lepsiemu,7776077102,Maroš Chudovský
-2335,2026-04-16,STRASIKOVA MIROSLAVA,15.0,dar,7774575162,Maroš Chudovský
-2336,2026-04-16,Michal Gardian,1000.0,dar,7779665139,Maroš Chudovský
-2337,2026-04-16,Ingrid Jurciova,50.0,Drzim palce...,,Maroš Chudovský
-2338,2026-04-16,JÁN PAULOVIČ,100.0,POVAZSKA POTREBUJE ZMENU,,Maroš Chudovský
-2339,2026-04-15,Martin Lacko,100.0,Verim vo vitazstvo,,Maroš Chudovský
-2340,2026-04-07,PAVOL ČELKO,15.0,DAR,7777364547,Maroš Chudovský
-2341,2026-03-31,,5.75,Storno-popl.za platby a ved.úč/kon,9,Maroš Chudovský
-2342,2026-03-31,,-0.75,Poplatky za platby spolu,9,Maroš Chudovský
-2343,2026-03-31,,-5.0,Vedenie účtu,9,Maroš Chudovský
-2344,2026-03-30,"Galaxi, s.r.o.",-688.8,"Pera, odznaky",1260209,Maroš Chudovský
-2345,2026-03-30,IMI TRADE s.r.o.,-129.89,Magneticke zapisniky,7002604506,Maroš Chudovský
-2346,2026-03-20,Jakub Buday,30.0,dar,7772626709,Maroš Chudovský
-2347,2026-03-16,"Vaňous Oldřich, Ing.",100.0,dar,,Maroš Chudovský
-2348,2026-03-16,Blahová Simona,20.0,"Erika Blahová Orlové, dar.",7771968264,Maroš Chudovský
-2349,2026-03-13,Platba kartou + A-pay,-123.31,OLYMPIA - Pilsn Povazska B,****9632,Maroš Chudovský
-2350,2026-03-13,Darina Gahírová,30.0,"Darina Gahírová, MMierová 310 PB DAR",7777411718,Maroš Chudovský
-2351,2026-03-11,Maroš Chudovský,1500.0,Primator na plny uvazok,,Maroš Chudovský
-2352,2026-05-31,,-5.0,Zverejňovanie účtu,,Miroslav Turenič
-2353,2026-05-11,Turenič Miroslav,644.0,Prevod medzi vlastnými účtami,,Miroslav Turenič
-2354,2026-05-11,"Shenzhen XKD Technology Co., LTD",-930.0,"payment Miroslav Turenic for ballpoint pens, PI NO: KD20260508",,Miroslav Turenič
-2355,2026-05-10,Turenič Miroslav,1000.0,Vlastny vklad na kampan,,Miroslav Turenič
-2356,2026-04-30,,0.0,Poplatok za vedenie účtu,,Miroslav Turenič
-2357,2026-04-30,,-10.0,"Vydanie a doručenie Platobnej karty,2114,5,Karta č. 4544 12** **** 5927Poplatok za vydanie a doručenie Platobnej karty",,Miroslav Turenič
-2358,2026-06-26,Sokol Peter Ing.,200.0,"Dar na kampan Peter Sokol Mierova84,Stara Lubovna",,Andrej Sitkár
-2359,2026-06-25,Likerova Ruzena,20.0,Likerova Ruzenka Mikoviniho 17 a 19,,Andrej Sitkár
-2360,2026-06-24,Jana Bermannova,-150.0,Grafika,20260003.0,Andrej Sitkár
-2361,2026-06-24,"Hlaváč Marián,Hlaváčová Mária",50.0,Dar na kampaň. Marián Hlaváč Košice Plznska 17,,Andrej Sitkár
-2362,2026-06-23,BURIANOVA IVETA,50.0,"?/DO2026-06-23/SPBurianova Iveta,Geologicka 99611,15200 Praha 5,00420775044216",,Andrej Sitkár
-2363,2026-06-22,TYPOPRESS-Tlačiareň s.r.o.,-921.52,DL,260173.0,Andrej Sitkár
-2364,2026-06-22,WTrade s.r.o.,-310.0,Andrej Sitkar; ; 16.06.2026,2026020.0,Andrej Sitkár
-2365,2026-06-09,ANDREJ SITKAR,3000.0,Kampan 2026,,Andrej Sitkár
-2366,2026-05-31,,-5.0,Zverejňovanie účtu,,Andrej Sitkár
-2367,2026-05-31,,-2.71,Poplatok za vedenie účtu,,Andrej Sitkár
-2368,2026-05-31,,-10.0,"Vydanie a doručenie Platobnej karty,2114,5,Karta č. 4544 12** **** 7705Poplatok za vydanie a doručenie Platobnej karty",,Andrej Sitkár
-2369,2026-05-25,ANDREJ SITKAR,100.0,Transparentny ucet,,Andrej Sitkár
-2370,2026-06-18,Choma Igor,5000.0,F001180620263008085,,Igor Choma
-2371,2026-06-26,Mušinský Peter,-214.0,Vratenie neidentifikovanej podpory,,Daniel Klimovský
-2372,2026-06-26,Pavkovčeková Alica  PhDr.,-249.0,Vratenie neidentifikovanej podpory,,Daniel Klimovský
-2373,2026-06-22,,-15.8,"B2496552404-44544 12** **** 5538;Pirex Papiernictvo ,BRATISLAVA ,SK ;20.06.2026 12:05:32 ;CashBack:0 EUR",,Daniel Klimovský
-2374,2026-06-22,,-19.82,"B2495886073-44544 12** **** 5538;FFAXCOPY94,BA,NIVY ,BRATISLAVA ,SK ;20.06.2026 11:40:43 ;CashBack:0 EUR",,Daniel Klimovský
-2375,2026-06-21,Marek Tydor,50.0,Prispevok na kampan,,Daniel Klimovský
-2376,2026-06-20,"Pandan, s. r. o.",-317.34,Reklamne produkty,202606079.0,Daniel Klimovský
-2377,2026-06-16,Daniel Klimovsky,1000.0,Vklad na predvolebnu kampan,,Daniel Klimovský
-2378,2026-06-15,"UNIMEDIA, s. r. o.",-1767.88,Reklamna kampan Daniel Klimovsky 06/2026,420260528.0,Daniel Klimovský
-2379,2026-06-15,Matúš Liko,500.0,Prispevok na kampan,,Daniel Klimovský
-2380,2026-06-15,Mgr. Miroslav Malinovský,-1500.0,Koordinacia kampane,20260002.0,Daniel Klimovský
-2381,2026-06-14,Pavkovčeková Alica  PhDr.,-1.0,"Dobry den, velmi si vazim Vasu podporu a dakujem za nu. Prosim, ozvite sa mi na: klimovskydaniel@gmail.com",,Daniel Klimovský
-2382,2026-06-14,Mušinský Peter,-1.0,"Dobry den, velmi si vazim Vasu podporu a dakujem za nu. Prosim, ozvite sa mi na: klimovskydaniel@gmail.com",,Daniel Klimovský
-2383,2026-06-13,Daniel Klimovsky,2000.0,Vklad na predvolebnu kampan,,Daniel Klimovský
-2384,2026-06-04,,-17.95,"B2475806086-44544 12** **** 5538;C048 Bratislava ,Bratislava ,SK ;02.06.2026 14:45:54 ;CashBack:0 EUR",,Daniel Klimovský
-2385,2026-06-01,"Pandan, s. r. o.",-100.86,Úhrada faktúry: 202605059,202605059.0,Daniel Klimovský
-2386,2026-05-31,,-5.0,Zverejňovanie účtu,,Daniel Klimovský
-2387,2026-05-31,,-7.0,Poplatok za vedenie účtu,,Daniel Klimovský
-2388,2026-05-20,Zdenko Pek,45.0,T2483659816996749316,,Daniel Klimovský
-2389,2026-05-20,Weber Vladimír,50.0,F001200520269097523,,Daniel Klimovský
-2390,2026-05-19,Milincká Lenka,45.0,Lenka guláš,,Daniel Klimovský
-2391,2026-05-18,Daniel Klimovsky,2000.0,Vklad na predvolebnu kampan,,Daniel Klimovský
-2392,2026-05-18,"UNIMEDIA, s. r. o.",-2387.92,Reklamna kampan Daniel Klimovsky 05-06/2026,420260414.0,Daniel Klimovský
-2393,2026-05-05,CSL s. r. o.,-147.48,Platba faktury 26100286,26100286.0,Daniel Klimovský
-2394,2026-05-04,DEFI Trade s. r. o.,-35.0,Prenájom kotlíkového setu,112614099.0,Daniel Klimovský
-2395,2026-05-02,,-183.27,"B2441341012-44544 12** **** 5538;Kaufland SK 2020 ,Bratislava - ,SK ;30.04.2026 09:51:07 ;CashBack:0 EUR",,Daniel Klimovský
-2396,2026-04-30,,-5.0,Zverejňovanie účtu,,Daniel Klimovský
-2397,2026-04-30,,-7.0,Poplatok za vedenie účtu,,Daniel Klimovský
-2398,2026-04-28,Reich Lukas,-0.1,0260428152236.816371,,Daniel Klimovský
-2399,2026-04-28,"UNIMEDIA, s. r. o.",-3003.54,Reklamna kampan Daniel Klimovsky 04-05/2026,420260329.0,Daniel Klimovský
-2400,2026-04-27,Daniel Klimovsky,4000.0,Vklad na predvolebnu kampan,,Daniel Klimovský
-2401,2026-04-25,"Kratochvílová Tatiana, Ing.",100.0,OO26042500047056,,Daniel Klimovský
-2402,2026-04-21,Mušinský Peter,215.0,F001210420264507166,12042619.0,Daniel Klimovský
-2403,2026-04-17,Reich Lukas,0.1,Vitaj v BA vychodniar,,Daniel Klimovský
-2404,2026-04-16,Pavkovčeková Alica  PhDr.,250.0,F001160420268282805,,Daniel Klimovský
-2405,2026-04-14,Hlavne mesto SR Bratislava,-125.0,Daniel Klimovsky - dan za uzivanie verejneho priestranstva,3326000177.0,Daniel Klimovský
-2406,2026-04-13,Pavol Skapik,100.0,2610350000202854,,Daniel Klimovský
-2407,2026-04-13,Základná umelecká škola Jána Albrechta,-120.0,prenájom priestoru,2026001.0,Daniel Klimovský
-2408,2026-04-10,Daniel Klimovsky,200.0,2610050000066392,,Daniel Klimovský
-2409,2026-03-31,,-5.0,Zverejňovanie účtu,,Daniel Klimovský
-2410,2026-03-31,,-2.03,Poplatok za vedenie účtu,,Daniel Klimovský
-2411,2026-06-22,Xtra Slovakia s.r.o.,-240.47,Platba faktury 260100569,260100569.0,Lucia Loskotová
-2412,2026-06-22,ALACARTE s.r.o.,-546.0,Úhrada faktúry: 20260075,20260075.0,Lucia Loskotová
-2413,2026-06-19,Šiška Matej,200.0,F001190620264214146,,Lucia Loskotová
-2414,2026-06-11,ALACARTE s.r.o.,-493.5,Úhrada faktúry: 20260067,20260067.0,Lucia Loskotová
-2415,2026-05-31,,-5.0,Zverejňovanie účtu,,Lucia Loskotová
-2416,2026-05-28,LUCIA LOSKOTOVÁ,10000.0,PLATBA,,Lucia Loskotová
-2417,2026-06-12,Kobes Stefan,3000.0,STEFAN KOBES,,Marián Kéry
-2418,2026-05-31,,-5.0,Zverejňovanie účtu,,Marián Kéry
-2419,2026-05-29,Kéry Marian,5000.0,Marián Kéry,,Marián Kéry
-2420,2026-06-13,,-56.31,,9266191424.0,Erich Blanár
-2421,2026-05-31,,-5.0,Zverejňovanie účtu,,Erich Blanár
-2422,2026-05-26,Promiseo,-1804.67,20260321,20260321.0,Erich Blanár
-2423,2026-05-03,ABCreative s.r.o.,-493.48,"Blanár Erich volby 2026, fa 20260034",20260034.0,Erich Blanár
-2424,2026-04-30,,-5.0,Zverejňovanie účtu,,Erich Blanár
-2425,2026-04-26,Béreš Erik,50.0,Drzim palce,,Erich Blanár
-2426,2026-04-24,Laco Lorinc,-915.0,"Platba za BLB na MČ KOŠICE JUH, za Apríl 2026",,Erich Blanár
-2427,2026-03-31,,-5.0,Zverejňovanie účtu,,Erich Blanár
-2428,2026-03-29,ABCreative s.r.o.,-2250.0,"Blanár Erich volby 2026, fa 20260019",20260019.0,Erich Blanár
-2429,2026-03-19,"Tobák Juraj, Ing.",10000.0,Erich drzim palce a podporujem ta!,,Erich Blanár
-2430,2026-02-28,,-5.0,Zverejňovanie účtu,,Erich Blanár
-2431,2026-02-04,"ISPA, spol s r.o.",-2755.2,"Erich Blanár Voľby 2026 , čislo zákazky 202600462",,Erich Blanár
-2432,2026-01-31,,-5.0,Zverejňovanie účtu,,Erich Blanár
-2433,2026-01-23,BLANAR ERICH ING.,5000.0,F001230120265150531,,Erich Blanár
-2434,2026-01-23,BLANAR ERICH ING.,5000.0,F001230120265147177,,Erich Blanár
-2435,2026-01-23,BLANAR ERICH ING.,1.0,F001230120265145671,,Erich Blanár
-2436,2026-05-31,,-5.0,Zverejňovanie účtu,,Lucia Búšová
-2437,2026-05-06,Kellich Tomáš,-450.0,Marketingové služby a komunikácia/marec 2026,20260023.0,Lucia Búšová
-2438,2026-04-30,,-5.0,Zverejňovanie účtu,,Lucia Búšová
-2439,2026-04-28,Búšová Lucia,1000.0,F001280420260750914,,Lucia Búšová
-2440,2026-03-31,,-5.0,Zverejňovanie účtu,,Lucia Búšová
-2441,2026-03-31,Kellich Tomáš,-900.0,Marketingové služby a komunikácia/február 2026,20260015.0,Lucia Búšová
-2442,2026-03-24,Echko Mário,-0.01,"Vrátenie platby - Echko Mário, 23.03.2026",,Lucia Búšová
-2443,2026-03-24,Echko Mário,-0.02,"Vrátenie platby - Echko Mário, 20.03.2026",,Lucia Búšová
-2444,2026-03-24,Echko Mário,-1.29,"Vrátenie platby - Echko Mário, 19.03.2026",,Lucia Búšová
-2445,2026-03-24,Echko Mário,-0.55,"Vrátenie platby - Echko Mário, 18.03.2026",,Lucia Búšová
-2446,2026-03-23,Echko Mário,0.01,dakujem za kandidaturu a prosim o odpovede na moje otazky dakujem,,Lucia Búšová
-2447,2026-03-20,Echko Mário,0.01,dakujem za kandidaturu a prosim o odpovede na moje otazky dakujem,,Lucia Búšová
-2448,2026-03-20,Echko Mário,0.01,F001200320268994868,,Lucia Búšová
-2449,2026-03-19,Echko Mário,0.01,F001190320267349243,,Lucia Búšová
-2450,2026-03-19,Echko Mário,0.69,F001190320266919676,,Lucia Búšová
-2451,2026-03-19,Echko Mário,0.59,F001190320266905487,,Lucia Búšová
-2452,2026-03-18,Echko Mário,0.55,F001180320266377492,,Lucia Búšová
-2453,2026-03-13,Kellich Tomáš,-450.0,Marketingové služby a komunikácia / január 2026,20260013.0,Lucia Búšová
-2454,2026-02-28,,-5.0,Zverejňovanie účtu,,Lucia Búšová
-2455,2026-02-27,Búšová Lucia,2000.0,F001270220262432576,,Lucia Búšová
-2456,2026-06-23,Mgr. Matej Mísal,-700.0,Platba/graficke prace,"202612
+2139,2026-05-12,,-1000.0,"Odoslaná okamžitá platba, Fotoprodukcia",,Natália Svítková
+2140,2026-05-04,,-14077.35,"Odoslaná okamžitá platba, ",,Natália Svítková
+2141,2026-05-04,MAROS MIKUS,3000.0,"Prijatá platba, Maros Mikus prispevok na kampan",,Natália Svítková
+2142,2026-05-03,"Svítok Juraj, JUDr.",5000.0,"Prijatá platba, ",,Natália Svítková
+2143,2026-05-03,Maros Mikus,1000.0,"Prijatá platba, Maros Mikus prispevok na kampan",,Natália Svítková
+2144,2026-05-02,Maros Mikus,3000.0,"Prijatá platba, Maros Mikus prispevok na kampan",,Natália Svítková
+2145,2026-05-01,Maros Mikus,3000.0,"Prijatá platba, Maros Mikus prispevok na kampan",,Natália Svítková
+2146,2026-04-30,Maros Mikus,3000.0,"Prijatá platba, Maros Mikus prispevok na kampan",,Natália Svítková
+2147,2026-04-30,Huba Radovan,5000.0,"Prijatá platba, ",,Natália Svítková
+2148,2026-06-25,Repi marketing s. r. o.,-615.0,Repi marketing s. r. o.: 2026113 - Igor Petrovcik - 2026/05,2026113.0,Igor Petrovčík
+2149,2026-06-25,Repi marketing s. r. o.,-369.0,Repi marketing s. r. o.: 2026112 - Igor Petrovcik - 2026/05,2026112.0,Igor Petrovčík
+2150,2026-06-22,IGOR PETROVCIK,100.0,NA VITAZSTVO,1.0,Igor Petrovčík
+2151,2026-06-16,"Rozsívalová Monika, Mgr.",250.0,OO26061600043589,,Igor Petrovčík
+2152,2026-06-15,Jakub Filip,250.0,OO26061500199035,,Igor Petrovčík
+2153,2026-06-11,Zuzana Illesova,250.0,zuzana illesova,,Igor Petrovčík
+2154,2026-06-11,,-46.74,"B2482817543-44544 12** **** 5341;FACEBK *LLM7YRR7H2 ,FACEBOOK.COM ,IE ;09.06.2026 08:23:33 ;CashBack:0 EUR",,Igor Petrovčík
+2155,2026-06-09,,-15.99,"B2481848762-44544 12** **** 5341;FACEBK *MT9EVSD8H2 ,FACEBOOK.COM ,IE ;08.06.2026 14:31:33 ;CashBack:0 EUR",,Igor Petrovčík
+2156,2026-06-09,,-15.99,"B2481760080-44544 12** **** 5341;FACEBK *BNWZVRR7H2 ,FACEBOOK.COM ,IE ;08.06.2026 18:07:34 ;CashBack:0 EUR",,Igor Petrovčík
+2157,2026-06-03,Cais Michal,500.0,Dušan Cais,3062026.0,Igor Petrovčík
+2158,2026-06-03,Zimermanova Ivana,500.0,Katarina Kovacova,,Igor Petrovčík
+2159,2026-05-31,,-7.0,Poplatok za vedenie účtu,,Igor Petrovčík
+2160,2026-05-31,,-5.0,Zverejňovanie účtu,,Igor Petrovčík
+2161,2026-05-29,,-7.6,"B2470459441-44544 12** **** 5341;FACEBK *KBLHNV98H2 ,FACEBOOK.COM ,IE ;28.05.2026 06:41:31 ;CashBack:0 EUR",,Igor Petrovčík
+2162,2026-05-26,,-15.99,"B2467316464-44544 12** **** 5341;FACEBK *L2DERSD7H2 ,FACEBOOK.COM ,IE ;25.05.2026 08:36:59 ;CashBack:0 EUR",,Igor Petrovčík
+2163,2026-05-22,,-15.99,"B2463293474-44544 12** **** 5341;FACEBK *R5D2PPR7H2 ,FACEBOOK.COM ,IE ;21.05.2026 09:50:40 ;CashBack:0 EUR",,Igor Petrovčík
+2164,2026-05-19,,-4.78,"B2459805156-44544 12** **** 5341;FACEBK *ALNYBPR7H2 ,FACEBOOK.COM ,IE ;18.05.2026 13:15:37 ;CashBack:0 EUR",,Igor Petrovčík
+2165,2026-04-30,,-5.0,Zverejňovanie účtu,,Igor Petrovčík
+2166,2026-04-30,,-7.0,Poplatok za vedenie účtu,,Igor Petrovčík
+2167,2026-04-15,IGOR PETROVČIK,1000.0,NAJLEPSI VYHRAVA,1.0,Igor Petrovčík
+2168,2026-04-13,IGOR PETROVČIK,1000.0,STAROSTA SO SRDCOM,1.0,Igor Petrovčík
+2169,2026-04-03,"Barna Tomáš, MDDr.",500.0,Drzim palce,,Igor Petrovčík
+2170,2026-03-31,,-5.0,Zverejňovanie účtu,,Igor Petrovčík
+2171,2026-03-31,,-1.58,Poplatok za vedenie účtu,,Igor Petrovčík
+2172,2026-03-26,IGOR PETROVČIK,1000.0,STAROSTA SO SRDCOM,1.0,Igor Petrovčík
+2173,2026-06-17,Tím Ružinov,-15000.0,,,Martin Chren
+2174,2026-06-17,"Chren Martin, Ing.",100.0,Prevod medzi vlastnymi uctami,,Martin Chren
+2175,2026-05-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+2176,2026-04-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+2177,2026-04-17,Tím Ružinov,-10000.0,Dar na zaklade overenej zmluvy,2026002.0,Martin Chren
+2178,2026-04-17,Tím Ružinov,-5000.0,Dar na základe overenej zmluvy,2026001.0,Martin Chren
+2179,2026-03-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+2180,2026-02-28,,-5.0,Zverejňovanie účtu,,Martin Chren
+2181,2026-01-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+2182,2025-12-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+2183,2025-11-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+2184,2025-10-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+2185,2025-09-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+2186,2025-08-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+2187,2025-08-12,"Barcajová Zuzana, Ing.",15000.0,32514941,,Martin Chren
+2188,2025-07-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+2189,2025-06-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+2190,2025-05-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+2191,2025-04-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+2192,2025-03-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+2193,2025-02-28,,-5.0,Zverejňovanie účtu,,Martin Chren
+2194,2025-01-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+2195,2024-12-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+2196,2024-11-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+2197,2024-10-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+2198,2024-09-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+2199,2024-08-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+2200,2024-07-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+2201,2024-06-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+2202,2024-05-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+2203,2024-04-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+2204,2024-03-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+2205,2024-02-29,,-5.0,Zverejňovanie účtu,,Martin Chren
+2206,2024-01-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+2207,2023-12-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+2208,2023-11-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+2209,2023-10-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+2210,2023-09-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+2211,2023-08-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+2212,2023-07-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+2213,2023-06-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+2214,2023-05-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+2215,2023-04-30,,-5.0,Zverejňovanie účtu,,Martin Chren
+2216,2023-03-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+2217,2023-02-28,,-5.0,Zverejňovanie účtu,,Martin Chren
+2218,2023-01-31,,-5.0,Zverejňovanie účtu,,Martin Chren
+2219,2026-06-15,Babjak Vladimír,100.0,Mgr.art. Vladimír Babjak/ STAROMESTSKÁ 25/ KAMPAŇ,,Zuzana Aufrichtová
+2220,2026-06-11,Hotel Devin,-715.8,Zuzana Aufrichtova / Najom k ohlaseniu Hotel Devin,2026005001.0,Zuzana Aufrichtová
+2221,2026-05-31,,-5.0,Zverejňovanie účtu,,Zuzana Aufrichtová
+2222,2026-05-31,,-7.0,Poplatok za vedenie účtu,,Zuzana Aufrichtová
+2223,2026-05-22,Zuzana Magalova,100.0,2614290000645678,,Zuzana Aufrichtová
+2224,2026-05-22,Fialová Zuzana,100.0,F001220520260849777,,Zuzana Aufrichtová
+2225,2026-05-20,Halka Lezovicova,100.0,2614090001805962,,Zuzana Aufrichtová
+2226,2026-05-20,"Makovníková Halina, Mgr.",100.0,Komunalna Kampan Makovnikova,,Zuzana Aufrichtová
+2227,2026-05-13,Robert Borgula,100.0,1161261330972388,,Zuzana Aufrichtová
+2228,2026-05-11,MÁRIO LEŽOVIČ,100.0,KAMPAN 2026,,Zuzana Aufrichtová
+2229,2026-05-10,Hříchová Barbora,100.0,Príspevok na kampaň,,Zuzana Aufrichtová
+2230,2026-05-10,Adam Batovsky,100.0,27625868432,,Zuzana Aufrichtová
+2231,2026-05-10,Grendel Gábor,100.0,F001100520263007638,,Zuzana Aufrichtová
+2232,2026-05-09,MIROSLAV VRÁBEL,100.0,VRABEL MIROSLAV,,Zuzana Aufrichtová
+2233,2026-05-08,Španko Patrik,100.0,jana spankova,,Zuzana Aufrichtová
+2234,2026-05-08,Anna Andrejuvová,100.0,Andrejuvova stare mesto,,Zuzana Aufrichtová
+2235,2026-05-08,Krajniaková Andrea,100.0,,,Zuzana Aufrichtová
+2236,2026-05-08,"Machajová Záhorská Denisa, Mgr.",100.0,OO26050800102698,,Zuzana Aufrichtová
+2237,2026-05-08,Tibor Hlavaty,1900.0,Tibor Hlavaty,,Zuzana Aufrichtová
+2238,2026-05-08,Orviská Adriana,100.0,F001080520261213590,,Zuzana Aufrichtová
+2239,2026-05-08,"Černý Tomáš, Ing.",100.0,Tomas Cerny,8052026.0,Zuzana Aufrichtová
+2240,2026-05-08,"Števčík Radoslav, Mgr.",200.0,OO26050800034311,,Zuzana Aufrichtová
+2241,2026-05-08,"Krta Ján, Ing.",100.0,OO26050800034255,,Zuzana Aufrichtová
+2242,2026-04-30,,-5.6,Poplatok za vedenie účtu,,Zuzana Aufrichtová
+2243,2026-04-30,,-5.0,Zverejňovanie účtu,,Zuzana Aufrichtová
+2244,2026-04-21,Palko Vladimír,100.0,F001210420264010272,,Zuzana Aufrichtová
+2245,2026-06-22,"CreoCom, s.r.o.",-2666.52,,12026205.0,Ľuboš Krajčír
+2246,2026-06-22,Ľuboš Krajčír,1000.0,Vlastne prostriedky na kampan,,Ľuboš Krajčír
+2247,2026-06-15,Mgr. Jaroslav Kovac - KOVAC SERVIS,-314.24,,2624011052.0,Ľuboš Krajčír
+2248,2026-06-04,"IMAGEWELL Slovakia, s. r. o.",-1432.95,,460260040.0,Ľuboš Krajčír
+2249,2026-06-04,Ľuboš Krajčír,2500.0,Osoby vklad,,Ľuboš Krajčír
+2250,2026-06-03,GRYF reklamne studio,-4969.2,,26106.0,Ľuboš Krajčír
+2251,2026-06-03,Ľuboš Krajčír,6000.0,Vklad na kampan,,Ľuboš Krajčír
+2252,2026-05-29,,5.0,Storno-popl.za platby a ved.úč/kon,9.0,Ľuboš Krajčír
+2253,2026-05-29,,-5.0,Vedenie účtu,9.0,Ľuboš Krajčír
+2254,2026-06-09,"BigMedia,spol.s r.o.",-185.73,,122690052.0,Branislav Jaďuď
+2255,2026-06-03,Branislav JAĎUĎ MBA.,1000.0,,,Branislav Jaďuď
+2256,2026-06-25,Platba kartou,-4.0,FACEBK-.REKKPS9 FACEBOOK.C-----,****7272,Branislav Baran
+2257,2026-06-23,Platba kartou,-4.0,FACEBK-.Y8XBKTM FACEBOOK.C-----,****7272,Branislav Baran
+2258,2026-06-22,Platba kartou,-3.0,FACEBK-.9SU37V5 FACEBOOK.C-----,****7272,Branislav Baran
+2259,2026-06-22,Platba kartou,-3.0,FACEBK-.BUUPUSZ FACEBOOK.C-----,****7272,Branislav Baran
+2260,2026-06-22,Platba kartou,-2.0,FACEBK-.FTEJ3TD FACEBOOK.C-----,****7272,Branislav Baran
+2261,2026-06-22,Platba kartou,-2.0,FACEBK-.89NJNSZ fb.me/ads------,****7272,Branislav Baran
+2262,2026-06-19,Platba kartou,-2.0,FACEBK-.Y7XH2TM fb.me/ads------,****7272,Branislav Baran
+2263,2026-06-01,LUPTAK Studios s. r. o.,-470.0,kampanove video,2026008,Branislav Baran
+2264,2026-05-29,,5.25,Storno-popl.za platby a ved.úč/kon,9,Branislav Baran
+2265,2026-05-29,,-0.25,Poplatky za platby spolu,9,Branislav Baran
+2266,2026-05-29,,-5.0,Vedenie účtu,9,Branislav Baran
+2267,2026-05-29,Milan Korim,-180.0,Vratenie financnych prostriedkov,,Branislav Baran
+2268,2026-05-27,Milan Korim,180.0,,,Branislav Baran
+2269,2026-05-20,Branislav Baran,1000.0,Na predvolebnu kampan,,Branislav Baran
+2270,2026-06-26,Eva Dériková,30.0,"Drzim palce, nech sa to podari",,Maroš Chudovský
+2271,2026-06-25,GASPARKOVA JANA,30.0,?/DO2026-06-25/SP,,Maroš Chudovský
+2272,2026-06-23,Stanislav Bednar,100.0,,7779780516,Maroš Chudovský
+2273,2026-06-19,Dana Dzinova,218.0,,,Maroš Chudovský
+2274,2026-06-16,"Galaxi, s.r.o.",-326.8,Reklamne predmety: Pera,1260442,Maroš Chudovský
+2275,2026-06-15,Agneša Lukovicsová Nagyová,250.0,,7772512913,Maroš Chudovský
+2276,2026-06-12,Ladislav Mitrev,10.0,dar vyhrajte,7775689147,Maroš Chudovský
+2277,2026-06-11,RADOSLAV STÍSKAL,100.0,DAR,7775440686,Maroš Chudovský
+2278,2026-06-10,PAVOL ČELKO,10.0,DAR,7771491425,Maroš Chudovský
+2279,2026-06-03,Ruža Rudolf,216.0,,7772512913,Maroš Chudovský
+2280,2026-05-29,Platba kartou,-17.26,FACEBK *Z9ESBR9 FACEBOOK.C,****9632,Maroš Chudovský
+2281,2026-05-29,,-6.0,Vedenie konta Transparentný účet,9,Maroš Chudovský
+2282,2026-05-27,Peter Gajar,215.0,?/DO2026-05-26/SP,26052026,Maroš Chudovský
+2283,2026-05-25,Platba kartou + A-pay,-152.2,Toscana1 Povazska B,****9632,Maroš Chudovský
+2284,2026-05-20,Jaroslav Hurta,201.0,MGR.PHD. MAROŠ CHUDOVSKÝ,112276,Maroš Chudovský
+2285,2026-05-08,Vlasta Križanová,50.0,Dar V.K.,7772512913,Maroš Chudovský
+2286,2026-05-07,Platba kartou,-2.72,FACEBK *G788UN9 FACEBOOK.C,****9632,Maroš Chudovský
+2287,2026-05-04,Platba kartou + A-pay,-104.8,RESTAURACIA HOS POVAZSKA B,****9632,Maroš Chudovský
+2288,2026-05-04,Elena Michalcova,20.0,Dar,,Maroš Chudovský
+2289,2026-04-30,,-6.0,Vedenie konta Transparentný účet,9,Maroš Chudovský
+2290,2026-04-23,"Pauer Veronika, Ing.",50.0,dar,7773504209,Maroš Chudovský
+2291,2026-04-20,"VUB,A.S.",-70.6,DDPIVAREN~VZD~~~~POVAZSKA~B~~~~~A1,****9632,Maroš Chudovský
+2292,2026-04-17,"ISPA, s.r.o.",-420.66,Prenajom ploch,,Maroš Chudovský
+2293,2026-04-17,"Balla Ťažký Miloš, Bc.",100.0,dar,7775900741,Maroš Chudovský
+2294,2026-04-17,Lenka Galanderová,10.0,,,Maroš Chudovský
+2295,2026-04-16,Peter Vačko,2500.0,Dar Peter Vacko,7776630654,Maroš Chudovský
+2296,2026-04-16,Tomas Kremen,25.0,nech sa to podari,,Maroš Chudovský
+2297,2026-04-16,Ján Ondreják,20.0,,,Maroš Chudovský
+2298,2026-04-16,Lena Nochtová,20.0,Nech to vyjde,,Maroš Chudovský
+2299,2026-04-16,VOJTKO ANTON,15.0,dar na zmenu k lepsiemu,7776077102,Maroš Chudovský
+2300,2026-04-16,STRASIKOVA MIROSLAVA,15.0,dar,7774575162,Maroš Chudovský
+2301,2026-04-16,Michal Gardian,1000.0,dar,7779665139,Maroš Chudovský
+2302,2026-04-16,Ingrid Jurciova,50.0,Drzim palce...,,Maroš Chudovský
+2303,2026-04-16,JÁN PAULOVIČ,100.0,POVAZSKA POTREBUJE ZMENU,,Maroš Chudovský
+2304,2026-04-15,Martin Lacko,100.0,Verim vo vitazstvo,,Maroš Chudovský
+2305,2026-04-07,PAVOL ČELKO,15.0,DAR,7777364547,Maroš Chudovský
+2306,2026-03-31,,5.75,Storno-popl.za platby a ved.úč/kon,9,Maroš Chudovský
+2307,2026-03-31,,-0.75,Poplatky za platby spolu,9,Maroš Chudovský
+2308,2026-03-31,,-5.0,Vedenie účtu,9,Maroš Chudovský
+2309,2026-03-30,"Galaxi, s.r.o.",-688.8,"Pera, odznaky",1260209,Maroš Chudovský
+2310,2026-03-30,IMI TRADE s.r.o.,-129.89,Magneticke zapisniky,7002604506,Maroš Chudovský
+2311,2026-03-20,Jakub Buday,30.0,dar,7772626709,Maroš Chudovský
+2312,2026-03-16,"Vaňous Oldřich, Ing.",100.0,dar,,Maroš Chudovský
+2313,2026-03-16,Blahová Simona,20.0,"Erika Blahová Orlové, dar.",7771968264,Maroš Chudovský
+2314,2026-03-13,Platba kartou + A-pay,-123.31,OLYMPIA - Pilsn Povazska B,****9632,Maroš Chudovský
+2315,2026-03-13,Darina Gahírová,30.0,"Darina Gahírová, MMierová 310 PB DAR",7777411718,Maroš Chudovský
+2316,2026-03-11,Maroš Chudovský,1500.0,Primator na plny uvazok,,Maroš Chudovský
+2317,2026-05-31,,-5.0,Zverejňovanie účtu,,Miroslav Turenič
+2318,2026-05-11,Turenič Miroslav,644.0,Prevod medzi vlastnými účtami,,Miroslav Turenič
+2319,2026-05-11,"Shenzhen XKD Technology Co., LTD",-930.0,"payment Miroslav Turenic for ballpoint pens, PI NO: KD20260508",,Miroslav Turenič
+2320,2026-05-10,Turenič Miroslav,1000.0,Vlastny vklad na kampan,,Miroslav Turenič
+2321,2026-04-30,,0.0,Poplatok za vedenie účtu,,Miroslav Turenič
+2322,2026-04-30,,-10.0,"Vydanie a doručenie Platobnej karty,2114,5,Karta č. 4544 12** **** 5927Poplatok za vydanie a doručenie Platobnej karty",,Miroslav Turenič
+2323,2026-06-26,Sokol Peter Ing.,200.0,"Dar na kampan Peter Sokol Mierova84,Stara Lubovna",,Andrej Sitkár
+2324,2026-06-25,Likerova Ruzena,20.0,Likerova Ruzenka Mikoviniho 17 a 19,,Andrej Sitkár
+2325,2026-06-24,Jana Bermannova,-150.0,Grafika,20260003.0,Andrej Sitkár
+2326,2026-06-24,"Hlaváč Marián,Hlaváčová Mária",50.0,Dar na kampaň. Marián Hlaváč Košice Plznska 17,,Andrej Sitkár
+2327,2026-06-23,BURIANOVA IVETA,50.0,"?/DO2026-06-23/SPBurianova Iveta,Geologicka 99611,15200 Praha 5,00420775044216",,Andrej Sitkár
+2328,2026-06-22,TYPOPRESS-Tlačiareň s.r.o.,-921.52,DL,260173.0,Andrej Sitkár
+2329,2026-06-22,WTrade s.r.o.,-310.0,Andrej Sitkar; ; 16.06.2026,2026020.0,Andrej Sitkár
+2330,2026-06-09,ANDREJ SITKAR,3000.0,Kampan 2026,,Andrej Sitkár
+2331,2026-05-31,,-5.0,Zverejňovanie účtu,,Andrej Sitkár
+2332,2026-05-31,,-2.71,Poplatok za vedenie účtu,,Andrej Sitkár
+2333,2026-05-31,,-10.0,"Vydanie a doručenie Platobnej karty,2114,5,Karta č. 4544 12** **** 7705Poplatok za vydanie a doručenie Platobnej karty",,Andrej Sitkár
+2334,2026-05-25,ANDREJ SITKAR,100.0,Transparentny ucet,,Andrej Sitkár
+2335,2026-06-18,Choma Igor,5000.0,F001180620263008085,,Igor Choma
+2336,2026-06-26,Mušinský Peter,-214.0,Vratenie neidentifikovanej podpory,,Daniel Klimovský
+2337,2026-06-26,Pavkovčeková Alica  PhDr.,-249.0,Vratenie neidentifikovanej podpory,,Daniel Klimovský
+2338,2026-06-22,,-15.8,"B2496552404-44544 12** **** 5538;Pirex Papiernictvo ,BRATISLAVA ,SK ;20.06.2026 12:05:32 ;CashBack:0 EUR",,Daniel Klimovský
+2339,2026-06-22,,-19.82,"B2495886073-44544 12** **** 5538;FFAXCOPY94,BA,NIVY ,BRATISLAVA ,SK ;20.06.2026 11:40:43 ;CashBack:0 EUR",,Daniel Klimovský
+2340,2026-06-21,Marek Tydor,50.0,Prispevok na kampan,,Daniel Klimovský
+2341,2026-06-20,"Pandan, s. r. o.",-317.34,Reklamne produkty,202606079.0,Daniel Klimovský
+2342,2026-06-16,Daniel Klimovsky,1000.0,Vklad na predvolebnu kampan,,Daniel Klimovský
+2343,2026-06-15,"UNIMEDIA, s. r. o.",-1767.88,Reklamna kampan Daniel Klimovsky 06/2026,420260528.0,Daniel Klimovský
+2344,2026-06-15,Matúš Liko,500.0,Prispevok na kampan,,Daniel Klimovský
+2345,2026-06-15,Mgr. Miroslav Malinovský,-1500.0,Koordinacia kampane,20260002.0,Daniel Klimovský
+2346,2026-06-14,Pavkovčeková Alica  PhDr.,-1.0,"Dobry den, velmi si vazim Vasu podporu a dakujem za nu. Prosim, ozvite sa mi na: klimovskydaniel@gmail.com",,Daniel Klimovský
+2347,2026-06-14,Mušinský Peter,-1.0,"Dobry den, velmi si vazim Vasu podporu a dakujem za nu. Prosim, ozvite sa mi na: klimovskydaniel@gmail.com",,Daniel Klimovský
+2348,2026-06-13,Daniel Klimovsky,2000.0,Vklad na predvolebnu kampan,,Daniel Klimovský
+2349,2026-06-04,,-17.95,"B2475806086-44544 12** **** 5538;C048 Bratislava ,Bratislava ,SK ;02.06.2026 14:45:54 ;CashBack:0 EUR",,Daniel Klimovský
+2350,2026-06-01,"Pandan, s. r. o.",-100.86,Úhrada faktúry: 202605059,202605059.0,Daniel Klimovský
+2351,2026-05-31,,-5.0,Zverejňovanie účtu,,Daniel Klimovský
+2352,2026-05-31,,-7.0,Poplatok za vedenie účtu,,Daniel Klimovský
+2353,2026-05-20,Zdenko Pek,45.0,T2483659816996749316,,Daniel Klimovský
+2354,2026-05-20,Weber Vladimír,50.0,F001200520269097523,,Daniel Klimovský
+2355,2026-05-19,Milincká Lenka,45.0,Lenka guláš,,Daniel Klimovský
+2356,2026-05-18,Daniel Klimovsky,2000.0,Vklad na predvolebnu kampan,,Daniel Klimovský
+2357,2026-05-18,"UNIMEDIA, s. r. o.",-2387.92,Reklamna kampan Daniel Klimovsky 05-06/2026,420260414.0,Daniel Klimovský
+2358,2026-05-05,CSL s. r. o.,-147.48,Platba faktury 26100286,26100286.0,Daniel Klimovský
+2359,2026-05-04,DEFI Trade s. r. o.,-35.0,Prenájom kotlíkového setu,112614099.0,Daniel Klimovský
+2360,2026-05-02,,-183.27,"B2441341012-44544 12** **** 5538;Kaufland SK 2020 ,Bratislava - ,SK ;30.04.2026 09:51:07 ;CashBack:0 EUR",,Daniel Klimovský
+2361,2026-04-30,,-5.0,Zverejňovanie účtu,,Daniel Klimovský
+2362,2026-04-30,,-7.0,Poplatok za vedenie účtu,,Daniel Klimovský
+2363,2026-04-28,Reich Lukas,-0.1,0260428152236.816371,,Daniel Klimovský
+2364,2026-04-28,"UNIMEDIA, s. r. o.",-3003.54,Reklamna kampan Daniel Klimovsky 04-05/2026,420260329.0,Daniel Klimovský
+2365,2026-04-27,Daniel Klimovsky,4000.0,Vklad na predvolebnu kampan,,Daniel Klimovský
+2366,2026-04-25,"Kratochvílová Tatiana, Ing.",100.0,OO26042500047056,,Daniel Klimovský
+2367,2026-04-21,Mušinský Peter,215.0,F001210420264507166,12042619.0,Daniel Klimovský
+2368,2026-04-17,Reich Lukas,0.1,Vitaj v BA vychodniar,,Daniel Klimovský
+2369,2026-04-16,Pavkovčeková Alica  PhDr.,250.0,F001160420268282805,,Daniel Klimovský
+2370,2026-04-14,Hlavne mesto SR Bratislava,-125.0,Daniel Klimovsky - dan za uzivanie verejneho priestranstva,3326000177.0,Daniel Klimovský
+2371,2026-04-13,Pavol Skapik,100.0,2610350000202854,,Daniel Klimovský
+2372,2026-04-13,Základná umelecká škola Jána Albrechta,-120.0,prenájom priestoru,2026001.0,Daniel Klimovský
+2373,2026-04-10,Daniel Klimovsky,200.0,2610050000066392,,Daniel Klimovský
+2374,2026-03-31,,-5.0,Zverejňovanie účtu,,Daniel Klimovský
+2375,2026-03-31,,-2.03,Poplatok za vedenie účtu,,Daniel Klimovský
+2376,2026-06-22,Xtra Slovakia s.r.o.,-240.47,Platba faktury 260100569,260100569.0,Lucia Loskotová
+2377,2026-06-22,ALACARTE s.r.o.,-546.0,Úhrada faktúry: 20260075,20260075.0,Lucia Loskotová
+2378,2026-06-19,Šiška Matej,200.0,F001190620264214146,,Lucia Loskotová
+2379,2026-06-11,ALACARTE s.r.o.,-493.5,Úhrada faktúry: 20260067,20260067.0,Lucia Loskotová
+2380,2026-05-31,,-5.0,Zverejňovanie účtu,,Lucia Loskotová
+2381,2026-05-28,LUCIA LOSKOTOVÁ,10000.0,PLATBA,,Lucia Loskotová
+2382,2026-06-12,Kobes Stefan,3000.0,STEFAN KOBES,,Marián Kéry
+2383,2026-05-31,,-5.0,Zverejňovanie účtu,,Marián Kéry
+2384,2026-05-29,Kéry Marian,5000.0,Marián Kéry,,Marián Kéry
+2385,2026-06-13,,-56.31,,9266191424.0,Erich Blanár
+2386,2026-05-31,,-5.0,Zverejňovanie účtu,,Erich Blanár
+2387,2026-05-26,Promiseo,-1804.67,20260321,20260321.0,Erich Blanár
+2388,2026-05-03,ABCreative s.r.o.,-493.48,"Blanár Erich volby 2026, fa 20260034",20260034.0,Erich Blanár
+2389,2026-04-30,,-5.0,Zverejňovanie účtu,,Erich Blanár
+2390,2026-04-26,Béreš Erik,50.0,Drzim palce,,Erich Blanár
+2391,2026-04-24,Laco Lorinc,-915.0,"Platba za BLB na MČ KOŠICE JUH, za Apríl 2026",,Erich Blanár
+2392,2026-03-31,,-5.0,Zverejňovanie účtu,,Erich Blanár
+2393,2026-03-29,ABCreative s.r.o.,-2250.0,"Blanár Erich volby 2026, fa 20260019",20260019.0,Erich Blanár
+2394,2026-03-19,"Tobák Juraj, Ing.",10000.0,Erich drzim palce a podporujem ta!,,Erich Blanár
+2395,2026-02-28,,-5.0,Zverejňovanie účtu,,Erich Blanár
+2396,2026-02-04,"ISPA, spol s r.o.",-2755.2,"Erich Blanár Voľby 2026 , čislo zákazky 202600462",,Erich Blanár
+2397,2026-01-31,,-5.0,Zverejňovanie účtu,,Erich Blanár
+2398,2026-01-23,BLANAR ERICH ING.,5000.0,F001230120265150531,,Erich Blanár
+2399,2026-01-23,BLANAR ERICH ING.,5000.0,F001230120265147177,,Erich Blanár
+2400,2026-01-23,BLANAR ERICH ING.,1.0,F001230120265145671,,Erich Blanár
+2401,2026-05-31,,-5.0,Zverejňovanie účtu,,Lucia Búšová
+2402,2026-05-06,Kellich Tomáš,-450.0,Marketingové služby a komunikácia/marec 2026,20260023.0,Lucia Búšová
+2403,2026-04-30,,-5.0,Zverejňovanie účtu,,Lucia Búšová
+2404,2026-04-28,Búšová Lucia,1000.0,F001280420260750914,,Lucia Búšová
+2405,2026-03-31,,-5.0,Zverejňovanie účtu,,Lucia Búšová
+2406,2026-03-31,Kellich Tomáš,-900.0,Marketingové služby a komunikácia/február 2026,20260015.0,Lucia Búšová
+2407,2026-03-24,Echko Mário,-0.01,"Vrátenie platby - Echko Mário, 23.03.2026",,Lucia Búšová
+2408,2026-03-24,Echko Mário,-0.02,"Vrátenie platby - Echko Mário, 20.03.2026",,Lucia Búšová
+2409,2026-03-24,Echko Mário,-1.29,"Vrátenie platby - Echko Mário, 19.03.2026",,Lucia Búšová
+2410,2026-03-24,Echko Mário,-0.55,"Vrátenie platby - Echko Mário, 18.03.2026",,Lucia Búšová
+2411,2026-03-23,Echko Mário,0.01,dakujem za kandidaturu a prosim o odpovede na moje otazky dakujem,,Lucia Búšová
+2412,2026-03-20,Echko Mário,0.01,dakujem za kandidaturu a prosim o odpovede na moje otazky dakujem,,Lucia Búšová
+2413,2026-03-20,Echko Mário,0.01,F001200320268994868,,Lucia Búšová
+2414,2026-03-19,Echko Mário,0.01,F001190320267349243,,Lucia Búšová
+2415,2026-03-19,Echko Mário,0.69,F001190320266919676,,Lucia Búšová
+2416,2026-03-19,Echko Mário,0.59,F001190320266905487,,Lucia Búšová
+2417,2026-03-18,Echko Mário,0.55,F001180320266377492,,Lucia Búšová
+2418,2026-03-13,Kellich Tomáš,-450.0,Marketingové služby a komunikácia / január 2026,20260013.0,Lucia Búšová
+2419,2026-02-28,,-5.0,Zverejňovanie účtu,,Lucia Búšová
+2420,2026-02-27,Búšová Lucia,2000.0,F001270220262432576,,Lucia Búšová
+2421,2026-06-23,Mgr. Matej Mísal,-700.0,Platba/graficke prace,"202612
 VS202612/SS/KS",Martin Vician
-2457,2026-06-23,BUFFER PLAN,-43.16,INT NÁKUP POS EUR BUFFER PLAN / BUFFER.COM / (POS 2TMTLWQ7),,Martin Vician
-2458,2026-06-19,"Schultz Boris, Ing. arch.",70.0,TPP/Dar,,Martin Vician
-2459,2026-06-16,"UNIMEDIA, s.r.o.",-959.4,"Platba/reklamna kampan, reklamne plochy","
+2422,2026-06-23,BUFFER PLAN,-43.16,INT NÁKUP POS EUR BUFFER PLAN / BUFFER.COM / (POS 2TMTLWQ7),,Martin Vician
+2423,2026-06-19,"
+                            Schultz Boris, Ing. arch.
+                    ",70.0,"
+                        TPP
+                    /
+                        Dar
+                    ","
+                        
+                    ",Martin Vician
+2424,2026-06-16,"
+                            UNIMEDIA, s.r.o.
+                    ",-959.4,"
+                        Platba
+                    /
+                        reklamna kampan, reklamne plochy
+                    ","
                         420260530VS420260530/SS/KS
                     ",Martin Vician
-2460,2026-06-15,"
+2425,2026-06-15,"
                             MAGIC OFFICE s. r. o.
                     ",-200.0,"
                         Platba
@@ -3100,7 +3106,7 @@ VS202612/SS/KS",Martin Vician
                     ","
                         20260010VS20260010/SS/KS308
                     ",Martin Vician
-2461,2026-06-11,"
+2426,2026-06-11,"
                             Lenka Hajekova
                     ",100.0,"
                         Platba
@@ -3109,7 +3115,7 @@ VS202612/SS/KS",Martin Vician
                     ","
                         
                     ",Martin Vician
-2462,2026-06-09,"
+2427,2026-06-09,"
                             CapCut
                     ",-29.99,"
                         INT NÁKUP POS EUR CapCut / SINGAPORE / (POS 99999999)
@@ -3118,7 +3124,7 @@ VS202612/SS/KS",Martin Vician
                     ","
                         
                     ",Martin Vician
-2463,2026-06-08,"
+2428,2026-06-08,"
                             Intuit Mailchimp
                     ",-13.86,"
                         EUR NÁKUP POS Intuit Mailchimp / Dublin 2 / (POS 99999999)
@@ -3127,7 +3133,7 @@ VS202612/SS/KS",Martin Vician
                     ","
                         
                     ",Martin Vician
-2464,2026-06-06,"
+2429,2026-06-06,"
                             Horváth Tomáš, Ing.
                     ",10000.0,"
                         Platba
@@ -3136,7 +3142,7 @@ VS202612/SS/KS",Martin Vician
                     ","
                         
                     ",Martin Vician
-2465,2026-06-04,"
+2430,2026-06-04,"
                             Helou Crocco! s.r.o.
                     ",-777.36,"
                         Platba
@@ -3145,7 +3151,7 @@ VS202612/SS/KS",Martin Vician
                     ","
                         26053109VS26053109/SS/KS
                     ",Martin Vician
-2466,2026-06-02,"
+2431,2026-06-02,"
                             Zuzana Jajcayova
                     ",100.0,"
                         Platba
@@ -3154,7 +3160,7 @@ VS202612/SS/KS",Martin Vician
                     ","
                         
                     ",Martin Vician
-2467,2026-06-02,"
+2432,2026-06-02,"
                             Richard Jajcay
                     ",100.0,"
                         Platba
@@ -3163,7 +3169,7 @@ VS202612/SS/KS",Martin Vician
                     ","
                         
                     ",Martin Vician
-2468,2026-06-01,"
+2433,2026-06-01,"
                             Bittner print s.r.o.
                     ",-209.1,"
                         Platba
@@ -3172,7 +3178,7 @@ VS202612/SS/KS",Martin Vician
                     ","
                         1020262465VS1020262465/SS/KS308
                     ",Martin Vician
-2469,2026-05-30,"
+2434,2026-05-30,"
                             
                     ",-0.0,"
                         Poplatok za účet
@@ -3181,224 +3187,216 @@ VS202612/SS/KS",Martin Vician
                     ","
                         
                     ",Martin Vician
-2470,2026-05-25,gastrokuchyne.sk,-294.39,POS nákup gastrokuchyne.sk / Bardejov / (POS G1037815),,Martin Vician
-2471,2026-05-25,MICHAL MIHÁLIK,200.0,Platba/PLATBA,,Martin Vician
-2472,2026-05-22,BUFFER PLAN,-43.16,INT NÁKUP POS EUR BUFFER PLAN / BUFFER.COM / (POS 2TMTLWQ7),,Martin Vician
-2473,2026-05-21,"Hrda Stanislav, Mgr.",500.0,Platba/dar od Stanislav Hrda,,Martin Vician
-2474,2026-05-21,"Schultz Boris, Ing. arch.",70.0,TPP/Dar,,Martin Vician
-2475,2026-05-21,Zuzana Jajcayova,100.0,Platba/dobrovolny dar na kampan,,Martin Vician
-2476,2026-05-21,Martin Ganz,250.0,Platba/dar,,Martin Vician
-2477,2026-05-21,"Michlík Martin, Ing.",140.0,Platba,,Martin Vician
-2478,2026-05-20,Paško Martin,140.0,Platba/Dobrovolny dar,,Martin Vician
-2479,2026-05-15,"UNIMEDIA, s.r.o.",-1723.72,"Platba/reklamna kampan, reklamne plochy","420260416
+2435,2026-05-25,gastrokuchyne.sk,-294.39,POS nákup gastrokuchyne.sk / Bardejov / (POS G1037815),,Martin Vician
+2436,2026-05-25,MICHAL MIHÁLIK,200.0,Platba/PLATBA,,Martin Vician
+2437,2026-05-22,BUFFER PLAN,-43.16,INT NÁKUP POS EUR BUFFER PLAN / BUFFER.COM / (POS 2TMTLWQ7),,Martin Vician
+2438,2026-05-21,"Hrda Stanislav, Mgr.",500.0,Platba/dar od Stanislav Hrda,,Martin Vician
+2439,2026-05-21,"Schultz Boris, Ing. arch.",70.0,TPP/Dar,,Martin Vician
+2440,2026-05-21,Zuzana Jajcayova,100.0,Platba/dobrovolny dar na kampan,,Martin Vician
+2441,2026-05-21,Martin Ganz,250.0,Platba/dar,,Martin Vician
+2442,2026-05-21,"Michlík Martin, Ing.",140.0,Platba,,Martin Vician
+2443,2026-05-20,Paško Martin,140.0,Platba/Dobrovolny dar,,Martin Vician
+2444,2026-05-15,"UNIMEDIA, s.r.o.",-1723.72,"Platba/reklamna kampan, reklamne plochy","420260416
 VS420260416/SS/KS",Martin Vician
-2480,2026-05-15,"Vician Martin, Ing.",1000.0,Platba/dotacia transparentneho uctu,,Martin Vician
-2481,2026-05-13,Lenka Hajekova,100.0,Platba/Dar_Lenka Hajekova,,Martin Vician
-2482,2026-05-11,Richard Jajcay,100.0,Platba,,Martin Vician
-2483,2026-05-11,CapCut,-29.99,INT NÁKUP POS EUR CapCut / SINGAPORE / (POS 99999999),,Martin Vician
-2484,2026-05-07,Intuit Mailchimp,-13.76,EUR NÁKUP POS Intuit Mailchimp / Dublin 2 / (POS 99999999),,Martin Vician
-2485,2026-05-06,Zuzana Jajcayova,100.0,Platba/dobrovolny dar na kampan,,Martin Vician
-2486,2026-05-04,"Vician Martin, Ing.",1000.0,Platba/dotacia transparentneho uctu,,Martin Vician
-2487,2026-04-30,,-0.0,Poplatok za účet,,Martin Vician
-2488,2026-04-30,FACEBK* MM4ZMN5RX2,-1.1,EUR NÁKUP POS FACEBK* MM4ZMN5RX2 / DUBLIN / (POS AJ3N08UJ),,Martin Vician
-2489,2026-04-30,FACEBK* CUNPULVQX2,-50.0,EUR NÁKUP POS FACEBK* CUNPULVQX2 / DUBLIN / (POS AJ3N08UJ),,Martin Vician
-2490,2026-04-28,"UNIMEDIA, s.r.o.",-947.1,"Platba/reklamna kampan, reklamne plochy","420260330
+2445,2026-05-15,"Vician Martin, Ing.",1000.0,Platba/dotacia transparentneho uctu,,Martin Vician
+2446,2026-05-13,Lenka Hajekova,100.0,Platba/Dar_Lenka Hajekova,,Martin Vician
+2447,2026-05-11,Richard Jajcay,100.0,Platba,,Martin Vician
+2448,2026-05-11,CapCut,-29.99,INT NÁKUP POS EUR CapCut / SINGAPORE / (POS 99999999),,Martin Vician
+2449,2026-05-07,Intuit Mailchimp,-13.76,EUR NÁKUP POS Intuit Mailchimp / Dublin 2 / (POS 99999999),,Martin Vician
+2450,2026-05-06,Zuzana Jajcayova,100.0,Platba/dobrovolny dar na kampan,,Martin Vician
+2451,2026-05-04,"Vician Martin, Ing.",1000.0,Platba/dotacia transparentneho uctu,,Martin Vician
+2452,2026-04-30,,-0.0,Poplatok za účet,,Martin Vician
+2453,2026-04-30,FACEBK* MM4ZMN5RX2,-1.1,EUR NÁKUP POS FACEBK* MM4ZMN5RX2 / DUBLIN / (POS AJ3N08UJ),,Martin Vician
+2454,2026-04-30,FACEBK* CUNPULVQX2,-50.0,EUR NÁKUP POS FACEBK* CUNPULVQX2 / DUBLIN / (POS AJ3N08UJ),,Martin Vician
+2455,2026-04-28,"UNIMEDIA, s.r.o.",-947.1,"Platba/reklamna kampan, reklamne plochy","420260330
 VS420260330/SS/KS",Martin Vician
-2491,2026-04-28,"Vician Martin, Ing.",1000.0,Platba/dotacia transparentneho uctu,,Martin Vician
-2492,2026-04-27,FACEBK* W8VPULDRX2,-50.0,EUR NÁKUP POS FACEBK* W8VPULDRX2 / DUBLIN / (POS AJ3N08UJ),,Martin Vician
-2493,2026-04-22,BUFFER PLAN,-43.16,INT NÁKUP POS EUR BUFFER PLAN / BUFFER.COM / (POS 2TMTLWQ7),,Martin Vician
-2494,2026-04-20,FACEBK* 9HZG7MRQX2,-50.0,EUR NÁKUP POS FACEBK* 9HZG7MRQX2 / DUBLIN / (POS AJ3N08UJ),,Martin Vician
-2495,2026-04-15,FACEBK* FMP6KLMQX2,-50.0,EUR NÁKUP POS FACEBK* FMP6KLMQX2 / DUBLIN / (POS AJ3N08UJ),,Martin Vician
-2496,2026-04-14,"Petit Press, a.s.",-615.0,Platba/Zálohová faktúra č.:,"2622100057
+2456,2026-04-28,"Vician Martin, Ing.",1000.0,Platba/dotacia transparentneho uctu,,Martin Vician
+2457,2026-04-27,FACEBK* W8VPULDRX2,-50.0,EUR NÁKUP POS FACEBK* W8VPULDRX2 / DUBLIN / (POS AJ3N08UJ),,Martin Vician
+2458,2026-04-22,BUFFER PLAN,-43.16,INT NÁKUP POS EUR BUFFER PLAN / BUFFER.COM / (POS 2TMTLWQ7),,Martin Vician
+2459,2026-04-20,FACEBK* 9HZG7MRQX2,-50.0,EUR NÁKUP POS FACEBK* 9HZG7MRQX2 / DUBLIN / (POS AJ3N08UJ),,Martin Vician
+2460,2026-04-15,FACEBK* FMP6KLMQX2,-50.0,EUR NÁKUP POS FACEBK* FMP6KLMQX2 / DUBLIN / (POS AJ3N08UJ),,Martin Vician
+2461,2026-04-14,"Petit Press, a.s.",-615.0,Platba/Zálohová faktúra č.:,"2622100057
 VS2622100057/SS/KS",Martin Vician
-2497,2026-04-09,CapCut,-5.99,INT NÁKUP POS EUR CapCut / SINGAPORE / (POS 99999999),,Martin Vician
-2498,2026-04-02,,-10.0,SPRAC.POPLATOK VA26040201012,,Martin Vician
-2499,2026-04-02,Jakub Reznicek,-711.27,PLATBA VA26040201012/UHRADA FAKTURY 202600005,,Martin Vician
-2500,2026-04-02,TB Metodova,-500.0,Výber z bankomatu TB Metodova / Bratislava / (ATM TBIN026G),,Martin Vician
-2501,2026-03-31,,-0.0,Poplatok za účet,,Martin Vician
-2502,2026-03-26,GOPAY *BEZPOTISKU.CZ,-92.68,INT NÁKUP POS EUR GOPAY *BEZPOTISKU.CZ / PRAHA / (POS EE800048),,Martin Vician
-2503,2026-03-23,BUFFER PLAN,-43.16,INT NÁKUP POS EUR BUFFER PLAN / BUFFER.COM / (POS 2TMTLWQ7),,Martin Vician
-2504,2026-03-19,Bittner print s.r.o.,-141.45,POS nákup Bittner print s.r.o. / Bratislava / (POS TN124400),,Martin Vician
-2505,2026-03-16,Lidl dakuje 292,-6.31,POS nákup Lidl dakuje 292 / Bratislava / (POS 06542628),,Martin Vician
-2506,2026-03-16,"HORNBACH DEV.NOVA VES,",-29.01,"POS nákup HORNBACH DEV.NOVA VES, / BRATISLAVA / (POS 05048153)",,Martin Vician
-2507,2026-03-11,"GRAFIS REKLAMA SK, s.r.o.",-163.72,Platba/Platba faktury 267024,"267024
+2462,2026-04-09,CapCut,-5.99,INT NÁKUP POS EUR CapCut / SINGAPORE / (POS 99999999),,Martin Vician
+2463,2026-04-02,,-10.0,SPRAC.POPLATOK VA26040201012,,Martin Vician
+2464,2026-04-02,Jakub Reznicek,-711.27,PLATBA VA26040201012/UHRADA FAKTURY 202600005,,Martin Vician
+2465,2026-04-02,TB Metodova,-500.0,Výber z bankomatu TB Metodova / Bratislava / (ATM TBIN026G),,Martin Vician
+2466,2026-03-31,,-0.0,Poplatok za účet,,Martin Vician
+2467,2026-03-26,GOPAY *BEZPOTISKU.CZ,-92.68,INT NÁKUP POS EUR GOPAY *BEZPOTISKU.CZ / PRAHA / (POS EE800048),,Martin Vician
+2468,2026-03-23,BUFFER PLAN,-43.16,INT NÁKUP POS EUR BUFFER PLAN / BUFFER.COM / (POS 2TMTLWQ7),,Martin Vician
+2469,2026-03-19,Bittner print s.r.o.,-141.45,POS nákup Bittner print s.r.o. / Bratislava / (POS TN124400),,Martin Vician
+2470,2026-03-16,Lidl dakuje 292,-6.31,POS nákup Lidl dakuje 292 / Bratislava / (POS 06542628),,Martin Vician
+2471,2026-03-16,"HORNBACH DEV.NOVA VES,",-29.01,"POS nákup HORNBACH DEV.NOVA VES, / BRATISLAVA / (POS 05048153)",,Martin Vician
+2472,2026-03-11,"GRAFIS REKLAMA SK, s.r.o.",-163.72,Platba/Platba faktury 267024,"267024
 VS267024/SS/KS308",Martin Vician
-2508,2026-03-11,,-10.0,SPRAC.POPLATOK VA26031100749,,Martin Vician
-2509,2026-03-11,Jakub Reznicek,-714.86,PLATBA VA26031100749/UHRADA FAKTURY 202600004,,Martin Vician
-2510,2026-03-10,Alza.cz a.s.,-294.92,INT NÁKUP POS EUR Alza.cz a.s. / Prague / (POS 99999999),,Martin Vician
-2511,2026-02-28,,-0.0,Poplatok za účet,,Martin Vician
-2512,2026-02-26,"Decathlon online,BA Bo",-160.65,"POS nákup Decathlon online,BA Bo / BRATISLAVA / (POS 05063964)",,Martin Vician
-2513,2026-02-18,TB Pri Vapenickom,-40.0,Výber z bankomatu TB Pri Vapenickom / Zahorska Byst / (ATM TBIN127E),,Martin Vician
-2514,2026-01-31,,-0.0,Poplatok za účet,,Martin Vician
-2515,2026-01-30,Media and Digital Services a.s.,-5904.61,Platba/Zalohova faktura 260003,"260003
+2473,2026-03-11,,-10.0,SPRAC.POPLATOK VA26031100749,,Martin Vician
+2474,2026-03-11,Jakub Reznicek,-714.86,PLATBA VA26031100749/UHRADA FAKTURY 202600004,,Martin Vician
+2475,2026-03-10,Alza.cz a.s.,-294.92,INT NÁKUP POS EUR Alza.cz a.s. / Prague / (POS 99999999),,Martin Vician
+2476,2026-02-28,,-0.0,Poplatok za účet,,Martin Vician
+2477,2026-02-26,"Decathlon online,BA Bo",-160.65,"POS nákup Decathlon online,BA Bo / BRATISLAVA / (POS 05063964)",,Martin Vician
+2478,2026-02-18,TB Pri Vapenickom,-40.0,Výber z bankomatu TB Pri Vapenickom / Zahorska Byst / (ATM TBIN127E),,Martin Vician
+2479,2026-01-31,,-0.0,Poplatok za účet,,Martin Vician
+2480,2026-01-30,Media and Digital Services a.s.,-5904.61,Platba/Zalohova faktura 260003,"260003
 VS260003/SS/KS",Martin Vician
-2516,2026-01-27,"Vician Martin, Ing.",10000.0,Platba/dotacia transparentneho uctu,,Martin Vician
-2517,2026-06-23,Peter Mician,500.0,Platba,,Ján Beljak
-2518,2026-06-23,MICIAN OSTRIHONOVA A,500.0,Platba,,Ján Beljak
-2519,2026-06-17,Restartup s.r.o.,-3073.77,Platba,"2026045
+2481,2026-01-27,"Vician Martin, Ing.",10000.0,Platba/dotacia transparentneho uctu,,Martin Vician
+2482,2026-06-23,Peter Mician,500.0,Platba,,Ján Beljak
+2483,2026-06-23,MICIAN OSTRIHONOVA A,500.0,Platba,,Ján Beljak
+2484,2026-06-17,Restartup s.r.o.,-3073.77,Platba,"2026045
 VS2026045/SS/KS",Ján Beljak
-2520,2026-06-12,Vargovská Lenka,100.0,Platba/Príspevok na kampaň od Lenka Vargovská,,Ján Beljak
-2521,2026-06-10,Dasa Melicherikova,230.0,"
+2485,2026-06-12,Vargovská Lenka,100.0,Platba/Príspevok na kampaň od Lenka Vargovská,,Ján Beljak
+2486,2026-06-10,Dasa Melicherikova,230.0,Platba/Melicherikova Dasa volby 2026,,Ján Beljak
+2487,2026-06-02,Tomas Duris,230.0,Platba/Prispevok na kampan,,Ján Beljak
+2488,2026-06-01,Marek Bobak,230.0,Platba/Prispevok na kampan,,Ján Beljak
+2489,2026-06-01,Tomas Krsnak,230.0,Platba/Prispevok na kampan,,Ján Beljak
+2490,2026-06-01,Robert Orsag,430.0,Platba/SEPA Okamzita platba,,Ján Beljak
+2491,2026-06-01,Michal Jurasko,230.0,Platba/Prispevok na kampan M.Jurasko,,Ján Beljak
+2492,2026-05-30,,-5.0,Poplatok za účet,,Ján Beljak
+2493,2026-05-26,Vargovská Lenka,130.0,Platba/Príspevok na kampaň od Lenka Vargovská,,Ján Beljak
+2494,2026-05-26,Lenka Balkovicova,2000.0,Platba/Dar,,Ján Beljak
+2495,2026-05-25,"COLORgrafik, spol. s r.o.",-3415.0,Platba/Úhrada faktúry: 20260055,"20260055
+VS20260055/SS/KS",Ján Beljak
+2496,2026-05-25,Lasko s. r. o.,-99.9,Platba,"20260005
+VS20260005/SS/KS308",Ján Beljak
+2497,2026-05-25,Jozef Beljak,40.0,Platba,,Ján Beljak
+2498,2026-05-19,Anna Beljakova,200.0,Platba,,Ján Beljak
+2499,2026-05-18,Michal Macko,230.0,Platba/Prispevok na volebnu kampan Michal Macko,,Ján Beljak
+2500,2026-05-18,Jozef Beljak,150.0,Platba,,Ján Beljak
+2501,2026-05-15,Restartup s.r.o.,-3073.77,"
                         Platba
                     /
-                        Melicherikova Dasa volby 2026
-                    ","
                         
+                    ","
+                        2026035VS2026035/SS/KS
                     ",Ján Beljak
-2522,2026-06-02,"
-                            Tomas Duris
+2502,2026-05-14,"
+                            Miroslav Tomek
                     ",230.0,"
                         Platba
                     /
-                        Prispevok na kampan
+                        Prispevok na volebnu kampan od Miroslav Tomek
                     ","
                         
                     ",Ján Beljak
-2523,2026-06-01,"
-                            Marek Bobak
-                    ",230.0,"
-                        Platba
-                    /
-                        Prispevok na kampan
-                    ","
-                        
-                    ",Ján Beljak
-2524,2026-06-01,"
-                            Tomas Krsnak
-                    ",230.0,"
-                        Platba
-                    /
-                        Prispevok na kampan
-                    ","
-                        
-                    ",Ján Beljak
-2525,2026-06-01,"
-                            Robert Orsag
+2503,2026-05-14,"
+                            Popundova Renata
                     ",430.0,"
                         Platba
                     /
-                        SEPA Okamzita platba
+                        Prispevok na volebnu kampan RenataPopundova
                     ","
                         
                     ",Ján Beljak
-2526,2026-06-01,"
-                            Michal Jurasko
+2504,2026-05-13,"
+                            Peter Stefunko
                     ",230.0,"
                         Platba
                     /
-                        Prispevok na kampan M.Jurasko
-                    ","
-                        
-                    ",Ján Beljak
-2527,2026-05-30,"
-                            
-                    ",-5.0,"
-                        Poplatok za účet
-                    /
                         
                     ","
                         
                     ",Ján Beljak
-2528,2026-05-26,"
-                            Vargovská Lenka
-                    ",130.0,"
+2505,2026-05-12,"
+                            Vladimir Bella
+                    ",430.0,"
                         Platba
                     /
-                        Príspevok na kampaň od Lenka Vargovská
+                        prispevok na volebnu kampan od Vladimir Bella
                     ","
                         
                     ",Ján Beljak
-2529,2026-05-26,"
-                            Lenka Balkovicova
-                    ",2000.0,"
+2506,2026-05-12,"
+                            Beljak Pažinová Noémi, Prof.PhDr.
+                    ",100.0,"
                         Platba
                     /
-                        Dar
+                        
                     ","
                         
                     ",Ján Beljak
-2530,2026-05-25,"
-                            COLORgrafik, spol. s r.o.
-                    ",-3415.0,"
+2507,2026-05-11,"
+                            BORSKA TATIANA
+                    ",230.0,"
                         Platba
                     /
-                        Úhrada faktúry: 20260055
+                        prispevok na voleb kampan tatiana borska
                     ","
-                        20260055VS20260055/SS/KS
+                        
                     ",Ján Beljak
-2531,2026-05-25,Lasko s. r. o.,-99.9,Platba,"20260005
-VS20260005/SS/KS308",Ján Beljak
-2532,2026-05-25,Jozef Beljak,40.0,Platba,,Ján Beljak
-2533,2026-05-19,Anna Beljakova,200.0,Platba,,Ján Beljak
-2534,2026-05-18,Michal Macko,230.0,Platba/Prispevok na volebnu kampan Michal Macko,,Ján Beljak
-2535,2026-05-18,Jozef Beljak,150.0,Platba,,Ján Beljak
-2536,2026-05-15,Restartup s.r.o.,-3073.77,Platba,"2026035
-VS2026035/SS/KS",Ján Beljak
-2537,2026-05-14,Miroslav Tomek,230.0,Platba/Prispevok na volebnu kampan od Miroslav Tomek,,Ján Beljak
-2538,2026-05-14,Popundova Renata,430.0,Platba/Prispevok na volebnu kampan RenataPopundova,,Ján Beljak
-2539,2026-05-13,Peter Stefunko,230.0,Platba,,Ján Beljak
-2540,2026-05-12,Vladimir Bella,430.0,Platba/prispevok na volebnu kampan od Vladimir Bella,,Ján Beljak
-2541,2026-05-12,"Beljak Pažinová Noémi, Prof.PhDr.",100.0,Platba,,Ján Beljak
-2542,2026-05-11,BORSKA TATIANA,230.0,Platba/prispevok na voleb kampan tatiana borska,,Ján Beljak
-2543,2026-05-11,Jozef Mikus,230.0,Platba/Prispevok na volebnu kampan od Jozef Mikus,,Ján Beljak
-2544,2026-05-09,Silvia Havranova,230.0,Platba/Prispevok na volebnu kampan od Silvia Havranova,,Ján Beljak
-2545,2026-05-09,Vladimir Nemec,230.0,Platba/Vladimir Nemec,,Ján Beljak
-2546,2026-05-07,Varga Miroslav,230.0,Platba/Príspevok na volebnú kampaň - Varga Miroslav.,,Ján Beljak
-2547,2026-05-07,Juraj Chabada,230.0,Platba/Prispevok na volebnu kampan Juraj Chabada,,Ján Beljak
-2548,2026-05-07,Radoslav Kubinec,230.0,Platba/Prispevok na volebnu kampan od Radoslav Kubinec,,Ján Beljak
-2549,2026-05-05,Robert Orsag,2000.0,Platba,,Ján Beljak
-2550,2026-04-30,,-5.0,Poplatok za účet,,Ján Beljak
-2551,2026-04-30,JOZEF PAŽIN,2000.0,PLATBA,,Ján Beljak
-2552,2026-04-17,Restartup s.r.o.,-3073.77,Platba,"2026027
+2508,2026-05-11,"
+                            Jozef Mikus
+                    ",230.0,"
+                        Platba
+                    /
+                        Prispevok na volebnu kampan od Jozef Mikus
+                    ","
+                        
+                    ",Ján Beljak
+2509,2026-05-09,"
+                            Silvia Havranova
+                    ",230.0,"
+                        Platba
+                    /
+                        Prispevok na volebnu kampan od Silvia Havranova
+                    ","
+                        
+                    ",Ján Beljak
+2510,2026-05-09,Vladimir Nemec,230.0,Platba/Vladimir Nemec,,Ján Beljak
+2511,2026-05-07,Varga Miroslav,230.0,Platba/Príspevok na volebnú kampaň - Varga Miroslav.,,Ján Beljak
+2512,2026-05-07,Juraj Chabada,230.0,Platba/Prispevok na volebnu kampan Juraj Chabada,,Ján Beljak
+2513,2026-05-07,Radoslav Kubinec,230.0,Platba/Prispevok na volebnu kampan od Radoslav Kubinec,,Ján Beljak
+2514,2026-05-05,Robert Orsag,2000.0,Platba,,Ján Beljak
+2515,2026-04-30,,-5.0,Poplatok za účet,,Ján Beljak
+2516,2026-04-30,JOZEF PAŽIN,2000.0,PLATBA,,Ján Beljak
+2517,2026-04-17,Restartup s.r.o.,-3073.77,Platba,"2026027
 VS2026027/SS/KS",Ján Beljak
-2553,2026-04-17,"Petit Press, a.s.",-379.76,Platba,"2633100626
+2518,2026-04-17,"Petit Press, a.s.",-379.76,Platba,"2633100626
 VS2633100626/SS/KS308",Ján Beljak
-2554,2026-03-31,,-7.0,Poplatok za účet,,Ján Beljak
-2555,2026-03-11,Restartup s.r.o.,-3073.77,Platba,"2026018
+2519,2026-03-31,,-7.0,Poplatok za účet,,Ján Beljak
+2520,2026-03-11,Restartup s.r.o.,-3073.77,Platba,"2026018
 VS2026018/SS/KS",Ján Beljak
-2556,2026-03-11,"Beljak Ján, PhDr., PhD.",3000.0,Platba,,Ján Beljak
-2557,2026-03-09,"Beljak Ján, PhDr., PhD.",900.0,Platba,,Ján Beljak
-2558,2026-02-28,,-7.0,Poplatok za účet,,Ján Beljak
-2559,2026-02-18,GRYF reklamne studio s.r.o.,-405.9,Platba,"26014
+2521,2026-03-11,"Beljak Ján, PhDr., PhD.",3000.0,Platba,,Ján Beljak
+2522,2026-03-09,"Beljak Ján, PhDr., PhD.",900.0,Platba,,Ján Beljak
+2523,2026-02-28,,-7.0,Poplatok za účet,,Ján Beljak
+2524,2026-02-18,GRYF reklamne studio s.r.o.,-405.9,Platba,"26014
 VS26014/SS/KS0308",Ján Beljak
-2560,2026-02-07,"Beljak Pažinová Noémi, Prof.PhDr.",800.0,Platba,,Ján Beljak
-2561,2026-01-31,,-0.0,Poplatok za účet,,Ján Beljak
-2562,2026-01-22,"Beljak Pažinová Noémi, Prof.PhDr.",800.0,Platba,,Ján Beljak
-2563,2026-01-19,"Beljak Pažinová Noémi, Prof.PhDr.",800.0,Platba,,Ján Beljak
-2564,2026-01-19,"Beljak Pažinová Noémi, Prof.PhDr.",800.0,Platba,,Ján Beljak
-2565,2026-06-26,Halászová Lívia,1000.0,,,Jozef Ráž
-2566,2026-06-26,Veronika Rikková,1000.0,ja,,Jozef Ráž
-2567,2026-06-26,Novák Ladislav,2000.0,,,Jozef Ráž
-2568,2026-06-26,Buchamer Andrej,2000.0,,,Jozef Ráž
-2569,2026-06-26,"Piling Karol, Ing.",400.0,,,Jozef Ráž
-2570,2026-06-26,Šedo Pavol,1000.0,,,Jozef Ráž
-2571,2026-06-26,Bajnoková Eva,1000.0,,,Jozef Ráž
-2572,2026-06-26,Bačo Martin,500.0,,,Jozef Ráž
-2573,2026-06-26,Róbert Homza,500.0,,,Jozef Ráž
-2574,2026-06-26,"Trhoviska Ruzinov, s.r.o.",-1000.0,Jozef Raz prenajom stanku,752026.0,Jozef Ráž
-2575,2026-06-26,Alexandra Srholcova,800.0,,,Jozef Ráž
-2576,2026-06-25,Bačo Martin,500.0,,,Jozef Ráž
-2577,2026-06-25,Miroslav Ondrík,1000.0,,,Jozef Ráž
-2578,2026-06-25,Andrea Ondrikova,1000.0,,,Jozef Ráž
-2579,2026-06-25,SUJOVA DOMINIKA,550.0,?/DO2026-06-25/SP,,Jozef Ráž
-2580,2026-06-25,"Kukura Tomáš, Ing.",2000.0,,,Jozef Ráž
-2581,2026-06-25,Lipták Igor,500.0,,,Jozef Ráž
-2582,2026-06-25,"Bidovský Patrik, Ing.",500.0,,,Jozef Ráž
-2583,2026-06-22,"Slovák Ľubomír, Ing.",500.0,,20260622.0,Jozef Ráž
-2584,2026-06-22,Jozef Ráž,100000.0,,,Jozef Ráž
-2585,2026-06-02,Relations consulting,-615.0,,26800012.0,Jozef Ráž
-2586,2026-05-29,,-6.0,Vedenie konta Transparentný účet,9.0,Jozef Ráž
-2587,2026-05-25,Lucia Ovšáková,400.0,,,Jozef Ráž
-2588,2026-05-25,Marek Hocher,600.0,,,Jozef Ráž
-2589,2026-05-25,Peter Braska,2000.0,,,Jozef Ráž
-2590,2026-05-18,Radko Fercak,250.0,,,Jozef Ráž
-2591,2026-05-12,Relations consulting,-615.0,SEPA Okamžitá platba,26800010.0,Jozef Ráž
-2592,2026-05-08,Daylightstudio s. r. o.,-500.0,SEPA Okamžitá platba,12026.0,Jozef Ráž
-2593,2026-05-08,Dobrovodsky,-500.0,Jozef Raz,2026016.0,Jozef Ráž
-2594,2026-04-30,,5.0,Storno-popl.za platby a ved.úč/kon,9.0,Jozef Ráž
-2595,2026-04-30,,-5.0,Vedenie účtu,9.0,Jozef Ráž
-2596,2026-04-22,TOMAS JASUREK,0.01,Smeracky Trt,,Jozef Ráž
-2597,2026-04-22,TOMAS JASUREK,0.01,,,Jozef Ráž
-2598,2026-04-21,Lukas Klimcik,0.01,Na teplaky do Leopoldova,,Jozef Ráž
-2599,2026-04-17,Jozef Ráž,6500.0,,,Jozef Ráž
-2600,2026-06-26,MACHACKOVA KATARINA,10000.0,Katarína Macháčková,,Katarína Macháčková
+2525,2026-02-07,"Beljak Pažinová Noémi, Prof.PhDr.",800.0,Platba,,Ján Beljak
+2526,2026-01-31,,-0.0,Poplatok za účet,,Ján Beljak
+2527,2026-01-22,"Beljak Pažinová Noémi, Prof.PhDr.",800.0,Platba,,Ján Beljak
+2528,2026-01-19,"Beljak Pažinová Noémi, Prof.PhDr.",800.0,Platba,,Ján Beljak
+2529,2026-01-19,"Beljak Pažinová Noémi, Prof.PhDr.",800.0,Platba,,Ján Beljak
+2530,2026-06-26,Halászová Lívia,1000.0,,,Jozef Ráž
+2531,2026-06-26,Veronika Rikková,1000.0,ja,,Jozef Ráž
+2532,2026-06-26,Novák Ladislav,2000.0,,,Jozef Ráž
+2533,2026-06-26,Buchamer Andrej,2000.0,,,Jozef Ráž
+2534,2026-06-26,"Piling Karol, Ing.",400.0,,,Jozef Ráž
+2535,2026-06-26,Šedo Pavol,1000.0,,,Jozef Ráž
+2536,2026-06-26,Bajnoková Eva,1000.0,,,Jozef Ráž
+2537,2026-06-26,Bačo Martin,500.0,,,Jozef Ráž
+2538,2026-06-26,Róbert Homza,500.0,,,Jozef Ráž
+2539,2026-06-26,"Trhoviska Ruzinov, s.r.o.",-1000.0,Jozef Raz prenajom stanku,752026.0,Jozef Ráž
+2540,2026-06-26,Alexandra Srholcova,800.0,,,Jozef Ráž
+2541,2026-06-25,Bačo Martin,500.0,,,Jozef Ráž
+2542,2026-06-25,Miroslav Ondrík,1000.0,,,Jozef Ráž
+2543,2026-06-25,Andrea Ondrikova,1000.0,,,Jozef Ráž
+2544,2026-06-25,SUJOVA DOMINIKA,550.0,?/DO2026-06-25/SP,,Jozef Ráž
+2545,2026-06-25,"Kukura Tomáš, Ing.",2000.0,,,Jozef Ráž
+2546,2026-06-25,Lipták Igor,500.0,,,Jozef Ráž
+2547,2026-06-25,"Bidovský Patrik, Ing.",500.0,,,Jozef Ráž
+2548,2026-06-22,"Slovák Ľubomír, Ing.",500.0,,20260622.0,Jozef Ráž
+2549,2026-06-22,Jozef Ráž,100000.0,,,Jozef Ráž
+2550,2026-06-02,Relations consulting,-615.0,,26800012.0,Jozef Ráž
+2551,2026-05-29,,-6.0,Vedenie konta Transparentný účet,9.0,Jozef Ráž
+2552,2026-05-25,Lucia Ovšáková,400.0,,,Jozef Ráž
+2553,2026-05-25,Marek Hocher,600.0,,,Jozef Ráž
+2554,2026-05-25,Peter Braska,2000.0,,,Jozef Ráž
+2555,2026-05-18,Radko Fercak,250.0,,,Jozef Ráž
+2556,2026-05-12,Relations consulting,-615.0,SEPA Okamžitá platba,26800010.0,Jozef Ráž
+2557,2026-05-08,Daylightstudio s. r. o.,-500.0,SEPA Okamžitá platba,12026.0,Jozef Ráž
+2558,2026-05-08,Dobrovodsky,-500.0,Jozef Raz,2026016.0,Jozef Ráž
+2559,2026-04-30,,5.0,Storno-popl.za platby a ved.úč/kon,9.0,Jozef Ráž
+2560,2026-04-30,,-5.0,Vedenie účtu,9.0,Jozef Ráž
+2561,2026-04-22,TOMAS JASUREK,0.01,Smeracky Trt,,Jozef Ráž
+2562,2026-04-22,TOMAS JASUREK,0.01,,,Jozef Ráž
+2563,2026-04-21,Lukas Klimcik,0.01,Na teplaky do Leopoldova,,Jozef Ráž
+2564,2026-04-17,Jozef Ráž,6500.0,,,Jozef Ráž
+2565,2026-06-26,MACHACKOVA KATARINA,10000.0,Katarína Macháčková,,Katarína Macháčková

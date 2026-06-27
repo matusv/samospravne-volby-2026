@@ -1,11 +1,29 @@
 index,date,amount,currency,account_name,message,vs
 0,2026-06-25,-403.6,EUR,KAMET s r. o.,"Platba/Kamet - prenajom a texhnicke zabezpecenie, kampan PK Hanulik 06/2026","260604
 VS260604/SS03/KS"
-1,2026-06-25,-615.0,EUR,Polana TRANS s.r.o.,Platba/Poprad - rodinny festival Poprad 06/2026,"20260119
-VS20260119/SS/KS"
-2,2026-06-25,-3000.0,EUR,Martin Péchy,Platba/Pechy kampanova komunikacia ba 05 26,"20260007
-VS20260007/SS/KS"
-3,2026-06-25,-1.96,EUR,,Transakčná daň 24.06.2026,"
+1,2026-06-25,-615.0,EUR,Polana TRANS s.r.o.,"
+                        Platba
+                    /
+                        Poprad - rodinny festival Poprad 06/2026
+                    ","
+                        20260119VS20260119/SS/KS
+                    "
+2,2026-06-25,-3000.0,EUR,"
+                            Martin Péchy
+                    ","
+                        Platba
+                    /
+                        Pechy kampanova komunikacia  ba 05 26
+                    ","
+                        20260007VS20260007/SS/KS
+                    "
+3,2026-06-25,-1.96,EUR,"
+                            
+                    ","
+                        Transakčná daň 24.06.2026
+                    /
+                        
+                    ","
                         
                     "
 4,2026-06-25,50.0,EUR,"

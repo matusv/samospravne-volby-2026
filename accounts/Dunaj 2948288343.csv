@@ -2,10 +2,21 @@ index,date,amount,currency,account_name,message,vs
 0,2026-06-25,-0.12,EUR,,Transakčná daň 24.06.2026,
 1,2026-06-25,-512.91,EUR,"NUBIUM, s. r. o.",Platba/Prenajom ploch,"16120027
 VS16120027/SS/KS"
-2,2026-06-25,-92.25,EUR,"NUBIUM, s. r. o.",Platba/Tlac plagato 3ks,"2610003814
-VS2610003814/SS/KS"
-3,2026-06-25,1000.0,EUR,Dunaj,Platba/Prevod financii kampan,
-4,2026-06-24,30.0,EUR,Dunaj,"
+2,2026-06-25,-92.25,EUR,"NUBIUM, s. r. o.",Platba/Tlac plagato 3ks,"
+                        2610003814VS2610003814/SS/KS
+                    "
+3,2026-06-25,1000.0,EUR,"
+                            Dunaj
+                    ","
+                        Platba
+                    /
+                        Prevod financii kampan
+                    ","
+                        
+                    "
+4,2026-06-24,30.0,EUR,"
+                            Dunaj
+                    ","
                         Platba
                     /
                         Prevod financii
