@@ -2,27 +2,10 @@ index,date,amount,currency,account_name,message,vs
 0,2026-06-23,-700.0,EUR,Mgr. Matej Mísal,Platba/graficke prace,"202612
 VS202612/SS/KS"
 1,2026-06-23,-43.16,EUR,BUFFER PLAN,INT NÁKUP POS EUR BUFFER PLAN / BUFFER.COM / (POS 2TMTLWQ7),
-2,2026-06-19,70.0,EUR,"
-                            Schultz Boris, Ing. arch.
-                    ","
-                        TPP
-                    /
-                        Dar
-                    ","
-                        
-                    "
-3,2026-06-16,-959.4,EUR,"
-                            UNIMEDIA, s.r.o.
-                    ","
-                        Platba
-                    /
-                        reklamna kampan, reklamne plochy
-                    ","
-                        420260530VS420260530/SS/KS
-                    "
-4,2026-06-15,-200.0,EUR,"
-                            MAGIC OFFICE s. r. o.
-                    ","
+2,2026-06-19,70.0,EUR,"Schultz Boris, Ing. arch.",TPP/Dar,
+3,2026-06-16,-959.4,EUR,"UNIMEDIA, s.r.o.","Platba/reklamna kampan, reklamne plochy","420260530
+VS420260530/SS/KS"
+4,2026-06-15,-200.0,EUR,MAGIC OFFICE s. r. o.,"
                         Platba
                     /
                         kuzelnik, MDD, 30.5.2026
