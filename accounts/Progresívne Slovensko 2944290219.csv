@@ -3,8 +3,13 @@ index,date,amount,currency,account_name,message,vs
 1,2026-06-26,15000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
 2,2026-06-26,50.0,EUR,Martin Vavrincik,Platba,"2
 VS2/SS/KS"
-3,2026-06-25,-403.6,EUR,KAMET s r. o.,"Platba/Kamet - prenajom a texhnicke zabezpecenie, kampan PK Hanulik 06/2026","260604
-VS260604/SS03/KS"
+3,2026-06-25,-403.6,EUR,KAMET s r. o.,"
+                        Platba
+                    /
+                        Kamet - prenajom a texhnicke zabezpecenie, kampan PK Hanulik 06/2026
+                    ","
+                        260604VS260604/SS03/KS
+                    "
 4,2026-06-25,-615.0,EUR,"
                             Polana TRANS s.r.o.
                     ","
