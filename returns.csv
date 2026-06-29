@@ -1,39 +1,39 @@
 index,index,date,amount,account_name,message,vs,name
-0,251,2026-04-30,-25.0,Stanislav Dubovsky,Platba/vratenie daru stanislav dubovsky,,Progresívne Slovensko
-1,299,2026-04-15,25.0,Stanislav Dubovsky,PLATBA/Dar,"35
+0,252,2026-04-30,-25.0,Stanislav Dubovsky,Platba/vratenie daru stanislav dubovsky,,Progresívne Slovensko
+1,300,2026-04-15,25.0,Stanislav Dubovsky,PLATBA/Dar,"35
 VS35/SS/KS",Progresívne Slovensko
 2,66,2026-04-17,-0.01,Ivan Rostas,Mylná platba,,Kresťanskodemokratické hnutie
 3,67,2026-04-15,0.01,Ivan Rostas,SK73 0200 0000 0045 5336 2157 . dakujem,,Kresťanskodemokratické hnutie
-4,530,2026-04-20,-2000.0,"Cicman Dalibor, Ing.",Vrateny dar,,Team Bratislava
-5,531,2026-04-15,2000.0,"Cicman Dalibor, Ing.",dar,20263164.0,Team Bratislava
-6,507,2026-05-06,-1670.0,Lukas Krajcik - Digital stories,Tvorba webu,2026023.0,Team Bratislava
-7,485,2026-05-14,1670.0,Lukáš Krajčík - Digital stories,Vratenie platby,,Team Bratislava
-8,350,2026-06-04,-500.0,"Šujan Juraj, Ing. arch.",Vrátený dar,,Team Bratislava
-9,393,2026-06-03,500.0,"Šujan Juraj, Ing. arch.",dar,20263359.0,Team Bratislava
-10,202,2026-06-23,-50000.0,Folkmer Petra,Vrátená chybná platba,,Team Bratislava
-11,234,2026-06-23,50000.0,Folkmer Petra,Dar na zaklade zmluvy- Petra Folkmer,,Team Bratislava
+4,540,2026-04-20,-2000.0,"Cicman Dalibor, Ing.",Vrateny dar,,Team Bratislava
+5,541,2026-04-15,2000.0,"Cicman Dalibor, Ing.",dar,20263164.0,Team Bratislava
+6,517,2026-05-06,-1670.0,Lukas Krajcik - Digital stories,Tvorba webu,2026023.0,Team Bratislava
+7,495,2026-05-14,1670.0,Lukáš Krajčík - Digital stories,Vratenie platby,,Team Bratislava
+8,360,2026-06-04,-500.0,"Šujan Juraj, Ing. arch.",Vrátený dar,,Team Bratislava
+9,403,2026-06-03,500.0,"Šujan Juraj, Ing. arch.",dar,20263359.0,Team Bratislava
+10,212,2026-06-23,-50000.0,Folkmer Petra,Vrátená chybná platba,,Team Bratislava
+11,244,2026-06-23,50000.0,Folkmer Petra,Dar na zaklade zmluvy- Petra Folkmer,,Team Bratislava
 12,27,2026-06-01,-3200.0,VENA Agentur s. r. o.,Platba/Prenajom a osadenie ploch,"20260001
 VS20260001/SS/KS",Dunaj
 13,25,2026-06-04,3200.0,VENA Agentur s. r. o.,PLATBA,"20260001
 VS20260001/SS/KS",Dunaj
-14,53,2026-04-20,-253.0,Bosák Tibor,Vrátenie chybnej platby,,Ladislav Lörinc
-15,91,2026-04-07,253.0,Bosák Tibor,Tibor Bosák,,Ladislav Lörinc
-16,34,2026-05-04,-243.0,"Adamková Alena, Ing.",Vrátenie chybnej platby,,Ladislav Lörinc
-17,47,2026-04-22,243.0,"Adamková Alena, Ing.",Alena Adamkova,,Ladislav Lörinc
-18,31,2026-05-13,-271.0,"Zálepa Ladislav, PaedDr.",Vrátenie chybnej platby,,Ladislav Lörinc
-19,45,2026-04-23,271.0,"Zálepa Ladislav, PaedDr.",Ladislav Zalepa,23042026.0,Ladislav Lörinc
-20,30,2026-05-13,-252.0,"Klasovitá Soňa, Ing.",Vrátenie chybnej platby,,Ladislav Lörinc
-21,59,2026-04-17,252.0,"Klasovitá Soňa, Ing.",Sona Klasovita,17042026.0,Ladislav Lörinc
-22,29,2026-05-13,-220.0,Závodská Gabriela,Vrátenie chybnej platby,,Ladislav Lörinc
-23,68,2026-04-15,220.0,Závodská Gabriela,OO26041500098735,137885.0,Ladislav Lörinc
-24,26,2026-05-14,-274.0,Szöllösiová Terézia,Vrátenie chybnej platby,,Ladislav Lörinc
-25,73,2026-04-14,274.0,Szöllösiová Terézia,Terézia Szollosiova,14042026.0,Ladislav Lörinc
-26,22,2026-05-26,-225.0,Ondrejka Matúš,Vrátenie chybnej platby,,Ladislav Lörinc
-27,61,2026-04-17,225.0,Ondrejka Matúš,OO26041700046627,,Ladislav Lörinc
-28,24,2026-05-26,-272.0,SNOPKOVA EMILIA,Vrátenie chybnej platby,,Ladislav Lörinc
-29,70,2026-04-14,272.0,SNOPKOVA EMILIA,?/DO2026-04-14/SP,,Ladislav Lörinc
-30,23,2026-05-26,-256.0,Novák Ján,Vrátenie chybnej platby,,Ladislav Lörinc
-31,44,2026-04-23,256.0,Novák Ján,Vklad,,Ladislav Lörinc
+14,54,2026-04-20,-253.0,Bosák Tibor,Vrátenie chybnej platby,,Ladislav Lörinc
+15,92,2026-04-07,253.0,Bosák Tibor,Tibor Bosák,,Ladislav Lörinc
+16,35,2026-05-04,-243.0,"Adamková Alena, Ing.",Vrátenie chybnej platby,,Ladislav Lörinc
+17,48,2026-04-22,243.0,"Adamková Alena, Ing.",Alena Adamkova,,Ladislav Lörinc
+18,32,2026-05-13,-271.0,"Zálepa Ladislav, PaedDr.",Vrátenie chybnej platby,,Ladislav Lörinc
+19,46,2026-04-23,271.0,"Zálepa Ladislav, PaedDr.",Ladislav Zalepa,23042026.0,Ladislav Lörinc
+20,31,2026-05-13,-252.0,"Klasovitá Soňa, Ing.",Vrátenie chybnej platby,,Ladislav Lörinc
+21,60,2026-04-17,252.0,"Klasovitá Soňa, Ing.",Sona Klasovita,17042026.0,Ladislav Lörinc
+22,30,2026-05-13,-220.0,Závodská Gabriela,Vrátenie chybnej platby,,Ladislav Lörinc
+23,69,2026-04-15,220.0,Závodská Gabriela,OO26041500098735,137885.0,Ladislav Lörinc
+24,27,2026-05-14,-274.0,Szöllösiová Terézia,Vrátenie chybnej platby,,Ladislav Lörinc
+25,74,2026-04-14,274.0,Szöllösiová Terézia,Terézia Szollosiova,14042026.0,Ladislav Lörinc
+26,24,2026-05-26,-256.0,Novák Ján,Vrátenie chybnej platby,,Ladislav Lörinc
+27,45,2026-04-23,256.0,Novák Ján,Vklad,,Ladislav Lörinc
+28,23,2026-05-26,-225.0,Ondrejka Matúš,Vrátenie chybnej platby,,Ladislav Lörinc
+29,62,2026-04-17,225.0,Ondrejka Matúš,OO26041700046627,,Ladislav Lörinc
+30,25,2026-05-26,-272.0,SNOPKOVA EMILIA,Vrátenie chybnej platby,,Ladislav Lörinc
+31,71,2026-04-14,272.0,SNOPKOVA EMILIA,?/DO2026-04-14/SP,,Ladislav Lörinc
 32,14,2026-04-22,-2990.0,Andrej Škoda,Vratenie hotovostneho vkladu,,Igor Kršiak
 33,13,2026-04-22,2990.0,Andrej Skoda,Odoslane z Revolutu,,Igor Kršiak
 34,11,2026-05-29,-180.0,Milan Korim,Vratenie financnych prostriedkov,,Branislav Baran
