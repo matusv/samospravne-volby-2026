@@ -1,2 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,SLOV NARODNA STRANA,2026-06-03,50000,EUR,prevod komunalne volby SNS 2026,Prijatá SEPA platba,500002026,
+0,,2026-06-30,-0.02,EUR,"/VS/SS/KS0898 30.06.2026 5,00 EUR","Transakčná daň (z poplatkov, úrokov)",,
+1,,2026-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+2,,2026-06-30,-0.02,EUR,"/VS/SS/KS0898 30.06.2026 4,83 EUR","Transakčná daň (z poplatkov, úrokov)",,
+3,,2026-06-30,-4.83,EUR,Poplatok za vedenie účtu,Poplatok,,
+4,SLOV NARODNA STRANA,2026-06-03,50000.0,EUR,prevod komunalne volby SNS 2026,Prijatá SEPA platba,500002026.0,

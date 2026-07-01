@@ -1,0 +1,11 @@
+index,date,amount,tx_type,account_name,message,ks,vs,ss,note
+0,2026-06-30,350.0,Okamžitá prichádzajúca Europlatba,Baďura Juraj,,,,,Baďura Juraj
+1,2026-06-24,-18.41,Okamžitá odchádzajúca Europlatba,,uhrada domeny,0308,1026213166,,úhrada domény websupport
+2,2026-06-24,350.0,Okamžitá prichádzajúca Europlatba,Magdalena Eliasova,,,,,Magdalena Eliasova
+3,2026-06-24,350.0,Okamžitá prichádzajúca Europlatba,Tibor Pekarčík,Podpora na zupana tt vuc,,1407,,Tibor Pekarčík
+4,2026-06-24,300.0,Okamžitá prichádzajúca Europlatba,KATARINA DURKOVA,,,,,KATARINA DURKOVA
+5,2026-06-24,300.0,Okamžitá prichádzajúca Europlatba,Krajčo Marcel,", prispevok na kampan",,,,Krajčo Marcel
+6,2026-06-23,350.0,Okamžitá prichádzajúca Europlatba,NESTICKY MAREK,?/DO2026-06-23/SPMarek Nesticky,,,,NESTICKY MAREK
+7,2026-06-22,-90.0,Okamžitá odchádzajúca Europlatba,,prenajom priestorov KKC na TB,,,,
+8,2026-06-22,333.0,Platba prevodom v rámci banky,"RNDr. Cabanová, Gabriela",Cabanova Gabriela,,,,Cabanova Gabriela
+9,2026-06-22,400.0,Okamžitá prichádzajúca Europlatba,LANCARIC MATEJ,?/DO2026-06-22/SPprispevok na kampan,,,,LANCARIC MATEJ

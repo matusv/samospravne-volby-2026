@@ -1,17 +1,20 @@
 index,date,amount,currency,account_name,message,vs
-0,2026-06-23,500.0,EUR,Peter Mician,Platba,
-1,2026-06-23,500.0,EUR,MICIAN OSTRIHONOVA A,Platba,
-2,2026-06-17,-3073.77,EUR,Restartup s.r.o.,Platba,"2026045
+0,2026-06-30,-7.0,EUR,,Poplatok za účet,
+1,2026-06-23,500.0,EUR,Peter Mician,Platba,
+2,2026-06-23,500.0,EUR,MICIAN OSTRIHONOVA A,Platba,
+3,2026-06-17,-3073.77,EUR,Restartup s.r.o.,Platba,"2026045
 VS2026045/SS/KS"
-3,2026-06-12,100.0,EUR,Vargovská Lenka,Platba/Príspevok na kampaň od Lenka Vargovská,
-4,2026-06-10,230.0,EUR,Dasa Melicherikova,"
+4,2026-06-12,100.0,EUR,Vargovská Lenka,Platba/Príspevok na kampaň od Lenka Vargovská,
+5,2026-06-10,230.0,EUR,"
+                            Dasa Melicherikova
+                    ","
                         Platba
                     /
                         Melicherikova Dasa volby 2026
                     ","
                         
                     "
-5,2026-06-02,230.0,EUR,"
+6,2026-06-02,230.0,EUR,"
                             Tomas Duris
                     ","
                         Platba
@@ -20,7 +23,7 @@ VS2026045/SS/KS"
                     ","
                         
                     "
-6,2026-06-01,230.0,EUR,"
+7,2026-06-01,230.0,EUR,"
                             Marek Bobak
                     ","
                         Platba
@@ -29,7 +32,7 @@ VS2026045/SS/KS"
                     ","
                         
                     "
-7,2026-06-01,230.0,EUR,"
+8,2026-06-01,230.0,EUR,"
                             Tomas Krsnak
                     ","
                         Platba
@@ -38,7 +41,7 @@ VS2026045/SS/KS"
                     ","
                         
                     "
-8,2026-06-01,430.0,EUR,"
+9,2026-06-01,430.0,EUR,"
                             Robert Orsag
                     ","
                         Platba
@@ -47,7 +50,7 @@ VS2026045/SS/KS"
                     ","
                         
                     "
-9,2026-06-01,230.0,EUR,"
+10,2026-06-01,230.0,EUR,"
                             Michal Jurasko
                     ","
                         Platba
@@ -56,7 +59,7 @@ VS2026045/SS/KS"
                     ","
                         
                     "
-10,2026-05-30,-5.0,EUR,"
+11,2026-05-30,-5.0,EUR,"
                             
                     ","
                         Poplatok za účet
@@ -65,7 +68,7 @@ VS2026045/SS/KS"
                     ","
                         
                     "
-11,2026-05-26,2000.0,EUR,"
+12,2026-05-26,2000.0,EUR,"
                             Lenka Balkovicova
                     ","
                         Platba
@@ -74,7 +77,7 @@ VS2026045/SS/KS"
                     ","
                         
                     "
-12,2026-05-26,130.0,EUR,"
+13,2026-05-26,130.0,EUR,"
                             Vargovská Lenka
                     ","
                         Platba
@@ -83,52 +86,45 @@ VS2026045/SS/KS"
                     ","
                         
                     "
-13,2026-05-25,-3415.0,EUR,"
-                            COLORgrafik, spol. s r.o.
-                    ","
-                        Platba
-                    /
-                        Úhrada faktúry: 20260055
-                    ","
-                        20260055VS20260055/SS/KS
-                    "
-14,2026-05-25,-99.9,EUR,Lasko s. r. o.,Platba,"20260005
+14,2026-05-25,-3415.0,EUR,"COLORgrafik, spol. s r.o.",Platba/Úhrada faktúry: 20260055,"20260055
+VS20260055/SS/KS"
+15,2026-05-25,-99.9,EUR,Lasko s. r. o.,Platba,"20260005
 VS20260005/SS/KS308"
-15,2026-05-25,40.0,EUR,Jozef Beljak,Platba,
-16,2026-05-19,200.0,EUR,Anna Beljakova,Platba,
-17,2026-05-18,230.0,EUR,Michal Macko,Platba/Prispevok na volebnu kampan Michal Macko,
-18,2026-05-18,150.0,EUR,Jozef Beljak,Platba,
-19,2026-05-15,-3073.77,EUR,Restartup s.r.o.,Platba,"2026035
+16,2026-05-25,40.0,EUR,Jozef Beljak,Platba,
+17,2026-05-19,200.0,EUR,Anna Beljakova,Platba,
+18,2026-05-18,230.0,EUR,Michal Macko,Platba/Prispevok na volebnu kampan Michal Macko,
+19,2026-05-18,150.0,EUR,Jozef Beljak,Platba,
+20,2026-05-15,-3073.77,EUR,Restartup s.r.o.,Platba,"2026035
 VS2026035/SS/KS"
-20,2026-05-14,230.0,EUR,Miroslav Tomek,Platba/Prispevok na volebnu kampan od Miroslav Tomek,
-21,2026-05-14,430.0,EUR,Popundova Renata,Platba/Prispevok na volebnu kampan RenataPopundova,
-22,2026-05-13,230.0,EUR,Peter Stefunko,Platba,
-23,2026-05-12,100.0,EUR,"Beljak Pažinová Noémi, Prof.PhDr.",Platba,
-24,2026-05-12,430.0,EUR,Vladimir Bella,Platba/prispevok na volebnu kampan od Vladimir Bella,
-25,2026-05-11,230.0,EUR,BORSKA TATIANA,Platba/prispevok na voleb kampan tatiana borska,
-26,2026-05-11,230.0,EUR,Jozef Mikus,Platba/Prispevok na volebnu kampan od Jozef Mikus,
-27,2026-05-09,230.0,EUR,Silvia Havranova,Platba/Prispevok na volebnu kampan od Silvia Havranova,
-28,2026-05-09,230.0,EUR,Vladimir Nemec,Platba/Vladimir Nemec,
-29,2026-05-07,230.0,EUR,Varga Miroslav,Platba/Príspevok na volebnú kampaň - Varga Miroslav.,
-30,2026-05-07,230.0,EUR,Juraj Chabada,Platba/Prispevok na volebnu kampan Juraj Chabada,
-31,2026-05-07,230.0,EUR,Radoslav Kubinec,Platba/Prispevok na volebnu kampan od Radoslav Kubinec,
-32,2026-05-05,2000.0,EUR,Robert Orsag,Platba,
-33,2026-04-30,-5.0,EUR,,Poplatok za účet,
-34,2026-04-30,2000.0,EUR,JOZEF PAŽIN,PLATBA,
-35,2026-04-17,-379.76,EUR,"Petit Press, a.s.",Platba,"2633100626
+21,2026-05-14,230.0,EUR,Miroslav Tomek,Platba/Prispevok na volebnu kampan od Miroslav Tomek,
+22,2026-05-14,430.0,EUR,Popundova Renata,Platba/Prispevok na volebnu kampan RenataPopundova,
+23,2026-05-13,230.0,EUR,Peter Stefunko,Platba,
+24,2026-05-12,100.0,EUR,"Beljak Pažinová Noémi, Prof.PhDr.",Platba,
+25,2026-05-12,430.0,EUR,Vladimir Bella,Platba/prispevok na volebnu kampan od Vladimir Bella,
+26,2026-05-11,230.0,EUR,BORSKA TATIANA,Platba/prispevok na voleb kampan tatiana borska,
+27,2026-05-11,230.0,EUR,Jozef Mikus,Platba/Prispevok na volebnu kampan od Jozef Mikus,
+28,2026-05-09,230.0,EUR,Silvia Havranova,Platba/Prispevok na volebnu kampan od Silvia Havranova,
+29,2026-05-09,230.0,EUR,Vladimir Nemec,Platba/Vladimir Nemec,
+30,2026-05-07,230.0,EUR,Varga Miroslav,Platba/Príspevok na volebnú kampaň - Varga Miroslav.,
+31,2026-05-07,230.0,EUR,Juraj Chabada,Platba/Prispevok na volebnu kampan Juraj Chabada,
+32,2026-05-07,230.0,EUR,Radoslav Kubinec,Platba/Prispevok na volebnu kampan od Radoslav Kubinec,
+33,2026-05-05,2000.0,EUR,Robert Orsag,Platba,
+34,2026-04-30,-5.0,EUR,,Poplatok za účet,
+35,2026-04-30,2000.0,EUR,JOZEF PAŽIN,PLATBA,
+36,2026-04-17,-379.76,EUR,"Petit Press, a.s.",Platba,"2633100626
 VS2633100626/SS/KS308"
-36,2026-04-17,-3073.77,EUR,Restartup s.r.o.,Platba,"2026027
+37,2026-04-17,-3073.77,EUR,Restartup s.r.o.,Platba,"2026027
 VS2026027/SS/KS"
-37,2026-03-31,-7.0,EUR,,Poplatok za účet,
-38,2026-03-11,-3073.77,EUR,Restartup s.r.o.,Platba,"2026018
+38,2026-03-31,-7.0,EUR,,Poplatok za účet,
+39,2026-03-11,-3073.77,EUR,Restartup s.r.o.,Platba,"2026018
 VS2026018/SS/KS"
-39,2026-03-11,3000.0,EUR,"Beljak Ján, PhDr., PhD.",Platba,
-40,2026-03-09,900.0,EUR,"Beljak Ján, PhDr., PhD.",Platba,
-41,2026-02-28,-7.0,EUR,,Poplatok za účet,
-42,2026-02-18,-405.9,EUR,GRYF reklamne studio s.r.o.,Platba,"26014
+40,2026-03-11,3000.0,EUR,"Beljak Ján, PhDr., PhD.",Platba,
+41,2026-03-09,900.0,EUR,"Beljak Ján, PhDr., PhD.",Platba,
+42,2026-02-28,-7.0,EUR,,Poplatok za účet,
+43,2026-02-18,-405.9,EUR,GRYF reklamne studio s.r.o.,Platba,"26014
 VS26014/SS/KS0308"
-43,2026-02-07,800.0,EUR,"Beljak Pažinová Noémi, Prof.PhDr.",Platba,
-44,2026-01-31,-0.0,EUR,,Poplatok za účet,
-45,2026-01-22,800.0,EUR,"Beljak Pažinová Noémi, Prof.PhDr.",Platba,
-46,2026-01-19,800.0,EUR,"Beljak Pažinová Noémi, Prof.PhDr.",Platba,
+44,2026-02-07,800.0,EUR,"Beljak Pažinová Noémi, Prof.PhDr.",Platba,
+45,2026-01-31,-0.0,EUR,,Poplatok za účet,
+46,2026-01-22,800.0,EUR,"Beljak Pažinová Noémi, Prof.PhDr.",Platba,
 47,2026-01-19,800.0,EUR,"Beljak Pažinová Noémi, Prof.PhDr.",Platba,
+48,2026-01-19,800.0,EUR,"Beljak Pažinová Noémi, Prof.PhDr.",Platba,

@@ -1,0 +1,12 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,,2026-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,ARTON Sro,2026-06-24,-602.7,EUR,260252 Peter Slavik,Okamžitá platba (elektronicky),260252.0,0.0
+2,Slávik Peter,2026-06-24,1000.0,EUR,OO26062400100619,Prijatá Okamžitá platba,,
+3,ISPA Spol sro,2026-06-09,-420.66,EUR,0260609192652.198924,Okamžitá platba (elektronicky),26950227.0,
+4,ISPA Spol sro,2026-06-09,-2944.62,EUR,0260609192554.758733,Okamžitá platba (elektronicky),26950228.0,
+5,Slávik Peter,2026-06-09,1000.0,EUR,OO26060900146012,Prijatá Okamžitá platba,,
+6,Slávik Peter,2026-06-04,2500.0,EUR,OO26060400058713,Prijatá Okamžitá platba,,
+7,,2026-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+8,Erik Čapucha,2026-05-23,1.0,EUR,Na teplu vodu,Prijatá Okamžitá platba,,
+9,Sádovský Patrik,2026-05-23,6.0,EUR,OO26052300001800,Prijatá Okamžitá platba,,
+10,,2026-04-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,

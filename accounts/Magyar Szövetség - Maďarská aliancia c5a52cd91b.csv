@@ -1,30 +1,31 @@
 index,date,amount,currency,account_name,message,vs
-0,2026-06-15,-6888.0,EUR,,"Odoslaná okamžitá platba, Zaloha na kampan VUC",VS: 30260004
-1,2026-06-15,7000.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 062025
-2,2026-06-14,-26.89,EUR,,"Transakčná daň z prevodov, ",KS: 0558
-3,2026-05-31,-2.2,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.05.2026 do 31.05.2026, Za vedenie účtu/balíka služieb a výpisy: 2,00, Za transakcie: 0,20 , z toho:, 1 x debet - elektronicky: 0,20",
-4,2026-05-29,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 28.05.2026","VS: 495000148
-ŠS: 5032755813
-KS: 6898"
-5,2026-05-29,-3.0,EUR,,"Poplatok platobné karty, Miesto: MC BUSINESS DEBETNA CL Suma: 3 EUR 28.05.2026","VS: 295000148
+0,2026-06-30,-2.2,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.06.2026 do 30.06.2026, Za vedenie účtu/balíka služieb a výpisy: 2,00, Za transakcie: 0,20 , z toho:, 1 x debet - elektronicky: 0,20",
+1,2026-06-30,-3.0,EUR,,"Poplatok platobné karty, Miesto: MC BUSINESS DEBETNA CL Suma: 3 EUR 29.06.2026","VS: 295000180
 ŠS: 3400020725
 KS: 6898"
-6,2026-05-27,-6715.8,EUR,,"Odoslaná okamžitá platba, Zaloha na kampan VUC",VS: 30260003
-7,2026-05-27,6730.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 052026
-8,2026-05-14,-0.03,EUR,,"Transakčná daň z prevodov, ",KS: 0558
-9,2026-04-30,-2.0,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.04.2026 do 30.04.2026, Za vedenie účtu/balíka služieb a výpisy: 2,00, Za transakcie: 0,00",
-10,2026-04-30,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 29.04.2026","VS: 495000119
+2,2026-06-30,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 29.06.2026","VS: 495000180
 ŠS: 5032755813
 KS: 6898"
-11,2026-04-30,-3.0,EUR,,"Poplatok platobné karty, Miesto: MC BUSINESS DEBETNA CL Suma: 3 EUR 29.04.2026","VS: 295000119
-ŠS: 3400020725
-KS: 6898"
-12,2026-04-14,-0.03,EUR,,"Transakčná daň z prevodov, ",KS: 0558
-13,2026-04-02,20.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 042026
-14,2026-03-31,-2.0,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.03.2026 do 31.03.2026, Za vedenie účtu/balíka služieb a výpisy: 2,00, Za transakcie: 0,00",
-15,2026-03-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: MC BUSINESS DEBETNA CL Suma: 3 EUR 30.03.2026","VS: 295000089
-ŠS: 3400020725
-KS: 6898"
-16,2026-03-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 30.03.2026","VS: 495000089
+3,2026-06-30,-0.02,EUR,,"Zaúčtovanie záporných úrokov, Istina: 0,02",
+4,2026-06-15,-6888.0,EUR,,"Odoslaná okamžitá platba, Zaloha na kampan VUC",VS: 30260004
+5,2026-06-15,7000.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 062025
+6,2026-06-14,-26.89,EUR,,"Transakčná daň z prevodov, ",KS: 0558
+7,2026-05-31,-2.2,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.05.2026 do 31.05.2026, Za vedenie účtu/balíka služieb a výpisy: 2,00, Za transakcie: 0,20 , z toho:, 1 x debet - elektronicky: 0,20",
+8,2026-05-29,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 28.05.2026","VS: 495000148
 ŠS: 5032755813
 KS: 6898"
+9,2026-05-29,-3.0,EUR,,"Poplatok platobné karty, Miesto: MC BUSINESS DEBETNA CL Suma: 3 EUR 28.05.2026","VS: 295000148
+ŠS: 3400020725
+KS: 6898"
+10,2026-05-27,-6715.8,EUR,,"Odoslaná okamžitá platba, Zaloha na kampan VUC",VS: 30260003
+11,2026-05-27,6730.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 052026
+12,2026-05-14,-0.03,EUR,,"Transakčná daň z prevodov, ",KS: 0558
+13,2026-04-30,-2.0,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.04.2026 do 30.04.2026, Za vedenie účtu/balíka služieb a výpisy: 2,00, Za transakcie: 0,00",
+14,2026-04-30,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 29.04.2026","VS: 495000119
+ŠS: 5032755813
+KS: 6898"
+15,2026-04-30,-3.0,EUR,,"Poplatok platobné karty, Miesto: MC BUSINESS DEBETNA CL Suma: 3 EUR 29.04.2026","VS: 295000119
+ŠS: 3400020725
+KS: 6898"
+16,2026-04-14,-0.03,EUR,,"Transakčná daň z prevodov, ",KS: 0558
+17,2026-04-02,20.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 042026

@@ -1,0 +1,37 @@
+index,date,amount,currency,account_name,message,vs
+0,2026-07-01,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 29.06.2026","VS: 497000181
+ŠS: 5032785547
+KS: 6898"
+1,2026-07-01,-32.76,EUR,,"Transakcia platobnou kartou, Suma: 32,76 EUR 29.06.2026 Miesto: MIRA OFFICE LEVICE","VS: 405000181
+ŠS: 5032785547
+KS: 0608"
+2,2026-06-30,-10.0,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.06.2026 do 30.06.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 53 x prijaté platby: 0,00, 7 x debet - elektronicky: 0,00",
+3,2026-06-30,10.0,EUR,Boris Novak,"Prijatá platba, Dar - vratme zivot do Levic",
+4,2026-06-30,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 29.06.2026","VS: 495000180
+ŠS: 5032785547
+KS: 6898"
+5,2026-06-30,50.0,EUR,Keller Marek,"Prijatá platba, Dar - vratme zivot do Levic",
+6,2026-06-29,10.0,EUR,BALTAZAROVA IVETA,"Prijatá platba, /DO2026-06-29/SPIveta Baltazarova",
+7,2026-06-29,20.0,EUR,Ciriak Branislav,"Prijatá platba, Dar - vratme zivot do Levic",
+8,2026-06-29,10.0,EUR,Karnišová Natália,"Prijatá platba, ",
+9,2026-06-27,20.0,EUR,Matej Dobrovolný,"Prijatá platba, ",
+10,2026-06-27,100.0,EUR,Dráb Viliam,"Prijatá platba, Podpora do kampane",
+11,2026-06-26,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.06.2026","VS: 497000176
+ŠS: 5032785547
+KS: 6898"
+12,2026-06-26,-21.2,EUR,,"Transakcia platobnou kartou, Suma: 21,2 EUR 24.06.2026 Miesto: Mailchimp 678-9990141","VS: 405000176
+ŠS: 5032785547
+KS: 0608"
+13,2026-06-26,-73.8,EUR,,"Odoslaná platba elektronicky, Mgr.Vladimir Kuny 17.06.2026 potlac obrus - stoly","VS: 10260349
+KS: 0008"
+14,2026-06-26,-756.55,EUR,,"Odoslaná platba elektronicky, CAPRESE s. r. o.: 2026054 - Mgr. Vladimir Kuny - 2026/06 catering. sluzby",VS: 2026054
+15,2026-06-26,30.0,EUR,Pokoraczky Ondrej,"Prijatá platba, Vratime zivot do Levic",
+16,2026-06-26,20.0,EUR,Adela Palacková,"Prijatá platba, ",
+17,2026-06-25,100.0,EUR,Peter Pokoraczky,"Prijatá platba, ",
+18,2026-06-25,20.0,EUR,Robert Meszaros,"Prijatá platba, ",
+19,2026-06-25,100.0,EUR,Roman Obert,"Prijatá platba, Dar",VS: 2026001
+20,2026-06-25,1000.0,EUR,MIKO NORBERT,"Prijatá platba, /DO2026-06-25/SPNorbert Miko, Sukennicka 6, Levice",
+21,2026-06-25,15.0,EUR,PAVEL KRÁLIK,"Prijatá platba, Dar Pavel Kralik",
+22,2026-06-25,300.0,EUR,Pap Roland,"Prijatá platba, DAR",VS: 2026001
+23,2026-06-25,15.0,EUR,Zuzana Niczova,"Prijatá platba, ",
+24,2026-06-25,15.0,EUR,Zuzana Jakubcikova,"Prijatá platba, ",

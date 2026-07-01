@@ -1,0 +1,11 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,,2026-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,,2026-06-30,-10.0,EUR,"Vydanie a doručenie Platobnej karty,2114,5,Karta č. 4544 12** **** 0418Poplatok za vydanie a doručenie Platobnej karty",Kartový poplatok,,
+2,JURAJ PREKOP,2026-06-26,200.0,EUR,,Prijatá Okamžitá platba,,
+3,Adriana Koncova,2026-06-21,100.0,EUR,Dubnica pre zivot,Prijatá Okamžitá platba,,
+4,Pekárková Mária,2026-06-15,500.0,EUR,F001150620268291894,Prijatá SEPA platba,,
+5,"MS aval, s.r.o.",2026-06-12,-303.6,EUR,Fa za služby,Okamžitá platba (elektronicky),12600005.0,
+6,,2026-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+7,"SLOV-MATIC, S.R.O.",2026-05-28,0.08,EUR,Financne konto,Prijatá SEPA platba,883355066.0,7777.0
+8,"reklama BARTOŠ, s. r. o.",2026-05-21,-197.39,EUR,Preddavková fa tričká STTU169,Okamžitá platba (elektronicky),23260215.0,
+9,"Tepličková Ivana,Mgr.",2026-05-21,3000.0,EUR,Príspevok na kampaň,Prijatá SEPA platba,,

@@ -1,0 +1,15 @@
+index,date,amount,currency,account_name,message,vs
+0,2026-06-30,-73.8,EUR,,"Odoslaná okamžitá platba, Vyroba propagacneho produktu","VS: 260300212
+KS: 0308"
+1,2026-06-30,-10.0,EUR,,"Odoslaná okamžitá platba, Omyl - vratenie platby",
+2,2026-06-30,-10.0,EUR,,"Odoslaná okamžitá platba, Omyl - vratenie platby",
+3,2026-06-30,-10.0,EUR,,"Odoslaná okamžitá platba, Omyl - vratenie platby",
+4,2026-06-30,-10.0,EUR,,"Odoslaná okamžitá platba, Omyl - vratenie platby",
+5,2026-06-30,10.0,EUR,Denisa Orosova,"Prijatá platba, Darcek Janko",
+6,2026-06-30,10.0,EUR,Alzbeta Hudakova,"Prijatá platba, Darcek Janko",
+7,2026-06-30,10.0,EUR,Abdulwahab Al-Sbenaty,"Prijatá platba, Darcek Janko",
+8,2026-06-30,10.0,EUR,Mihaľ Daniel,"Prijatá platba, Darcek Janko",
+9,2026-06-30,-221.4,EUR,,"Odoslaná okamžitá platba, Reklamna plocha","VS: 25162
+KS: 0308"
+10,2026-06-29,1000.0,EUR,Josef Alsharabi,"Prijatá platba, drzim palce",
+11,2026-06-27,2000.0,EUR,Branislav Gigac,"Prijatá platba, Dar",

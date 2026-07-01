@@ -1,9 +1,12 @@
 index,date,amount,currency,account_name,message,vs
-0,2026-06-01,-0.08,EUR,,Transakčná daň 30.05.2026,
-1,2026-05-30,-19.0,EUR,,Poplatok za balík,
-2,2026-05-02,-0.08,EUR,,Transakčná daň 30.04.2026,
-3,2026-04-30,-19.0,EUR,,Poplatok za balík,
-4,2026-04-01,-0.08,EUR,"
+0,2026-06-30,-19.0,EUR,,Poplatok za balík,
+1,2026-06-01,-0.08,EUR,,Transakčná daň 30.05.2026,
+2,2026-05-30,-19.0,EUR,,Poplatok za balík,
+3,2026-05-02,-0.08,EUR,,Transakčná daň 30.04.2026,
+4,2026-04-30,-19.0,EUR,,Poplatok za balík,"
+                        
+                    "
+5,2026-04-01,-0.08,EUR,"
                             
                     ","
                         Transakčná daň 31.03.2026
@@ -12,7 +15,7 @@ index,date,amount,currency,account_name,message,vs
                     ","
                         
                     "
-5,2026-03-31,-19.0,EUR,"
+6,2026-03-31,-19.0,EUR,"
                             
                     ","
                         Poplatok za balík
@@ -21,7 +24,7 @@ index,date,amount,currency,account_name,message,vs
                     ","
                         
                     "
-6,2026-03-02,-0.08,EUR,"
+7,2026-03-02,-0.08,EUR,"
                             
                     ","
                         Transakčná daň 28.02.2026
@@ -30,7 +33,7 @@ index,date,amount,currency,account_name,message,vs
                     ","
                         
                     "
-7,2026-02-28,-19.0,EUR,"
+8,2026-02-28,-19.0,EUR,"
                             
                     ","
                         Poplatok za balík
@@ -39,7 +42,7 @@ index,date,amount,currency,account_name,message,vs
                     ","
                         
                     "
-8,2026-02-02,-0.08,EUR,"
+9,2026-02-02,-0.08,EUR,"
                             
                     ","
                         Transakčná daň 31.01.2026
@@ -48,7 +51,7 @@ index,date,amount,currency,account_name,message,vs
                     ","
                         
                     "
-9,2026-01-31,-19.0,EUR,"
+10,2026-01-31,-19.0,EUR,"
                             
                     ","
                         Poplatok za balík
@@ -57,7 +60,7 @@ index,date,amount,currency,account_name,message,vs
                     ","
                         
                     "
-10,2026-01-02,-0.08,EUR,"
+11,2026-01-02,-0.08,EUR,"
                             
                     ","
                         Transakčná daň 31.12.2025
@@ -66,7 +69,7 @@ index,date,amount,currency,account_name,message,vs
                     ","
                         
                     "
-11,2025-12-31,-19.0,EUR,"
+12,2025-12-31,-19.0,EUR,"
                             
                     ","
                         Poplatok za balík
@@ -75,7 +78,7 @@ index,date,amount,currency,account_name,message,vs
                     ","
                         
                     "
-12,2025-12-01,-0.08,EUR,"
+13,2025-12-01,-0.08,EUR,"
                             
                     ","
                         Transakčná daň 29.11.2025
@@ -84,32 +87,24 @@ index,date,amount,currency,account_name,message,vs
                     ","
                         
                     "
-13,2025-11-29,-19.0,EUR,"
-                            
-                    ","
-                        Poplatok za balík
-                    /
-                        
-                    ","
-                        
-                    "
-14,2025-11-03,-0.08,EUR,,Transakčná daň 31.10.2025,
-15,2025-10-31,-19.0,EUR,,Poplatok za balík,
-16,2025-10-01,-0.08,EUR,,Transakčná daň 30.09.2025,
-17,2025-09-30,-19.0,EUR,,Poplatok za balík,
-18,2025-09-01,-0.08,EUR,,Transakčná daň 30.08.2025,
-19,2025-08-30,-19.0,EUR,,Poplatok za balík,
-20,2025-08-01,-0.08,EUR,,Transakčná daň 31.07.2025,
-21,2025-07-31,-19.0,EUR,,Poplatok za balík,
-22,2025-07-01,-0.08,EUR,,Transakčná daň 30.06.2025,
-23,2025-06-30,-19.0,EUR,,Poplatok za balík,
-24,2025-06-02,-0.08,EUR,,Transakčná daň 31.05.2025,
-25,2025-05-31,-19.0,EUR,,Poplatok za balík,
-26,2025-05-02,-0.08,EUR,,Transakčná daň 30.04.2025,
-27,2025-04-30,-19.0,EUR,,Poplatok za balík,
-28,2025-04-07,-0.1,EUR,,Transakčná daň 05.04.2025,
-29,2025-04-05,-5.0,EUR,Kuzmanová Anna,Platba/vratenie neopravneneho daru,
-30,2025-04-05,-20.0,EUR,monsowilo,Platba OO25040400209921/Vratenie neopravneneho daru,
-31,2025-03-31,-19.0,EUR,,Poplatok za balík,
-32,2025-02-28,-0.0,EUR,,Poplatok za balík,
-33,2025-01-31,-0.0,EUR,,Poplatok za balík,
+14,2025-11-29,-19.0,EUR,,Poplatok za balík,
+15,2025-11-03,-0.08,EUR,,Transakčná daň 31.10.2025,
+16,2025-10-31,-19.0,EUR,,Poplatok za balík,
+17,2025-10-01,-0.08,EUR,,Transakčná daň 30.09.2025,
+18,2025-09-30,-19.0,EUR,,Poplatok za balík,
+19,2025-09-01,-0.08,EUR,,Transakčná daň 30.08.2025,
+20,2025-08-30,-19.0,EUR,,Poplatok za balík,
+21,2025-08-01,-0.08,EUR,,Transakčná daň 31.07.2025,
+22,2025-07-31,-19.0,EUR,,Poplatok za balík,
+23,2025-07-01,-0.08,EUR,,Transakčná daň 30.06.2025,
+24,2025-06-30,-19.0,EUR,,Poplatok za balík,
+25,2025-06-02,-0.08,EUR,,Transakčná daň 31.05.2025,
+26,2025-05-31,-19.0,EUR,,Poplatok za balík,
+27,2025-05-02,-0.08,EUR,,Transakčná daň 30.04.2025,
+28,2025-04-30,-19.0,EUR,,Poplatok za balík,
+29,2025-04-07,-0.1,EUR,,Transakčná daň 05.04.2025,
+30,2025-04-05,-5.0,EUR,Kuzmanová Anna,Platba/vratenie neopravneneho daru,
+31,2025-04-05,-20.0,EUR,monsowilo,Platba OO25040400209921/Vratenie neopravneneho daru,
+32,2025-03-31,-19.0,EUR,,Poplatok za balík,
+33,2025-02-28,-0.0,EUR,,Poplatok za balík,
+34,2025-01-31,-0.0,EUR,,Poplatok za balík,

@@ -1,4 +1,7 @@
 index,date,amount,account_name,message,vs
-0,2026-06-29,-20.0,Silvia Cibulova-foto,portretove fotografie,26031
-1,2026-06-09,-185.73,"BigMedia,spol.s r.o.",,122690052
-2,2026-06-03,1000.0,Branislav JAĎUĎ MBA.,,
+0,2026-06-30,5.5,,Storno-popl.za platby a ved.úč/kon,9
+1,2026-06-30,-0.5,,Poplatky za platby spolu,9
+2,2026-06-30,-5.0,,Vedenie účtu,9
+3,2026-06-29,-20.0,Silvia Cibulova-foto,portretove fotografie,26031
+4,2026-06-09,-185.73,"BigMedia,spol.s r.o.",,122690052
+5,2026-06-03,1000.0,Branislav JAĎUĎ MBA.,,

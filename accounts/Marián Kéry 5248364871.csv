@@ -1,4 +1,5 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Kobes Stefan,2026-06-12,3000,EUR,STEFAN KOBES,Prijatá SEPA platba,,
-1,,2026-05-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
-2,Kéry Marian,2026-05-29,5000,EUR,Marián Kéry,Prijatá SEPA platba,,
+0,,2026-06-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+1,Kobes Stefan,2026-06-12,3000,EUR,STEFAN KOBES,Prijatá SEPA platba,,
+2,,2026-05-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+3,Kéry Marian,2026-05-29,5000,EUR,Marián Kéry,Prijatá SEPA platba,,

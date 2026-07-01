@@ -1,0 +1,12 @@
+index,date,amount,tx_type,account_name,message,ks,vs,ss,note
+0,2026-06-26,-289.05,Okamžitá odchádzajúca Europlatba,,Fa.Objednavka.260259 Podbehly,,260259,,platba fa. Arton s.r.o.
+1,2026-06-26,-691.26,Okamžitá odchádzajúca Europlatba,,Fa.Objednavka.112661 Podbehly,,112661,,platba fa. bigmedia
+2,2026-06-25,2000.0,Okamžitá prichádzajúca Europlatba,Peter Podbehly,dar,,2026,,Peter Podbehly
+3,2026-06-25,-420.66,Okamžitá odchádzajúca Europlatba,,fa.202600537.Peter Podbehly,,202600537,,faktura vonkajsia reklama
+4,2026-05-19,1000.0,Okamžitá prichádzajúca Europlatba,Peter Podbehly,dar,,2026,,Peter Podbehly
+5,2026-05-19,100.0,Okamžitá prichádzajúca Europlatba,Petra Podbehla,dar,,2026,,Petra Podbehla
+6,2026-05-18,20.0,Okamžitá prichádzajúca Europlatba,KRALIK TIBOR,?/DO2026-05-18/SPdar,,2026,,KRALIK TIBOR
+7,2026-05-18,20.0,Okamžitá prichádzajúca Europlatba,Miroslav Evanic,,,2026,,Miroslav Evanic
+8,2026-04-24,-10.0,Okamžitá odchádzajúca Europlatba,,"skuska ?vratenie platby, chybajuciV
+S",,,,vratenie platby chybajuci VS skuska
+9,2026-04-24,10.0,Okamžitá prichádzajúca Europlatba,Peter Podbehly,,,,,Peter Podbehly skuska

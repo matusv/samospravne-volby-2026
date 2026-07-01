@@ -1,0 +1,17 @@
+index,date,amount,tx_type,account_name,message,ks,vs,ss,note
+0,2026-06-12,-10.4,Transakcia kartou,,"Nákup: SEVT NC63 BAAVIO, BRATISLAVA, SK, dne 11.6.2026, částka  10.40 EUR",,5147,,"Nákup: SEVT NC63 BAAVIO, BRATISLAVA, SK, dne 11.6.2026, částka  10.40 EUR"
+1,2026-06-06,-35.13,Transakcia kartou,,"Nákup: FAXCOPY91,BA,AVION, BRATISLAVA, SK, dne 5.6.2026, částka  35.13 EUR",,5147,,"Nákup: FAXCOPY91,BA,AVION, BRATISLAVA, SK, dne 5.6.2026, částka  35.13 EUR"
+2,2026-06-02,-80.06,Transakcia kartou,,"Nákup: justprint.sk, Bratislava, SK, dne 1.6.2026, částka  80.06 EUR",,5147,,"Nákup: justprint.sk, Bratislava, SK, dne 1.6.2026, částka  80.06 EUR"
+3,2026-06-02,-1033.2,Okamžitá odchádzajúca Europlatba,,"Lubomir Geci billboardova kampan 06
+/2026",,262931,,euroAWK Lubomir Geci billboardova kampan 06/2026
+4,2026-05-26,-6.0,Poplatok,,,,,,
+5,2026-05-17,20.0,Okamžitá prichádzajúca Europlatba,FRANTIŠEK KUMINIAK,DAR - PRISPEVOK NA KAMPAN,,,,FRANTIŠEK KUMINIAK
+6,2026-05-11,2500.0,Okamžitá prichádzajúca Europlatba,Lubomir Geci,,,,,Lubomir Geci
+7,2026-04-29,-0.01,Okamžitá odchádzajúca Europlatba,,"Vratenie daru - neuplna identifikac
+ ia darcu, chyba adresa trvaleho po
+bytu.",,,,
+8,2026-04-08,0.01,Okamžitá prichádzajúca Europlatba,Dugovič Andrea,Vallo primatorom navzdy,,,,Dugovič Andrea
+9,2026-04-07,-20.0,Okamžitá odchádzajúca Europlatba,,"Vratenie daru - neuplna identifikac
+ia darcu, chyba adresa trvaleho pob
+ytu.",,,,
+10,2026-04-05,20.0,Okamžitá prichádzajúca Europlatba,Martin Korec,Yoggy na hrad,,,,Martin Korec

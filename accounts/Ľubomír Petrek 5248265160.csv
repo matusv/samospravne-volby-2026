@@ -1,0 +1,7 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,,2026-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,,2026-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+2,"Adverti, s.r.o.",2026-05-25,-381.36,EUR,"Adverti, s.r.o.: 261241 - Lubomir Petrek - 2026/05",Okamžitá platba (elektronicky),261241.0,
+3,Expresta,2026-05-18,-412.56,EUR,Lubomir Petrek,Okamžitá platba (elektronicky),,
+4,Ľubomír Petrek,2026-05-18,900.0,EUR,F001180520265735484,Prijatá SEPA platba,,
+5,Ľubomír Petrek,2026-05-13,100.0,EUR,F001130520267717898,Prijatá SEPA platba,,

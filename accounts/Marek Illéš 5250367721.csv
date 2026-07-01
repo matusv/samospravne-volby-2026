@@ -1,0 +1,3 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,Illéš Marek,2026-07-01,10000.0,EUR,Vlastne prostriedky Marek Illéš,Prijatá SEPA platba,,
+1,Illéš Marek,2026-07-01,70.23,EUR,Poplatok za vedenie uctu Marek Illéš,Prijatá SEPA platba,,

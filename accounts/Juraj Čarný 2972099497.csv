@@ -1,0 +1,88 @@
+index,date,amount,currency,account_name,message,vs
+0,2026-06-30,-5.0,EUR,,Poplatok za účet,
+1,2026-05-30,-5.0,EUR,,Poplatok za účet,
+2,2026-05-04,50.0,EUR,Kováčová Anna,Platba/Dar Držim palce,"9
+VS9/SS/KS0308"
+3,2026-05-04,30.0,EUR,Chovanec Jan,Platba/Dar,
+4,2026-05-02,50.0,EUR,Hájik Marek,Platba/Dar,
+5,2026-04-30,-0.0,EUR,"
+                            
+                    ","
+                        Poplatok za účet
+                    /
+                        
+                    ","
+                        
+                    "
+6,2026-04-28,-169.74,EUR,"
+                            Adrian Melaj - BIZNIS PLUS
+                    ","
+                        Platba
+                    /
+                        Adrian Melaj - BIZNIS PLUS: 2026/039 - Juraj Carny - 2026/04
+                    ","
+                        2026039VS2026039/SS/KS
+                    "
+7,2026-04-24,10.0,EUR,"
+                            Tomas Ladunga
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        
+                    "
+8,2026-04-24,100.0,EUR,"
+                            Vilibald Žižak
+                    ","
+                        PLATBA
+                    /
+                        
+                    ","
+                        20260423VS20260423/SS/KS0308
+                    "
+9,2026-04-23,20.0,EUR,"
+                            Jakub Vorobel
+                    ","
+                        Platba
+                    /
+                        Dar
+                    ","
+                        
+                    "
+10,2026-04-23,20.0,EUR,"
+                            Martin Holaza
+                    ","
+                        Platba PO26042336486915
+                    /
+                        Drím palce z DE.
+                    ","
+                        
+                    "
+11,2026-04-22,100.0,EUR,"
+                            Tibor Kompus
+                    ","
+                        Platba
+                    /
+                        Dar
+                    ","
+                        
+                    "
+12,2026-04-22,20.0,EUR,"
+                            Michal Svancara
+                    ","
+                        Platba
+                    /
+                        Dar
+                    ","
+                        
+                    "
+13,2026-04-22,5.0,EUR,"
+                            RÓBERT SVÁROVSKÝ
+                    ","
+                        Platba
+                    /
+                        DAR
+                    ","
+                        
+                    "
