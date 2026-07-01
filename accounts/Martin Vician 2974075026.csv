@@ -3,103 +3,20 @@ index,date,amount,currency,account_name,message,vs
 1,2026-06-29,500.0,EUR,Petra Kriskova,Platba/Dar na kampan,
 2,2026-06-23,-700.0,EUR,Mgr. Matej Mísal,Platba/graficke prace,"202612
 VS202612/SS/KS"
-3,2026-06-23,-43.16,EUR,BUFFER PLAN,"
-                        INT NÁKUP POS EUR BUFFER PLAN / BUFFER.COM / (POS 2TMTLWQ7)
-                    /
-                        
-                    ","
-                        
-                    "
-4,2026-06-19,70.0,EUR,"
-                            Schultz Boris, Ing. arch.
-                    ","
-                        TPP
-                    /
-                        Dar
-                    ","
-                        
-                    "
-5,2026-06-16,-959.4,EUR,"
-                            UNIMEDIA, s.r.o.
-                    ","
-                        Platba
-                    /
-                        reklamna kampan, reklamne plochy
-                    ","
-                        420260530VS420260530/SS/KS
-                    "
-6,2026-06-15,-200.0,EUR,"
-                            MAGIC OFFICE s. r. o.
-                    ","
-                        Platba
-                    /
-                        kuzelnik, MDD, 30.5.2026
-                    ","
-                        20260010VS20260010/SS/KS308
-                    "
-7,2026-06-11,100.0,EUR,"
-                            Lenka Hajekova
-                    ","
-                        Platba
-                    /
-                        Dar_Lenka Hajekova
-                    ","
-                        
-                    "
-8,2026-06-09,-29.99,EUR,"
-                            CapCut
-                    ","
-                        INT NÁKUP POS EUR CapCut / SINGAPORE / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-9,2026-06-08,-13.86,EUR,"
-                            Intuit Mailchimp
-                    ","
-                        EUR NÁKUP POS Intuit Mailchimp / Dublin 2 / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-10,2026-06-06,10000.0,EUR,"
-                            Horváth Tomáš, Ing.
-                    ","
-                        Platba
-                    /
-                        jednorazový dar na kampaň
-                    ","
-                        
-                    "
-11,2026-06-04,-777.36,EUR,"
-                            Helou Crocco! s.r.o.
-                    ","
-                        Platba
-                    /
-                        priprava eventu MDD, jedlo a napoje
-                    ","
-                        26053109VS26053109/SS/KS
-                    "
-12,2026-06-02,100.0,EUR,"
-                            Zuzana Jajcayova
-                    ","
-                        Platba
-                    /
-                        dobrovolny dar na kampan
-                    ","
-                        
-                    "
-13,2026-06-02,100.0,EUR,"
-                            Richard Jajcay
-                    ","
-                        Platba
-                    /
-                        SEPA Okamzita platba
-                    ","
-                        
-                    "
+3,2026-06-23,-43.16,EUR,BUFFER PLAN,INT NÁKUP POS EUR BUFFER PLAN / BUFFER.COM / (POS 2TMTLWQ7),
+4,2026-06-19,70.0,EUR,"Schultz Boris, Ing. arch.",TPP/Dar,
+5,2026-06-16,-959.4,EUR,"UNIMEDIA, s.r.o.","Platba/reklamna kampan, reklamne plochy","420260530
+VS420260530/SS/KS"
+6,2026-06-15,-200.0,EUR,MAGIC OFFICE s. r. o.,"Platba/kuzelnik, MDD, 30.5.2026","20260010
+VS20260010/SS/KS308"
+7,2026-06-11,100.0,EUR,Lenka Hajekova,Platba/Dar_Lenka Hajekova,
+8,2026-06-09,-29.99,EUR,CapCut,INT NÁKUP POS EUR CapCut / SINGAPORE / (POS 99999999),
+9,2026-06-08,-13.86,EUR,Intuit Mailchimp,EUR NÁKUP POS Intuit Mailchimp / Dublin 2 / (POS 99999999),
+10,2026-06-06,10000.0,EUR,"Horváth Tomáš, Ing.",Platba/jednorazový dar na kampaň,
+11,2026-06-04,-777.36,EUR,Helou Crocco! s.r.o.,"Platba/priprava eventu MDD, jedlo a napoje","26053109
+VS26053109/SS/KS"
+12,2026-06-02,100.0,EUR,Zuzana Jajcayova,Platba/dobrovolny dar na kampan,
+13,2026-06-02,100.0,EUR,Richard Jajcay,Platba/SEPA Okamzita platba,
 14,2026-06-01,-209.1,EUR,Bittner print s.r.o.,"Platba/tlac, brozury","1020262465
 VS1020262465/SS/KS308"
 15,2026-05-30,-0.0,EUR,,Poplatok za účet,

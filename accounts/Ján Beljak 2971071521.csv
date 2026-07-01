@@ -5,87 +5,15 @@ index,date,amount,currency,account_name,message,vs
 3,2026-06-17,-3073.77,EUR,Restartup s.r.o.,Platba,"2026045
 VS2026045/SS/KS"
 4,2026-06-12,100.0,EUR,Vargovská Lenka,Platba/Príspevok na kampaň od Lenka Vargovská,
-5,2026-06-10,230.0,EUR,"
-                            Dasa Melicherikova
-                    ","
-                        Platba
-                    /
-                        Melicherikova Dasa volby 2026
-                    ","
-                        
-                    "
-6,2026-06-02,230.0,EUR,"
-                            Tomas Duris
-                    ","
-                        Platba
-                    /
-                        Prispevok na kampan
-                    ","
-                        
-                    "
-7,2026-06-01,230.0,EUR,"
-                            Marek Bobak
-                    ","
-                        Platba
-                    /
-                        Prispevok na kampan
-                    ","
-                        
-                    "
-8,2026-06-01,230.0,EUR,"
-                            Tomas Krsnak
-                    ","
-                        Platba
-                    /
-                        Prispevok na kampan
-                    ","
-                        
-                    "
-9,2026-06-01,430.0,EUR,"
-                            Robert Orsag
-                    ","
-                        Platba
-                    /
-                        SEPA Okamzita platba
-                    ","
-                        
-                    "
-10,2026-06-01,230.0,EUR,"
-                            Michal Jurasko
-                    ","
-                        Platba
-                    /
-                        Prispevok na kampan M.Jurasko
-                    ","
-                        
-                    "
-11,2026-05-30,-5.0,EUR,"
-                            
-                    ","
-                        Poplatok za účet
-                    /
-                        
-                    ","
-                        
-                    "
-12,2026-05-26,2000.0,EUR,"
-                            Lenka Balkovicova
-                    ","
-                        Platba
-                    /
-                        Dar
-                    ","
-                        
-                    "
-13,2026-05-26,130.0,EUR,"
-                            Vargovská Lenka
-                    ","
-                        Platba
-                    /
-                        Príspevok na kampaň od Lenka Vargovská
-                    ","
-                        
-                    "
+5,2026-06-10,230.0,EUR,Dasa Melicherikova,Platba/Melicherikova Dasa volby 2026,
+6,2026-06-02,230.0,EUR,Tomas Duris,Platba/Prispevok na kampan,
+7,2026-06-01,230.0,EUR,Marek Bobak,Platba/Prispevok na kampan,
+8,2026-06-01,230.0,EUR,Tomas Krsnak,Platba/Prispevok na kampan,
+9,2026-06-01,430.0,EUR,Robert Orsag,Platba/SEPA Okamzita platba,
+10,2026-06-01,230.0,EUR,Michal Jurasko,Platba/Prispevok na kampan M.Jurasko,
+11,2026-05-30,-5.0,EUR,,Poplatok za účet,
+12,2026-05-26,2000.0,EUR,Lenka Balkovicova,Platba/Dar,
+13,2026-05-26,130.0,EUR,Vargovská Lenka,Platba/Príspevok na kampaň od Lenka Vargovská,
 14,2026-05-25,-3415.0,EUR,"COLORgrafik, spol. s r.o.",Platba/Úhrada faktúry: 20260055,"20260055
 VS20260055/SS/KS"
 15,2026-05-25,-99.9,EUR,Lasko s. r. o.,Platba,"20260005

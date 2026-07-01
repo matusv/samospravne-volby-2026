@@ -4,11 +4,7 @@ index,date,amount,currency,account_name,message,vs
 2,2026-06-30,-4.65,EUR,,Transakčná daň 29.06.2026,
 3,2026-06-30,250.0,EUR,Ing.Samuel Zubo,PLATBA PP26063012665412/Samo,"9
 VS9/SS/KS"
-4,2026-06-29,-120.0,EUR,"
-                            Cirkevny zbor ECAV na Slovensku Bra
-                    ","
-                        Platba
-                    /
+4,2026-06-29,-120.0,EUR,Cirkevny zbor ECAV na Slovensku Bra,"Platba/
                         Cirkevny zbor ECAV - prenajom priestorov kampan Ba SM Vagac 06/2026
                     ","
                         2620033VS2620033/SS07/KS308

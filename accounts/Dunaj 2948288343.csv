@@ -4,7 +4,13 @@ index,date,amount,currency,account_name,message,vs
 2,2026-06-30,-1.06,EUR,,Transakčná daň 29.06.2026,
 3,2026-06-29,-265.68,EUR,Mgr. Jaroslav Kováč - KOVÁČ SERVIS,Platba/Baloniky,"262401280
 VS262401280/SS/KS8"
-4,2026-06-26,-2.42,EUR,,Transakčná daň 25.06.2026,
+4,2026-06-26,-2.42,EUR,,"
+                        Transakčná daň 25.06.2026
+                    /
+                        
+                    ","
+                        
+                    "
 5,2026-06-25,-0.12,EUR,"
                             
                     ","

@@ -5,15 +5,7 @@ index,date,amount,currency,account_name,message,vs
 VS9/SS/KS0308"
 3,2026-05-04,30.0,EUR,Chovanec Jan,Platba/Dar,
 4,2026-05-02,50.0,EUR,Hájik Marek,Platba/Dar,
-5,2026-04-30,-0.0,EUR,"
-                            
-                    ","
-                        Poplatok za účet
-                    /
-                        
-                    ","
-                        
-                    "
+5,2026-04-30,-0.0,EUR,,Poplatok za účet,
 6,2026-04-28,-169.74,EUR,"
                             Adrian Melaj - BIZNIS PLUS
                     ","
