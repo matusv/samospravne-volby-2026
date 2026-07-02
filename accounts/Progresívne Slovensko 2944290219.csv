@@ -4,92 +4,23 @@ index,date,amount,currency,account_name,message,vs
 2,2026-06-30,-4.65,EUR,,Transakčná daň 29.06.2026,
 3,2026-06-30,250.0,EUR,Ing.Samuel Zubo,PLATBA PP26063012665412/Samo,"9
 VS9/SS/KS"
-4,2026-06-29,-120.0,EUR,Cirkevny zbor ECAV na Slovensku Bra,"Platba/
-                        Cirkevny zbor ECAV - prenajom priestorov kampan Ba SM Vagac 06/2026
-                    ","
-                        2620033VS2620033/SS07/KS308
-                    "
-5,2026-06-29,-280.0,EUR,"
-                            swallows project s.r.o.
-                    ","
-                        Platba
-                    /
-                        swallows project - podpora kampane malovanie - Ke Mudrak 18.6. a 20.6.2026
-                    ","
-                        10120401VS10120401/SS02/KS
-                    "
-6,2026-06-29,-135.0,EUR,"
-                            swallows project s.r.o.
-                    ","
-                        Platba
-                    /
-                        swallows project - podpora kampane malovanie - Ke Mudrak 14.6.2026
-                    ","
-                        10120400VS10120400/SS02/KS
-                    "
-7,2026-06-29,-627.55,EUR,"
-                            DEAK production s.r.o.
-                    ","
-                        Platba
-                    /
-                        Deak production - fotograficke prace 06/2026- rodinny fest poprad
-                    ","
-                        2026016VS2026016/SS/KS
-                    "
-8,2026-06-29,100.0,EUR,"
-                            Eduard Exler
-                    ","
-                        PLATBA PP26062912515110
-                    /
-                        Iron man
-                    ","
-                        2
-                    "
-9,2026-06-29,111.0,EUR,"
-                            Sládeček Anton, Ing.
-                    ","
-                        Platba
-                    /
-                        od: Anton SLADECEK, Zahradna 16, 90201 PK
-                    ","
-                        3VS3/SS/KS
-                    "
-10,2026-06-27,20.0,EUR,"
-                            JANA HANULIAKOVA
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        9VS9/SS/KS
-                    "
-11,2026-06-26,-16.07,EUR,"
-                            
-                    ","
-                        Transakčná daň 25.06.2026
-                    /
-                        
-                    ","
-                        
-                    "
-12,2026-06-26,15000.0,EUR,"
-                            Progresívne Slovensko
-                    ","
-                        Platba
-                    /
-                        prevod medzi uctami
-                    ","
-                        
-                    "
-13,2026-06-26,50.0,EUR,"
-                            Martin Vavrincik
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        2VS2/SS/KS
-                    "
+4,2026-06-29,-120.0,EUR,Cirkevny zbor ECAV na Slovensku Bra,Platba/Cirkevny zbor ECAV - prenajom priestorov kampan Ba SM Vagac 06/2026,"2620033
+VS2620033/SS07/KS308"
+5,2026-06-29,-280.0,EUR,swallows project s.r.o.,Platba/swallows project - podpora kampane malovanie - Ke Mudrak 18.6. a 20.6.2026,"10120401
+VS10120401/SS02/KS"
+6,2026-06-29,-135.0,EUR,swallows project s.r.o.,Platba/swallows project - podpora kampane malovanie - Ke Mudrak 14.6.2026,"10120400
+VS10120400/SS02/KS"
+7,2026-06-29,-627.55,EUR,DEAK production s.r.o.,Platba/Deak production - fotograficke prace 06/2026- rodinny fest poprad,"2026016
+VS2026016/SS/KS"
+8,2026-06-29,100.0,EUR,Eduard Exler,PLATBA PP26062912515110/Iron man,2
+9,2026-06-29,111.0,EUR,"Sládeček Anton, Ing.","Platba/od: Anton SLADECEK, Zahradna 16, 90201 PK","3
+VS3/SS/KS"
+10,2026-06-27,20.0,EUR,JANA HANULIAKOVA,Platba,"9
+VS9/SS/KS"
+11,2026-06-26,-16.07,EUR,,Transakčná daň 25.06.2026,
+12,2026-06-26,15000.0,EUR,Progresívne Slovensko,Platba/prevod medzi uctami,
+13,2026-06-26,50.0,EUR,Martin Vavrincik,Platba,"2
+VS2/SS/KS"
 14,2026-06-25,-403.6,EUR,KAMET s r. o.,"Platba/Kamet - prenajom a texhnicke zabezpecenie, kampan PK Hanulik 06/2026","260604
 VS260604/SS03/KS"
 15,2026-06-25,-615.0,EUR,Polana TRANS s.r.o.,Platba/Poprad - rodinny festival Poprad 06/2026,"20260119
