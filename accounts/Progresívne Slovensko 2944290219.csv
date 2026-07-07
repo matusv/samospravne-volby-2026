@@ -8,24 +8,87 @@ VS8/SS/KS"
 VS261906/SS18/KS308"
 4,2026-07-03,200.0,EUR,Andrej Durica,Platba/Support - Tim za lepsie Stare mesto,"8
 VS8/SS/KS"
-5,2026-07-03,-2000.0,EUR,Lenka Bikárová,Platba/Bikarova produkcia eventov kampan ke Mudrak 06/26,"20260009
-VS20260009/SS02/KS308"
-6,2026-07-03,-1000.0,EUR,Lucia Marchynová,Platba/Lucia Marchynova - sprava socialnych sieti kampan SNV 05/2026,"26002
-VS26002/SS/KS"
-7,2026-07-03,-391.14,EUR,Grafon,Platba/Grafon - tlacoviny. kampan LM Sufliarska 06/2026,"6261445
-VS6261445/SS04/KS308"
-8,2026-07-03,-300.0,EUR,ProClient Consulting s. r. o.,Platba/Proclient consulting - marketingove sluzby kampan PK Hanulik 22.-30.6.2026,"20260009
-VS20260009/SS03/KS"
-9,2026-07-03,-400.0,EUR,Mariia Tarnarutska,Platba/Tarnarutska - fotograficke a marketingove sluzby Sufliarska 06/26,"20260027
-VS20260027/SS04/KS308"
-10,2026-07-03,-139.37,EUR,Marmima s. r. o.,Platba/Marmima - potlac triciek kampn LM Sufliarska 29.6.2026,"15126018
-VS15126018/SS04/KS8"
-11,2026-07-03,-927.0,EUR,Majo Sucháč,Platba/Suchac - videosluzby RS Vaľo 06/26,"262531
-VS262531/SS09/KS"
-12,2026-07-03,-1300.0,EUR,Tomas Krjak,Platba/Krjak - manazment kampane Revuca Benesova 06/2026,"20260005
-VS20260005/SS05/KS308"
-13,2026-07-02,20.0,EUR,PETER JARKOVSKY,Platba/BB UZ POTREBUJE ZMENU,"1
-VS1/SS/KS"
+5,2026-07-03,-2000.0,EUR,"
+                            Lenka Bikárová
+                    ","
+                        Platba
+                    /
+                        Bikarova produkcia eventov kampan ke Mudrak 06/26
+                    ","
+                        20260009VS20260009/SS02/KS308
+                    "
+6,2026-07-03,-1000.0,EUR,"
+                            Lucia Marchynová
+                    ","
+                        Platba
+                    /
+                        Lucia Marchynova - sprava socialnych sieti kampan SNV 05/2026
+                    ","
+                        26002VS26002/SS/KS
+                    "
+7,2026-07-03,-391.14,EUR,"
+                            Grafon
+                    ","
+                        Platba
+                    /
+                        Grafon - tlacoviny. kampan LM Sufliarska 06/2026
+                    ","
+                        6261445VS6261445/SS04/KS308
+                    "
+8,2026-07-03,-300.0,EUR,"
+                            ProClient Consulting s. r. o.
+                    ","
+                        Platba
+                    /
+                        Proclient consulting - marketingove sluzby kampan PK Hanulik 22.-30.6.2026
+                    ","
+                        20260009VS20260009/SS03/KS
+                    "
+9,2026-07-03,-400.0,EUR,"
+                            Mariia Tarnarutska
+                    ","
+                        Platba
+                    /
+                        Tarnarutska - fotograficke a marketingove sluzby Sufliarska 06/26
+                    ","
+                        20260027VS20260027/SS04/KS308
+                    "
+10,2026-07-03,-139.37,EUR,"
+                            Marmima s. r. o.
+                    ","
+                        Platba
+                    /
+                        Marmima - potlac triciek kampn LM Sufliarska 29.6.2026
+                    ","
+                        15126018VS15126018/SS04/KS8
+                    "
+11,2026-07-03,-927.0,EUR,"
+                            Majo Sucháč
+                    ","
+                        Platba
+                    /
+                        Suchac - videosluzby RS Vaľo 06/26
+                    ","
+                        262531VS262531/SS09/KS
+                    "
+12,2026-07-03,-1300.0,EUR,"
+                            Tomas Krjak
+                    ","
+                        Platba
+                    /
+                        Krjak - manazment kampane Revuca Benesova 06/2026
+                    ","
+                        20260005VS20260005/SS05/KS308
+                    "
+13,2026-07-02,20.0,EUR,"
+                            PETER JARKOVSKY
+                    ","
+                        Platba
+                    /
+                        BB UZ POTREBUJE ZMENU
+                    ","
+                        1VS1/SS/KS
+                    "
 14,2026-07-02,-41.72,EUR,,Transakčná daň 01.07.2026,
 15,2026-07-01,-0.14,EUR,,Transakčná daň 30.06.2026,
 16,2026-07-01,-320.0,EUR,"VRSTVY, s.r.o.",Platba/Vrstvy - fotenie kampaň Lucka Rafaj Becová - Košice Vyšné Opátske 06/2026,"20260011

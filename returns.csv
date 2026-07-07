@@ -2,16 +2,16 @@ index,index,date,amount,account_name,message,vs,name
 0,289,2026-04-30,-25.0,Stanislav Dubovsky,Platba/vratenie daru stanislav dubovsky,,Progresívne Slovensko
 1,337,2026-04-15,25.0,Stanislav Dubovsky,PLATBA/Dar,"35
 VS35/SS/KS",Progresívne Slovensko
-2,78,2026-04-17,-0.01,Ivan Rostas,Mylná platba,,Kresťanskodemokratické hnutie
-3,79,2026-04-15,0.01,Ivan Rostas,SK73 0200 0000 0045 5336 2157 . dakujem,,Kresťanskodemokratické hnutie
-4,596,2026-04-20,-2000.0,"Cicman Dalibor, Ing.",Vrateny dar,,Team Bratislava
-5,597,2026-04-15,2000.0,"Cicman Dalibor, Ing.",dar,20263164.0,Team Bratislava
-6,573,2026-05-06,-1670.0,Lukas Krajcik - Digital stories,Tvorba webu,2026023.0,Team Bratislava
-7,551,2026-05-14,1670.0,Lukáš Krajčík - Digital stories,Vratenie platby,,Team Bratislava
-8,416,2026-06-04,-500.0,"Šujan Juraj, Ing. arch.",Vrátený dar,,Team Bratislava
-9,459,2026-06-03,500.0,"Šujan Juraj, Ing. arch.",dar,20263359.0,Team Bratislava
-10,268,2026-06-23,-50000.0,Folkmer Petra,Vrátená chybná platba,,Team Bratislava
-11,300,2026-06-23,50000.0,Folkmer Petra,Dar na zaklade zmluvy- Petra Folkmer,,Team Bratislava
+2,80,2026-04-17,-0.01,Ivan Rostas,Mylná platba,,Kresťanskodemokratické hnutie
+3,81,2026-04-15,0.01,Ivan Rostas,SK73 0200 0000 0045 5336 2157 . dakujem,,Kresťanskodemokratické hnutie
+4,606,2026-04-20,-2000.0,"Cicman Dalibor, Ing.",Vrateny dar,,Team Bratislava
+5,607,2026-04-15,2000.0,"Cicman Dalibor, Ing.",dar,20263164.0,Team Bratislava
+6,583,2026-05-06,-1670.0,Lukas Krajcik - Digital stories,Tvorba webu,2026023.0,Team Bratislava
+7,561,2026-05-14,1670.0,Lukáš Krajčík - Digital stories,Vratenie platby,,Team Bratislava
+8,426,2026-06-04,-500.0,"Šujan Juraj, Ing. arch.",Vrátený dar,,Team Bratislava
+9,469,2026-06-03,500.0,"Šujan Juraj, Ing. arch.",dar,20263359.0,Team Bratislava
+10,278,2026-06-23,-50000.0,Folkmer Petra,Vrátená chybná platba,,Team Bratislava
+11,310,2026-06-23,50000.0,Folkmer Petra,Dar na zaklade zmluvy- Petra Folkmer,,Team Bratislava
 12,33,2026-06-01,-3200.0,VENA Agentur s. r. o.,Platba/Prenajom a osadenie ploch,"20260001
 VS20260001/SS/KS",Dunaj
 13,31,2026-06-04,3200.0,VENA Agentur s. r. o.,PLATBA,"20260001
@@ -36,8 +36,8 @@ VS20260001/SS/KS",Dunaj
 31,68,2026-04-17,225.0,Ondrejka Matúš,OO26041700046627,,Ladislav Lörinc
 32,15,2026-04-22,-2990.0,Andrej Škoda,Vratenie hotovostneho vkladu,,Igor Kršiak
 33,14,2026-04-22,2990.0,Andrej Skoda,Odoslane z Revolutu,,Igor Kršiak
-34,15,2026-05-29,-180.0,Milan Korim,Vratenie financnych prostriedkov,,Branislav Baran
-35,16,2026-05-27,180.0,Milan Korim,,,Branislav Baran
+34,16,2026-05-29,-180.0,Milan Korim,Vratenie financnych prostriedkov,,Branislav Baran
+35,17,2026-05-27,180.0,Milan Korim,,,Branislav Baran
 36,41,2026-04-28,-0.1,Reich Lukas,0260428152236.816371,,Daniel Klimovský
 37,46,2026-04-17,0.1,Reich Lukas,Vitaj v BA vychodniar,,Daniel Klimovský
 38,7,2026-03-24,-0.01,Echko Mário,"Vrátenie platby - Echko Mário, 23.03.2026",,Lucia Búšová
