@@ -1,0 +1,4 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,,2026-06-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+1,,2026-06-30,-10,EUR,"Vydanie a doručenie Platobnej karty,2114,5,Karta č. 4544 12** **** 5160Poplatok za vydanie a doručenie Platobnej karty",Kartový poplatok,,
+2,Bednárová Ľubica,2026-06-11,400,EUR,F001110620261984405,Prijatá SEPA platba,,

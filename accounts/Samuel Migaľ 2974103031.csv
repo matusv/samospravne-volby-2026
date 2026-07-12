@@ -1,18 +1,27 @@
 index,date,amount,currency,account_name,message,vs
-0,2026-07-01,-4000.0,EUR,IPET,Platba/jun,"202600017
+0,2026-07-07,4750.0,EUR,"Ilavský Ľubomír, Ing.",Platba,
+1,2026-07-01,-4000.0,EUR,IPET,Platba/jun,"202600017
 VS202600017/SS/KS"
-1,2026-06-30,-0.0,EUR,,Poplatok za účet,
-2,2026-06-25,5000.3,EUR,Šulek Peter,Platba,
-3,2026-06-12,2000.0,EUR,"Migaľ Samuel, Mgr.",Platba,
-4,2026-06-09,10000.0,EUR,"Migaľ Samuel, Mgr.",Platba/Príspevok na kampaň,
-5,2026-05-30,-0.0,EUR,,"
+2,2026-06-30,-0.0,EUR,,Poplatok za účet,
+3,2026-06-25,5000.3,EUR,Šulek Peter,Platba,
+4,2026-06-12,2000.0,EUR,"Migaľ Samuel, Mgr.",Platba,
+5,2026-06-09,10000.0,EUR,"Migaľ Samuel, Mgr.","
+                        Platba
+                    /
+                        Príspevok na kampaň
+                    ","
+                        
+                    "
+6,2026-05-30,-0.0,EUR,"
+                            
+                    ","
                         Poplatok za účet
                     /
                         
                     ","
                         
                     "
-6,2026-05-11,5000.0,EUR,"
+7,2026-05-11,5000.0,EUR,"
                             Migaľ Samuel, Mgr.
                     ","
                         Platba

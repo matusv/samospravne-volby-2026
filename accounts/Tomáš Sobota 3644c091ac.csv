@@ -1,0 +1,42 @@
+index,date,amount,currency,account_name,message,vs
+0,2026-07-02,20.0,EUR,Lucia Kováčová,"Prijatá platba, ",
+1,2026-07-02,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.06.2026","VS: 497000182
+ŠS: 5032602247
+KS: 6898"
+2,2026-07-02,-12.0,EUR,,"Transakcia platobnou kartou, Suma: 12 EUR 30.06.2026 Miesto: POTRAVINY FRESH BANSKA BYSTRI","VS: 405000182
+ŠS: 5032602247
+KS: 0608"
+3,2026-07-01,150.0,EUR,Vestiga s. r. o.,"Prijatá platba, prispevok na kampan Sobota 2026",
+4,2026-06-30,-2.6,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.06.2026 do 30.06.2026, Za vedenie účtu/balíka služieb a výpisy: 2,00, Za transakcie: 0,60 , z toho:, 3 x debet - elektronicky: 0,60",
+5,2026-06-30,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 29.06.2026","VS: 495000180
+ŠS: 5032602247
+KS: 6898"
+6,2026-06-25,5.0,EUR,Bravčoková Alžbeta,"Prijatá platba, prispevok na kampan Sobota 2026",
+7,2026-06-24,50.0,EUR,LUKAJ RADOSLAV,"Prijatá platba, /DO2026-06-24/SPprispevok na kampan Sobota 2026",
+8,2026-06-24,20.0,EUR,SILVIA SULEKOVA KOLLARIKOVA,"Prijatá platba, ",
+9,2026-06-24,50.0,EUR,"Galátová Zuzana, Mgr.","Prijatá platba, prispevok na kampan Sobota 2026",
+10,2026-06-24,5.0,EUR,JURAJ BENČÍK,"Prijatá platba, prispevok na kampan Sobota 2026",
+11,2026-06-24,15.0,EUR,Salomon Volko,"Prijatá platba, prispevok na kampan Sobota 2026",
+12,2026-06-23,200.0,EUR,Igor Pribelsky,"Prijatá platba, vivat sobota",
+13,2026-06-22,5.0,EUR,Bérešová Klára,"Prijatá platba, ",
+14,2026-06-18,-100.0,EUR,,"Odoslaná platba elektronicky, Vratenie platby zo zahranicia",
+15,2026-06-17,-420.0,EUR,,"Odoslaná okamžitá platba, Tvorba propag videi","VS: 20260030
+KS: 0308"
+16,2026-06-16,5.0,EUR,Nemec Peter,"Prijatá platba, Prispevok na kampan",
+17,2026-06-15,100.0,EUR,Svatopluk Bartik,"Prijatá platba, na kampan",
+18,2026-06-11,220.0,EUR,Peter Luptak,"Prijatá platba, Peter Luptak - Financny prispevok na komunalne volby 2026","VS: 11062026
+KS: 0558"
+19,2026-06-11,15.0,EUR,Nemec Peter,"Prijatá platba, Prispevok na kampan",
+20,2026-06-10,50.0,EUR,"Majerová Eleonóra, Ing.","Prijatá platba, na kampan",
+21,2026-06-10,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 08.06.2026","VS: 497000160
+ŠS: 5032602247
+KS: 6898"
+22,2026-06-10,-26.52,EUR,,"Transakcia platobnou kartou, Suma: 26,52 EUR 08.06.2026 Miesto: FAXCOPY57,BB,HORNA BANSKA BYSTRI","VS: 405000160
+ŠS: 5032602247
+KS: 0608"
+23,2026-06-08,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 05.06.2026","VS: 497000157
+ŠS: 5032602247
+KS: 6898"
+24,2026-06-08,-89.43,EUR,,"Transakcia platobnou kartou, Suma: 89,43 EUR 05.06.2026 Miesto: printworld.com GmbH Letak A6 podp","VS: 405000157
+ŠS: 5032602247
+KS: 0608"

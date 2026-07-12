@@ -1,0 +1,6 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,Gryf Media,2026-07-03,-811.8,EUR,Bilboardy,Okamžitá platba (elektronicky),,
+1,Harhaj Lukáš,2026-07-03,820.0,EUR,F001030720268827838,Prijatá SEPA platba,,
+2,,2026-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+3,Harhaj Lukáš,2026-06-07,100.0,EUR,F001070620266059972,Prijatá SEPA platba,,
+4,,2026-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,

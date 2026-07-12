@@ -1,0 +1,13 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,,2026-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,Iné nedaňové príjmy,2026-06-05,-0.16,EUR,Vratenie platby - neidentifikovatelny darca,Okamžitá platba (elektronicky),,
+2,,2026-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+3,PayPal Europe S.a.r.l. et Cie S.C.A,2026-05-25,0.02,EUR,Return: Payment returned because you sent it to the wrong bank account. Log in to your PayPal account and choose 'Transfer Money' to retry,Prijatá Okamžitá platba,,
+4,PayPal Europe S.a.r.l. et Cie S.C.A,2026-05-25,-0.02,EUR,Vratenie platby - neidentifikovany darca,Okamžitá platba (elektronicky),,
+5,PayPal Europe S.a.r.l. et Cie S.C.A,2026-05-25,0.14,EUR,Return: Payment returned because you sent it to the wrong bank account. Log in to your PayPal account and choose 'Transfer Money' to retry,Prijatá Okamžitá platba,,
+6,PayPal Europe S.a.r.l. et Cie S.C.A,2026-05-25,-0.14,EUR,vrátenie platby - neidentifikovaný darca,Okamžitá platba (elektronicky),,
+7,PayPal Europe S.a.r.l. et Cie S.C.A,2026-05-11,0.02,EUR,YYR1050155452465/PAYPAL,Prijatá SEPA platba,,
+8,PayPal Europe S.a.r.l. et Cie S.C.A,2026-05-11,0.14,EUR,YYR1050155452458/PAYPAL,Prijatá SEPA platba,,
+9,Jasensky Art Studio s. r. o.,2026-05-04,-129.15,EUR,Úhrada faktúry: 20260101,Okamžitá platba (elektronicky),20260101.0,
+10,"Radačovský Erik, Mgr.",2026-05-01,500.0,EUR,OO26050100024567,Prijatá Okamžitá platba,,
+11,,2026-04-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,

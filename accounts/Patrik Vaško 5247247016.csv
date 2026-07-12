@@ -1,0 +1,18 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,,2026-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,Vaško Marek,2026-06-30,300.0,EUR,F001300620265330352,Prijatá SEPA platba,,
+2,"NUBIUM, s. r. o.",2026-06-23,-319.8,EUR,Billboardy Patrik Vaško,Okamžitá platba (elektronicky),2610003614.0,
+3,LAVACOM s.r.o.,2026-06-19,-704.79,EUR,Reklamné predmety,Okamžitá platba (elektronicky),2601260305.0,
+4,Vaško Patrik,2026-06-16,1000.0,EUR,F001160620260705165,Prijatá SEPA platba,,
+5,Vaško Marek,2026-06-12,300.0,EUR,Dar na kampaň,Prijatá SEPA platba,,
+6,ywan s.r.o,2026-06-09,-369.0,EUR,Reklamné predmety,Okamžitá platba (elektronicky),202621.0,
+7,"SLOVENSKÁ POŠTA, A.S.",2026-06-04,-200.0,EUR,Vrátenie chybnej platby,Okamžitá platba (elektronicky),,
+8,Lavo Juraj,2026-06-04,-250.0,EUR,Vrátenie chybnej platby,Okamžitá platba (elektronicky),,
+9,Adzimová Fedorová Miroslava,2026-06-04,-250.0,EUR,Vrátenie chybnej platby,SEPA platba (elektronicky),,
+10,,2026-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+11,Adzimová Fedorová Miroslava,2026-05-21,250.0,EUR,Miroslava Adzimová Fedorová,Prijatá SEPA platba,4751331.0,
+12,Lavo Juraj,2026-05-21,250.0,EUR,Juraj Lavo,Prijatá Okamžitá platba,4751101.0,
+13,"NUBIUM, s. r. o.",2026-05-21,-442.8,EUR,Billboardy Patrik Vaško,Okamžitá platba (elektronicky),2610002863.0,
+14,"SLOVENSKÁ POŠTA, A.S.",2026-05-21,200.0,EUR,18014250916319052026/SS-0000000000/DAGMAR SZECSENYIOVA-BRATISLAVA/,Prijatá SEPA platba,4742523.0,9100000715.0
+15,,2026-04-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+16,Vaško Patrik,2026-04-22,1000.0,EUR,F001220420265414880,Prijatá SEPA platba,,

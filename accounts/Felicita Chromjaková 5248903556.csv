@@ -1,0 +1,6 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,,2026-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,,2026-06-30,-7.0,EUR,Poplatok za vedenie účtu,Poplatok,,
+2,Chromjaková Felicita,2026-06-13,20.0,EUR,F001130620264697924,Prijatá SEPA platba,,
+3,,2026-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+4,,2026-05-31,-0.9,EUR,Poplatok za vedenie účtu,Poplatok,,
