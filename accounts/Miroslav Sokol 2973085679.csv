@@ -5,85 +5,18 @@ index,date,amount,currency,account_name,message,vs
 3,2026-07-08,-184.5,EUR,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",Platba/Uhrada faktury VF20262288,"20262288
 VS20262288/SS/KS308"
 4,2026-07-08,-8.14,EUR,C027 Zilina,POS nákup C027 Zilina / Zilina / (POS 06222997),
-5,2026-07-07,100.0,EUR,FRANTIŠEK TALAPKA,"
-                        Platba
-                    /
-                        ZILINA POTREBUJE ZMENU, MIRO DRZIM PALCE
-                    ","
-                        
-                    "
-6,2026-07-06,-250.0,EUR,"
-                            Schneider & Partners Co., s. r. o.
-                    ","
-                        Platba
-                    /
-                        Úhrada faktúry: 20260025
-                    ","
-                        20260025VS20260025/SS/KS
-                    "
-7,2026-07-03,-1500.0,EUR,"
-                            VANDA TUCHYNOVA
-                    ","
-                        Platba
-                    /
-                        Management kampane
-                    ","
-                        12VS12/SS/KS0308
-                    "
-8,2026-07-03,500.0,EUR,"
-                            Sokol Miroslav, Ing.
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        
-                    "
-9,2026-07-03,-23.0,EUR,"
-                            OPENAI *CHATGPT SUBSCR
-                    ","
-                        EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ)
-                    /
-                        
-                    ","
-                        
-                    "
-10,2026-06-30,-3.0,EUR,"
-                            
-                    ","
-                        Poplatok za účet
-                    /
-                        
-                    ","
-                        
-                    "
-11,2026-06-24,-2.55,EUR,"
-                            Tesco  Zilina Hajik
-                    ","
-                        POS nákup Tesco  Zilina Hajik / Zilina / (POS 11267905)
-                    /
-                        
-                    ","
-                        
-                    "
-12,2026-06-24,-14.5,EUR,"
-                            Cukraren Sofia
-                    ","
-                        POS nákup Cukraren Sofia / Teplicka nad / (POS 11311602)
-                    /
-                        
-                    ","
-                        
-                    "
-13,2026-06-22,-1130.0,EUR,"
-                            Ja-Mar, s.r.o.
-                    ","
-                        Platba
-                    /
-                        Sokol
-                    ","
-                        2026025VS2026025/SS/KS
-                    "
+5,2026-07-07,100.0,EUR,FRANTIŠEK TALAPKA,"Platba/ZILINA POTREBUJE ZMENU, MIRO DRZIM PALCE",
+6,2026-07-06,-250.0,EUR,"Schneider & Partners Co., s. r. o.",Platba/Úhrada faktúry: 20260025,"20260025
+VS20260025/SS/KS"
+7,2026-07-03,-1500.0,EUR,VANDA TUCHYNOVA,Platba/Management kampane,"12
+VS12/SS/KS0308"
+8,2026-07-03,500.0,EUR,"Sokol Miroslav, Ing.",Platba,
+9,2026-07-03,-23.0,EUR,OPENAI *CHATGPT SUBSCR,EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),
+10,2026-06-30,-3.0,EUR,,Poplatok za účet,
+11,2026-06-24,-2.55,EUR,Tesco Zilina Hajik,POS nákup Tesco Zilina Hajik / Zilina / (POS 11267905),
+12,2026-06-24,-14.5,EUR,Cukraren Sofia,POS nákup Cukraren Sofia / Teplicka nad / (POS 11311602),
+13,2026-06-22,-1130.0,EUR,"Ja-Mar, s.r.o.",Platba/Sokol,"2026025
+VS2026025/SS/KS"
 14,2026-06-10,-26.28,EUR,GoPay Czech,Platba,"9264864524
 VS9264864524/SS/KS"
 15,2026-06-10,-15.2,EUR,Cukraren Sofia,POS nákup Cukraren Sofia / Teplicka nad / (POS 11311602),
@@ -102,21 +35,132 @@ VS10/SS/KS0308"
 25,2026-05-28,-7.95,EUR,OBI Zilina,POS nákup OBI Zilina / Zilina / (POS 55616369),
 26,2026-05-28,-14.25,EUR,EMI EU ZOC MAXZILINA,POS nákup EMI EU ZOC MAXZILINA / ZILINA / (POS 11301155),
 27,2026-05-28,-5.2,EUR,PEPCO 2002 ZILINA,POS nákup PEPCO 2002 ZILINA / ZILINA / (POS 11898103),
-28,2026-05-27,-3.99,EUR,C027 Zilina,POS nákup C027 Zilina / Zilina / (POS 06222997),
-29,2026-05-27,-7.7,EUR,COOP ZA PJ 101,POS nákup COOP ZA PJ 101 / ZILINA / (POS TN113150),
-30,2026-05-27,-22.41,EUR,"FAXCOPY62,ZA,AUPARK","POS nákup FAXCOPY62,ZA,AUPARK / ZILINA / (POS 05442401)",
-31,2026-05-27,-3.6,EUR,Maloobchod kancel.potr,POS nákup Maloobchod kancel.potr / Zilina / (POS AA234206),
-32,2026-05-27,-16.66,EUR,COOP ZA PJ 101,POS nákup COOP ZA PJ 101 / Zilina / (POS TN113150),
-33,2026-05-27,-29.51,EUR,C027 Zilina,POS nákup C027 Zilina / Zilina / (POS 06222997),
-34,2026-05-21,-37.49,EUR,C027 Zilina,POS nákup C027 Zilina / Zilina / (POS 06222997),
-35,2026-05-20,-47.53,EUR,OBI Zilina,POS nákup OBI Zilina / Zilina / (POS 55616369),
-36,2026-05-20,-143.75,EUR,AMCOLOR JUB,POS nákup AMCOLOR JUB / TEPLICKA NAD / (POS 99108331),
-37,2026-05-20,-129.59,EUR,C027 Zilina,POS nákup C027 Zilina / Zilina / (POS 06222997),
-38,2026-05-19,-36.83,EUR,Websupport s. r. o.,Platba,"1026175736
-VS1026175736/SS/KS308"
-39,2026-05-18,5.0,EUR,Lubomir Bechny,Platba/Skusobna platba Lubo,
-40,2026-05-18,-66.41,EUR,"FAXCOPY62,ZA,AUPARK","POS nákup FAXCOPY62,ZA,AUPARK / ZILINA / (POS 05442400)",
-41,2026-05-18,-227.0,EUR,OLEJPREZDRAVIE,MOBILE APP NÁKUP E-COMM OLEJPREZDRAVIE / NITRA / (POS DL4EANUA),
+28,2026-05-27,-3.99,EUR,"
+                            C027 Zilina
+                    ","
+                        POS nákup C027 Zilina / Zilina / (POS 06222997)
+                    /
+                        
+                    ","
+                        
+                    "
+29,2026-05-27,-7.7,EUR,"
+                            COOP ZA PJ 101
+                    ","
+                        POS nákup COOP ZA PJ 101 / ZILINA / (POS TN113150)
+                    /
+                        
+                    ","
+                        
+                    "
+30,2026-05-27,-22.41,EUR,"
+                            FAXCOPY62,ZA,AUPARK
+                    ","
+                        POS nákup FAXCOPY62,ZA,AUPARK / ZILINA / (POS 05442401)
+                    /
+                        
+                    ","
+                        
+                    "
+31,2026-05-27,-3.6,EUR,"
+                            Maloobchod kancel.potr
+                    ","
+                        POS nákup Maloobchod kancel.potr / Zilina / (POS AA234206)
+                    /
+                        
+                    ","
+                        
+                    "
+32,2026-05-27,-16.66,EUR,"
+                            COOP ZA PJ 101
+                    ","
+                        POS nákup COOP ZA PJ 101 / Zilina / (POS TN113150)
+                    /
+                        
+                    ","
+                        
+                    "
+33,2026-05-27,-29.51,EUR,"
+                            C027 Zilina
+                    ","
+                        POS nákup C027 Zilina / Zilina / (POS 06222997)
+                    /
+                        
+                    ","
+                        
+                    "
+34,2026-05-21,-37.49,EUR,"
+                            C027 Zilina
+                    ","
+                        POS nákup C027 Zilina / Zilina / (POS 06222997)
+                    /
+                        
+                    ","
+                        
+                    "
+35,2026-05-20,-47.53,EUR,"
+                            OBI Zilina
+                    ","
+                        POS nákup OBI Zilina / Zilina / (POS 55616369)
+                    /
+                        
+                    ","
+                        
+                    "
+36,2026-05-20,-143.75,EUR,"
+                            AMCOLOR JUB
+                    ","
+                        POS nákup AMCOLOR JUB / TEPLICKA NAD / (POS 99108331)
+                    /
+                        
+                    ","
+                        
+                    "
+37,2026-05-20,-129.59,EUR,"
+                            C027 Zilina
+                    ","
+                        POS nákup C027 Zilina / Zilina / (POS 06222997)
+                    /
+                        
+                    ","
+                        
+                    "
+38,2026-05-19,-36.83,EUR,"
+                            Websupport s. r. o.
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        1026175736VS1026175736/SS/KS308
+                    "
+39,2026-05-18,5.0,EUR,"
+                            Lubomir Bechny
+                    ","
+                        Platba
+                    /
+                        Skusobna platba Lubo
+                    ","
+                        
+                    "
+40,2026-05-18,-66.41,EUR,"
+                            FAXCOPY62,ZA,AUPARK
+                    ","
+                        POS nákup FAXCOPY62,ZA,AUPARK / ZILINA / (POS 05442400)
+                    /
+                        
+                    ","
+                        
+                    "
+41,2026-05-18,-227.0,EUR,"
+                            OLEJPREZDRAVIE
+                    ","
+                        MOBILE APP NÁKUP E-COMM OLEJPREZDRAVIE / NITRA / (POS DL4EANUA)
+                    /
+                        
+                    ","
+                        
+                    "
 42,2026-05-14,227.0,EUR,"Sokol Miroslav, Ing.",Platba,
 43,2026-05-13,-273.8,EUR,GoPay Czech odštěpný závod,Platba,"9255195399
 VS9255195399/SS9000010012/KS"

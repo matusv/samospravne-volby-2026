@@ -1,42 +1,44 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2026-07-10,-1.6,Transakčná daň - bezhotovostná platba,,,,,,
-1,2026-07-10,-400.0,Platba prevodom v rámci banky,,,0308,20260601,,Hura prazdniny
-2,2026-07-09,-40.0,Transakčná daň - bezhotovostná platba,,,,,,
-3,2026-07-09,-16814.1,Bezhotovostná platba,,,,4520262648,,prieskumy
-4,2026-07-08,-0.31,Transakčná daň - bezhotovostná platba,,,,,,
-5,2026-07-08,-77.86,Okamžitá odchádzajúca Europlatba,,Pravo na pravdu. . 06.07.2026,0308,2020260051,,volebny plagat CL
-6,2026-07-07,-1.97,Transakčná daň - bezhotovostná platba,,,,,,
-7,2026-07-07,-492.0,Okamžitá odchádzajúca Europlatba,,Uhrada faktury: 20260058,,20260058,,
-8,2026-07-06,-40.0,Transakčná daň - bezhotovostná platba,,,,,,
-9,2026-07-06,-14956.8,Bezhotovostná platba,,Letna kamparn Pravo na pravdu,,26950271,,Letna kamparn Pravo na pravdu
-10,2026-07-06,-19.14,Transakčná daň - bezhotovostná platba,,,,,,
-11,2026-07-06,-4784.7,Okamžitá odchádzajúca Europlatba,,Letna kampan Pravo na pravdu,,26950270,,Letna kampan Pravo na pravdu
-12,2026-07-06,-1.21,Transakčná daň - bezhotovostná platba,,,,,,
-13,2026-07-06,-301.35,Okamžitá odchádzajúca Europlatba,,,,146260376,,
-14,2026-07-06,-1.65,Transakčná daň - bezhotovostná platba,,,,,,
-15,2026-07-06,-412.05,Okamžitá odchádzajúca Europlatba,,,,146260396,,
-16,2026-07-03,-32.2,Transakčná daň - bezhotovostná platba,,,,,,
-17,2026-07-03,-8050.35,Bezhotovostná platba,,Uhrada faktury VF20262285,0308,20262285,,Letna kampan Pravo na pravdu
-18,2026-07-03,-33.21,Transakčná daň - bezhotovostná platba,,,,,,
-19,2026-07-03,-8302.5,Bezhotovostná platba,,Uhrada faktury VF20262287,0308,20262287,,Letna kampan Pravo na pravdu
-20,2026-07-03,-40.0,Transakčná daň - bezhotovostná platba,,,,,,
-21,2026-07-03,-23603.7,Bezhotovostná platba,,Uhrada faktury VF20262286,0308,20262286,,Letna kampan Pravo na pravdu
+0,2026-07-13,-3.0,Transakčná daň - bezhotovostná platba,,,,,,
+1,2026-07-13,-750.3,Okamžitá odchádzajúca Europlatba,,,,146260429,,
+2,2026-07-10,-1.6,Transakčná daň - bezhotovostná platba,,,,,,
+3,2026-07-10,-400.0,Platba prevodom v rámci banky,,,0308,20260601,,Hura prazdniny
+4,2026-07-09,-40.0,Transakčná daň - bezhotovostná platba,,,,,,
+5,2026-07-09,-16814.1,Bezhotovostná platba,,,,4520262648,,prieskumy
+6,2026-07-08,-0.31,Transakčná daň - bezhotovostná platba,,,,,,
+7,2026-07-08,-77.86,Okamžitá odchádzajúca Europlatba,,Pravo na pravdu. . 06.07.2026,0308,2020260051,,volebny plagat CL
+8,2026-07-07,-1.97,Transakčná daň - bezhotovostná platba,,,,,,
+9,2026-07-07,-492.0,Okamžitá odchádzajúca Europlatba,,Uhrada faktury: 20260058,,20260058,,
+10,2026-07-06,-40.0,Transakčná daň - bezhotovostná platba,,,,,,
+11,2026-07-06,-14956.8,Bezhotovostná platba,,Letna kamparn Pravo na pravdu,,26950271,,Letna kamparn Pravo na pravdu
+12,2026-07-06,-19.14,Transakčná daň - bezhotovostná platba,,,,,,
+13,2026-07-06,-4784.7,Okamžitá odchádzajúca Europlatba,,Letna kampan Pravo na pravdu,,26950270,,Letna kampan Pravo na pravdu
+14,2026-07-06,-1.21,Transakčná daň - bezhotovostná platba,,,,,,
+15,2026-07-06,-301.35,Okamžitá odchádzajúca Europlatba,,,,146260376,,
+16,2026-07-06,-1.65,Transakčná daň - bezhotovostná platba,,,,,,
+17,2026-07-06,-412.05,Okamžitá odchádzajúca Europlatba,,,,146260396,,
+18,2026-07-03,-32.2,Transakčná daň - bezhotovostná platba,,,,,,
+19,2026-07-03,-8050.35,Bezhotovostná platba,,Uhrada faktury VF20262285,0308,20262285,,Letna kampan Pravo na pravdu
+20,2026-07-03,-33.21,Transakčná daň - bezhotovostná platba,,,,,,
+21,2026-07-03,-8302.5,Bezhotovostná platba,,Uhrada faktury VF20262287,0308,20262287,,Letna kampan Pravo na pravdu
 22,2026-07-03,-40.0,Transakčná daň - bezhotovostná platba,,,,,,
-23,2026-07-03,-12662.11,Okamžitá odchádzajúca Europlatba,,,0008,460260018,,Letna kampan Pravo na pravdu
+23,2026-07-03,-23603.7,Bezhotovostná platba,,Uhrada faktury VF20262286,0308,20262286,,Letna kampan Pravo na pravdu
 24,2026-07-03,-40.0,Transakčná daň - bezhotovostná platba,,,,,,
-25,2026-07-03,-29520.0,Okamžitá odchádzajúca Europlatba,,,,2670084,,Letná kampaň Právo na pravdu
-26,2026-07-03,-16.24,Transakčná daň - bezhotovostná platba,,,,,,
-27,2026-07-03,-4059.0,Okamžitá odchádzajúca Europlatba,,,,2670085,,Letná kampaň Právo na pravdu
-28,2026-07-03,-40.0,Transakčná daň - bezhotovostná platba,,,,,,
-29,2026-07-03,-14347.95,Okamžitá odchádzajúca Europlatba,,"Pravo na pravdu. Zahorska N (tlac,i
+25,2026-07-03,-12662.11,Okamžitá odchádzajúca Europlatba,,,0008,460260018,,Letna kampan Pravo na pravdu
+26,2026-07-03,-40.0,Transakčná daň - bezhotovostná platba,,,,,,
+27,2026-07-03,-29520.0,Okamžitá odchádzajúca Europlatba,,,,2670084,,Letná kampaň Právo na pravdu
+28,2026-07-03,-16.24,Transakčná daň - bezhotovostná platba,,,,,,
+29,2026-07-03,-4059.0,Okamžitá odchádzajúca Europlatba,,,,2670085,,Letná kampaň Právo na pravdu
+30,2026-07-03,-40.0,Transakčná daň - bezhotovostná platba,,,,,,
+31,2026-07-03,-14347.95,Okamžitá odchádzajúca Europlatba,,"Pravo na pravdu. Zahorska N (tlac,i
 nst 2045). 01.07.2026",,202607002,,Letná kampaň Právo na pravdu
-30,2026-07-01,250000.0,Platba prevodom v rámci banky,Právo na pravdu,na platenú reklamu - bigboardy a bilboardy,,,,na platenú reklamu - bigboardy a bilboardy
-31,2026-06-15,-25.22,Transakčná daň - bezhotovostná platba,,,,,,
-32,2026-06-15,-6306.06,Bezhotovostná platba,,,,2026019,,nahravacia technika
-33,2026-06-05,-0.89,Transakčná daň - bezhotovostná platba,,,,,,
-34,2026-06-05,-221.4,Bezhotovostná platba,,"Pravo na pravdu. Zahorska - tlac. z
+32,2026-07-01,250000.0,Platba prevodom v rámci banky,Právo na pravdu,na platenú reklamu - bigboardy a bilboardy,,,,na platenú reklamu - bigboardy a bilboardy
+33,2026-06-15,-25.22,Transakčná daň - bezhotovostná platba,,,,,,
+34,2026-06-15,-6306.06,Bezhotovostná platba,,,,2026019,,nahravacia technika
+35,2026-06-05,-0.89,Transakčná daň - bezhotovostná platba,,,,,,
+36,2026-06-05,-221.4,Bezhotovostná platba,,"Pravo na pravdu. Zahorska - tlac. z
 upanka BSK kampan",0000,260147,0,volebna kampan plagaty pre zupanku BSK
-35,2026-06-05,-8.66,Transakčná daň - bezhotovostná platba,,,,,,
-36,2026-06-05,-2164.8,Bezhotovostná platba,,"Pravo na pravdu. Zahorska - najom p
+37,2026-06-05,-8.66,Transakčná daň - bezhotovostná platba,,,,,,
+38,2026-06-05,-2164.8,Bezhotovostná platba,,"Pravo na pravdu. Zahorska - najom p
 re zupanku BSK volebna kampan",0000,260146,0,reklamne plochy pre zupanku BSK
-37,2026-06-02,30000.0,Platba prevodom v rámci banky,Právo na pravdu,"Keď už ma sledujete, tak poriadne. Zoroslav Kollár",,,,"Keď už ma sledujete, tak poriadne. Zoroslav Kollár"
+39,2026-06-02,30000.0,Platba prevodom v rámci banky,Právo na pravdu,"Keď už ma sledujete, tak poriadne. Zoroslav Kollár",,,,"Keď už ma sledujete, tak poriadne. Zoroslav Kollár"
