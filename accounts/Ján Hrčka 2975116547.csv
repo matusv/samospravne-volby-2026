@@ -2,24 +2,8 @@ index,date,amount,currency,account_name,message,vs
 0,2026-07-09,300.0,EUR,Dávid Pavlík,Platba,
 1,2026-07-08,300.0,EUR,Michal Cerny,Platba/Michal Cerny,
 2,2026-07-08,300.0,EUR,Natalia Podhorna,Platba,
-3,2026-07-06,300.0,EUR,"
-                            Tomáš Varadínek
-                    ","
-                        Platba
-                    /
-                        Tomas Varadinek
-                    ","
-                        
-                    "
-4,2026-07-06,300.0,EUR,"
-                            Peter Cmorej
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        
-                    "
+3,2026-07-06,300.0,EUR,Tomáš Varadínek,Platba/Tomas Varadinek,
+4,2026-07-06,300.0,EUR,Peter Cmorej,Platba,
 5,2026-07-03,300.0,EUR,"
                             Ondrej Kollar
                     ","
