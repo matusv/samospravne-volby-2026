@@ -3,24 +3,8 @@ index,date,amount,currency,account_name,message,vs
 1,2026-07-09,-1906.5,EUR,"ISPA, spol. s r.o.",Platba/Prenajom ploch 7-10/2026 4 ks,"26950279
 VS26950279/SS/KS"
 2,2026-07-09,2000.0,EUR,Rumanko Tomáš,Platba,
-3,2026-07-03,3000.0,EUR,"
-                            Frantisek Toth
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        
-                    "
-4,2026-07-01,-0.01,EUR,"
-                            
-                    ","
-                        Transakčná daň 30.06.2026
-                    /
-                        
-                    ","
-                        
-                    "
+3,2026-07-03,3000.0,EUR,Frantisek Toth,Platba,
+4,2026-07-01,-0.01,EUR,,Transakčná daň 30.06.2026,
 5,2026-06-30,-0.0,EUR,"
                             
                     ","
