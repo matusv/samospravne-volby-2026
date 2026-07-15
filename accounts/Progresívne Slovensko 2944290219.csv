@@ -3,29 +3,11 @@ index,date,amount,currency,account_name,message,vs
 VS9/SS/KS"
 1,2026-07-13,800.0,EUR,GALA LADISLAV,Platba/15,"15
 VS15/SS/KS"
-2,2026-07-13,2000.0,EUR,"
-                            Andrea Janicka Rudnayova
-                    ","
-                        Platba
-                    /
-                        kampan KSK
-                    ","
-                        12VS12/SS/KS
-                    "
-3,2026-07-13,170.0,EUR,"
-                            Igor Holeczy
-                    ","
-                        Platba
-                    /
-                        Dar na kampan Igor Holeczy
-                    ","
-                        8VS8/SS/KS
-                    "
-4,2026-07-13,10.0,EUR,"
-                            Beňuška Matej
-                    ","
-                        Platba
-                    /
+2,2026-07-13,2000.0,EUR,Andrea Janicka Rudnayova,Platba/kampan KSK,"12
+VS12/SS/KS"
+3,2026-07-13,170.0,EUR,Igor Holeczy,Platba/Dar na kampan Igor Holeczy,"8
+VS8/SS/KS"
+4,2026-07-13,10.0,EUR,Beňuška Matej,"Platba/
                         
                     ","
                         7VS7/SS/KS

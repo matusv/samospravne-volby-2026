@@ -2,9 +2,22 @@ index,date,amount,currency,account_name,message,vs
 0,2026-07-13,-5.12,EUR,"FAXCOPY62,ZA,AUPARK","POS nákup FAXCOPY62,ZA,AUPARK / ZILINA / (POS 05442400)",
 1,2026-07-10,-23.0,EUR,OPENAI *CHATGPT SUBSCR,EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),
 2,2026-07-09,150.0,EUR,Ing.Frantisek Talapka,Platba/Podpora od Klubu ZaZA,
-3,2026-07-09,10.0,EUR,Lubomir Bechny,Platba/podpora pana kandidata cez ciarovy kod,
-4,2026-07-08,-184.5,EUR,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",Platba/Uhrada faktury VF20262288,"20262288
-VS20262288/SS/KS308"
+3,2026-07-09,10.0,EUR,Lubomir Bechny,"
+                        Platba
+                    /
+                        podpora pana kandidata cez ciarovy kod
+                    ","
+                        
+                    "
+4,2026-07-08,-184.5,EUR,"
+                            GRYF REKLAMNÉ ŠTÚDIO, S. R. O.
+                    ","
+                        Platba
+                    /
+                        Uhrada faktury VF20262288
+                    ","
+                        20262288VS20262288/SS/KS308
+                    "
 5,2026-07-08,-8.14,EUR,"
                             C027 Zilina
                     ","

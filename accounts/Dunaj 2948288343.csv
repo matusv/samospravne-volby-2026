@@ -3,105 +3,20 @@ index,date,amount,currency,account_name,message,vs
 1,2026-07-10,-7.63,EUR,,Transakčná daň 09.07.2026,
 2,2026-07-09,-1906.5,EUR,"ISPA, spol. s r.o.",Platba/Prenajom ploch 7-10/2026 4 ks,"26950279
 VS26950279/SS/KS"
-3,2026-07-09,2000.0,EUR,"
-                            Rumanko Tomáš
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        
-                    "
-4,2026-07-03,3000.0,EUR,"
-                            Frantisek Toth
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        
-                    "
-5,2026-07-01,-0.01,EUR,"
-                            
-                    ","
-                        Transakčná daň 30.06.2026
-                    /
-                        
-                    ","
-                        
-                    "
-6,2026-06-30,-0.0,EUR,"
-                            
-                    ","
-                        Poplatok za balík
-                    /
-                        
-                    ","
-                        
-                    "
-7,2026-06-30,-0.72,EUR,"
-                            
-                    ","
-                        Poplatky za transakcie
-                    /
-                        
-                    ","
-                        
-                    "
-8,2026-06-30,-1.06,EUR,"
-                            
-                    ","
-                        Transakčná daň 29.06.2026
-                    /
-                        
-                    ","
-                        
-                    "
-9,2026-06-29,-265.68,EUR,"
-                            Mgr. Jaroslav Kováč - KOVÁČ SERVIS
-                    ","
-                        Platba
-                    /
-                        Baloniky
-                    ","
-                        262401280VS262401280/SS/KS8
-                    "
-10,2026-06-26,-2.42,EUR,"
-                            
-                    ","
-                        Transakčná daň 25.06.2026
-                    /
-                        
-                    ","
-                        
-                    "
-11,2026-06-25,-0.12,EUR,"
-                            
-                    ","
-                        Transakčná daň 24.06.2026
-                    /
-                        
-                    ","
-                        
-                    "
-12,2026-06-25,-512.91,EUR,"
-                            NUBIUM, s. r. o.
-                    ","
-                        Platba
-                    /
-                        Prenajom ploch
-                    ","
-                        16120027VS16120027/SS/KS
-                    "
-13,2026-06-25,-92.25,EUR,"
-                            NUBIUM, s. r. o.
-                    ","
-                        Platba
-                    /
-                        Tlac plagato 3ks
-                    ","
-                        2610003814VS2610003814/SS/KS
-                    "
+3,2026-07-09,2000.0,EUR,Rumanko Tomáš,Platba,
+4,2026-07-03,3000.0,EUR,Frantisek Toth,Platba,
+5,2026-07-01,-0.01,EUR,,Transakčná daň 30.06.2026,
+6,2026-06-30,-0.0,EUR,,Poplatok za balík,
+7,2026-06-30,-0.72,EUR,,Poplatky za transakcie,
+8,2026-06-30,-1.06,EUR,,Transakčná daň 29.06.2026,
+9,2026-06-29,-265.68,EUR,Mgr. Jaroslav Kováč - KOVÁČ SERVIS,Platba/Baloniky,"262401280
+VS262401280/SS/KS8"
+10,2026-06-26,-2.42,EUR,,Transakčná daň 25.06.2026,
+11,2026-06-25,-0.12,EUR,,Transakčná daň 24.06.2026,
+12,2026-06-25,-512.91,EUR,"NUBIUM, s. r. o.",Platba/Prenajom ploch,"16120027
+VS16120027/SS/KS"
+13,2026-06-25,-92.25,EUR,"NUBIUM, s. r. o.",Platba/Tlac plagato 3ks,"2610003814
+VS2610003814/SS/KS"
 14,2026-06-25,1000.0,EUR,Dunaj,Platba/Prevod financii kampan,
 15,2026-06-24,30.0,EUR,Dunaj,Platba/Prevod financii,
 16,2026-06-24,-30.75,EUR,"NUBIUM, s. r. o.",Platba/Tlac plagatu,"2610003907
