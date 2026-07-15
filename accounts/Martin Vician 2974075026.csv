@@ -5,18 +5,85 @@ VS1020263378/SS/KS308"
 2,2026-07-08,-29.99,EUR,CAPCUT,EUR NÁKUP POS CAPCUT / CAPCUT.NET / (POS FUG29FJB),
 3,2026-07-07,100.0,EUR,Richard Jajcay,Platba/SEPA Okamzita platba,
 4,2026-07-07,-14.07,EUR,Intuit Ireland Software L,EUR NÁKUP POS Intuit Ireland Software L / Dublin 2 / (POS 99999999),
-5,2026-07-06,140.0,EUR,Paško Martin,Platba/Dobrovolny dar,
-6,2026-07-06,100.0,EUR,Zuzana Jajcayova,Platba/dobrovolny dar na kampan,
-7,2026-06-30,-0.0,EUR,,Poplatok za účet,
-8,2026-06-29,500.0,EUR,Petra Kriskova,Platba/Dar na kampan,
-9,2026-06-23,-700.0,EUR,Mgr. Matej Mísal,Platba/graficke prace,"202612
-VS202612/SS/KS"
-10,2026-06-23,-43.16,EUR,BUFFER PLAN,INT NÁKUP POS EUR BUFFER PLAN / BUFFER.COM / (POS 2TMTLWQ7),
-11,2026-06-19,70.0,EUR,"Schultz Boris, Ing. arch.",TPP/Dar,
-12,2026-06-16,-959.4,EUR,"UNIMEDIA, s.r.o.","Platba/reklamna kampan, reklamne plochy","420260530
-VS420260530/SS/KS"
-13,2026-06-15,-200.0,EUR,MAGIC OFFICE s. r. o.,"Platba/kuzelnik, MDD, 30.5.2026","20260010
-VS20260010/SS/KS308"
+5,2026-07-06,140.0,EUR,Paško Martin,"
+                        Platba
+                    /
+                        Dobrovolny dar
+                    ","
+                        
+                    "
+6,2026-07-06,100.0,EUR,"
+                            Zuzana Jajcayova
+                    ","
+                        Platba
+                    /
+                        dobrovolny dar na kampan
+                    ","
+                        
+                    "
+7,2026-06-30,-0.0,EUR,"
+                            
+                    ","
+                        Poplatok za účet
+                    /
+                        
+                    ","
+                        
+                    "
+8,2026-06-29,500.0,EUR,"
+                            Petra Kriskova
+                    ","
+                        Platba
+                    /
+                        Dar na kampan
+                    ","
+                        
+                    "
+9,2026-06-23,-700.0,EUR,"
+                            Mgr. Matej Mísal
+                    ","
+                        Platba
+                    /
+                        graficke prace
+                    ","
+                        202612VS202612/SS/KS
+                    "
+10,2026-06-23,-43.16,EUR,"
+                            BUFFER PLAN
+                    ","
+                        INT NÁKUP POS EUR BUFFER PLAN / BUFFER.COM / (POS 2TMTLWQ7)
+                    /
+                        
+                    ","
+                        
+                    "
+11,2026-06-19,70.0,EUR,"
+                            Schultz Boris, Ing. arch.
+                    ","
+                        TPP
+                    /
+                        Dar
+                    ","
+                        
+                    "
+12,2026-06-16,-959.4,EUR,"
+                            UNIMEDIA, s.r.o.
+                    ","
+                        Platba
+                    /
+                        reklamna kampan, reklamne plochy
+                    ","
+                        420260530VS420260530/SS/KS
+                    "
+13,2026-06-15,-200.0,EUR,"
+                            MAGIC OFFICE s. r. o.
+                    ","
+                        Platba
+                    /
+                        kuzelnik, MDD, 30.5.2026
+                    ","
+                        20260010VS20260010/SS/KS308
+                    "
 14,2026-06-11,100.0,EUR,Lenka Hajekova,Platba/Dar_Lenka Hajekova,
 15,2026-06-09,-29.99,EUR,CapCut,INT NÁKUP POS EUR CapCut / SINGAPORE / (POS 99999999),
 16,2026-06-08,-13.86,EUR,Intuit Mailchimp,EUR NÁKUP POS Intuit Mailchimp / Dublin 2 / (POS 99999999),
@@ -28,51 +95,11 @@ VS26053109/SS/KS"
 21,2026-06-01,-209.1,EUR,Bittner print s.r.o.,"Platba/tlac, brozury","1020262465
 VS1020262465/SS/KS308"
 22,2026-05-30,-0.0,EUR,,Poplatok za účet,
-23,2026-05-25,200.0,EUR,"
-                            MICHAL MIHÁLIK
-                    ","
-                        Platba
-                    /
-                        PLATBA
-                    ","
-                        
-                    "
-24,2026-05-25,-294.39,EUR,"
-                            gastrokuchyne.sk
-                    ","
-                        POS nákup gastrokuchyne.sk / Bardejov / (POS G1037815)
-                    /
-                        
-                    ","
-                        
-                    "
-25,2026-05-22,-43.16,EUR,"
-                            BUFFER PLAN
-                    ","
-                        INT NÁKUP POS EUR BUFFER PLAN / BUFFER.COM / (POS 2TMTLWQ7)
-                    /
-                        
-                    ","
-                        
-                    "
-26,2026-05-21,500.0,EUR,"
-                            Hrda Stanislav, Mgr.
-                    ","
-                        Platba
-                    /
-                        dar od Stanislav Hrda
-                    ","
-                        
-                    "
-27,2026-05-21,70.0,EUR,"
-                            Schultz Boris, Ing. arch.
-                    ","
-                        TPP
-                    /
-                        Dar
-                    ","
-                        
-                    "
+23,2026-05-25,200.0,EUR,MICHAL MIHÁLIK,Platba/PLATBA,
+24,2026-05-25,-294.39,EUR,gastrokuchyne.sk,POS nákup gastrokuchyne.sk / Bardejov / (POS G1037815),
+25,2026-05-22,-43.16,EUR,BUFFER PLAN,INT NÁKUP POS EUR BUFFER PLAN / BUFFER.COM / (POS 2TMTLWQ7),
+26,2026-05-21,500.0,EUR,"Hrda Stanislav, Mgr.",Platba/dar od Stanislav Hrda,
+27,2026-05-21,70.0,EUR,"Schultz Boris, Ing. arch.",TPP/Dar,
 28,2026-05-21,100.0,EUR,Zuzana Jajcayova,Platba/dobrovolny dar na kampan,
 29,2026-05-21,250.0,EUR,Martin Ganz,Platba/dar,
 30,2026-05-21,140.0,EUR,"Michlík Martin, Ing.",Platba,

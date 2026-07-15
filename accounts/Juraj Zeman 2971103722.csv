@@ -6,7 +6,13 @@ VS2026052/SS/KS"
 3,2026-07-01,-390.0,EUR,Mestská časť Bratislava - Vajnory,Platba/Inzercia VN - Faktúra č.: 2026075,"2026075
 VS2026075/SS/KS308"
 4,2026-06-30,-0.0,EUR,,Poplatok za účet,
-5,2026-06-30,100.0,EUR,DEBNAROVA MONIKA,Platba/Volby 2026,
+5,2026-06-30,100.0,EUR,DEBNAROVA MONIKA,"
+                        Platba
+                    /
+                        Volby 2026
+                    ","
+                        
+                    "
 6,2026-06-29,100.0,EUR,"
                             SOŇA KUKUČKOVÁ
                     ","

@@ -6,40 +6,12 @@ VS2026029/SS/KS"
 3,2026-06-30,-5.0,EUR,,Poplatok za účet,
 4,2026-06-17,-200.0,EUR,Nela Skovajsová,Platba/Webova stranka,"2026028
 VS2026028/SS/KS"
-5,2026-06-17,550.0,EUR,"Doman Erik, Mgr.","
-                        Platba
-                    /
-                        
-                    ","
-                        
-                    "
-6,2026-06-12,-116.85,EUR,"
-                            DIW s.r.o.
-                    ","
-                        Platba
-                    /
-                        Tlac letakov
-                    ","
-                        2026060182VS2026060182/SS/KS
-                    "
-7,2026-06-11,50.0,EUR,"
-                            Filip Farkasovsky
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        
-                    "
-8,2026-06-11,-147.6,EUR,"
-                            Nela Skovajsová
-                    ","
-                        Platba
-                    /
-                        Web hosting framer
-                    ","
-                        2026027VS2026027/SS/KS
-                    "
+5,2026-06-17,550.0,EUR,"Doman Erik, Mgr.",Platba,
+6,2026-06-12,-116.85,EUR,DIW s.r.o.,Platba/Tlac letakov,"2026060182
+VS2026060182/SS/KS"
+7,2026-06-11,50.0,EUR,Filip Farkasovsky,Platba,
+8,2026-06-11,-147.6,EUR,Nela Skovajsová,Platba/Web hosting framer,"2026027
+VS2026027/SS/KS"
 9,2026-05-30,-0.0,EUR,"
                             
                     ","

@@ -1,17 +1,18 @@
 index,date,amount,currency,account_name,message,vs
-0,2026-07-10,100.0,EUR,Michal Varga,"Prijatá platba, DAR",
-1,2026-07-04,-400.0,EUR,,"Odoslaná okamžitá platba, Mgr. Viliam Drab: FA2026009 - Mgr.Branislav Gigac - 2026/06 - VIDEO",VS: 2026009
-2,2026-06-30,-73.8,EUR,,"Odoslaná okamžitá platba, Vyroba propagacneho produktu","VS: 260300212
+0,2026-07-14,20.0,EUR,Renata Ludrovska,"Prijatá platba, dar kampan Renata Ludrovska",
+1,2026-07-10,100.0,EUR,Michal Varga,"Prijatá platba, DAR",
+2,2026-07-04,-400.0,EUR,,"Odoslaná okamžitá platba, Mgr. Viliam Drab: FA2026009 - Mgr.Branislav Gigac - 2026/06 - VIDEO",VS: 2026009
+3,2026-06-30,-73.8,EUR,,"Odoslaná okamžitá platba, Vyroba propagacneho produktu","VS: 260300212
 KS: 0308"
-3,2026-06-30,-10.0,EUR,,"Odoslaná okamžitá platba, Omyl - vratenie platby",
 4,2026-06-30,-10.0,EUR,,"Odoslaná okamžitá platba, Omyl - vratenie platby",
 5,2026-06-30,-10.0,EUR,,"Odoslaná okamžitá platba, Omyl - vratenie platby",
 6,2026-06-30,-10.0,EUR,,"Odoslaná okamžitá platba, Omyl - vratenie platby",
-7,2026-06-30,10.0,EUR,Denisa Orosova,"Prijatá platba, Darcek Janko",
-8,2026-06-30,10.0,EUR,Alzbeta Hudakova,"Prijatá platba, Darcek Janko",
-9,2026-06-30,10.0,EUR,Abdulwahab Al-Sbenaty,"Prijatá platba, Darcek Janko",
-10,2026-06-30,10.0,EUR,Mihaľ Daniel,"Prijatá platba, Darcek Janko",
-11,2026-06-30,-221.4,EUR,,"Odoslaná okamžitá platba, Reklamna plocha","VS: 25162
+7,2026-06-30,-10.0,EUR,,"Odoslaná okamžitá platba, Omyl - vratenie platby",
+8,2026-06-30,10.0,EUR,Denisa Orosova,"Prijatá platba, Darcek Janko",
+9,2026-06-30,10.0,EUR,Alzbeta Hudakova,"Prijatá platba, Darcek Janko",
+10,2026-06-30,10.0,EUR,Abdulwahab Al-Sbenaty,"Prijatá platba, Darcek Janko",
+11,2026-06-30,10.0,EUR,Mihaľ Daniel,"Prijatá platba, Darcek Janko",
+12,2026-06-30,-221.4,EUR,,"Odoslaná okamžitá platba, Reklamna plocha","VS: 25162
 KS: 0308"
-12,2026-06-29,1000.0,EUR,Josef Alsharabi,"Prijatá platba, drzim palce",
-13,2026-06-27,2000.0,EUR,Branislav Gigac,"Prijatá platba, Dar",
+13,2026-06-29,1000.0,EUR,Josef Alsharabi,"Prijatá platba, drzim palce",
+14,2026-06-27,2000.0,EUR,Branislav Gigac,"Prijatá platba, Dar",
