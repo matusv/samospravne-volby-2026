@@ -1,6 +1,18 @@
 index,date,amount,account_name,message,vs
-0,2026-07-06,-12.18,"WebSupport, s.r.o.",Platba za domenu,1026227546
-1,2026-07-03,-0.04,,Transakčná daň za transakcie,999
-2,2026-06-30,-0.25,,Poplatky za platby spolu,9
-3,2026-06-30,-7.0,,Vedenie účtu,9
-4,2026-06-23,100000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet,
+0,2026-07-16,-3314.85,CyberSoft s.r.o.,Billboardy NR oktober 2026 - kampan Uhrikova,26071306
+1,2026-07-16,-3314.85,CyberSoft s.r.o.,Billboardy NR september - kampan Uhrikova,26071303
+2,2026-07-16,-4692.45,CyberSoft s.r.o.,Billboardy ZA kraj oktober 2026 - kampan Belousovova,26071307
+3,2026-07-16,-4354.2,CyberSoft s.r.o.,Billboardy ZA kraj september 2026 - kampan Belousovova,26071304
+4,2026-07-16,-9434.1,CyberSoft s.r.o.,Billboardy BB kraj oktober 2026 - kampan Suja,26071305
+5,2026-07-16,-8302.5,CyberSoft s.r.o.,Billboardy BB kraj september 2026 - kampan Suja,26071302
+6,2026-07-16,-2059.5,CyberSoft s.r.o.,Billboardy ZA kraj august 2026 - kampan Belousovova,26071301
+7,2026-07-16,-2317.3,CyberSoft s.r.o.,Billboardy BB kraj 08/26 doplatok,26070108
+8,2026-07-16,-2000.0,CyberSoft s.r.o.,Billboardy BB kraj 08/26,26070108
+9,2026-07-16,-4702.91,Dataprint sk s.r.o.,Bannery MS 07/26,2026050
+10,2026-07-16,-2741.67,Dataprint sk s.r.o.,Bannery MS 07/26,2026047
+11,2026-07-16,-531.36,"NUBIUM, s. r. o.",Billboardy NR 07/2026,2610004282
+12,2026-07-06,-12.18,"WebSupport, s.r.o.",Platba za domenu,1026227546
+13,2026-07-03,-0.04,,Transakčná daň za transakcie,999
+14,2026-06-30,-0.25,,Poplatky za platby spolu,9
+15,2026-06-30,-7.0,,Vedenie účtu,9
+16,2026-06-23,100000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet,

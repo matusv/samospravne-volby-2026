@@ -1,47 +1,49 @@
 index,date,amount,currency,account_name,message,vs
-0,2026-07-15,1200.0,EUR,Liberálny dom s. r. o.,"Prijatá platba, Dar",
-1,2026-07-15,1000.0,EUR,Peter Polak,"Prijatá platba, ",
-2,2026-07-14,900.0,EUR,Adam Bajo,"Prijatá platba, Dar na kampan",
-3,2026-07-13,115.5,EUR,Renata Hradecsna,"Prijatá platba, KV",
-4,2026-07-13,-18.2,EUR,,"Odoslaná platba elektronicky, Vylep plagatov MsKS",VS: 202600076
-5,2026-07-13,-615.0,EUR,,"Odoslaná okamžitá platba, Komunikacna podpora - kampan","VS: 20260014
+0,2026-07-16,30.0,EUR,Gazdík Tomáš,"Prijatá platba, ",
+1,2026-07-15,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 12.07.2026","VS: 497000195
+ŠS: 5032785547
+KS: 6898"
+2,2026-07-15,-5.48,EUR,,"Transakcia platobnou kartou, Suma: 5,48 EUR 12.07.2026 Miesto: MERKURY SHOP s.r.o. LEVICE","VS: 405000195
+ŠS: 5032785547
+KS: 0608"
+3,2026-07-15,1200.0,EUR,Liberálny dom s. r. o.,"Prijatá platba, Dar",
+4,2026-07-15,1000.0,EUR,Peter Polak,"Prijatá platba, ",
+5,2026-07-14,900.0,EUR,Adam Bajo,"Prijatá platba, Dar na kampan",
+6,2026-07-13,115.5,EUR,Renata Hradecsna,"Prijatá platba, KV",
+7,2026-07-13,-18.2,EUR,,"Odoslaná platba elektronicky, Vylep plagatov MsKS",VS: 202600076
+8,2026-07-13,-615.0,EUR,,"Odoslaná okamžitá platba, Komunikacna podpora - kampan","VS: 20260014
 KS: 0308"
-6,2026-07-10,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 08.07.2026","VS: 497000190
+9,2026-07-10,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 08.07.2026","VS: 497000190
 ŠS: 5032785547
 KS: 6898"
-7,2026-07-10,-67.5,EUR,,"Transakcia platobnou kartou, Suma: 67,5 EUR 08.07.2026 Miesto: MIRA OFFICE LEVICE","VS: 405000190
+10,2026-07-10,-67.5,EUR,,"Transakcia platobnou kartou, Suma: 67,5 EUR 08.07.2026 Miesto: MIRA OFFICE LEVICE","VS: 405000190
 ŠS: 5032785547
 KS: 0608"
-8,2026-07-09,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 07.07.2026","VS: 497000190
+11,2026-07-09,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 07.07.2026","VS: 497000190
 ŠS: 5032785547
 KS: 6898"
-9,2026-07-09,-29.99,EUR,,"Transakcia platobnou kartou, Suma: 29,99 EUR 07.07.2026 Miesto: Google Play Apps Dublin","VS: 405000190
+12,2026-07-09,-29.99,EUR,,"Transakcia platobnou kartou, Suma: 29,99 EUR 07.07.2026 Miesto: Google Play Apps Dublin","VS: 405000190
 ŠS: 5032785547
 KS: 0608"
-10,2026-07-08,20.0,EUR,Andrea Cengerova,"Prijatá platba, ",
-11,2026-07-07,50.0,EUR,Elena Bridisova,"Prijatá platba, ",
-12,2026-07-06,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 02.07.2026","VS: 497000184
+13,2026-07-08,20.0,EUR,Andrea Cengerova,"Prijatá platba, ",
+14,2026-07-07,50.0,EUR,Elena Bridisova,"Prijatá platba, ",
+15,2026-07-06,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 02.07.2026","VS: 497000184
 ŠS: 5032785547
 KS: 6898"
-13,2026-07-06,-36.41,EUR,,"Transakcia platobnou kartou, Suma: 36,41 EUR 02.07.2026 Miesto: Tesco Levice Levice","VS: 405000184
+16,2026-07-06,-36.41,EUR,,"Transakcia platobnou kartou, Suma: 36,41 EUR 02.07.2026 Miesto: Tesco Levice Levice","VS: 405000184
 ŠS: 5032785547
 KS: 0608"
-14,2026-07-06,250.0,EUR,Adamová Andrea,"Prijatá platba, ",
-15,2026-07-04,50.0,EUR,Pohánka Ľuboš,"Prijatá platba, ",
-16,2026-07-03,800.0,EUR,"Danielič Martin, Ing.","Prijatá platba, ",
-17,2026-07-03,20.0,EUR,Vrecnik Peter,"Prijatá platba, ",
-18,2026-07-02,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.06.2026","VS: 497000182
+17,2026-07-06,250.0,EUR,Adamová Andrea,"Prijatá platba, ",
+18,2026-07-04,50.0,EUR,Pohánka Ľuboš,"Prijatá platba, ",
+19,2026-07-03,800.0,EUR,"Danielič Martin, Ing.","Prijatá platba, ",
+20,2026-07-03,20.0,EUR,Vrecnik Peter,"Prijatá platba, ",
+21,2026-07-02,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.06.2026","VS: 497000182
 ŠS: 5032785547
 KS: 6898"
-19,2026-07-02,-24.86,EUR,,"Transakcia platobnou kartou, Suma: 24,86 EUR 30.06.2026 Miesto: Tesco Levice Levice","VS: 405000182
+22,2026-07-02,-24.86,EUR,,"Transakcia platobnou kartou, Suma: 24,86 EUR 30.06.2026 Miesto: Tesco Levice Levice","VS: 405000182
 ŠS: 5032785547
 KS: 0608"
-20,2026-07-02,-28.0,EUR,,"Odoslaná platba elektronicky, Dan/poplatok za prenajom ver.priestranstva FITPARK LV","VS: 3080000429
+23,2026-07-02,-28.0,EUR,,"Odoslaná platba elektronicky, Dan/poplatok za prenajom ver.priestranstva FITPARK LV","VS: 3080000429
 ŠS: 2603019919
 KS: 558"
-21,2026-07-02,10.0,EUR,Petríková Rút,"Prijatá platba, Kampaň",
-22,2026-07-02,10.0,EUR,Radoslav Petrik,"Prijatá platba, Kampan",
-23,2026-07-02,10.0,EUR,Toldy Július,"Prijatá platba, ",
-24,2026-07-01,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 29.06.2026","VS: 497000181
-ŠS: 5032785547
-KS: 6898"
+24,2026-07-02,10.0,EUR,Petríková Rút,"Prijatá platba, Kampaň",

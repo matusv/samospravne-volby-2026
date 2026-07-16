@@ -1,6 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Holanova Miriam,2026-07-15,1500,EUR,P-20260715-511449771,Prijatá Okamžitá platba,,
-1,KYSELA STEFAN,2026-07-15,2500,EUR,?/DO2026-07-15/SP,Prijatá Okamžitá platba,,
-2,Martinková Mária,2026-07-14,1000,EUR,OO26071400142525,Prijatá Okamžitá platba,,
-3,,2026-06-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
-4,Choma Igor,2026-06-18,5000,EUR,F001180620263008085,Prijatá SEPA platba,,
+0,LISKA IGOR,2026-07-16,1000,EUR,?/DO2026-07-16/SP,Prijatá Okamžitá platba,,
+1,Holanova Miriam,2026-07-15,1500,EUR,P-20260715-511449771,Prijatá Okamžitá platba,,
+2,KYSELA STEFAN,2026-07-15,2500,EUR,?/DO2026-07-15/SP,Prijatá Okamžitá platba,,
+3,Martinková Mária,2026-07-14,1000,EUR,OO26071400142525,Prijatá Okamžitá platba,,
+4,,2026-06-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+5,Choma Igor,2026-06-18,5000,EUR,F001180620263008085,Prijatá SEPA platba,,

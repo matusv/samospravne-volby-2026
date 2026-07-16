@@ -1,23 +1,28 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2026-07-06,-1697.4,Bezhotovostná platba,,Uhrada faktury 260130,0308,260130,,
-1,2026-07-01,-500.0,Okamžitá odchádzajúca Europlatba,,MED,0308,26008,,
-2,2026-06-25,-270.6,Okamžitá odchádzajúca Europlatba,,,,12026067,,
-3,2026-06-24,500.0,Okamžitá prichádzajúca Europlatba,Bellov Maximilián,,,,,Bellov Maximilián
-4,2026-06-24,500.0,Okamžitá prichádzajúca Europlatba,Bellov Maximilián,,,,,Bellov Maximilián
-5,2026-06-24,-984.0,Okamžitá odchádzajúca Europlatba,,,,12026061,,
-6,2026-06-18,-3849.9,Okamžitá odchádzajúca Europlatba,,,0308,2603,,
-7,2026-06-17,-190.04,Bezhotovostná platba,,Uhrada faktury 260117,0308,260117,,
-8,2026-06-10,-520.61,Okamžitá odchádzajúca Europlatba,,Uhrada faktury 2026103,,2026103,,
-9,2026-06-08,-282.9,Bezhotovostná platba,,Uhrada faktury 260108,0308,260108,,
-10,2026-06-02,-300.0,Okamžitá odchádzajúca Europlatba,,MED,0308,26005,,
-11,2026-05-28,-442.8,Okamžitá odchádzajúca Europlatba,,"Stanislav Balco. Gombalova N (tlac3
+0,2026-07-16,-260.76,Okamžitá odchádzajúca Europlatba,,,,,,
+1,2026-07-16,-1351.34,Okamžitá odchádzajúca Europlatba,,Uhrada faktury 2026163,,2026163,,
+2,2026-07-16,-67.0,Okamžitá odchádzajúca Europlatba,,"Dan/poplatok za uzivanie verejnehop
+riestranstva na rok 2026",0558,1390214041,2603017101,
+3,2026-07-16,2500.0,Okamžitá prichádzajúca Europlatba,STANISLAV BALCO,", Kamp",,,,STANISLAV BALCO
+4,2026-07-06,-1697.4,Bezhotovostná platba,,Uhrada faktury 260130,0308,260130,,
+5,2026-07-01,-500.0,Okamžitá odchádzajúca Europlatba,,MED,0308,26008,,
+6,2026-06-25,-270.6,Okamžitá odchádzajúca Europlatba,,,,12026067,,
+7,2026-06-24,500.0,Okamžitá prichádzajúca Europlatba,Bellov Maximilián,,,,,Bellov Maximilián
+8,2026-06-24,500.0,Okamžitá prichádzajúca Europlatba,Bellov Maximilián,,,,,Bellov Maximilián
+9,2026-06-24,-984.0,Okamžitá odchádzajúca Europlatba,,,,12026061,,
+10,2026-06-18,-3849.9,Okamžitá odchádzajúca Europlatba,,,0308,2603,,
+11,2026-06-17,-190.04,Bezhotovostná platba,,Uhrada faktury 260117,0308,260117,,
+12,2026-06-10,-520.61,Okamžitá odchádzajúca Europlatba,,Uhrada faktury 2026103,,2026103,,
+13,2026-06-08,-282.9,Bezhotovostná platba,,Uhrada faktury 260108,0308,260108,,
+14,2026-06-02,-300.0,Okamžitá odchádzajúca Europlatba,,MED,0308,26005,,
+15,2026-05-28,-442.8,Okamžitá odchádzajúca Europlatba,,"Stanislav Balco. Gombalova N (tlac3
 0). 11.05.2026",0000,202605300,0,
-12,2026-05-26,700.0,Okamžitá prichádzajúca Europlatba,Peter Kukla,,,,,Peter Kukla
-13,2026-05-26,3000.0,Okamžitá prichádzajúca Europlatba,ONDREJ BALCO,Prispevok na kampan,,,,ONDREJ BALCO
-14,2026-05-19,-172.2,Okamžitá odchádzajúca Europlatba,,,,,,
-15,2026-04-28,-95.94,Okamžitá odchádzajúca Europlatba,,Uhrada faktury 260086,0308,260086,,
-16,2026-04-21,-500.0,Okamžitá odchádzajúca Europlatba,,,,,,turnaj
-17,2026-04-15,-996.3,Okamžitá odchádzajúca Europlatba,,Balco Stanislav,,12026038,,
-18,2026-04-07,-120.0,Okamžitá odchádzajúca Europlatba,,,,20260008,,
-19,2026-03-25,-2730.6,Okamžitá odchádzajúca Europlatba,,Balco Stanislav,,0022026,,
-20,2026-03-02,10000.0,Okamžitá prichádzajúca Europlatba,Pavel Durkove,Prispevok,,,,Pavel Durkove
+16,2026-05-26,700.0,Okamžitá prichádzajúca Europlatba,Peter Kukla,,,,,Peter Kukla
+17,2026-05-26,3000.0,Okamžitá prichádzajúca Europlatba,ONDREJ BALCO,Prispevok na kampan,,,,ONDREJ BALCO
+18,2026-05-19,-172.2,Okamžitá odchádzajúca Europlatba,,,,,,
+19,2026-04-28,-95.94,Okamžitá odchádzajúca Europlatba,,Uhrada faktury 260086,0308,260086,,
+20,2026-04-21,-500.0,Okamžitá odchádzajúca Europlatba,,,,,,turnaj
+21,2026-04-15,-996.3,Okamžitá odchádzajúca Europlatba,,Balco Stanislav,,12026038,,
+22,2026-04-07,-120.0,Okamžitá odchádzajúca Europlatba,,,,20260008,,
+23,2026-03-25,-2730.6,Okamžitá odchádzajúca Europlatba,,Balco Stanislav,,0022026,,
+24,2026-03-02,10000.0,Okamžitá prichádzajúca Europlatba,Pavel Durkove,Prispevok,,,,Pavel Durkove
