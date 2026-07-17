@@ -1,57 +1,59 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2026-07-17,-1.23,Transakčná daň - bezhotovostná platba,"Global 24, s.r.o.",,,,,
-1,2026-07-17,-307.5,Okamžitá odchádzajúca Europlatba,"Global 24, s.r.o.",Pravo na pravdu. . 17.07.2026,,2026029,,PR clanok
-2,2026-07-17,-6.98,Transakčná daň - bezhotovostná platba,Regionpress,,,,,
-3,2026-07-17,-1744.63,Okamžitá odchádzajúca Europlatba,Regionpress,Uhrada faktury 14 426 0059,,144260059,,regionmail a regionprint distribucia ZV
-4,2026-07-17,-8.32,Transakčná daň - bezhotovostná platba,Regionpress,,,,,
-5,2026-07-17,-2080.55,Okamžitá odchádzajúca Europlatba,Regionpress,"Uhrada zalohovej faktury 14 426 006
+0,2026-07-17,-40.0,Transakčná daň - bezhotovostná platba,Click Media s.r.o.,,,,,
+1,2026-07-17,-28114.73,Okamžitá odchádzajúca Europlatba,Click Media s.r.o.,Uhrada faktury: 2026222,,2026222,,online bannerova kampan 07/2026
+2,2026-07-17,-1.23,Transakčná daň - bezhotovostná platba,"Global 24, s.r.o.",,,,,
+3,2026-07-17,-307.5,Okamžitá odchádzajúca Europlatba,"Global 24, s.r.o.",Pravo na pravdu. . 17.07.2026,,2026029,,PR clanok
+4,2026-07-17,-6.98,Transakčná daň - bezhotovostná platba,Regionpress,,,,,
+5,2026-07-17,-1744.63,Okamžitá odchádzajúca Europlatba,Regionpress,Uhrada faktury 14 426 0059,,144260059,,regionmail a regionprint distribucia ZV
+6,2026-07-17,-8.32,Transakčná daň - bezhotovostná platba,Regionpress,,,,,
+7,2026-07-17,-2080.55,Okamžitá odchádzajúca Europlatba,Regionpress,"Uhrada zalohovej faktury 14 426 006
 0",,144260060,,regionmail LC
-6,2026-07-16,-0.26,Transakčná daň - bezhotovostná platba,X print s.r.o.,,,,,
-7,2026-07-16,-63.96,Okamžitá odchádzajúca Europlatba,X print s.r.o.,Potlac mikrofonu.pravo na pravdu,0008,2600064,,potlac na mikrofon
-8,2026-07-15,-0.86,Transakčná daň - bezhotovostná platba,Regionpress,,,,,
-9,2026-07-15,-215.25,Okamžitá odchádzajúca Europlatba,Regionpress,regionpress letakA5,,144260064,,
-10,2026-07-15,-4.84,Transakčná daň - bezhotovostná platba,Regionpress,,,,,
-11,2026-07-15,-1210.07,Bezhotovostná platba,Regionpress,Uhrada faktury 14 426 0063,,144260063,,"Rimavska Sobota, Revuca, Roznava"
-12,2026-07-13,-3.0,Transakčná daň - bezhotovostná platba,"REGIONPRESS, s.r.o.",,,,,
-13,2026-07-13,-750.3,Okamžitá odchádzajúca Europlatba,"REGIONPRESS, s.r.o.",,,146260429,,
-14,2026-07-10,-1.6,Transakčná daň - bezhotovostná platba,,,,,,
-15,2026-07-10,-400.0,Platba prevodom v rámci banky,,,0308,20260601,,Hura prazdniny
-16,2026-07-09,-40.0,Transakčná daň - bezhotovostná platba,"AKO, s.r.o.",,,,,
-17,2026-07-09,-16814.1,Bezhotovostná platba,"AKO, s.r.o.",,,4520262648,,prieskumy
-18,2026-07-08,-0.31,Transakčná daň - bezhotovostná platba,Bittner print s.r.o.,,,,,
-19,2026-07-08,-77.86,Okamžitá odchádzajúca Europlatba,Bittner print s.r.o.,Pravo na pravdu. . 06.07.2026,0308,2020260051,,volebny plagat CL
-20,2026-07-07,-1.97,Transakčná daň - bezhotovostná platba,kanos.sk s.r.o.,,,,,
-21,2026-07-07,-492.0,Okamžitá odchádzajúca Europlatba,kanos.sk s.r.o.,Uhrada faktury: 20260058,,20260058,,
-22,2026-07-06,-40.0,Transakčná daň - bezhotovostná platba,"ISPA, spo. s.r.o.",,,,,
-23,2026-07-06,-14956.8,Bezhotovostná platba,"ISPA, spo. s.r.o.",Letna kamparn Pravo na pravdu,,26950271,,Letna kamparn Pravo na pravdu
-24,2026-07-06,-19.14,Transakčná daň - bezhotovostná platba,"ISPA, spo. s.r.o.",,,,,
-25,2026-07-06,-4784.7,Okamžitá odchádzajúca Europlatba,"ISPA, spo. s.r.o.",Letna kampan Pravo na pravdu,,26950270,,Letna kampan Pravo na pravdu
-26,2026-07-06,-1.21,Transakčná daň - bezhotovostná platba,"REGIONPRESS, s.r.o.",,,,,
-27,2026-07-06,-301.35,Okamžitá odchádzajúca Europlatba,"REGIONPRESS, s.r.o.",,,146260376,,
-28,2026-07-06,-1.65,Transakčná daň - bezhotovostná platba,"REGIONPRESS, s.r.o.",,,,,
-29,2026-07-06,-412.05,Okamžitá odchádzajúca Europlatba,"REGIONPRESS, s.r.o.",,,146260396,,
-30,2026-07-03,-32.2,Transakčná daň - bezhotovostná platba,GRYF reklamne studio s.r.o.,,,,,
-31,2026-07-03,-8050.35,Bezhotovostná platba,GRYF reklamne studio s.r.o.,Uhrada faktury VF20262285,0308,20262285,,Letna kampan Pravo na pravdu
-32,2026-07-03,-33.21,Transakčná daň - bezhotovostná platba,GRYF reklamne studio s.r.o.,,,,,
-33,2026-07-03,-8302.5,Bezhotovostná platba,GRYF reklamne studio s.r.o.,Uhrada faktury VF20262287,0308,20262287,,Letna kampan Pravo na pravdu
-34,2026-07-03,-40.0,Transakčná daň - bezhotovostná platba,GRYF reklamne studio s.r.o.,,,,,
-35,2026-07-03,-23603.7,Bezhotovostná platba,GRYF reklamne studio s.r.o.,Uhrada faktury VF20262286,0308,20262286,,Letna kampan Pravo na pravdu
-36,2026-07-03,-40.0,Transakčná daň - bezhotovostná platba,"IMAGEWELL, s.r.o.",,,,,
-37,2026-07-03,-12662.11,Okamžitá odchádzajúca Europlatba,"IMAGEWELL, s.r.o.",,0008,460260018,,Letna kampan Pravo na pravdu
-38,2026-07-03,-40.0,Transakčná daň - bezhotovostná platba,"euroAWK, spol. s r.o.",,,,,
-39,2026-07-03,-29520.0,Okamžitá odchádzajúca Europlatba,"euroAWK, spol. s r.o.",,,2670084,,Letná kampaň Právo na pravdu
-40,2026-07-03,-16.24,Transakčná daň - bezhotovostná platba,"euroAWK, spol. s r.o.",,,,,
-41,2026-07-03,-4059.0,Okamžitá odchádzajúca Europlatba,"euroAWK, spol. s r.o.",,,2670085,,Letná kampaň Právo na pravdu
-42,2026-07-03,-40.0,Transakčná daň - bezhotovostná platba,ARTON s.r.o.,,,,,
-43,2026-07-03,-14347.95,Okamžitá odchádzajúca Europlatba,ARTON s.r.o.,"Pravo na pravdu. Zahorska N (tlac,i
+8,2026-07-16,-0.26,Transakčná daň - bezhotovostná platba,X print s.r.o.,,,,,
+9,2026-07-16,-63.96,Okamžitá odchádzajúca Europlatba,X print s.r.o.,Potlac mikrofonu.pravo na pravdu,0008,2600064,,potlac na mikrofon
+10,2026-07-15,-0.86,Transakčná daň - bezhotovostná platba,Regionpress,,,,,
+11,2026-07-15,-215.25,Okamžitá odchádzajúca Europlatba,Regionpress,regionpress letakA5,,144260064,,
+12,2026-07-15,-4.84,Transakčná daň - bezhotovostná platba,Regionpress,,,,,
+13,2026-07-15,-1210.07,Bezhotovostná platba,Regionpress,Uhrada faktury 14 426 0063,,144260063,,"Rimavska Sobota, Revuca, Roznava"
+14,2026-07-13,-3.0,Transakčná daň - bezhotovostná platba,"REGIONPRESS, s.r.o.",,,,,
+15,2026-07-13,-750.3,Okamžitá odchádzajúca Europlatba,"REGIONPRESS, s.r.o.",,,146260429,,
+16,2026-07-10,-1.6,Transakčná daň - bezhotovostná platba,,,,,,
+17,2026-07-10,-400.0,Platba prevodom v rámci banky,,,0308,20260601,,Hura prazdniny
+18,2026-07-09,-40.0,Transakčná daň - bezhotovostná platba,"AKO, s.r.o.",,,,,
+19,2026-07-09,-16814.1,Bezhotovostná platba,"AKO, s.r.o.",,,4520262648,,prieskumy
+20,2026-07-08,-0.31,Transakčná daň - bezhotovostná platba,Bittner print s.r.o.,,,,,
+21,2026-07-08,-77.86,Okamžitá odchádzajúca Europlatba,Bittner print s.r.o.,Pravo na pravdu. . 06.07.2026,0308,2020260051,,volebny plagat CL
+22,2026-07-07,-1.97,Transakčná daň - bezhotovostná platba,kanos.sk s.r.o.,,,,,
+23,2026-07-07,-492.0,Okamžitá odchádzajúca Europlatba,kanos.sk s.r.o.,Uhrada faktury: 20260058,,20260058,,
+24,2026-07-06,-40.0,Transakčná daň - bezhotovostná platba,"ISPA, spo. s.r.o.",,,,,
+25,2026-07-06,-14956.8,Bezhotovostná platba,"ISPA, spo. s.r.o.",Letna kamparn Pravo na pravdu,,26950271,,Letna kamparn Pravo na pravdu
+26,2026-07-06,-19.14,Transakčná daň - bezhotovostná platba,"ISPA, spo. s.r.o.",,,,,
+27,2026-07-06,-4784.7,Okamžitá odchádzajúca Europlatba,"ISPA, spo. s.r.o.",Letna kampan Pravo na pravdu,,26950270,,Letna kampan Pravo na pravdu
+28,2026-07-06,-1.21,Transakčná daň - bezhotovostná platba,"REGIONPRESS, s.r.o.",,,,,
+29,2026-07-06,-301.35,Okamžitá odchádzajúca Europlatba,"REGIONPRESS, s.r.o.",,,146260376,,
+30,2026-07-06,-1.65,Transakčná daň - bezhotovostná platba,"REGIONPRESS, s.r.o.",,,,,
+31,2026-07-06,-412.05,Okamžitá odchádzajúca Europlatba,"REGIONPRESS, s.r.o.",,,146260396,,
+32,2026-07-03,-32.2,Transakčná daň - bezhotovostná platba,GRYF reklamne studio s.r.o.,,,,,
+33,2026-07-03,-8050.35,Bezhotovostná platba,GRYF reklamne studio s.r.o.,Uhrada faktury VF20262285,0308,20262285,,Letna kampan Pravo na pravdu
+34,2026-07-03,-33.21,Transakčná daň - bezhotovostná platba,GRYF reklamne studio s.r.o.,,,,,
+35,2026-07-03,-8302.5,Bezhotovostná platba,GRYF reklamne studio s.r.o.,Uhrada faktury VF20262287,0308,20262287,,Letna kampan Pravo na pravdu
+36,2026-07-03,-40.0,Transakčná daň - bezhotovostná platba,GRYF reklamne studio s.r.o.,,,,,
+37,2026-07-03,-23603.7,Bezhotovostná platba,GRYF reklamne studio s.r.o.,Uhrada faktury VF20262286,0308,20262286,,Letna kampan Pravo na pravdu
+38,2026-07-03,-40.0,Transakčná daň - bezhotovostná platba,"IMAGEWELL, s.r.o.",,,,,
+39,2026-07-03,-12662.11,Okamžitá odchádzajúca Europlatba,"IMAGEWELL, s.r.o.",,0008,460260018,,Letna kampan Pravo na pravdu
+40,2026-07-03,-40.0,Transakčná daň - bezhotovostná platba,"euroAWK, spol. s r.o.",,,,,
+41,2026-07-03,-29520.0,Okamžitá odchádzajúca Europlatba,"euroAWK, spol. s r.o.",,,2670084,,Letná kampaň Právo na pravdu
+42,2026-07-03,-16.24,Transakčná daň - bezhotovostná platba,"euroAWK, spol. s r.o.",,,,,
+43,2026-07-03,-4059.0,Okamžitá odchádzajúca Europlatba,"euroAWK, spol. s r.o.",,,2670085,,Letná kampaň Právo na pravdu
+44,2026-07-03,-40.0,Transakčná daň - bezhotovostná platba,ARTON s.r.o.,,,,,
+45,2026-07-03,-14347.95,Okamžitá odchádzajúca Europlatba,ARTON s.r.o.,"Pravo na pravdu. Zahorska N (tlac,i
 nst 2045). 01.07.2026",,202607002,,Letná kampaň Právo na pravdu
-44,2026-07-01,250000.0,Platba prevodom v rámci banky,Právo na pravdu,na platenú reklamu - bigboardy a bilboardy,,,,na platenú reklamu - bigboardy a bilboardy
-45,2026-06-15,-25.22,Transakčná daň - bezhotovostná platba,Zed Production s. r. o.,,,,,
-46,2026-06-15,-6306.06,Bezhotovostná platba,Zed Production s. r. o.,,,2026019,,nahravacia technika
-47,2026-06-05,-0.89,Transakčná daň - bezhotovostná platba,Arton sro,,,,,
-48,2026-06-05,-221.4,Bezhotovostná platba,Arton sro,"Pravo na pravdu. Zahorska - tlac. z
+46,2026-07-01,250000.0,Platba prevodom v rámci banky,Právo na pravdu,na platenú reklamu - bigboardy a bilboardy,,,,na platenú reklamu - bigboardy a bilboardy
+47,2026-06-15,-25.22,Transakčná daň - bezhotovostná platba,Zed Production s. r. o.,,,,,
+48,2026-06-15,-6306.06,Bezhotovostná platba,Zed Production s. r. o.,,,2026019,,nahravacia technika
+49,2026-06-05,-0.89,Transakčná daň - bezhotovostná platba,Arton sro,,,,,
+50,2026-06-05,-221.4,Bezhotovostná platba,Arton sro,"Pravo na pravdu. Zahorska - tlac. z
 upanka BSK kampan",0000,260147,0,volebna kampan plagaty pre zupanku BSK
-49,2026-06-05,-8.66,Transakčná daň - bezhotovostná platba,"Arton Sro,",,,,,
-50,2026-06-05,-2164.8,Bezhotovostná platba,"Arton Sro,","Pravo na pravdu. Zahorska - najom p
+51,2026-06-05,-8.66,Transakčná daň - bezhotovostná platba,"Arton Sro,",,,,,
+52,2026-06-05,-2164.8,Bezhotovostná platba,"Arton Sro,","Pravo na pravdu. Zahorska - najom p
 re zupanku BSK volebna kampan",0000,260146,0,reklamne plochy pre zupanku BSK
-51,2026-06-02,30000.0,Platba prevodom v rámci banky,Právo na pravdu,"Keď už ma sledujete, tak poriadne. Zoroslav Kollár",,,,"Keď už ma sledujete, tak poriadne. Zoroslav Kollár"
+53,2026-06-02,30000.0,Platba prevodom v rámci banky,Právo na pravdu,"Keď už ma sledujete, tak poriadne. Zoroslav Kollár",,,,"Keď už ma sledujete, tak poriadne. Zoroslav Kollár"
