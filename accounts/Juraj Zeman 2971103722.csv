@@ -5,7 +5,9 @@ index,date,amount,currency,account_name,message,vs
 3,2026-07-07,-467.4,EUR,IT SERVIS SK s. r. o.,Platba/Platba za reklamné perá,"2026052
 VS2026052/SS/KS"
 4,2026-07-03,100.0,EUR,Mišák Ondrej,Platba/Vajnory spoločne,
-5,2026-07-02,50.0,EUR,Hoglová Radoslava,"
+5,2026-07-02,50.0,EUR,"
+                            Hoglová Radoslava
+                    ","
                         Platba
                     /
                         

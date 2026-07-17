@@ -1,10 +1,10 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2026-07-10,-584.25,Okamžitá odchádzajúca Europlatba,,"Velkoplosna tlac, vyroba a instalac
+0,2026-07-10,-584.25,Okamžitá odchádzajúca Europlatba,ING. MILAN BENKO - EUROKONTAKT,"Velkoplosna tlac, vyroba a instalac
 ia",0000,26136,0,"vyroba bannerov, inštalacia bannerov"
 1,2026-07-03,200.0,Okamžitá prichádzajúca Europlatba,Hromada Michal,,,,,Hromada Michal
 2,2026-05-28,10.0,Okamžitá prichádzajúca Europlatba,Franko Boris,"Mesto s ľuďmi -  držím palce, Podpora kandidatury",,,,Franko Boris
 3,2026-05-28,10.0,Okamžitá prichádzajúca Europlatba,"Sedláček Jakub, Ing.",Mesto s ľudmi - podpora kandidatúry,,,,"Sedláček Jakub, Ing."
-4,2026-05-24,-583.22,Okamžitá odchádzajúca Europlatba,,5505360 ASK12288651,,,,
+4,2026-05-24,-583.22,Okamžitá odchádzajúca Europlatba,printworld.com Gmbh,5505360 ASK12288651,,,,
 5,2026-05-22,200.0,Okamžitá prichádzajúca Europlatba,Slavomir Lamper,nech sa podari,,,,Slavomir Lamper
 6,2026-05-22,100.0,Okamžitá prichádzajúca Europlatba,Jozef Slivka,"Drzime palce, Podpora kandidatury",,,,Jozef Slivka
 7,2026-05-21,50.0,Okamžitá prichádzajúca Europlatba,Daniel Hederer,"Mesto s ludmi - drzim palce, Podpora kandidatury",,,,Daniel Hederer

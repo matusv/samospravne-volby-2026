@@ -1,38 +1,36 @@
 index,date,amount,currency,account_name,message,vs
-0,2026-07-15,-787.2,EUR,,"Odoslaná okamžitá platba, Billb jul 26",VS: 202607152
-1,2026-07-15,5.0,EUR,Bérešová Klára,"Prijatá platba, ",
-2,2026-07-02,20.0,EUR,Lucia Kováčová,"Prijatá platba, ",
-3,2026-07-02,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.06.2026","VS: 497000182
+0,2026-07-17,-200.0,EUR,,"Odoslaná okamžitá platba, Prenajom priest 2026-07-14",VS: 20260701
+1,2026-07-15,-787.2,EUR,,"Odoslaná okamžitá platba, Billb jul 26",VS: 202607152
+2,2026-07-15,5.0,EUR,Bérešová Klára,"Prijatá platba, ",
+3,2026-07-02,20.0,EUR,Lucia Kováčová,"Prijatá platba, ",
+4,2026-07-02,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.06.2026","VS: 497000182
 ŠS: 5032602247
 KS: 6898"
-4,2026-07-02,-12.0,EUR,,"Transakcia platobnou kartou, Suma: 12 EUR 30.06.2026 Miesto: POTRAVINY FRESH BANSKA BYSTRI","VS: 405000182
+5,2026-07-02,-12.0,EUR,,"Transakcia platobnou kartou, Suma: 12 EUR 30.06.2026 Miesto: POTRAVINY FRESH BANSKA BYSTRI","VS: 405000182
 ŠS: 5032602247
 KS: 0608"
-5,2026-07-01,150.0,EUR,Vestiga s. r. o.,"Prijatá platba, prispevok na kampan Sobota 2026",
-6,2026-06-30,-2.6,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.06.2026 do 30.06.2026, Za vedenie účtu/balíka služieb a výpisy: 2,00, Za transakcie: 0,60 , z toho:, 3 x debet - elektronicky: 0,60",
-7,2026-06-30,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 29.06.2026","VS: 495000180
+6,2026-07-01,150.0,EUR,Vestiga s. r. o.,"Prijatá platba, prispevok na kampan Sobota 2026",
+7,2026-06-30,-2.6,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.06.2026 do 30.06.2026, Za vedenie účtu/balíka služieb a výpisy: 2,00, Za transakcie: 0,60 , z toho:, 3 x debet - elektronicky: 0,60",
+8,2026-06-30,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 29.06.2026","VS: 495000180
 ŠS: 5032602247
 KS: 6898"
-8,2026-06-25,5.0,EUR,Bravčoková Alžbeta,"Prijatá platba, prispevok na kampan Sobota 2026",
-9,2026-06-24,50.0,EUR,LUKAJ RADOSLAV,"Prijatá platba, /DO2026-06-24/SPprispevok na kampan Sobota 2026",
-10,2026-06-24,20.0,EUR,SILVIA SULEKOVA KOLLARIKOVA,"Prijatá platba, ",
-11,2026-06-24,50.0,EUR,"Galátová Zuzana, Mgr.","Prijatá platba, prispevok na kampan Sobota 2026",
-12,2026-06-24,5.0,EUR,JURAJ BENČÍK,"Prijatá platba, prispevok na kampan Sobota 2026",
-13,2026-06-24,15.0,EUR,Salomon Volko,"Prijatá platba, prispevok na kampan Sobota 2026",
-14,2026-06-23,200.0,EUR,Igor Pribelsky,"Prijatá platba, vivat sobota",
-15,2026-06-22,5.0,EUR,Bérešová Klára,"Prijatá platba, ",
-16,2026-06-18,-100.0,EUR,,"Odoslaná platba elektronicky, Vratenie platby zo zahranicia",
-17,2026-06-17,-420.0,EUR,,"Odoslaná okamžitá platba, Tvorba propag videi","VS: 20260030
+9,2026-06-25,5.0,EUR,Bravčoková Alžbeta,"Prijatá platba, prispevok na kampan Sobota 2026",
+10,2026-06-24,50.0,EUR,LUKAJ RADOSLAV,"Prijatá platba, /DO2026-06-24/SPprispevok na kampan Sobota 2026",
+11,2026-06-24,20.0,EUR,SILVIA SULEKOVA KOLLARIKOVA,"Prijatá platba, ",
+12,2026-06-24,50.0,EUR,"Galátová Zuzana, Mgr.","Prijatá platba, prispevok na kampan Sobota 2026",
+13,2026-06-24,5.0,EUR,JURAJ BENČÍK,"Prijatá platba, prispevok na kampan Sobota 2026",
+14,2026-06-24,15.0,EUR,Salomon Volko,"Prijatá platba, prispevok na kampan Sobota 2026",
+15,2026-06-23,200.0,EUR,Igor Pribelsky,"Prijatá platba, vivat sobota",
+16,2026-06-22,5.0,EUR,Bérešová Klára,"Prijatá platba, ",
+17,2026-06-18,-100.0,EUR,,"Odoslaná platba elektronicky, Vratenie platby zo zahranicia",
+18,2026-06-17,-420.0,EUR,,"Odoslaná okamžitá platba, Tvorba propag videi","VS: 20260030
 KS: 0308"
-18,2026-06-16,5.0,EUR,Nemec Peter,"Prijatá platba, Prispevok na kampan",
-19,2026-06-15,100.0,EUR,Svatopluk Bartik,"Prijatá platba, na kampan",
-20,2026-06-11,220.0,EUR,Peter Luptak,"Prijatá platba, Peter Luptak - Financny prispevok na komunalne volby 2026","VS: 11062026
+19,2026-06-16,5.0,EUR,Nemec Peter,"Prijatá platba, Prispevok na kampan",
+20,2026-06-15,100.0,EUR,Svatopluk Bartik,"Prijatá platba, na kampan",
+21,2026-06-11,220.0,EUR,Peter Luptak,"Prijatá platba, Peter Luptak - Financny prispevok na komunalne volby 2026","VS: 11062026
 KS: 0558"
-21,2026-06-11,15.0,EUR,Nemec Peter,"Prijatá platba, Prispevok na kampan",
-22,2026-06-10,50.0,EUR,"Majerová Eleonóra, Ing.","Prijatá platba, na kampan",
-23,2026-06-10,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 08.06.2026","VS: 497000160
+22,2026-06-11,15.0,EUR,Nemec Peter,"Prijatá platba, Prispevok na kampan",
+23,2026-06-10,50.0,EUR,"Majerová Eleonóra, Ing.","Prijatá platba, na kampan",
+24,2026-06-10,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 08.06.2026","VS: 497000160
 ŠS: 5032602247
 KS: 6898"
-24,2026-06-10,-26.52,EUR,,"Transakcia platobnou kartou, Suma: 26,52 EUR 08.06.2026 Miesto: FAXCOPY57,BB,HORNA BANSKA BYSTRI","VS: 405000160
-ŠS: 5032602247
-KS: 0608"
