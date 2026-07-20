@@ -1,22 +1,22 @@
 index,index,date,amount,account_name,message,vs,name
-0,343,2026-04-30,-25.0,Stanislav Dubovsky,Platba/vratenie daru stanislav dubovsky,,Progresívne Slovensko
-1,391,2026-04-15,25.0,Stanislav Dubovsky,PLATBA/Dar,"35
+0,344,2026-04-30,-25.0,Stanislav Dubovsky,Platba/vratenie daru stanislav dubovsky,,Progresívne Slovensko
+1,392,2026-04-15,25.0,Stanislav Dubovsky,PLATBA/Dar,"35
 VS35/SS/KS",Progresívne Slovensko
 2,94,2026-04-17,-0.01,Ivan Rostas,Mylná platba,,Kresťanskodemokratické hnutie
 3,95,2026-04-15,0.01,Ivan Rostas,SK73 0200 0000 0045 5336 2157 . dakujem,,Kresťanskodemokratické hnutie
-4,736,2026-04-20,-2000.0,"Cicman Dalibor, Ing.",Vrateny dar,,Team Bratislava
-5,737,2026-04-15,2000.0,"Cicman Dalibor, Ing.",dar,20263164.0,Team Bratislava
-6,713,2026-05-06,-1670.0,Lukas Krajcik - Digital stories,Tvorba webu,2026023.0,Team Bratislava
-7,691,2026-05-14,1670.0,Lukáš Krajčík - Digital stories,Vratenie platby,,Team Bratislava
-8,556,2026-06-04,-500.0,"Šujan Juraj, Ing. arch.",Vrátený dar,,Team Bratislava
-9,599,2026-06-03,500.0,"Šujan Juraj, Ing. arch.",dar,20263359.0,Team Bratislava
-10,408,2026-06-23,-50000.0,Folkmer Petra,Vrátená chybná platba,,Team Bratislava
-11,440,2026-06-23,50000.0,Folkmer Petra,Dar na zaklade zmluvy- Petra Folkmer,,Team Bratislava
-12,67,2026-07-13,-8000.0,"Čvapek Róbert, Ing.",Dakujeme za Vasu podporu a priazen. Po upozorneni na porusenie internych predpisov darovania sme sa rozhodli Vam dar vratit.,,Team Bratislava
-13,131,2026-07-07,8000.0,"Čvapek Róbert, Ing.",Dar Čvapkovci,,Team Bratislava
-14,43,2026-06-01,-3200.0,VENA Agentur s. r. o.,Platba/Prenajom a osadenie ploch,"20260001
+4,739,2026-04-20,-2000.0,"Cicman Dalibor, Ing.",Vrateny dar,,Team Bratislava
+5,740,2026-04-15,2000.0,"Cicman Dalibor, Ing.",dar,20263164.0,Team Bratislava
+6,716,2026-05-06,-1670.0,Lukas Krajcik - Digital stories,Tvorba webu,2026023.0,Team Bratislava
+7,694,2026-05-14,1670.0,Lukáš Krajčík - Digital stories,Vratenie platby,,Team Bratislava
+8,559,2026-06-04,-500.0,"Šujan Juraj, Ing. arch.",Vrátený dar,,Team Bratislava
+9,602,2026-06-03,500.0,"Šujan Juraj, Ing. arch.",dar,20263359.0,Team Bratislava
+10,411,2026-06-23,-50000.0,Folkmer Petra,Vrátená chybná platba,,Team Bratislava
+11,443,2026-06-23,50000.0,Folkmer Petra,Dar na zaklade zmluvy- Petra Folkmer,,Team Bratislava
+12,70,2026-07-13,-8000.0,"Čvapek Róbert, Ing.",Dakujeme za Vasu podporu a priazen. Po upozorneni na porusenie internych predpisov darovania sme sa rozhodli Vam dar vratit.,,Team Bratislava
+13,134,2026-07-07,8000.0,"Čvapek Róbert, Ing.",Dar Čvapkovci,,Team Bratislava
+14,44,2026-06-01,-3200.0,VENA Agentur s. r. o.,Platba/Prenajom a osadenie ploch,"20260001
 VS20260001/SS/KS",Dunaj
-15,41,2026-06-04,3200.0,VENA Agentur s. r. o.,PLATBA,"20260001
+15,42,2026-06-04,3200.0,VENA Agentur s. r. o.,PLATBA,"20260001
 VS20260001/SS/KS",Dunaj
 16,72,2026-04-20,-253.0,Bosák Tibor,Vrátenie chybnej platby,,Ladislav Lörinc
 17,110,2026-04-07,253.0,Bosák Tibor,Tibor Bosák,,Ladislav Lörinc

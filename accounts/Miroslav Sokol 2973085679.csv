@@ -1,35 +1,49 @@
 index,date,amount,currency,account_name,message,vs
-0,2026-07-14,-10.0,EUR,,SPRAC.POPLATOK VA26071403507,
-1,2026-07-14,-423.47,EUR,Terezia Michalcova,PLATBA VA26071403507/Uhrada faktury c. 20260007. Odberatel Miroslav Sokol,
-2,2026-07-14,500.0,EUR,"Sokol Miroslav, Ing.",Platba,
-3,2026-07-13,-5.12,EUR,"FAXCOPY62,ZA,AUPARK","POS nákup FAXCOPY62,ZA,AUPARK / ZILINA / (POS 05442400)",
-4,2026-07-10,-23.0,EUR,OPENAI *CHATGPT SUBSCR,EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),
-5,2026-07-09,150.0,EUR,Ing.Frantisek Talapka,Platba/Podpora od Klubu ZaZA,
-6,2026-07-09,10.0,EUR,Lubomir Bechny,Platba/podpora pana kandidata cez ciarovy kod,
-7,2026-07-08,-184.5,EUR,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",Platba/Uhrada faktury VF20262288,"20262288
+0,2026-07-18,50.0,EUR,Ľubomír Tonka,Platba/Podpora,
+1,2026-07-14,-10.0,EUR,,SPRAC.POPLATOK VA26071403507,
+2,2026-07-14,-423.47,EUR,Terezia Michalcova,PLATBA VA26071403507/Uhrada faktury c. 20260007. Odberatel Miroslav Sokol,
+3,2026-07-14,500.0,EUR,"Sokol Miroslav, Ing.",Platba,
+4,2026-07-13,-5.12,EUR,"FAXCOPY62,ZA,AUPARK","POS nákup FAXCOPY62,ZA,AUPARK / ZILINA / (POS 05442400)",
+5,2026-07-10,-23.0,EUR,OPENAI *CHATGPT SUBSCR,EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),
+6,2026-07-09,150.0,EUR,Ing.Frantisek Talapka,Platba/Podpora od Klubu ZaZA,
+7,2026-07-09,10.0,EUR,Lubomir Bechny,Platba/podpora pana kandidata cez ciarovy kod,
+8,2026-07-08,-184.5,EUR,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",Platba/Uhrada faktury VF20262288,"20262288
 VS20262288/SS/KS308"
-8,2026-07-08,-8.14,EUR,C027 Zilina,POS nákup C027 Zilina / Zilina / (POS 06222997),
-9,2026-07-07,100.0,EUR,FRANTIŠEK TALAPKA,"Platba/ZILINA POTREBUJE ZMENU, MIRO DRZIM PALCE",
-10,2026-07-06,-250.0,EUR,"Schneider & Partners Co., s. r. o.",Platba/Úhrada faktúry: 20260025,"20260025
+9,2026-07-08,-8.14,EUR,C027 Zilina,POS nákup C027 Zilina / Zilina / (POS 06222997),
+10,2026-07-07,100.0,EUR,FRANTIŠEK TALAPKA,"Platba/ZILINA POTREBUJE ZMENU, MIRO DRZIM PALCE",
+11,2026-07-06,-250.0,EUR,"Schneider & Partners Co., s. r. o.",Platba/Úhrada faktúry: 20260025,"20260025
 VS20260025/SS/KS"
-11,2026-07-03,-1500.0,EUR,VANDA TUCHYNOVA,Platba/Management kampane,"12
+12,2026-07-03,-1500.0,EUR,VANDA TUCHYNOVA,Platba/Management kampane,"12
 VS12/SS/KS0308"
-12,2026-07-03,500.0,EUR,"Sokol Miroslav, Ing.",Platba,
-13,2026-07-03,-23.0,EUR,OPENAI *CHATGPT SUBSCR,EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),
-14,2026-06-30,-3.0,EUR,,Poplatok za účet,
-15,2026-06-24,-2.55,EUR,Tesco Zilina Hajik,POS nákup Tesco Zilina Hajik / Zilina / (POS 11267905),
-16,2026-06-24,-14.5,EUR,Cukraren Sofia,POS nákup Cukraren Sofia / Teplicka nad / (POS 11311602),
-17,2026-06-22,-1130.0,EUR,"Ja-Mar, s.r.o.",Platba/Sokol,"2026025
+13,2026-07-03,500.0,EUR,"Sokol Miroslav, Ing.",Platba,
+14,2026-07-03,-23.0,EUR,OPENAI *CHATGPT SUBSCR,EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),
+15,2026-06-30,-3.0,EUR,,Poplatok za účet,
+16,2026-06-24,-2.55,EUR,Tesco Zilina Hajik,POS nákup Tesco Zilina Hajik / Zilina / (POS 11267905),
+17,2026-06-24,-14.5,EUR,Cukraren Sofia,POS nákup Cukraren Sofia / Teplicka nad / (POS 11311602),
+18,2026-06-22,-1130.0,EUR,"Ja-Mar, s.r.o.",Platba/Sokol,"2026025
 VS2026025/SS/KS"
-18,2026-06-10,-26.28,EUR,GoPay Czech,Platba,"9264864524
+19,2026-06-10,-26.28,EUR,GoPay Czech,Platba,"9264864524
 VS9264864524/SS/KS"
-19,2026-06-10,-15.2,EUR,Cukraren Sofia,POS nákup Cukraren Sofia / Teplicka nad / (POS 11311602),
-20,2026-06-10,-23.0,EUR,OPENAI *CHATGPT SUBSCR,EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),
-21,2026-06-10,-8.76,EUR,C027 Zilina,POS nákup C027 Zilina / Zilina / (POS 06222997),
-22,2026-06-10,-23.0,EUR,OPENAI *CHATGPT SUBSCR,EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),
-23,2026-06-03,-120.0,EUR,"Schneider & Partners Co., s. r. o.",Platba/Úhrada faktúry: 20260019,"20260019
-VS20260019/SS/KS"
+20,2026-06-10,-15.2,EUR,Cukraren Sofia,POS nákup Cukraren Sofia / Teplicka nad / (POS 11311602),
+21,2026-06-10,-23.0,EUR,OPENAI *CHATGPT SUBSCR,EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),
+22,2026-06-10,-8.76,EUR,C027 Zilina,POS nákup C027 Zilina / Zilina / (POS 06222997),
+23,2026-06-10,-23.0,EUR,OPENAI *CHATGPT SUBSCR,"
+                        EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ)
+                    /
+                        
+                    ","
+                        
+                    "
 24,2026-06-03,-120.0,EUR,"
+                            Schneider & Partners Co., s. r. o.
+                    ","
+                        Platba
+                    /
+                        Úhrada faktúry: 20260019
+                    ","
+                        20260019VS20260019/SS/KS
+                    "
+25,2026-06-03,-120.0,EUR,"
                             Filip Balvan
                     ","
                         Platba
@@ -38,7 +52,7 @@ VS20260019/SS/KS"
                     ","
                         202626VS202626/SS/KS
                     "
-25,2026-06-01,-1500.0,EUR,"
+26,2026-06-01,-1500.0,EUR,"
                             VANDA TUCHYNOVA
                     ","
                         Platba
@@ -47,7 +61,7 @@ VS20260019/SS/KS"
                     ","
                         10VS10/SS/KS0308
                     "
-26,2026-06-01,400.0,EUR,"
+27,2026-06-01,400.0,EUR,"
                             ĽUBOMÍR KMOTORKA
                     ","
                         Platba
@@ -56,60 +70,52 @@ VS20260019/SS/KS"
                     ","
                         
                     "
-27,2026-06-01,3000.0,EUR,"
-                            Ing.Milan Urbanik
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        
-                    "
-28,2026-05-30,-3.0,EUR,,Poplatok za účet,
-29,2026-05-28,-7.95,EUR,OBI Zilina,POS nákup OBI Zilina / Zilina / (POS 55616369),
-30,2026-05-28,-14.25,EUR,EMI EU ZOC MAXZILINA,POS nákup EMI EU ZOC MAXZILINA / ZILINA / (POS 11301155),
-31,2026-05-28,-5.2,EUR,PEPCO 2002 ZILINA,POS nákup PEPCO 2002 ZILINA / ZILINA / (POS 11898103),
-32,2026-05-27,-3.99,EUR,C027 Zilina,POS nákup C027 Zilina / Zilina / (POS 06222997),
-33,2026-05-27,-7.7,EUR,COOP ZA PJ 101,POS nákup COOP ZA PJ 101 / ZILINA / (POS TN113150),
-34,2026-05-27,-22.41,EUR,"FAXCOPY62,ZA,AUPARK","POS nákup FAXCOPY62,ZA,AUPARK / ZILINA / (POS 05442401)",
-35,2026-05-27,-3.6,EUR,Maloobchod kancel.potr,POS nákup Maloobchod kancel.potr / Zilina / (POS AA234206),
-36,2026-05-27,-16.66,EUR,COOP ZA PJ 101,POS nákup COOP ZA PJ 101 / Zilina / (POS TN113150),
-37,2026-05-27,-29.51,EUR,C027 Zilina,POS nákup C027 Zilina / Zilina / (POS 06222997),
-38,2026-05-21,-37.49,EUR,C027 Zilina,POS nákup C027 Zilina / Zilina / (POS 06222997),
-39,2026-05-20,-47.53,EUR,OBI Zilina,POS nákup OBI Zilina / Zilina / (POS 55616369),
-40,2026-05-20,-143.75,EUR,AMCOLOR JUB,POS nákup AMCOLOR JUB / TEPLICKA NAD / (POS 99108331),
-41,2026-05-20,-129.59,EUR,C027 Zilina,POS nákup C027 Zilina / Zilina / (POS 06222997),
-42,2026-05-19,-36.83,EUR,Websupport s. r. o.,Platba,"1026175736
+28,2026-06-01,3000.0,EUR,Ing.Milan Urbanik,Platba,
+29,2026-05-30,-3.0,EUR,,Poplatok za účet,
+30,2026-05-28,-7.95,EUR,OBI Zilina,POS nákup OBI Zilina / Zilina / (POS 55616369),
+31,2026-05-28,-14.25,EUR,EMI EU ZOC MAXZILINA,POS nákup EMI EU ZOC MAXZILINA / ZILINA / (POS 11301155),
+32,2026-05-28,-5.2,EUR,PEPCO 2002 ZILINA,POS nákup PEPCO 2002 ZILINA / ZILINA / (POS 11898103),
+33,2026-05-27,-3.99,EUR,C027 Zilina,POS nákup C027 Zilina / Zilina / (POS 06222997),
+34,2026-05-27,-7.7,EUR,COOP ZA PJ 101,POS nákup COOP ZA PJ 101 / ZILINA / (POS TN113150),
+35,2026-05-27,-22.41,EUR,"FAXCOPY62,ZA,AUPARK","POS nákup FAXCOPY62,ZA,AUPARK / ZILINA / (POS 05442401)",
+36,2026-05-27,-3.6,EUR,Maloobchod kancel.potr,POS nákup Maloobchod kancel.potr / Zilina / (POS AA234206),
+37,2026-05-27,-16.66,EUR,COOP ZA PJ 101,POS nákup COOP ZA PJ 101 / Zilina / (POS TN113150),
+38,2026-05-27,-29.51,EUR,C027 Zilina,POS nákup C027 Zilina / Zilina / (POS 06222997),
+39,2026-05-21,-37.49,EUR,C027 Zilina,POS nákup C027 Zilina / Zilina / (POS 06222997),
+40,2026-05-20,-47.53,EUR,OBI Zilina,POS nákup OBI Zilina / Zilina / (POS 55616369),
+41,2026-05-20,-143.75,EUR,AMCOLOR JUB,POS nákup AMCOLOR JUB / TEPLICKA NAD / (POS 99108331),
+42,2026-05-20,-129.59,EUR,C027 Zilina,POS nákup C027 Zilina / Zilina / (POS 06222997),
+43,2026-05-19,-36.83,EUR,Websupport s. r. o.,Platba,"1026175736
 VS1026175736/SS/KS308"
-43,2026-05-18,5.0,EUR,Lubomir Bechny,Platba/Skusobna platba Lubo,
-44,2026-05-18,-66.41,EUR,"FAXCOPY62,ZA,AUPARK","POS nákup FAXCOPY62,ZA,AUPARK / ZILINA / (POS 05442400)",
-45,2026-05-18,-227.0,EUR,OLEJPREZDRAVIE,MOBILE APP NÁKUP E-COMM OLEJPREZDRAVIE / NITRA / (POS DL4EANUA),
-46,2026-05-14,227.0,EUR,"Sokol Miroslav, Ing.",Platba,
-47,2026-05-13,-273.8,EUR,GoPay Czech odštěpný závod,Platba,"9255195399
+44,2026-05-18,5.0,EUR,Lubomir Bechny,Platba/Skusobna platba Lubo,
+45,2026-05-18,-66.41,EUR,"FAXCOPY62,ZA,AUPARK","POS nákup FAXCOPY62,ZA,AUPARK / ZILINA / (POS 05442400)",
+46,2026-05-18,-227.0,EUR,OLEJPREZDRAVIE,MOBILE APP NÁKUP E-COMM OLEJPREZDRAVIE / NITRA / (POS DL4EANUA),
+47,2026-05-14,227.0,EUR,"Sokol Miroslav, Ing.",Platba,
+48,2026-05-13,-273.8,EUR,GoPay Czech odštěpný závod,Platba,"9255195399
 VS9255195399/SS9000010012/KS"
-48,2026-05-13,-23.0,EUR,OPENAI *CHATGPT SUBSCR,EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),
-49,2026-05-12,1000.0,EUR,"Kružliak Roman, Ing.",Platba,
-50,2026-05-08,179.8,EUR,GOPAY CZECH ODŠTĚPNÝ ZÁVOD,"PLATBA/VS: 4429059499, SS: 5077821996, GoPay-reklamace platby., ., .","4429059499
+49,2026-05-13,-23.0,EUR,OPENAI *CHATGPT SUBSCR,EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),
+50,2026-05-12,1000.0,EUR,"Kružliak Roman, Ing.",Platba,
+51,2026-05-08,179.8,EUR,GOPAY CZECH ODŠTĚPNÝ ZÁVOD,"PLATBA/VS: 4429059499, SS: 5077821996, GoPay-reklamace platby., ., .","4429059499
 VS4429059499/SS5077821996/KS"
-51,2026-05-08,-149.0,EUR,IKEA BRAT OD ECO,POS nákup IKEA BRAT OD ECO / Bratislava / (POS 54593952),
-52,2026-05-08,-23.0,EUR,OPENAI *CHATGPT SUBSCR,MOBILE APP NÁKUP E-COMM OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),
-53,2026-05-06,500.0,EUR,"Sokol Miroslav, Ing.",Platba,
-54,2026-05-04,-736.9,EUR,GoPay Czech odštěpný závod,Platba,"9252244635
+52,2026-05-08,-149.0,EUR,IKEA BRAT OD ECO,POS nákup IKEA BRAT OD ECO / Bratislava / (POS 54593952),
+53,2026-05-08,-23.0,EUR,OPENAI *CHATGPT SUBSCR,MOBILE APP NÁKUP E-COMM OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),
+54,2026-05-06,500.0,EUR,"Sokol Miroslav, Ing.",Platba,
+55,2026-05-04,-736.9,EUR,GoPay Czech odštěpný závod,Platba,"9252244635
 VS9252244635/SS9000010012/KS"
-55,2026-05-04,1000.0,EUR,"Sokol Miroslav, Ing.",Platba,
-56,2026-05-04,-1500.0,EUR,VANDA TUCHYNOVA,Platba/Management kampane,"7
+56,2026-05-04,1000.0,EUR,"Sokol Miroslav, Ing.",Platba,
+57,2026-05-04,-1500.0,EUR,VANDA TUCHYNOVA,Platba/Management kampane,"7
 VS07/SS/KS0308"
-57,2026-05-04,500.0,EUR,"Sokol Miroslav, Ing.",Platba,
-58,2026-05-04,-12.18,EUR,Websupport s. r. o.,Platba,"1026157818
+58,2026-05-04,500.0,EUR,"Sokol Miroslav, Ing.",Platba,
+59,2026-05-04,-12.18,EUR,Websupport s. r. o.,Platba,"1026157818
 VS1026157818/SS/KS308"
-59,2026-04-30,-3.0,EUR,,Poplatok za účet,
-60,2026-04-30,-28.97,EUR,"KINEKUS, s.r.o.","POS nákup KINEKUS, s.r.o. / ZILINA / (POS TV080301)",
-61,2026-04-29,1000.0,EUR,ANNA BADŽGOŇOVÁ,Platba/DAR,
-62,2026-04-29,-6.13,EUR,Tesco Zilina Hajik,POS nákup Tesco Zilina Hajik / Zilina / (POS 11267904),
-63,2026-04-17,-223.68,EUR,REMOS spol. s r.o.,Platba/QR2326045117,"2326045117
+60,2026-04-30,-3.0,EUR,,Poplatok za účet,
+61,2026-04-30,-28.97,EUR,"KINEKUS, s.r.o.","POS nákup KINEKUS, s.r.o. / ZILINA / (POS TV080301)",
+62,2026-04-29,1000.0,EUR,ANNA BADŽGOŇOVÁ,Platba/DAR,
+63,2026-04-29,-6.13,EUR,Tesco Zilina Hajik,POS nákup Tesco Zilina Hajik / Zilina / (POS 11267904),
+64,2026-04-17,-223.68,EUR,REMOS spol. s r.o.,Platba/QR2326045117,"2326045117
 VS2326045117/SS/KS308"
-64,2026-04-10,-23.0,EUR,OPENAI *CHATGPT SUBSCR,MOBILE APP NÁKUP E-COMM OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),
-65,2026-04-07,-107.32,EUR,TURBOSCRIBE.AI,MOBILE APP NÁKUP E-COMM TURBOSCRIBE.AI / TURBOSCRIBE.A / (POS HDACALIH),
-66,2026-04-07,-23.0,EUR,OPENAI *CHATGPT SUBSCR,MOBILE APP NÁKUP E-COMM OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),
-67,2026-04-01,500.0,EUR,"Sokol Miroslav, Ing.",Platba/Vklad volby,
-68,2026-03-31,-0.0,EUR,,Poplatok za účet,
+65,2026-04-10,-23.0,EUR,OPENAI *CHATGPT SUBSCR,MOBILE APP NÁKUP E-COMM OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),
+66,2026-04-07,-107.32,EUR,TURBOSCRIBE.AI,MOBILE APP NÁKUP E-COMM TURBOSCRIBE.AI / TURBOSCRIBE.A / (POS HDACALIH),
+67,2026-04-07,-23.0,EUR,OPENAI *CHATGPT SUBSCR,MOBILE APP NÁKUP E-COMM OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),
+68,2026-04-01,500.0,EUR,"Sokol Miroslav, Ing.",Platba/Vklad volby,
+69,2026-03-31,-0.0,EUR,,Poplatok za účet,

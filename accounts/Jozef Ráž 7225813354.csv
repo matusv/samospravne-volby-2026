@@ -1,66 +1,67 @@
 index,date,amount,account_name,message,vs
-0,2026-07-20,1000.0,Eva Molcanova,,
-1,2026-07-20,500.0,Maria Strickova,,
-2,2026-07-17,2500.0,Slaninová Renata,,
-3,2026-07-15,50000.0,Jozef Ráž,,
-4,2026-07-14,1000.0,Fillová Lucia,,
-5,2026-07-14,400.0,"Vavruš Martin, PhDr., PhD.",,
-6,2026-07-13,100.0,"Ondrejkovič Dušan, Ing.",,
-7,2026-07-13,1000.0,Roman Capucha,,
-8,2026-07-13,550.0,Felix Viktor,,
-9,2026-07-10,800.0,Milan Kresáč,,
-10,2026-07-10,800.0,Martin Tavel,,
-11,2026-07-09,5000.0,"Vastusko Ladislav, Ing.",?/DO2026-07-08/SP,
-12,2026-07-08,-6050.0,PR Laboratory,,2623020
-13,2026-07-08,3000.0,Ivana Heinz,,
-14,2026-07-07,600.0,Ladislav Juhasz,,
-15,2026-07-06,2000.0,Jan Nehez,,
-16,2026-07-06,1000.0,Anton Moises,,
-17,2026-07-03,-14022.0,RELATIONS CONSULTING,Jozef Raz,26800019
-18,2026-07-03,-7822.8,RELATIONS CONSULTING,Jozef Raz,26800017
-19,2026-07-03,-21500.4,RELATIONS CONSULTING,Jozef Raz,26800016
-20,2026-07-03,-3635.88,RELATIONS CONSULTING,Jozef Raz,26800015
-21,2026-07-03,500.0,"Bidovský Patrik, Ing.",,
-22,2026-07-03,-26265.42,Relations consultig,Jozef Raz,26800018
-23,2026-07-01,1100.0,Mičian Peter,,
-24,2026-07-01,-615.0,Relations consulting,,26800014
-25,2026-06-30,-6.0,,Vedenie konta Transparentný účet,9
-26,2026-06-30,500.0,Maria Strickova,,
-27,2026-06-30,1000.0,"Tomčovčík Tomáš, JUDr.",,
-28,2026-06-29,450.0,Felix Viktor,,
-29,2026-06-29,500.0,Varchola Michal,,
-30,2026-06-26,1000.0,Halászová Lívia,,
-31,2026-06-26,800.0,Alexandra Srholcova,,
-32,2026-06-26,1000.0,Veronika Rikková,ja,
-33,2026-06-26,2000.0,Novák Ladislav,,
-34,2026-06-26,2000.0,Buchamer Andrej,,
-35,2026-06-26,400.0,"Piling Karol, Ing.",,
-36,2026-06-26,1000.0,Šedo Pavol,,
-37,2026-06-26,1000.0,Bajnoková Eva,,
-38,2026-06-26,500.0,Bačo Martin,,
-39,2026-06-26,500.0,Róbert Homza,,
-40,2026-06-26,-1000.0,"Trhoviska Ruzinov, s.r.o.",Jozef Raz prenajom stanku,752026
-41,2026-06-25,500.0,"Bidovský Patrik, Ing.",,
-42,2026-06-25,500.0,Lipták Igor,,
-43,2026-06-25,2000.0,"Kukura Tomáš, Ing.",,
-44,2026-06-25,500.0,Bačo Martin,,
-45,2026-06-25,1000.0,Andrea Ondrikova,,
-46,2026-06-25,1000.0,Miroslav Ondrík,,
-47,2026-06-25,550.0,SUJOVA DOMINIKA,?/DO2026-06-25/SP,
-48,2026-06-22,500.0,"Slovák Ľubomír, Ing.",,20260622
-49,2026-06-22,100000.0,Jozef Ráž,,
-50,2026-06-02,-615.0,Relations consulting,,26800012
-51,2026-05-29,-6.0,,Vedenie konta Transparentný účet,9
-52,2026-05-25,400.0,Lucia Ovšáková,,
-53,2026-05-25,600.0,Marek Hocher,,
-54,2026-05-25,2000.0,Peter Braska,,
-55,2026-05-18,250.0,Radko Fercak,,
-56,2026-05-12,-615.0,Relations consulting,SEPA Okamžitá platba,26800010
-57,2026-05-08,-500.0,Daylightstudio s. r. o.,SEPA Okamžitá platba,12026
-58,2026-05-08,-500.0,Dobrovodsky,Jozef Raz,2026016
-59,2026-04-30,5.0,,Storno-popl.za platby a ved.úč/kon,9
-60,2026-04-30,-5.0,,Vedenie účtu,9
-61,2026-04-22,0.01,TOMAS JASUREK,Smeracky Trt,
-62,2026-04-22,0.01,TOMAS JASUREK,,
-63,2026-04-21,0.01,Lukas Klimcik,Na teplaky do Leopoldova,
-64,2026-04-17,6500.0,Jozef Ráž,,
+0,2026-07-20,1000.0,VIERA HUDÁKOVÁ,PLATBA,
+1,2026-07-20,1000.0,Eva Molcanova,,
+2,2026-07-20,500.0,Maria Strickova,,
+3,2026-07-17,2500.0,Slaninová Renata,,
+4,2026-07-15,50000.0,Jozef Ráž,,
+5,2026-07-14,1000.0,Fillová Lucia,,
+6,2026-07-14,400.0,"Vavruš Martin, PhDr., PhD.",,
+7,2026-07-13,100.0,"Ondrejkovič Dušan, Ing.",,
+8,2026-07-13,1000.0,Roman Capucha,,
+9,2026-07-13,550.0,Felix Viktor,,
+10,2026-07-10,800.0,Milan Kresáč,,
+11,2026-07-10,800.0,Martin Tavel,,
+12,2026-07-09,5000.0,"Vastusko Ladislav, Ing.",/DO2026-07-08/SP,
+13,2026-07-08,-6050.0,PR Laboratory,,2623020
+14,2026-07-08,3000.0,Ivana Heinz,,
+15,2026-07-07,600.0,Ladislav Juhasz,,
+16,2026-07-06,2000.0,Jan Nehez,,
+17,2026-07-06,1000.0,Anton Moises,,
+18,2026-07-03,-14022.0,RELATIONS CONSULTING,Jozef Raz,26800019
+19,2026-07-03,-7822.8,RELATIONS CONSULTING,Jozef Raz,26800017
+20,2026-07-03,-21500.4,RELATIONS CONSULTING,Jozef Raz,26800016
+21,2026-07-03,-3635.88,RELATIONS CONSULTING,Jozef Raz,26800015
+22,2026-07-03,500.0,"Bidovský Patrik, Ing.",,
+23,2026-07-03,-26265.42,Relations consultig,Jozef Raz,26800018
+24,2026-07-01,1100.0,Mičian Peter,,
+25,2026-07-01,-615.0,Relations consulting,,26800014
+26,2026-06-30,-6.0,,Vedenie konta Transparentný účet,9
+27,2026-06-30,500.0,Maria Strickova,,
+28,2026-06-30,1000.0,"Tomčovčík Tomáš, JUDr.",,
+29,2026-06-29,450.0,Felix Viktor,,
+30,2026-06-29,500.0,Varchola Michal,,
+31,2026-06-26,1000.0,Halászová Lívia,,
+32,2026-06-26,800.0,Alexandra Srholcova,,
+33,2026-06-26,1000.0,Veronika Rikková,ja,
+34,2026-06-26,2000.0,Novák Ladislav,,
+35,2026-06-26,2000.0,Buchamer Andrej,,
+36,2026-06-26,400.0,"Piling Karol, Ing.",,
+37,2026-06-26,1000.0,Šedo Pavol,,
+38,2026-06-26,1000.0,Bajnoková Eva,,
+39,2026-06-26,500.0,Bačo Martin,,
+40,2026-06-26,500.0,Róbert Homza,,
+41,2026-06-26,-1000.0,"Trhoviska Ruzinov, s.r.o.",Jozef Raz prenajom stanku,752026
+42,2026-06-25,500.0,"Bidovský Patrik, Ing.",,
+43,2026-06-25,500.0,Lipták Igor,,
+44,2026-06-25,2000.0,"Kukura Tomáš, Ing.",,
+45,2026-06-25,500.0,Bačo Martin,,
+46,2026-06-25,1000.0,Andrea Ondrikova,,
+47,2026-06-25,1000.0,Miroslav Ondrík,,
+48,2026-06-25,550.0,SUJOVA DOMINIKA,/DO2026-06-25/SP,
+49,2026-06-22,500.0,"Slovák Ľubomír, Ing.",,20260622
+50,2026-06-22,100000.0,Jozef Ráž,,
+51,2026-06-02,-615.0,Relations consulting,,26800012
+52,2026-05-29,-6.0,,Vedenie konta Transparentný účet,9
+53,2026-05-25,400.0,Lucia Ovšáková,,
+54,2026-05-25,600.0,Marek Hocher,,
+55,2026-05-25,2000.0,Peter Braska,,
+56,2026-05-18,250.0,Radko Fercak,,
+57,2026-05-12,-615.0,Relations consulting,SEPA Okamžitá platba,26800010
+58,2026-05-08,-500.0,Daylightstudio s. r. o.,SEPA Okamžitá platba,12026
+59,2026-05-08,-500.0,Dobrovodsky,Jozef Raz,2026016
+60,2026-04-30,5.0,,Storno-popl.za platby a ved.úč/kon,9
+61,2026-04-30,-5.0,,Vedenie účtu,9
+62,2026-04-22,0.01,TOMAS JASUREK,Smeracky Trt,
+63,2026-04-22,0.01,TOMAS JASUREK,,
+64,2026-04-21,0.01,Lukas Klimcik,Na teplaky do Leopoldova,
+65,2026-04-17,6500.0,Jozef Ráž,,

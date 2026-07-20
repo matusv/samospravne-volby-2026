@@ -12,11 +12,11 @@ index,date,amount,account_name,message,vs
 10,2026-06-22,-54.0,Platba kartou,FACEBK-.EC6UUSD fb.me/ads------,****1970
 11,2026-06-19,-250.0,Zjednotena Bratislava,,
 12,2026-06-19,-110.7,"Kominarska a.s., organizacna zlozka",,20261060
-13,2026-06-19,200.0,MESZAROS NORBERT,?/DO2026-06-19/SP,
+13,2026-06-19,200.0,MESZAROS NORBERT,/DO2026-06-19/SP,
 14,2026-06-18,200.0,Lengyel Monika,rudolf kusy_monika lengyel,
 15,2026-06-16,200.0,Kaprinay Zuzana,,
 16,2026-06-16,200.0,Gabriela Galbavá,,
-17,2026-06-16,200.0,Valovicova Pavlina,?/DO2026-06-15/SPDar do kampanr,
+17,2026-06-16,200.0,Valovicova Pavlina,/DO2026-06-15/SPDar do kampanr,
 18,2026-06-16,230.0,"SLOVENSKA POSTA, A.S.",19082010000612062026/SS-0000000000/ZDENKA BELAKOVA-RAZTOCNO/ENA,21012026
 19,2026-06-15,-15.44,Platba kartou,FACEBK-.7KDF8RV fb.me/ads------,****1970
 20,2026-06-15,200.0,VRTIEL PETER,Peter Vrtiel dar,15062026
@@ -25,7 +25,7 @@ index,date,amount,account_name,message,vs
 23,2026-06-15,940.0,Rudolf Kusý,,
 24,2026-06-12,30.0,Dan Pavelka,Preplatok za roznasanie,
 25,2026-06-12,20.0,Michaela Gabovicova,,
-26,2026-06-12,200.0,NATASA ZAHOROVA,?/DO2026-06-12/SPPLATBA,110606
+26,2026-06-12,200.0,NATASA ZAHOROVA,/DO2026-06-12/SPPLATBA,110606
 27,2026-06-11,250.0,"Stano Adam, Ing.",,
 28,2026-06-09,-606.0,"EKOHOLDING SLOVAKIA, s.r.o.",SEPA Europrevod/NonSEPAPrevod,2026009
 29,2026-06-09,-500.0,EVENTS 3000 s.r.o.,SEPA Europrevod/NonSEPAPrevod,55112026
@@ -34,7 +34,7 @@ index,date,amount,account_name,message,vs
 32,2026-06-09,200.0,Jan Havranek,,
 33,2026-06-09,200.0,Juraj Švec,Podpor a zachran MC BA -NM,
 34,2026-06-09,200.0,Ladislav Vitkovič,LV,
-35,2026-06-08,200.0,PhDr. Lubos Fiam PhD.,?/DO2026-06-05/SPLubos Fiam,
+35,2026-06-08,200.0,PhDr. Lubos Fiam PhD.,/DO2026-06-05/SPLubos Fiam,
 36,2026-06-08,200.0,Mário Vladár,,
 37,2026-06-05,-750.0,Monika Partlova MP,,202647
 38,2026-06-05,-54.0,MINERALNE VODY a.s.,,52680337
