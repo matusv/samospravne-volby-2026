@@ -27,49 +27,14 @@ VS9264864524/SS/KS"
 20,2026-06-10,-15.2,EUR,Cukraren Sofia,POS nákup Cukraren Sofia / Teplicka nad / (POS 11311602),
 21,2026-06-10,-23.0,EUR,OPENAI *CHATGPT SUBSCR,EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),
 22,2026-06-10,-8.76,EUR,C027 Zilina,POS nákup C027 Zilina / Zilina / (POS 06222997),
-23,2026-06-10,-23.0,EUR,OPENAI *CHATGPT SUBSCR,"
-                        EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ)
-                    /
-                        
-                    ","
-                        
-                    "
-24,2026-06-03,-120.0,EUR,"
-                            Schneider & Partners Co., s. r. o.
-                    ","
-                        Platba
-                    /
-                        Úhrada faktúry: 20260019
-                    ","
-                        20260019VS20260019/SS/KS
-                    "
-25,2026-06-03,-120.0,EUR,"
-                            Filip Balvan
-                    ","
-                        Platba
-                    /
-                        Úhrada faktúry: 2026TR26
-                    ","
-                        202626VS202626/SS/KS
-                    "
-26,2026-06-01,-1500.0,EUR,"
-                            VANDA TUCHYNOVA
-                    ","
-                        Platba
-                    /
-                        Management kampane
-                    ","
-                        10VS10/SS/KS0308
-                    "
-27,2026-06-01,400.0,EUR,"
-                            ĽUBOMÍR KMOTORKA
-                    ","
-                        Platba
-                    /
-                        Ing.Lubomir Kmotorka
-                    ","
-                        
-                    "
+23,2026-06-10,-23.0,EUR,OPENAI *CHATGPT SUBSCR,EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),
+24,2026-06-03,-120.0,EUR,"Schneider & Partners Co., s. r. o.",Platba/Úhrada faktúry: 20260019,"20260019
+VS20260019/SS/KS"
+25,2026-06-03,-120.0,EUR,Filip Balvan,Platba/Úhrada faktúry: 2026TR26,"202626
+VS202626/SS/KS"
+26,2026-06-01,-1500.0,EUR,VANDA TUCHYNOVA,Platba/Management kampane,"10
+VS10/SS/KS0308"
+27,2026-06-01,400.0,EUR,ĽUBOMÍR KMOTORKA,Platba/Ing.Lubomir Kmotorka,
 28,2026-06-01,3000.0,EUR,Ing.Milan Urbanik,Platba,
 29,2026-05-30,-3.0,EUR,,Poplatok za účet,
 30,2026-05-28,-7.95,EUR,OBI Zilina,POS nákup OBI Zilina / Zilina / (POS 55616369),
