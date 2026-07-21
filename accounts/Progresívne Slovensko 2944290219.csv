@@ -5,27 +5,105 @@ VS7/SS/KS"
 VS3/SS/KS"
 2,2026-07-17,500.0,EUR,"Holéczy Igor, Mgr.",Platba/kampaň KSK Igor Holéczy,"12
 VS12/SS/KS"
-3,2026-07-17,-32.57,EUR,,Transakčná daň 16.07.2026,
-4,2026-07-17,50.0,EUR,"Dojčánová Anna, Mgr.",Platba/Matej Vagac,"7
-VS7/SS/KS"
-5,2026-07-17,60.0,EUR,Tomas Murgas,Platba,"7
-VS7/SS/KS"
-6,2026-07-17,100.0,EUR,"Illéš Erik, Mgr.",Platba,"7
-VS7/SS/KS"
-7,2026-07-17,20.0,EUR,"Hanes Martin, Bc.",Platba,"1
-VS1/SS/KS"
-8,2026-07-16,50.0,EUR,Cigáneková Veronika,Platba,"7
-VS7/SS/KS"
-9,2026-07-16,75.0,EUR,Monika Farka,Platba,"7
-VS7/SS/KS"
-10,2026-07-16,30.0,EUR,Veronika Gubkova,Platba/Prispevok na kampan Mateja Vagaca - najlepsieho starostu Stareho Mesta,"7
-VS7/SS/KS"
-11,2026-07-16,-8142.6,EUR,"FOCUS Centrum pre sociálnu a marketingovú analýzu, s r.o. v skratke FO",Platba/Focus - prieskum verejnej mienky LM Sufliarska 06/2026,"20262056
-VS20262056/SS04/KS"
-12,2026-07-16,500.0,EUR,Jan Mrenica,"Platba/kampan KSK, Jan Mrenica","12
-VS12/SS/KS0558"
-13,2026-07-16,999.0,EUR,Peter Bucholcer,Platba/Bucholcer,"1
-VS1/SS/KS"
+3,2026-07-17,-32.57,EUR,"
+                            
+                    ","
+                        Transakčná daň 16.07.2026
+                    /
+                        
+                    ","
+                        
+                    "
+4,2026-07-17,50.0,EUR,"
+                            Dojčánová Anna, Mgr.
+                    ","
+                        Platba
+                    /
+                        Matej Vagac
+                    ","
+                        7VS7/SS/KS
+                    "
+5,2026-07-17,60.0,EUR,"
+                            Tomas Murgas
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        7VS7/SS/KS
+                    "
+6,2026-07-17,100.0,EUR,"
+                            Illéš Erik, Mgr.
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        7VS7/SS/KS
+                    "
+7,2026-07-17,20.0,EUR,"
+                            Hanes Martin, Bc.
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        1VS1/SS/KS
+                    "
+8,2026-07-16,50.0,EUR,"
+                            Cigáneková Veronika
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        7VS7/SS/KS
+                    "
+9,2026-07-16,75.0,EUR,"
+                            Monika Farka
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        7VS7/SS/KS
+                    "
+10,2026-07-16,30.0,EUR,"
+                            Veronika Gubkova
+                    ","
+                        Platba
+                    /
+                        Prispevok na kampan Mateja Vagaca - najlepsieho starostu Stareho Mesta
+                    ","
+                        7VS7/SS/KS
+                    "
+11,2026-07-16,-8142.6,EUR,"
+                            FOCUS Centrum pre sociálnu a marketingovú analýzu, s r.o. v skratke FO
+                    ","
+                        Platba
+                    /
+                        Focus - prieskum verejnej mienky LM Sufliarska 06/2026
+                    ","
+                        20262056VS20262056/SS04/KS
+                    "
+12,2026-07-16,500.0,EUR,"
+                            Jan Mrenica
+                    ","
+                        Platba
+                    /
+                        kampan KSK, Jan Mrenica
+                    ","
+                        12VS12/SS/KS0558
+                    "
+13,2026-07-16,999.0,EUR,"
+                            Peter Bucholcer
+                    ","
+                        Platba
+                    /
+                        Bucholcer
+                    ","
+                        1VS1/SS/KS
+                    "
 14,2026-07-15,10.0,EUR,Skokan Radovan,Platba,"6
 VS6/SS/KS"
 15,2026-07-14,2000.0,EUR,"Cicman Dalibor, Ing.",Platba,"12

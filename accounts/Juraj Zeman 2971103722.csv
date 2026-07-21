@@ -3,18 +3,8 @@ index,date,amount,currency,account_name,message,vs
 1,2026-07-17,100.0,EUR,Hoglová Radoslava,Platba,
 2,2026-07-16,100.0,EUR,"Bak Martin, Mgr.",Platba/DAR NA KAMPAN,
 3,2026-07-14,50.0,EUR,Martina Stepianska Hilbertova,Platba/dar na kampan,
-4,2026-07-14,100.0,EUR,Lucia Adamovska,Platba/Dar na kampan,"
-                        
-                    "
-5,2026-07-14,100.0,EUR,"
-                            DEBNAROVA MONIKA
-                    ","
-                        Platba
-                    /
-                        Volby 2026
-                    ","
-                        
-                    "
+4,2026-07-14,100.0,EUR,Lucia Adamovska,Platba/Dar na kampan,
+5,2026-07-14,100.0,EUR,DEBNAROVA MONIKA,Platba/Volby 2026,
 6,2026-07-07,-467.4,EUR,"
                             IT SERVIS SK s. r. o.
                     ","
