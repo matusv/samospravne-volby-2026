@@ -10,21 +10,78 @@ VS20260104/SS/KS"
 VS20260112/SS/KS"
 5,2026-07-07,-633.45,EUR,REXA & ROMAN PARTNERS s. r. o.,Platba/Xprint vreckovy kalendar 5000ks vratane bank popl a trans dane,"20260113
 VS20260113/SS/KS"
-6,2026-07-07,-221.62,EUR,REXA & ROMAN PARTNERS s. r. o.,Platba/Xprint ICE karta A5 300g 1000 ks vratene bank popl a trans dane,"20260114
-VS20260114/SS/KS"
-7,2026-07-07,-4047.93,EUR,REXA & ROMAN PARTNERS s. r. o.,Platba/Xprint zetony do kosikov 2500ks modre 2500ks biele vratane bank popl a trans dane,"20260115
-VS20260115/SS/KS"
-8,2026-07-07,-2510.97,EUR,REXA & ROMAN PARTNERS s. r. o.,Platba/Xprint puzdro na okuliare 300ks vratane bank popl a trans dane,"20260117
-VS20260117/SS/KS"
-9,2026-07-07,-1067.64,EUR,REXA & ROMAN PARTNERS s. r. o.,Platba/Xprint balony s palickou 750ks modra 750 ks zlta vratane trans dane a bank popl,"20260118
-VS20260118/SS/KS"
-10,2026-07-07,-290.38,EUR,REXA & ROMAN PARTNERS s. r. o.,Platba/Xprint promo stolik vratane transakcnej dane a bank popl,"20260119
-VS20260119/SS/KS"
-11,2026-07-07,-232.05,EUR,REXA & ROMAN PARTNERS s. r. o.,Platba/Potlac a dodanie XPrint 2xrollup 80x200 vratane transakcnej dane a bankovych nakladov,"20260120
-VS20260120/SS/KS"
-12,2026-07-07,18000.0,EUR,"Kapitulík Martin, Ing.",Platba/Martin Kapitulik kampan Odvaha urobit viac,
-13,2026-07-06,-5680.14,EUR,REXA & ROMAN PARTNERS s. r. o.,"Platba/Inzercia PetitPress, balik regiony online - diskusia, PR clanok + socialne siete, videoprezentacia, MY zilina, turiec, liptov, orava, kysuce","20260111
-VS20260111/SS/KS"
+6,2026-07-07,-221.62,EUR,"
+                            REXA & ROMAN PARTNERS s. r. o.
+                    ","
+                        Platba
+                    /
+                        Xprint ICE karta A5 300g 1000 ks vratene bank popl a trans dane
+                    ","
+                        20260114VS20260114/SS/KS
+                    "
+7,2026-07-07,-4047.93,EUR,"
+                            REXA & ROMAN PARTNERS s. r. o.
+                    ","
+                        Platba
+                    /
+                        Xprint zetony do kosikov 2500ks modre 2500ks biele vratane bank popl a trans dane
+                    ","
+                        20260115VS20260115/SS/KS
+                    "
+8,2026-07-07,-2510.97,EUR,"
+                            REXA & ROMAN PARTNERS s. r. o.
+                    ","
+                        Platba
+                    /
+                        Xprint puzdro na okuliare 300ks vratane bank popl a trans dane
+                    ","
+                        20260117VS20260117/SS/KS
+                    "
+9,2026-07-07,-1067.64,EUR,"
+                            REXA & ROMAN PARTNERS s. r. o.
+                    ","
+                        Platba
+                    /
+                        Xprint balony s palickou 750ks modra 750 ks zlta vratane trans dane a bank popl
+                    ","
+                        20260118VS20260118/SS/KS
+                    "
+10,2026-07-07,-290.38,EUR,"
+                            REXA & ROMAN PARTNERS s. r. o.
+                    ","
+                        Platba
+                    /
+                        Xprint promo stolik vratane transakcnej dane a bank popl
+                    ","
+                        20260119VS20260119/SS/KS
+                    "
+11,2026-07-07,-232.05,EUR,"
+                            REXA & ROMAN PARTNERS s. r. o.
+                    ","
+                        Platba
+                    /
+                        Potlac a dodanie XPrint 2xrollup 80x200 vratane transakcnej dane a bankovych nakladov
+                    ","
+                        20260120VS20260120/SS/KS
+                    "
+12,2026-07-07,18000.0,EUR,"
+                            Kapitulík Martin, Ing.
+                    ","
+                        Platba
+                    /
+                        Martin Kapitulik kampan Odvaha urobit viac
+                    ","
+                        
+                    "
+13,2026-07-06,-5680.14,EUR,"
+                            REXA & ROMAN PARTNERS s. r. o.
+                    ","
+                        Platba
+                    /
+                        Inzercia PetitPress, balik regiony online - diskusia, PR clanok + socialne siete, videoprezentacia, MY zilina, turiec, liptov, orava, kysuce
+                    ","
+                        20260111VS20260111/SS/KS
+                    "
 14,2026-07-06,-1535.04,EUR,REXA & ROMAN PARTNERS s. r. o.,"Platba/Graficke prace ArtDirector, podklady merch, bigboardy, plagaty, rollup, promo stolik, qr tlacove data...","20260110
 VS20260110/SS/KS"
 15,2026-07-06,-1236.15,EUR,REXA & ROMAN PARTNERS s. r. o.,"Platba/Inzercia v tyzdenniku Zilinsky Vecernik PUBLISHING HOUSE print, web, socialne siete - predstavenie kandidata 28/7/2026, vratane trans dane","20260109
@@ -42,19 +99,5 @@ VS20260103/SS/KS"
 VS20260101/SS/KS"
 22,2026-07-01,10000.0,EUR,"Kapitulík Martin, Ing.",Platba/Martin Kapitulik kampan odvaha urobit viac,
 23,2026-06-30,-0.0,EUR,,Poplatok za účet,
-24,2026-05-30,-0.0,EUR,,"
-                        Poplatok za účet
-                    /
-                        
-                    ","
-                        
-                    "
-25,2026-04-30,-0.0,EUR,"
-                            
-                    ","
-                        Poplatok za účet
-                    /
-                        
-                    ","
-                        
-                    "
+24,2026-05-30,-0.0,EUR,,Poplatok za účet,
+25,2026-04-30,-0.0,EUR,,Poplatok za účet,

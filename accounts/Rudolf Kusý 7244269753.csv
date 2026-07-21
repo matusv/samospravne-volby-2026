@@ -1,46 +1,49 @@
 index,date,amount,account_name,message,vs
-0,2026-07-13,-14.21,Platba kartou,FACEBK-.SFBGDTZ Dublin---------,****1970
-1,2026-07-13,200.0,Rudolf Kusý,,
-2,2026-07-07,-54.0,Platba kartou,FACEBK-.JF6YNUD Dublin---------,****1970
-3,2026-07-07,-1242.3,Fibra print s.r.o,,2026511
-4,2026-07-06,200.0,Martin Lovich,ML,
-5,2026-07-03,-184.5,Vidlar Sons s.r.o.,,2026131
-6,2026-06-30,-6.0,,Vedenie konta Transparentný účet,9
-7,2026-06-30,-54.0,Platba kartou,FACEBK-.VYRGFTV Dublin---------,****1970
-8,2026-06-29,200.0,FILIP PETRINEC,prispevok volby,
-9,2026-06-26,-54.0,Platba kartou,FACEBK-.X9L3VR5 Dublin---------,****1970
-10,2026-06-22,-54.0,Platba kartou,FACEBK-.EC6UUSD fb.me/ads------,****1970
-11,2026-06-19,-250.0,Zjednotena Bratislava,,
-12,2026-06-19,-110.7,"Kominarska a.s., organizacna zlozka",,20261060
-13,2026-06-19,200.0,MESZAROS NORBERT,/DO2026-06-19/SP,
-14,2026-06-18,200.0,Lengyel Monika,rudolf kusy_monika lengyel,
-15,2026-06-16,200.0,Kaprinay Zuzana,,
-16,2026-06-16,200.0,Gabriela Galbavá,,
-17,2026-06-16,200.0,Valovicova Pavlina,/DO2026-06-15/SPDar do kampanr,
-18,2026-06-16,230.0,"SLOVENSKA POSTA, A.S.",19082010000612062026/SS-0000000000/ZDENKA BELAKOVA-RAZTOCNO/ENA,21012026
-19,2026-06-15,-15.44,Platba kartou,FACEBK-.7KDF8RV fb.me/ads------,****1970
-20,2026-06-15,200.0,VRTIEL PETER,Peter Vrtiel dar,15062026
-21,2026-06-15,-860.0,EventiQ s.r.o.,,2026027
-22,2026-06-15,-600.0,SHS Rad svateho Galahada,,
-23,2026-06-15,940.0,Rudolf Kusý,,
-24,2026-06-12,30.0,Dan Pavelka,Preplatok za roznasanie,
-25,2026-06-12,20.0,Michaela Gabovicova,,
-26,2026-06-12,200.0,NATASA ZAHOROVA,/DO2026-06-12/SPPLATBA,110606
-27,2026-06-11,250.0,"Stano Adam, Ing.",,
-28,2026-06-09,-606.0,"EKOHOLDING SLOVAKIA, s.r.o.",SEPA Europrevod/NonSEPAPrevod,2026009
-29,2026-06-09,-500.0,EVENTS 3000 s.r.o.,SEPA Europrevod/NonSEPAPrevod,55112026
-30,2026-06-09,-276.0,"EKOHOLDING SLOVAKIA, s.r.o",SEPA Europrevod/NonSEPAPrevod,2026010
-31,2026-06-09,-120.0,Dobrovolny hasicsky zbor Bratislava - Raca Organizacna jednotka,SEPA Europrevod/NonSEPAPrevod,
-32,2026-06-09,200.0,Jan Havranek,,
-33,2026-06-09,200.0,Juraj Švec,Podpor a zachran MC BA -NM,
-34,2026-06-09,200.0,Ladislav Vitkovič,LV,
-35,2026-06-08,200.0,PhDr. Lubos Fiam PhD.,/DO2026-06-05/SPLubos Fiam,
-36,2026-06-08,200.0,Mário Vladár,,
-37,2026-06-05,-750.0,Monika Partlova MP,,202647
-38,2026-06-05,-54.0,MINERALNE VODY a.s.,,52680337
-39,2026-06-05,800.0,"Filipovič Branislav, PhDr.",Kampaň 2026 BF,1
-40,2026-06-03,200.0,Eduard Demel,,
-41,2026-06-02,400.0,Zuzana Bírová,,
-42,2026-06-02,200.0,"Filipovič Branislav, PhDr.",Kampaň 2026 BF,1
-43,2026-05-29,5.0,,Storno-popl.za platby a ved.úč/kon,9
-44,2026-05-29,-5.0,,Vedenie účtu,9
+0,2026-07-21,-1405.18,IN Production s.r.o.,,
+1,2026-07-21,280.0,Rudolf Kusý,,
+2,2026-07-21,940.0,Rudolf Kusý,,
+3,2026-07-13,-14.21,Platba kartou,FACEBK-.SFBGDTZ Dublin---------,****1970
+4,2026-07-13,200.0,Rudolf Kusý,,
+5,2026-07-07,-54.0,Platba kartou,FACEBK-.JF6YNUD Dublin---------,****1970
+6,2026-07-07,-1242.3,Fibra print s.r.o,,2026511
+7,2026-07-06,200.0,Martin Lovich,ML,
+8,2026-07-03,-184.5,Vidlar Sons s.r.o.,,2026131
+9,2026-06-30,-6.0,,Vedenie konta Transparentný účet,9
+10,2026-06-30,-54.0,Platba kartou,FACEBK-.VYRGFTV Dublin---------,****1970
+11,2026-06-29,200.0,FILIP PETRINEC,prispevok volby,
+12,2026-06-26,-54.0,Platba kartou,FACEBK-.X9L3VR5 Dublin---------,****1970
+13,2026-06-22,-54.0,Platba kartou,FACEBK-.EC6UUSD fb.me/ads------,****1970
+14,2026-06-19,-250.0,Zjednotena Bratislava,,
+15,2026-06-19,-110.7,"Kominarska a.s., organizacna zlozka",,20261060
+16,2026-06-19,200.0,MESZAROS NORBERT,/DO2026-06-19/SP,
+17,2026-06-18,200.0,Lengyel Monika,rudolf kusy_monika lengyel,
+18,2026-06-16,200.0,Kaprinay Zuzana,,
+19,2026-06-16,200.0,Gabriela Galbavá,,
+20,2026-06-16,200.0,Valovicova Pavlina,/DO2026-06-15/SPDar do kampanr,
+21,2026-06-16,230.0,"SLOVENSKA POSTA, A.S.",19082010000612062026/SS-0000000000/ZDENKA BELAKOVA-RAZTOCNO/ENA,21012026
+22,2026-06-15,-15.44,Platba kartou,FACEBK-.7KDF8RV fb.me/ads------,****1970
+23,2026-06-15,200.0,VRTIEL PETER,Peter Vrtiel dar,15062026
+24,2026-06-15,-860.0,EventiQ s.r.o.,,2026027
+25,2026-06-15,-600.0,SHS Rad svateho Galahada,,
+26,2026-06-15,940.0,Rudolf Kusý,,
+27,2026-06-12,30.0,Dan Pavelka,Preplatok za roznasanie,
+28,2026-06-12,20.0,Michaela Gabovicova,,
+29,2026-06-12,200.0,NATASA ZAHOROVA,/DO2026-06-12/SPPLATBA,110606
+30,2026-06-11,250.0,"Stano Adam, Ing.",,
+31,2026-06-09,-606.0,"EKOHOLDING SLOVAKIA, s.r.o.",SEPA Europrevod/NonSEPAPrevod,2026009
+32,2026-06-09,-500.0,EVENTS 3000 s.r.o.,SEPA Europrevod/NonSEPAPrevod,55112026
+33,2026-06-09,-276.0,"EKOHOLDING SLOVAKIA, s.r.o",SEPA Europrevod/NonSEPAPrevod,2026010
+34,2026-06-09,-120.0,Dobrovolny hasicsky zbor Bratislava - Raca Organizacna jednotka,SEPA Europrevod/NonSEPAPrevod,
+35,2026-06-09,200.0,Jan Havranek,,
+36,2026-06-09,200.0,Juraj Švec,Podpor a zachran MC BA -NM,
+37,2026-06-09,200.0,Ladislav Vitkovič,LV,
+38,2026-06-08,200.0,PhDr. Lubos Fiam PhD.,/DO2026-06-05/SPLubos Fiam,
+39,2026-06-08,200.0,Mário Vladár,,
+40,2026-06-05,-750.0,Monika Partlova MP,,202647
+41,2026-06-05,-54.0,MINERALNE VODY a.s.,,52680337
+42,2026-06-05,800.0,"Filipovič Branislav, PhDr.",Kampaň 2026 BF,1
+43,2026-06-03,200.0,Eduard Demel,,
+44,2026-06-02,400.0,Zuzana Bírová,,
+45,2026-06-02,200.0,"Filipovič Branislav, PhDr.",Kampaň 2026 BF,1
+46,2026-05-29,5.0,,Storno-popl.za platby a ved.úč/kon,9
+47,2026-05-29,-5.0,,Vedenie účtu,9
