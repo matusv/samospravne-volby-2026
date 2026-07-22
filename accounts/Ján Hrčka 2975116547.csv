@@ -4,15 +4,85 @@ index,date,amount,currency,account_name,message,vs
 2,2026-07-09,300.0,EUR,Dávid Pavlík,Platba,
 3,2026-07-08,300.0,EUR,Michal Cerny,Platba/Michal Cerny,
 4,2026-07-08,300.0,EUR,Natalia Podhorna,Platba,
-5,2026-07-06,300.0,EUR,Tomáš Varadínek,Platba/Tomas Varadinek,
-6,2026-07-06,300.0,EUR,Peter Cmorej,Platba,
-7,2026-07-03,300.0,EUR,Ondrej Kollar,Platba/Ondrej Kollar,
-8,2026-07-03,300.0,EUR,HRIVNAK STEFAN,Platba,
-9,2026-07-03,300.0,EUR,Alica Hajkova,Platba/odosielatel: Alica Hajkova,VS/SS/KS0558
-10,2026-07-03,300.0,EUR,Viera Nemethova,Platba/Nemethova Viera,
-11,2026-07-03,300.0,EUR,Milko Karol,Platba/Karol Milko,
-12,2026-07-03,300.0,EUR,"Mikušová Tatiana, Ing.",Platba/Mikusova,
-13,2026-07-03,300.0,EUR,"Markovičová Marianna, Ing.",Platba/Markovičová,
+5,2026-07-06,300.0,EUR,Tomáš Varadínek,"
+                        Platba
+                    /
+                        Tomas Varadinek
+                    ","
+                        
+                    "
+6,2026-07-06,300.0,EUR,"
+                            Peter Cmorej
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        
+                    "
+7,2026-07-03,300.0,EUR,"
+                            Ondrej Kollar
+                    ","
+                        Platba
+                    /
+                        Ondrej Kollar
+                    ","
+                        
+                    "
+8,2026-07-03,300.0,EUR,"
+                            HRIVNAK STEFAN
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        
+                    "
+9,2026-07-03,300.0,EUR,"
+                            Alica Hajkova
+                    ","
+                        Platba
+                    /
+                        odosielatel: Alica Hajkova
+                    ","
+                        VS/SS/KS0558
+                    "
+10,2026-07-03,300.0,EUR,"
+                            Viera Nemethova
+                    ","
+                        Platba
+                    /
+                        Nemethova Viera
+                    ","
+                        
+                    "
+11,2026-07-03,300.0,EUR,"
+                            Milko Karol
+                    ","
+                        Platba
+                    /
+                        Karol Milko
+                    ","
+                        
+                    "
+12,2026-07-03,300.0,EUR,"
+                            Mikušová Tatiana, Ing.
+                    ","
+                        Platba
+                    /
+                        Mikusova
+                    ","
+                        
+                    "
+13,2026-07-03,300.0,EUR,"
+                            Markovičová Marianna, Ing.
+                    ","
+                        Platba
+                    /
+                        Markovičová
+                    ","
+                        
+                    "
 14,2026-07-03,300.0,EUR,"Binder Lukáš, Ing.",Platba,
 15,2026-06-30,-0.0,EUR,,Poplatok za účet,
 16,2026-06-12,100.0,EUR,Hrčka Ján,Platba,

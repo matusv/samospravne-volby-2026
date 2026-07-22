@@ -6,87 +6,16 @@ VS162690005/SS/KS"
 3,2026-07-17,-2.4,EUR,,Transakčná daň 16.07.2026,
 4,2026-07-16,-600.0,EUR,VENA Agentur s. r. o.,Platba/Prenajom a sprava webu,"20260002
 VS20260002/SS/KS"
-5,2026-07-15,400.0,EUR,"
-                            Rumanko Tomáš
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        
-                    "
-6,2026-07-15,-0.01,EUR,"
-                            
-                    ","
-                        Transakčná daň 14.07.2026
-                    /
-                        
-                    ","
-                        
-                    "
-7,2026-07-14,-0.01,EUR,"
-                            Juraj Musil
-                    ","
-                        Platba
-                    /
-                        Vratenie neidentifikovatelnej platby zo dna 13.7.2026
-                    ","
-                        
-                    "
-8,2026-07-13,0.01,EUR,"
-                            Musil Juraj
-                    ","
-                        Platba
-                    /
-                        Volim VALLA nie Winklera
-                    ","
-                        
-                    "
-9,2026-07-10,-7.63,EUR,"
-                            
-                    ","
-                        Transakčná daň 09.07.2026
-                    /
-                        
-                    ","
-                        
-                    "
-10,2026-07-09,-1906.5,EUR,"
-                            ISPA, spol. s r.o.
-                    ","
-                        Platba
-                    /
-                        Prenajom ploch 7-10/2026 4 ks
-                    ","
-                        26950279VS26950279/SS/KS
-                    "
-11,2026-07-09,2000.0,EUR,"
-                            Rumanko Tomáš
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        
-                    "
-12,2026-07-03,3000.0,EUR,"
-                            Frantisek Toth
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        
-                    "
-13,2026-07-01,-0.01,EUR,"
-                            
-                    ","
-                        Transakčná daň 30.06.2026
-                    /
-                        
-                    ","
-                        
-                    "
+5,2026-07-15,400.0,EUR,Rumanko Tomáš,Platba,
+6,2026-07-15,-0.01,EUR,,Transakčná daň 14.07.2026,
+7,2026-07-14,-0.01,EUR,Juraj Musil,Platba/Vratenie neidentifikovatelnej platby zo dna 13.7.2026,
+8,2026-07-13,0.01,EUR,Musil Juraj,Platba/Volim VALLA nie Winklera,
+9,2026-07-10,-7.63,EUR,,Transakčná daň 09.07.2026,
+10,2026-07-09,-1906.5,EUR,"ISPA, spol. s r.o.",Platba/Prenajom ploch 7-10/2026 4 ks,"26950279
+VS26950279/SS/KS"
+11,2026-07-09,2000.0,EUR,Rumanko Tomáš,Platba,
+12,2026-07-03,3000.0,EUR,Frantisek Toth,Platba,
+13,2026-07-01,-0.01,EUR,,Transakčná daň 30.06.2026,
 14,2026-06-30,-0.0,EUR,,Poplatok za balík,
 15,2026-06-30,-0.72,EUR,,Poplatky za transakcie,
 16,2026-06-30,-1.06,EUR,,Transakčná daň 29.06.2026,
@@ -100,13 +29,40 @@ VS16120027/SS/KS"
 VS2610003814/SS/KS"
 22,2026-06-25,1000.0,EUR,Dunaj,Platba/Prevod financii kampan,
 23,2026-06-24,30.0,EUR,Dunaj,Platba/Prevod financii,
-24,2026-06-24,-30.75,EUR,"NUBIUM, s. r. o.",Platba/Tlac plagatu,"2610003907
-VS2610003907/SS/KS"
-25,2026-06-13,-43.74,EUR,,Transakčná daň 12.06.2026,
-26,2026-06-12,-3936.0,EUR,"MT INVESTMENT, spol. s r.o.",Platba/Prenajom reklamnej plochy,"2026025
-VS2026025/SS/KS"
-27,2026-06-12,-7000.0,EUR,"ANDALEX REALITY, s.r.o.",Platba/Prenajom reklamnych ploch,"62026
-VS62026/SS/KS"
+24,2026-06-24,-30.75,EUR,"NUBIUM, s. r. o.","
+                        Platba
+                    /
+                        Tlac plagatu
+                    ","
+                        2610003907VS2610003907/SS/KS
+                    "
+25,2026-06-13,-43.74,EUR,"
+                            
+                    ","
+                        Transakčná daň 12.06.2026
+                    /
+                        
+                    ","
+                        
+                    "
+26,2026-06-12,-3936.0,EUR,"
+                            MT INVESTMENT, spol. s r.o.
+                    ","
+                        Platba
+                    /
+                        Prenajom reklamnej plochy
+                    ","
+                        2026025VS2026025/SS/KS
+                    "
+27,2026-06-12,-7000.0,EUR,"
+                            ANDALEX REALITY, s.r.o.
+                    ","
+                        Platba
+                    /
+                        Prenajom reklamnych ploch
+                    ","
+                        62026VS62026/SS/KS
+                    "
 28,2026-06-12,11000.0,EUR,Dunaj,Platba/Prevod prostriedkov,
 29,2026-06-12,-1.14,EUR,,Transakčná daň 11.06.2026,
 30,2026-06-11,-285.36,EUR,"NUBIUM, s. r. o.",Platba/Prenajom reklamneho panela,"2610003491
