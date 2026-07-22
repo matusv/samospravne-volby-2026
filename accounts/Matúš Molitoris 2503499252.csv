@@ -1,23 +1,24 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2026-07-10,-584.25,Okamžitá odchádzajúca Europlatba,ING. MILAN BENKO - EUROKONTAKT,"Velkoplosna tlac, vyroba a instalac
+0,2026-07-21,5.0,Okamžitá prichádzajúca Europlatba,Eva Helexova,Dar,,,,Eva Helexova
+1,2026-07-10,-584.25,Okamžitá odchádzajúca Europlatba,ING. MILAN BENKO - EUROKONTAKT,"Velkoplosna tlac, vyroba a instalac
 ia",0000,26136,0,"vyroba bannerov, inštalacia bannerov"
-1,2026-07-03,200.0,Okamžitá prichádzajúca Europlatba,Hromada Michal,,,,,Hromada Michal
-2,2026-05-28,10.0,Okamžitá prichádzajúca Europlatba,Franko Boris,"Mesto s ľuďmi -  držím palce, Podpora kandidatury",,,,Franko Boris
-3,2026-05-28,10.0,Okamžitá prichádzajúca Europlatba,"Sedláček Jakub, Ing.",Mesto s ľudmi - podpora kandidatúry,,,,"Sedláček Jakub, Ing."
-4,2026-05-24,-583.22,Okamžitá odchádzajúca Europlatba,printworld.com Gmbh,5505360 ASK12288651,,,,
-5,2026-05-22,200.0,Okamžitá prichádzajúca Europlatba,Slavomir Lamper,nech sa podari,,,,Slavomir Lamper
-6,2026-05-22,100.0,Okamžitá prichádzajúca Europlatba,Jozef Slivka,"Drzime palce, Podpora kandidatury",,,,Jozef Slivka
-7,2026-05-21,50.0,Okamžitá prichádzajúca Europlatba,Daniel Hederer,"Mesto s ludmi - drzim palce, Podpora kandidatury",,,,Daniel Hederer
-8,2026-05-21,30.0,Okamžitá prichádzajúca Europlatba,Matej Ruttkay,"Mesto s ludmi, ?/VS/SS/KS",,,,Matej Ruttkay
-9,2026-05-21,10.0,Okamžitá prichádzajúca Europlatba,"Tornyos Tomáš, Ing.","Mesto s ľuďmi -  držím palce, Podpora kandidatury",,,,"Tornyos Tomáš, Ing."
-10,2026-05-21,10.0,Okamžitá prichádzajúca Europlatba,IMPRESA,"Mesto s ludmi - drzim palce, Podpora kandidatury",,,,IMPRESA
-11,2026-05-19,10.0,Okamžitá prichádzajúca Europlatba,Martin Tišťan,"Mesto s ludmi - drzim palce Tisto, Podpora kandidatury",,,,Martin Tišťan
-12,2026-05-14,1000.0,Okamžitá prichádzajúca Europlatba,EcoPlan 11 s.r.o.,,,,,EcoPlan 11 s.r.o.
-13,2026-05-14,100.0,Bezhotovostný príjem,"Molitóris Vladimír,",?/DO2026-05-13/SPPodpora kandidáta na primátora,0558,260513,,"Molitóris Vladimír,"
-14,2026-05-13,100.0,Okamžitá prichádzajúca Europlatba,"Šelestiaková Júlia,",,,,,"Šelestiaková Júlia,"
-15,2026-05-12,10.0,Okamžitá prichádzajúca Europlatba,Andrea Mydlová,Andrea Mydlova,,,,Andrea Mydlová
-16,2026-05-12,10.0,Okamžitá prichádzajúca Europlatba,Janštová Dominika,,,,,Janštová Dominika
-17,2026-05-12,20.0,Okamžitá prichádzajúca Europlatba,Michaela Cabova,Coskoro p. Primator Molitoris,,,,Michaela Cabova
-18,2026-05-12,1.0,Okamžitá prichádzajúca Europlatba,Eliaš Dominik,Na politiku sa vykašli. Kúp si radšej kopček zmrzliny.,,,,Eliaš Dominik
-19,2026-05-12,10.0,Okamžitá prichádzajúca Europlatba,Veronika Sentinekova,,,,,Veronika Sentinekova
-20,2026-05-06,10.0,Okamžitá prichádzajúca Europlatba,"Molitoris Matúš, Mgr",,,,,"Molitoris Matúš, Mgr"
+2,2026-07-03,200.0,Okamžitá prichádzajúca Europlatba,Hromada Michal,,,,,Hromada Michal
+3,2026-05-28,10.0,Okamžitá prichádzajúca Europlatba,Franko Boris,"Mesto s ľuďmi -  držím palce, Podpora kandidatury",,,,Franko Boris
+4,2026-05-28,10.0,Okamžitá prichádzajúca Europlatba,"Sedláček Jakub, Ing.",Mesto s ľudmi - podpora kandidatúry,,,,"Sedláček Jakub, Ing."
+5,2026-05-24,-583.22,Okamžitá odchádzajúca Europlatba,printworld.com Gmbh,5505360 ASK12288651,,,,
+6,2026-05-22,200.0,Okamžitá prichádzajúca Europlatba,Slavomir Lamper,nech sa podari,,,,Slavomir Lamper
+7,2026-05-22,100.0,Okamžitá prichádzajúca Europlatba,Jozef Slivka,"Drzime palce, Podpora kandidatury",,,,Jozef Slivka
+8,2026-05-21,50.0,Okamžitá prichádzajúca Europlatba,Daniel Hederer,"Mesto s ludmi - drzim palce, Podpora kandidatury",,,,Daniel Hederer
+9,2026-05-21,30.0,Okamžitá prichádzajúca Europlatba,Matej Ruttkay,"Mesto s ludmi, ?/VS/SS/KS",,,,Matej Ruttkay
+10,2026-05-21,10.0,Okamžitá prichádzajúca Europlatba,"Tornyos Tomáš, Ing.","Mesto s ľuďmi -  držím palce, Podpora kandidatury",,,,"Tornyos Tomáš, Ing."
+11,2026-05-21,10.0,Okamžitá prichádzajúca Europlatba,IMPRESA,"Mesto s ludmi - drzim palce, Podpora kandidatury",,,,IMPRESA
+12,2026-05-19,10.0,Okamžitá prichádzajúca Europlatba,Martin Tišťan,"Mesto s ludmi - drzim palce Tisto, Podpora kandidatury",,,,Martin Tišťan
+13,2026-05-14,1000.0,Okamžitá prichádzajúca Europlatba,EcoPlan 11 s.r.o.,,,,,EcoPlan 11 s.r.o.
+14,2026-05-14,100.0,Bezhotovostný príjem,"Molitóris Vladimír,",?/DO2026-05-13/SPPodpora kandidáta na primátora,0558,260513,,"Molitóris Vladimír,"
+15,2026-05-13,100.0,Okamžitá prichádzajúca Europlatba,"Šelestiaková Júlia,",,,,,"Šelestiaková Júlia,"
+16,2026-05-12,10.0,Okamžitá prichádzajúca Europlatba,Andrea Mydlová,Andrea Mydlova,,,,Andrea Mydlová
+17,2026-05-12,10.0,Okamžitá prichádzajúca Europlatba,Janštová Dominika,,,,,Janštová Dominika
+18,2026-05-12,20.0,Okamžitá prichádzajúca Europlatba,Michaela Cabova,Coskoro p. Primator Molitoris,,,,Michaela Cabova
+19,2026-05-12,1.0,Okamžitá prichádzajúca Europlatba,Eliaš Dominik,Na politiku sa vykašli. Kúp si radšej kopček zmrzliny.,,,,Eliaš Dominik
+20,2026-05-12,10.0,Okamžitá prichádzajúca Europlatba,Veronika Sentinekova,,,,,Veronika Sentinekova
+21,2026-05-06,10.0,Okamžitá prichádzajúca Europlatba,"Molitoris Matúš, Mgr",,,,,"Molitoris Matúš, Mgr"

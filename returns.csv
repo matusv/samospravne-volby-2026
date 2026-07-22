@@ -1,6 +1,6 @@
 index,index,date,amount,account_name,message,vs,name
-0,344,2026-04-30,-25.0,Stanislav Dubovsky,Platba/vratenie daru stanislav dubovsky,,Progresívne Slovensko
-1,392,2026-04-15,25.0,Stanislav Dubovsky,PLATBA/Dar,"35
+0,348,2026-04-30,-25.0,Stanislav Dubovsky,Platba/vratenie daru stanislav dubovsky,,Progresívne Slovensko
+1,396,2026-04-15,25.0,Stanislav Dubovsky,PLATBA/Dar,"35
 VS35/SS/KS",Progresívne Slovensko
 2,96,2026-04-17,-0.01,Ivan Rostas,Mylná platba,,Kresťanskodemokratické hnutie
 3,97,2026-04-15,0.01,Ivan Rostas,SK73 0200 0000 0045 5336 2157 . dakujem,,Kresťanskodemokratické hnutie
@@ -14,9 +14,9 @@ VS35/SS/KS",Progresívne Slovensko
 11,449,2026-06-23,50000.0,Folkmer Petra,Dar na zaklade zmluvy- Petra Folkmer,,Team Bratislava
 12,76,2026-07-13,-8000.0,"Čvapek Róbert, Ing.",Dakujeme za Vasu podporu a priazen. Po upozorneni na porusenie internych predpisov darovania sme sa rozhodli Vam dar vratit.,,Team Bratislava
 13,140,2026-07-07,8000.0,"Čvapek Róbert, Ing.",Dar Čvapkovci,,Team Bratislava
-14,44,2026-06-01,-3200.0,VENA Agentur s. r. o.,Platba/Prenajom a osadenie ploch,"20260001
+14,45,2026-06-01,-3200.0,VENA Agentur s. r. o.,Platba/Prenajom a osadenie ploch,"20260001
 VS20260001/SS/KS",Dunaj
-15,42,2026-06-04,3200.0,VENA Agentur s. r. o.,PLATBA,"20260001
+15,43,2026-06-04,3200.0,VENA Agentur s. r. o.,PLATBA,"20260001
 VS20260001/SS/KS",Dunaj
 16,74,2026-04-20,-253.0,Bosák Tibor,Vrátenie chybnej platby,,Ladislav Lörinc
 17,112,2026-04-07,253.0,Bosák Tibor,Tibor Bosák,,Ladislav Lörinc
