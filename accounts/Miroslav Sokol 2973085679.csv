@@ -3,9 +3,7 @@ index,date,amount,currency,account_name,message,vs
 1,2026-07-14,-10.0,EUR,,SPRAC.POPLATOK VA26071403507,
 2,2026-07-14,-423.47,EUR,Terezia Michalcova,PLATBA VA26071403507/Uhrada faktury c. 20260007. Odberatel Miroslav Sokol,
 3,2026-07-14,500.0,EUR,"Sokol Miroslav, Ing.",Platba,
-4,2026-07-13,-5.12,EUR,"FAXCOPY62,ZA,AUPARK","
-                        POS nákup FAXCOPY62,ZA,AUPARK / ZILINA / (POS 05442400)
-                    /
+4,2026-07-13,-5.12,EUR,"FAXCOPY62,ZA,AUPARK","POS nákup FAXCOPY62,ZA,AUPARK / ZILINA / (POS 05442400)/
                         
                     ","
                         
