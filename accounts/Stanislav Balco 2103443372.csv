@@ -1,31 +1,37 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2026-07-22,-98.4,Okamžitá odchádzajúca Europlatba,"Merion, s.r.o.",,,,,
-1,2026-07-22,-100.0,Platba prevodom v rámci banky,,Stanislav Balco. Trzby za poskytnute sluzby. 22.07.2026,,102026001,,Stanislav Balco. Trzby za poskytnute sluzby. 22.07.2026
-2,2026-07-17,2500.0,Okamžitá prichádzajúca Europlatba,STANISLAV BALCO,", Kamp",,,,STANISLAV BALCO
-3,2026-07-16,-260.76,Okamžitá odchádzajúca Europlatba,"Merion, s.r.o.",,,,,
-4,2026-07-16,-1351.34,Okamžitá odchádzajúca Europlatba,NOTPROVIDED,Uhrada faktury 2026163,,2026163,,
-5,2026-07-16,-67.0,Okamžitá odchádzajúca Europlatba,Mesto Lucenec,"Dan/poplatok za uzivanie verejnehop
+0,2026-07-23,-73.8,Okamžitá odchádzajúca Europlatba,JP MEDIA  PRODUCTION S.R.O.,,0308,2026045,,
+1,2026-07-23,-73.8,Okamžitá odchádzajúca Europlatba,"Merion, s.r.o.",,,,,
+2,2026-07-23,-153.75,Okamžitá odchádzajúca Europlatba,ARTON s.r.o.,"Stanislav Balco. Gombalova N (tlac1
+5). 11.06.2026",,202606401,,
+3,2026-07-23,-153.75,Okamžitá odchádzajúca Europlatba,ARTON s.r.o.,"Pyroh s.r.o.. Gombalova N (tlac 15)
+. 09.04.2026",,202604315,,
+4,2026-07-22,-98.4,Okamžitá odchádzajúca Europlatba,"Merion, s.r.o.",,,,,
+5,2026-07-22,-100.0,Platba prevodom v rámci banky,,Stanislav Balco. Trzby za poskytnute sluzby. 22.07.2026,,102026001,,Stanislav Balco. Trzby za poskytnute sluzby. 22.07.2026
+6,2026-07-17,2500.0,Okamžitá prichádzajúca Europlatba,STANISLAV BALCO,", Kamp",,,,STANISLAV BALCO
+7,2026-07-16,-260.76,Okamžitá odchádzajúca Europlatba,"Merion, s.r.o.",,,,,
+8,2026-07-16,-1351.34,Okamžitá odchádzajúca Europlatba,NOTPROVIDED,Uhrada faktury 2026163,,2026163,,
+9,2026-07-16,-67.0,Okamžitá odchádzajúca Europlatba,Mesto Lucenec,"Dan/poplatok za uzivanie verejnehop
 riestranstva na rok 2026",0558,1390214041,2603017101,
-6,2026-07-16,2500.0,Okamžitá prichádzajúca Europlatba,STANISLAV BALCO,", Kamp",,,,STANISLAV BALCO
-7,2026-07-06,-1697.4,Bezhotovostná platba,NOTPROVIDED,Uhrada faktury 260130,0308,260130,,
-8,2026-07-01,-500.0,Okamžitá odchádzajúca Europlatba,Gajdos Ondrej,MED,0308,26008,,
-9,2026-06-25,-270.6,Okamžitá odchádzajúca Europlatba,"Merion, s.r.o.",,,12026067,,
-10,2026-06-24,500.0,Okamžitá prichádzajúca Europlatba,Bellov Maximilián,,,,,Bellov Maximilián
-11,2026-06-24,500.0,Okamžitá prichádzajúca Europlatba,Bellov Maximilián,,,,,Bellov Maximilián
-12,2026-06-24,-984.0,Okamžitá odchádzajúca Europlatba,"Merion, s.r.o.",,,12026061,,
-13,2026-06-18,-3849.9,Okamžitá odchádzajúca Europlatba,JP MEDIA  PRODUCTION S.R.O.,,0308,2603,,
-14,2026-06-17,-190.04,Bezhotovostná platba,NOTPROVIDED,Uhrada faktury 260117,0308,260117,,
-15,2026-06-10,-520.61,Okamžitá odchádzajúca Europlatba,NOTPROVIDED,Uhrada faktury 2026103,,2026103,,
-16,2026-06-08,-282.9,Bezhotovostná platba,NOTPROVIDED,Uhrada faktury 260108,0308,260108,,
-17,2026-06-02,-300.0,Okamžitá odchádzajúca Europlatba,Gajdos Ondrej,MED,0308,26005,,
-18,2026-05-28,-442.8,Okamžitá odchádzajúca Europlatba,NOTPROVIDED,"Stanislav Balco. Gombalova N (tlac3
+10,2026-07-16,2500.0,Okamžitá prichádzajúca Europlatba,STANISLAV BALCO,", Kamp",,,,STANISLAV BALCO
+11,2026-07-06,-1697.4,Bezhotovostná platba,NOTPROVIDED,Uhrada faktury 260130,0308,260130,,
+12,2026-07-01,-500.0,Okamžitá odchádzajúca Europlatba,Gajdos Ondrej,MED,0308,26008,,
+13,2026-06-25,-270.6,Okamžitá odchádzajúca Europlatba,"Merion, s.r.o.",,,12026067,,
+14,2026-06-24,500.0,Okamžitá prichádzajúca Europlatba,Bellov Maximilián,,,,,Bellov Maximilián
+15,2026-06-24,500.0,Okamžitá prichádzajúca Europlatba,Bellov Maximilián,,,,,Bellov Maximilián
+16,2026-06-24,-984.0,Okamžitá odchádzajúca Europlatba,"Merion, s.r.o.",,,12026061,,
+17,2026-06-18,-3849.9,Okamžitá odchádzajúca Europlatba,JP MEDIA  PRODUCTION S.R.O.,,0308,2603,,
+18,2026-06-17,-190.04,Bezhotovostná platba,NOTPROVIDED,Uhrada faktury 260117,0308,260117,,
+19,2026-06-10,-520.61,Okamžitá odchádzajúca Europlatba,NOTPROVIDED,Uhrada faktury 2026103,,2026103,,
+20,2026-06-08,-282.9,Bezhotovostná platba,NOTPROVIDED,Uhrada faktury 260108,0308,260108,,
+21,2026-06-02,-300.0,Okamžitá odchádzajúca Europlatba,Gajdos Ondrej,MED,0308,26005,,
+22,2026-05-28,-442.8,Okamžitá odchádzajúca Europlatba,NOTPROVIDED,"Stanislav Balco. Gombalova N (tlac3
 0). 11.05.2026",0000,202605300,0,
-19,2026-05-26,700.0,Okamžitá prichádzajúca Europlatba,Peter Kukla,,,,,Peter Kukla
-20,2026-05-26,3000.0,Okamžitá prichádzajúca Europlatba,ONDREJ BALCO,Prispevok na kampan,,,,ONDREJ BALCO
-21,2026-05-19,-172.2,Okamžitá odchádzajúca Europlatba,"Merion, s.r.o.",,,,,
-22,2026-04-28,-95.94,Okamžitá odchádzajúca Europlatba,J+T,Uhrada faktury 260086,0308,260086,,
-23,2026-04-21,-500.0,Okamžitá odchádzajúca Europlatba,JUDO CLUB KATSUDO LUCENEC,,,,,turnaj
-24,2026-04-15,-996.3,Okamžitá odchádzajúca Europlatba,"Merion, s.r.o.",Balco Stanislav,,12026038,,
-25,2026-04-07,-120.0,Okamžitá odchádzajúca Europlatba,Mir. Denisa Hajdukova,,,20260008,,
-26,2026-03-25,-2730.6,Okamžitá odchádzajúca Europlatba,JP MEDIA PRODUCTION,Balco Stanislav,,0022026,,
-27,2026-03-02,10000.0,Okamžitá prichádzajúca Europlatba,Pavel Durkove,Prispevok,,,,Pavel Durkove
+23,2026-05-26,700.0,Okamžitá prichádzajúca Europlatba,Peter Kukla,,,,,Peter Kukla
+24,2026-05-26,3000.0,Okamžitá prichádzajúca Europlatba,ONDREJ BALCO,Prispevok na kampan,,,,ONDREJ BALCO
+25,2026-05-19,-172.2,Okamžitá odchádzajúca Europlatba,"Merion, s.r.o.",,,,,
+26,2026-04-28,-95.94,Okamžitá odchádzajúca Europlatba,J+T,Uhrada faktury 260086,0308,260086,,
+27,2026-04-21,-500.0,Okamžitá odchádzajúca Europlatba,JUDO CLUB KATSUDO LUCENEC,,,,,turnaj
+28,2026-04-15,-996.3,Okamžitá odchádzajúca Europlatba,"Merion, s.r.o.",Balco Stanislav,,12026038,,
+29,2026-04-07,-120.0,Okamžitá odchádzajúca Europlatba,Mir. Denisa Hajdukova,,,20260008,,
+30,2026-03-25,-2730.6,Okamžitá odchádzajúca Europlatba,JP MEDIA PRODUCTION,Balco Stanislav,,0022026,,
+31,2026-03-02,10000.0,Okamžitá prichádzajúca Europlatba,Pavel Durkove,Prispevok,,,,Pavel Durkove
