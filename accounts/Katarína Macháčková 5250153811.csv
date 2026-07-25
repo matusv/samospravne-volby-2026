@@ -1,3 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2026-06-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
-1,MACHACKOVA KATARINA,2026-06-26,10000,EUR,Katarína Macháčková,Prijatá SEPA platba,,
+0,"Petit Press, a.s.",2026-07-24,-307.5,EUR,záloha za inzerciu,Okamžitá platba (elektronicky),2633101121.0,
+1,,2026-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+2,MACHACKOVA KATARINA,2026-06-26,10000.0,EUR,Katarína Macháčková,Prijatá SEPA platba,,

@@ -3,19 +3,96 @@ index,date,amount,currency,account_name,message,vs
 1,2026-07-14,-10.0,EUR,,SPRAC.POPLATOK VA26071403507,
 2,2026-07-14,-423.47,EUR,Terezia Michalcova,PLATBA VA26071403507/Uhrada faktury c. 20260007. Odberatel Miroslav Sokol,
 3,2026-07-14,500.0,EUR,"Sokol Miroslav, Ing.",Platba,
-4,2026-07-13,-5.12,EUR,"FAXCOPY62,ZA,AUPARK","POS nákup FAXCOPY62,ZA,AUPARK / ZILINA / (POS 05442400)",
-5,2026-07-10,-23.0,EUR,OPENAI *CHATGPT SUBSCR,EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),
-6,2026-07-09,150.0,EUR,Ing.Frantisek Talapka,Platba/Podpora od Klubu ZaZA,
-7,2026-07-09,10.0,EUR,Lubomir Bechny,Platba/podpora pana kandidata cez ciarovy kod,
-8,2026-07-08,-184.5,EUR,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",Platba/Uhrada faktury VF20262288,"20262288
-VS20262288/SS/KS308"
-9,2026-07-08,-8.14,EUR,C027 Zilina,POS nákup C027 Zilina / Zilina / (POS 06222997),
-10,2026-07-07,100.0,EUR,FRANTIŠEK TALAPKA,"Platba/ZILINA POTREBUJE ZMENU, MIRO DRZIM PALCE",
-11,2026-07-06,-250.0,EUR,"Schneider & Partners Co., s. r. o.",Platba/Úhrada faktúry: 20260025,"20260025
-VS20260025/SS/KS"
-12,2026-07-03,-1500.0,EUR,VANDA TUCHYNOVA,Platba/Management kampane,"12
-VS12/SS/KS0308"
-13,2026-07-03,500.0,EUR,"Sokol Miroslav, Ing.",Platba,
+4,2026-07-13,-5.12,EUR,"
+                            FAXCOPY62,ZA,AUPARK
+                    ","
+                        POS nákup FAXCOPY62,ZA,AUPARK / ZILINA / (POS 05442400)
+                    /
+                        
+                    ","
+                        
+                    "
+5,2026-07-10,-23.0,EUR,"
+                            OPENAI *CHATGPT SUBSCR
+                    ","
+                        EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ)
+                    /
+                        
+                    ","
+                        
+                    "
+6,2026-07-09,150.0,EUR,"
+                            Ing.Frantisek Talapka
+                    ","
+                        Platba
+                    /
+                        Podpora od Klubu ZaZA
+                    ","
+                        
+                    "
+7,2026-07-09,10.0,EUR,"
+                            Lubomir Bechny
+                    ","
+                        Platba
+                    /
+                        podpora pana kandidata cez ciarovy kod
+                    ","
+                        
+                    "
+8,2026-07-08,-184.5,EUR,"
+                            GRYF REKLAMNÉ ŠTÚDIO, S. R. O.
+                    ","
+                        Platba
+                    /
+                        Uhrada faktury VF20262288
+                    ","
+                        20262288VS20262288/SS/KS308
+                    "
+9,2026-07-08,-8.14,EUR,"
+                            C027 Zilina
+                    ","
+                        POS nákup C027 Zilina / Zilina / (POS 06222997)
+                    /
+                        
+                    ","
+                        
+                    "
+10,2026-07-07,100.0,EUR,"
+                            FRANTIŠEK TALAPKA
+                    ","
+                        Platba
+                    /
+                        ZILINA POTREBUJE ZMENU, MIRO DRZIM PALCE
+                    ","
+                        
+                    "
+11,2026-07-06,-250.0,EUR,"
+                            Schneider & Partners Co., s. r. o.
+                    ","
+                        Platba
+                    /
+                        Úhrada faktúry: 20260025
+                    ","
+                        20260025VS20260025/SS/KS
+                    "
+12,2026-07-03,-1500.0,EUR,"
+                            VANDA TUCHYNOVA
+                    ","
+                        Platba
+                    /
+                        Management kampane
+                    ","
+                        12VS12/SS/KS0308
+                    "
+13,2026-07-03,500.0,EUR,"
+                            Sokol Miroslav, Ing.
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        
+                    "
 14,2026-07-03,-23.0,EUR,OPENAI *CHATGPT SUBSCR,EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),
 15,2026-06-30,-3.0,EUR,,Poplatok za účet,
 16,2026-06-24,-2.55,EUR,Tesco Zilina Hajik,POS nákup Tesco Zilina Hajik / Zilina / (POS 11267905),
@@ -26,60 +103,15 @@ VS2026025/SS/KS"
 VS9264864524/SS/KS"
 20,2026-06-10,-15.2,EUR,Cukraren Sofia,POS nákup Cukraren Sofia / Teplicka nad / (POS 11311602),
 21,2026-06-10,-23.0,EUR,OPENAI *CHATGPT SUBSCR,EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),
-22,2026-06-10,-8.76,EUR,"
-                            C027 Zilina
-                    ","
-                        POS nákup C027 Zilina / Zilina / (POS 06222997)
-                    /
-                        
-                    ","
-                        
-                    "
-23,2026-06-10,-23.0,EUR,"
-                            OPENAI *CHATGPT SUBSCR
-                    ","
-                        EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ)
-                    /
-                        
-                    ","
-                        
-                    "
-24,2026-06-03,-120.0,EUR,"
-                            Schneider & Partners Co., s. r. o.
-                    ","
-                        Platba
-                    /
-                        Úhrada faktúry: 20260019
-                    ","
-                        20260019VS20260019/SS/KS
-                    "
-25,2026-06-03,-120.0,EUR,"
-                            Filip Balvan
-                    ","
-                        Platba
-                    /
-                        Úhrada faktúry: 2026TR26
-                    ","
-                        202626VS202626/SS/KS
-                    "
-26,2026-06-01,-1500.0,EUR,"
-                            VANDA TUCHYNOVA
-                    ","
-                        Platba
-                    /
-                        Management kampane
-                    ","
-                        10VS10/SS/KS0308
-                    "
-27,2026-06-01,400.0,EUR,"
-                            ĽUBOMÍR KMOTORKA
-                    ","
-                        Platba
-                    /
-                        Ing.Lubomir Kmotorka
-                    ","
-                        
-                    "
+22,2026-06-10,-8.76,EUR,C027 Zilina,POS nákup C027 Zilina / Zilina / (POS 06222997),
+23,2026-06-10,-23.0,EUR,OPENAI *CHATGPT SUBSCR,EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),
+24,2026-06-03,-120.0,EUR,"Schneider & Partners Co., s. r. o.",Platba/Úhrada faktúry: 20260019,"20260019
+VS20260019/SS/KS"
+25,2026-06-03,-120.0,EUR,Filip Balvan,Platba/Úhrada faktúry: 2026TR26,"202626
+VS202626/SS/KS"
+26,2026-06-01,-1500.0,EUR,VANDA TUCHYNOVA,Platba/Management kampane,"10
+VS10/SS/KS0308"
+27,2026-06-01,400.0,EUR,ĽUBOMÍR KMOTORKA,Platba/Ing.Lubomir Kmotorka,
 28,2026-06-01,3000.0,EUR,Ing.Milan Urbanik,Platba,
 29,2026-05-30,-3.0,EUR,,Poplatok za účet,
 30,2026-05-28,-7.95,EUR,OBI Zilina,POS nákup OBI Zilina / Zilina / (POS 55616369),

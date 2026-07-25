@@ -8,28 +8,8 @@ VS202601354/SS/KS"
 VS2600001/SS/KS308"
 4,2026-07-02,3000.0,EUR,"Novisedlák Peter, Mgr.",Platba/Vklad,
 5,2026-06-30,-0.0,EUR,,Poplatok za účet,
-6,2026-05-30,-0.0,EUR,,"
-                        Poplatok za účet
-                    /
-                        
-                    ","
-                        
-                    "
-7,2026-05-15,-811.8,EUR,"
-                            GRYF MEDIA, s.r.o.
-                    ","
-                        Platba
-                    /
-                        Rezervacia Billboard
-                    ","
-                        25112VS25112/SS/KS308
-                    "
-8,2026-05-15,1000.0,EUR,"
-                            Novisedlák Peter, Mgr.
-                    ","
-                        Platba
-                    /
-                        Vklad
-                    ","
-                        15052026VS15052026/SS/KS0558
-                    "
+6,2026-05-30,-0.0,EUR,,Poplatok za účet,
+7,2026-05-15,-811.8,EUR,"GRYF MEDIA, s.r.o.",Platba/Rezervacia Billboard,"25112
+VS25112/SS/KS308"
+8,2026-05-15,1000.0,EUR,"Novisedlák Peter, Mgr.",Platba/Vklad,"15052026
+VS15052026/SS/KS0558"

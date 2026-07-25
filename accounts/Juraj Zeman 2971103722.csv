@@ -5,17 +5,85 @@ VS26100130/SS/KS308"
 2,2026-07-17,100.0,EUR,Hoglová Radoslava,Platba,
 3,2026-07-16,100.0,EUR,"Bak Martin, Mgr.",Platba/DAR NA KAMPAN,
 4,2026-07-14,50.0,EUR,Martina Stepianska Hilbertova,Platba/dar na kampan,
-5,2026-07-14,100.0,EUR,Lucia Adamovska,Platba/Dar na kampan,
-6,2026-07-14,100.0,EUR,DEBNAROVA MONIKA,Platba/Volby 2026,
-7,2026-07-07,-467.4,EUR,IT SERVIS SK s. r. o.,Platba/Platba za reklamné perá,"2026052
-VS2026052/SS/KS"
-8,2026-07-03,100.0,EUR,Mišák Ondrej,Platba/Vajnory spoločne,
-9,2026-07-02,50.0,EUR,Hoglová Radoslava,Platba,
-10,2026-07-01,-390.0,EUR,Mestská časť Bratislava - Vajnory,Platba/Inzercia VN - Faktúra č.: 2026075,"2026075
-VS2026075/SS/KS308"
-11,2026-06-30,-0.0,EUR,,Poplatok za účet,
-12,2026-06-30,100.0,EUR,DEBNAROVA MONIKA,Platba/Volby 2026,
-13,2026-06-29,100.0,EUR,SOŇA KUKUČKOVÁ,Platba/ZA LEPSIE VAJNORY,
+5,2026-07-14,100.0,EUR,Lucia Adamovska,"
+                        Platba
+                    /
+                        Dar na kampan
+                    ","
+                        
+                    "
+6,2026-07-14,100.0,EUR,"
+                            DEBNAROVA MONIKA
+                    ","
+                        Platba
+                    /
+                        Volby 2026
+                    ","
+                        
+                    "
+7,2026-07-07,-467.4,EUR,"
+                            IT SERVIS SK s. r. o.
+                    ","
+                        Platba
+                    /
+                        Platba za reklamné perá
+                    ","
+                        2026052VS2026052/SS/KS
+                    "
+8,2026-07-03,100.0,EUR,"
+                            Mišák Ondrej
+                    ","
+                        Platba
+                    /
+                        Vajnory spoločne
+                    ","
+                        
+                    "
+9,2026-07-02,50.0,EUR,"
+                            Hoglová Radoslava
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        
+                    "
+10,2026-07-01,-390.0,EUR,"
+                            Mestská časť Bratislava - Vajnory
+                    ","
+                        Platba
+                    /
+                        Inzercia VN - Faktúra č.: 2026075
+                    ","
+                        2026075VS2026075/SS/KS308
+                    "
+11,2026-06-30,-0.0,EUR,"
+                            
+                    ","
+                        Poplatok za účet
+                    /
+                        
+                    ","
+                        
+                    "
+12,2026-06-30,100.0,EUR,"
+                            DEBNAROVA MONIKA
+                    ","
+                        Platba
+                    /
+                        Volby 2026
+                    ","
+                        
+                    "
+13,2026-06-29,100.0,EUR,"
+                            SOŇA KUKUČKOVÁ
+                    ","
+                        Platba
+                    /
+                        ZA LEPSIE VAJNORY
+                    ","
+                        
+                    "
 14,2026-06-29,50.0,EUR,MIROSLAVA ZEMANOVÁ DIEŠKOVÁ,Platba/DAR VAJNORY SPOLOCNE,
 15,2026-06-29,50.0,EUR,"Bak Martin, Mgr.",Platba/DAR NA KAMPAN,
 16,2026-06-29,100.0,EUR,Lucia Adamovska,Platba/Dar na kampan,
@@ -26,6 +94,4 @@ VS2026075/SS/KS308"
 21,2026-06-08,10.0,EUR,Marek Borbely,Platba/Kandidatura na starostu,
 22,2026-06-01,50.0,EUR,Robert Melicher,Platba,
 23,2026-06-01,50.0,EUR,Robert Melicher,Platba,
-24,2026-05-30,-0.0,EUR,,Poplatok za účet,"
-                        
-                    "
+24,2026-05-30,-0.0,EUR,,Poplatok za účet,

@@ -1,90 +1,20 @@
 index,date,amount,currency,account_name,message,vs
-0,2026-07-16,300.0,EUR,DANIEL KOVAC,Platba PO26071662432041/Daniel Kovac,
-1,2026-07-14,300.0,EUR,"Mgr. Miloš Gáfrik, advokát",PLATBA,
-2,2026-07-09,300.0,EUR,Dávid Pavlík,Platba,
-3,2026-07-08,300.0,EUR,Michal Cerny,Platba/Michal Cerny,
-4,2026-07-08,300.0,EUR,Natalia Podhorna,Platba,
-5,2026-07-06,300.0,EUR,"
-                            Tomáš Varadínek
-                    ","
-                        Platba
-                    /
-                        Tomas Varadinek
-                    ","
-                        
-                    "
-6,2026-07-06,300.0,EUR,"
-                            Peter Cmorej
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        
-                    "
-7,2026-07-03,300.0,EUR,"
-                            Ondrej Kollar
-                    ","
-                        Platba
-                    /
-                        Ondrej Kollar
-                    ","
-                        
-                    "
-8,2026-07-03,300.0,EUR,"
-                            HRIVNAK STEFAN
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        
-                    "
-9,2026-07-03,300.0,EUR,"
-                            Alica Hajkova
-                    ","
-                        Platba
-                    /
-                        odosielatel: Alica Hajkova
-                    ","
-                        VS/SS/KS0558
-                    "
-10,2026-07-03,300.0,EUR,"
-                            Viera Nemethova
-                    ","
-                        Platba
-                    /
-                        Nemethova Viera
-                    ","
-                        
-                    "
-11,2026-07-03,300.0,EUR,"
-                            Milko Karol
-                    ","
-                        Platba
-                    /
-                        Karol Milko
-                    ","
-                        
-                    "
-12,2026-07-03,300.0,EUR,"
-                            Mikušová Tatiana, Ing.
-                    ","
-                        Platba
-                    /
-                        Mikusova
-                    ","
-                        
-                    "
-13,2026-07-03,300.0,EUR,"
-                            Markovičová Marianna, Ing.
-                    ","
-                        Platba
-                    /
-                        Markovičová
-                    ","
-                        
-                    "
-14,2026-07-03,300.0,EUR,"Binder Lukáš, Ing.",Platba,
-15,2026-06-30,-0.0,EUR,,Poplatok za účet,
-16,2026-06-12,100.0,EUR,Hrčka Ján,Platba,
+0,2026-07-23,300.0,EUR,Peter Granak,Platba/Prispevok na kampan Granak Peter,"2041978
+VS02041978/SS/KS"
+1,2026-07-16,300.0,EUR,DANIEL KOVAC,Platba PO26071662432041/Daniel Kovac,
+2,2026-07-14,300.0,EUR,"Mgr. Miloš Gáfrik, advokát",PLATBA,
+3,2026-07-09,300.0,EUR,Dávid Pavlík,Platba,
+4,2026-07-08,300.0,EUR,Michal Cerny,Platba/Michal Cerny,
+5,2026-07-08,300.0,EUR,Natalia Podhorna,Platba,
+6,2026-07-06,300.0,EUR,Tomáš Varadínek,Platba/Tomas Varadinek,
+7,2026-07-06,300.0,EUR,Peter Cmorej,Platba,
+8,2026-07-03,300.0,EUR,Ondrej Kollar,Platba/Ondrej Kollar,
+9,2026-07-03,300.0,EUR,HRIVNAK STEFAN,Platba,
+10,2026-07-03,300.0,EUR,Alica Hajkova,Platba/odosielatel: Alica Hajkova,VS/SS/KS0558
+11,2026-07-03,300.0,EUR,Viera Nemethova,Platba/Nemethova Viera,
+12,2026-07-03,300.0,EUR,Milko Karol,Platba/Karol Milko,
+13,2026-07-03,300.0,EUR,"Mikušová Tatiana, Ing.",Platba/Mikusova,
+14,2026-07-03,300.0,EUR,"Markovičová Marianna, Ing.",Platba/Markovičová,
+15,2026-07-03,300.0,EUR,"Binder Lukáš, Ing.",Platba,
+16,2026-06-30,-0.0,EUR,,Poplatok za účet,
+17,2026-06-12,100.0,EUR,Hrčka Ján,Platba,
