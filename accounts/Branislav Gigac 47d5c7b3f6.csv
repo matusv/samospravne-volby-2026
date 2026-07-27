@@ -1,24 +1,26 @@
 index,date,amount,currency,account_name,message,vs
-0,2026-07-22,-200.0,EUR,,"Odoslaná okamžitá platba, Mgr. Viliam Drab, ICO: 54145287 - vyroba propagacnych videi",VS: 2026011
-1,2026-07-20,1000.0,EUR,Marcel Malincik,"Prijatá platba, Marcel Malincik, dar na kampan",VS: 20072026
-2,2026-07-19,500.0,EUR,Bartko Marcel,"Prijatá platba, Marcel Bartko,podpora volby",
-3,2026-07-17,10.0,EUR,Milan Bukoven,"Prijatá platba, Podpora kampane od m.bukovena.",
-4,2026-07-16,10.0,EUR,Vieriu Lívia,"Prijatá platba, Za lepšiu Prievidzu",
-5,2026-07-15,100.0,EUR,Hlavina Miroslav,"Prijatá platba, ",
-6,2026-07-14,20.0,EUR,Renata Ludrovska,"Prijatá platba, dar kampan Renata Ludrovska",
-7,2026-07-10,100.0,EUR,Michal Varga,"Prijatá platba, DAR",
-8,2026-07-04,-400.0,EUR,,"Odoslaná okamžitá platba, Mgr. Viliam Drab: FA2026009 - Mgr.Branislav Gigac - 2026/06 - VIDEO",VS: 2026009
-9,2026-06-30,-73.8,EUR,,"Odoslaná okamžitá platba, Vyroba propagacneho produktu","VS: 260300212
+0,2026-07-27,-307.5,EUR,,"Odoslaná platba elektronicky, Inzercia v regionalnom vydani novin Horna Nitra - region plny zivota","VS: 2633101114
 KS: 0308"
-10,2026-06-30,-10.0,EUR,,"Odoslaná okamžitá platba, Omyl - vratenie platby",
+1,2026-07-22,-200.0,EUR,,"Odoslaná okamžitá platba, Mgr. Viliam Drab, ICO: 54145287 - vyroba propagacnych videi",VS: 2026011
+2,2026-07-20,1000.0,EUR,Marcel Malincik,"Prijatá platba, Marcel Malincik, dar na kampan",VS: 20072026
+3,2026-07-19,500.0,EUR,Bartko Marcel,"Prijatá platba, Marcel Bartko,podpora volby",
+4,2026-07-17,10.0,EUR,Milan Bukoven,"Prijatá platba, Podpora kampane od m.bukovena.",
+5,2026-07-16,10.0,EUR,Vieriu Lívia,"Prijatá platba, Za lepšiu Prievidzu",
+6,2026-07-15,100.0,EUR,Hlavina Miroslav,"Prijatá platba, ",
+7,2026-07-14,20.0,EUR,Renata Ludrovska,"Prijatá platba, dar kampan Renata Ludrovska",
+8,2026-07-10,100.0,EUR,Michal Varga,"Prijatá platba, DAR",
+9,2026-07-04,-400.0,EUR,,"Odoslaná okamžitá platba, Mgr. Viliam Drab: FA2026009 - Mgr.Branislav Gigac - 2026/06 - VIDEO",VS: 2026009
+10,2026-06-30,-73.8,EUR,,"Odoslaná okamžitá platba, Vyroba propagacneho produktu","VS: 260300212
+KS: 0308"
 11,2026-06-30,-10.0,EUR,,"Odoslaná okamžitá platba, Omyl - vratenie platby",
 12,2026-06-30,-10.0,EUR,,"Odoslaná okamžitá platba, Omyl - vratenie platby",
 13,2026-06-30,-10.0,EUR,,"Odoslaná okamžitá platba, Omyl - vratenie platby",
-14,2026-06-30,10.0,EUR,Denisa Orosova,"Prijatá platba, Darcek Janko",
-15,2026-06-30,10.0,EUR,Alzbeta Hudakova,"Prijatá platba, Darcek Janko",
-16,2026-06-30,10.0,EUR,Abdulwahab Al-Sbenaty,"Prijatá platba, Darcek Janko",
-17,2026-06-30,10.0,EUR,Mihaľ Daniel,"Prijatá platba, Darcek Janko",
-18,2026-06-30,-221.4,EUR,,"Odoslaná okamžitá platba, Reklamna plocha","VS: 25162
+14,2026-06-30,-10.0,EUR,,"Odoslaná okamžitá platba, Omyl - vratenie platby",
+15,2026-06-30,10.0,EUR,Denisa Orosova,"Prijatá platba, Darcek Janko",
+16,2026-06-30,10.0,EUR,Alzbeta Hudakova,"Prijatá platba, Darcek Janko",
+17,2026-06-30,10.0,EUR,Abdulwahab Al-Sbenaty,"Prijatá platba, Darcek Janko",
+18,2026-06-30,10.0,EUR,Mihaľ Daniel,"Prijatá platba, Darcek Janko",
+19,2026-06-30,-221.4,EUR,,"Odoslaná okamžitá platba, Reklamna plocha","VS: 25162
 KS: 0308"
-19,2026-06-29,1000.0,EUR,Josef Alsharabi,"Prijatá platba, drzim palce",
-20,2026-06-27,2000.0,EUR,Branislav Gigac,"Prijatá platba, Dar",
+20,2026-06-29,1000.0,EUR,Josef Alsharabi,"Prijatá platba, drzim palce",
+21,2026-06-27,2000.0,EUR,Branislav Gigac,"Prijatá platba, Dar",

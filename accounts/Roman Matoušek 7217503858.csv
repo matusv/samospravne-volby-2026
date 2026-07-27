@@ -1,15 +1,16 @@
 index,date,amount,account_name,message,vs
-0,2026-07-07,-553.5,"Reklama a media, s. r. o.",Platba faktury 260100035,260100035
-1,2026-07-06,1000.0,Reves Štefan,Kampan 2026,
-2,2026-07-02,-15.0,MC Sidlisko KVP,Uhrada prenajmu priestoru,4217600011
-3,2026-06-30,-6.0,,Vedenie konta Transparentný účet,9
-4,2026-06-12,-387.45,Promiseo s.r.o.,"Sprava soc. sieti, produkcia",20260357
-5,2026-06-12,-430.5,"Reklama a media, s. r. o.",Platba faktury 260100025 za gulockove pers,260100025
-6,2026-05-29,-6.0,,Vedenie konta Transparentný účet,9
-7,2026-05-27,-497.25,Promiseo s.r.o.,Uhrada 20260320,20260320
-8,2026-05-14,-140.7,"Komunitna kaviaren KVP, s.r.o.",obcerstvenie ohlasovanie kampane 2,1020260001
-9,2026-05-13,1000.0,Reves Štefan,Kampan 2026,
-10,2026-04-30,-6.0,,Vedenie konta Transparentný účet,9
-11,2026-03-31,5.0,,Storno-popl.za platby a ved.úč/kon,9
-12,2026-03-31,-5.0,,Vedenie účtu,9
-13,2026-03-26,500.0,Roman Matoušek,Kampan,
+0,2026-07-27,-15.0,MC Kosice Sidlisko Kvp,Fakturujeme Vam prenajom velkej zasadacky miestneho uradu MC Kosice - Sidlisko KVP dna 15.07.2026 v,4214600014
+1,2026-07-07,-553.5,"Reklama a media, s. r. o.",Platba faktury 260100035,260100035
+2,2026-07-06,1000.0,Reves Štefan,Kampan 2026,
+3,2026-07-02,-15.0,MC Sidlisko KVP,Uhrada prenajmu priestoru,4217600011
+4,2026-06-30,-6.0,,Vedenie konta Transparentný účet,9
+5,2026-06-12,-387.45,Promiseo s.r.o.,"Sprava soc. sieti, produkcia",20260357
+6,2026-06-12,-430.5,"Reklama a media, s. r. o.",Platba faktury 260100025 za gulockove pers,260100025
+7,2026-05-29,-6.0,,Vedenie konta Transparentný účet,9
+8,2026-05-27,-497.25,Promiseo s.r.o.,Uhrada 20260320,20260320
+9,2026-05-14,-140.7,"Komunitna kaviaren KVP, s.r.o.",obcerstvenie ohlasovanie kampane 2,1020260001
+10,2026-05-13,1000.0,Reves Štefan,Kampan 2026,
+11,2026-04-30,-6.0,,Vedenie konta Transparentný účet,9
+12,2026-03-31,5.0,,Storno-popl.za platby a ved.úč/kon,9
+13,2026-03-31,-5.0,,Vedenie účtu,9
+14,2026-03-26,500.0,Roman Matoušek,Kampan,

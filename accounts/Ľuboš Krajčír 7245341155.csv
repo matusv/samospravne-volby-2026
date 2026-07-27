@@ -1,16 +1,17 @@
 index,date,amount,account_name,message,vs
-0,2026-07-24,1000.0,Ľuboš Krajčír,Vlastne prostriedky na kampan,
-1,2026-07-20,-30.75,"NUBIUM, s. r. o.",,2610003858
-2,2026-07-20,-1755.21,"NUBIUM, s.r.o.",,2610003656
-3,2026-07-20,2000.0,Ľuboš Krajčír,Vlastne prostriedky na kampan,
-4,2026-07-15,-21.4,Websupport s. r. o.,,1026201688
-5,2026-06-30,-6.0,,Vedenie konta Transparentný účet,9
-6,2026-06-22,-2666.52,"CreoCom, s.r.o.",,12026205
-7,2026-06-22,1000.0,Ľuboš Krajčír,Vlastne prostriedky na kampan,
-8,2026-06-15,-314.24,Mgr. Jaroslav Kovac - KOVAC SERVIS,,2624011052
-9,2026-06-04,-1432.95,"IMAGEWELL Slovakia, s. r. o.",,460260040
-10,2026-06-04,2500.0,Ľuboš Krajčír,Osoby vklad,
-11,2026-06-03,-4969.2,GRYF reklamne studio,,26106
-12,2026-06-03,6000.0,Ľuboš Krajčír,Vklad na kampan,
-13,2026-05-29,5.0,,Storno-popl.za platby a ved.úč/kon,9
-14,2026-05-29,-5.0,,Vedenie účtu,9
+0,2026-07-27,-1291.5,ARTON s.r.o.,,260280
+1,2026-07-24,1000.0,Ľuboš Krajčír,Vlastne prostriedky na kampan,
+2,2026-07-20,-30.75,"NUBIUM, s. r. o.",,2610003858
+3,2026-07-20,-1755.21,"NUBIUM, s.r.o.",,2610003656
+4,2026-07-20,2000.0,Ľuboš Krajčír,Vlastne prostriedky na kampan,
+5,2026-07-15,-21.4,Websupport s. r. o.,,1026201688
+6,2026-06-30,-6.0,,Vedenie konta Transparentný účet,9
+7,2026-06-22,-2666.52,"CreoCom, s.r.o.",,12026205
+8,2026-06-22,1000.0,Ľuboš Krajčír,Vlastne prostriedky na kampan,
+9,2026-06-15,-314.24,Mgr. Jaroslav Kovac - KOVAC SERVIS,,2624011052
+10,2026-06-04,-1432.95,"IMAGEWELL Slovakia, s. r. o.",,460260040
+11,2026-06-04,2500.0,Ľuboš Krajčír,Osoby vklad,
+12,2026-06-03,-4969.2,GRYF reklamne studio,,26106
+13,2026-06-03,6000.0,Ľuboš Krajčír,Vklad na kampan,
+14,2026-05-29,5.0,,Storno-popl.za platby a ved.úč/kon,9
+15,2026-05-29,-5.0,,Vedenie účtu,9

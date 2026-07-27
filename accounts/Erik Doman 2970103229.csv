@@ -5,8 +5,13 @@ index,date,amount,currency,account_name,message,vs
 VS2026029/SS/KS"
 3,2026-07-09,50.0,EUR,Ing. Filip Farkašovský,PLATBA/SEPA Okamžitá platba,
 4,2026-06-30,-5.0,EUR,,Poplatok za účet,
-5,2026-06-17,-200.0,EUR,Nela Skovajsová,Platba/Webova stranka,"2026028
-VS2026028/SS/KS"
+5,2026-06-17,-200.0,EUR,Nela Skovajsová,"
+                        Platba
+                    /
+                        Webova stranka
+                    ","
+                        2026028VS2026028/SS/KS
+                    "
 6,2026-06-17,550.0,EUR,"
                             Doman Erik, Mgr.
                     ","
