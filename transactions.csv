@@ -1,4 +1,26 @@
 date,account_name,amount,message,vs,name,url
+2026-07-29,Platba kartou,-3.28,FACEBK *LBV66YD9X2 Dublin,****7272,Branislav Baran,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7602000000007241595756
+2026-07-29,JAKUBOV JAN,5000.0,Podpora kampane,,Igor Šimko,https://transparentneucty.sk/#/ucet/SK6309000000005248359730
+2026-07-29,LED MULTIMEDIA s.r.o.,-655.33,Led spot,260100014.0,Igor Šimko,https://transparentneucty.sk/#/ucet/SK6309000000005248359730
+2026-07-29,KPK Print s.r.o.,-1488.0,"Tlac bannerov, letakov, plagatov",92607044.0,Igor Šimko,https://transparentneucty.sk/#/ucet/SK6309000000005248359730
+2026-07-29,KPK Print s.r.o.,-1716.62,Reklamne predmety s potlacou,92607156.0,Igor Šimko,https://transparentneucty.sk/#/ucet/SK6309000000005248359730
+2026-07-29,Peter Meszaros,2000.0,,,Jozef Ráž,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5002000000007225813354
+2026-07-29,Miroslav Turek,2000.0,"Ing. Miroslav Turek, Kvetinova 411/4B Trencin, prispevok na kampan",,Ján Forgáč,https://www.transparentneucty.sk/#/ucet/SK5609000000005244130365
+2026-07-29,"SATOR, s.r.o.",-2583.0,Úhrada ZF2026004 za reklamné predmety,2026004.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-07-29,,-10.33,"/VS2026004/SS/KS 29.07.2026 2583,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-07-29,,-726.19,tlac letakov,2026053.0,Matúš Čupka,https://ib.fio.sk/ib/transparent?a=2003398359
+2026-07-29,,-72.08,tlac letakov,2026690.0,Matúš Čupka,https://ib.fio.sk/ib/transparent?a=2003398359
+2026-07-29,"Lessejová Jana, Mgr.",20.0,Peter Lessej,,Miroslav Olejár,https://www.transparentneucty.sk/#/ucet/SK7209000000005246909321
+2026-07-29,Mgr. Lubica Blaskovi,550.0,?/DO2026-07-28/SPDar na volebnu kampan,,Renáta Zolnaiová,https://ib.fio.sk/ib/transparent?a=2703512431
+2026-07-29,Ing. Alexander Rozin CSc.,4000.0,,,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
+2026-07-29,GRYF REKLAMNE STUDIO,-3062.7,Zal. fa.35 - prenajom bilboardov,26137.0,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
+2026-07-29,,-12.25,"/VS26137/SS/KS 29.07.2026 3062,70 EUR",,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
+2026-07-29,GRYF REKLAMNE STUDIO,-8364.0,Zal. fa. 36 - prenajom bilboardy,26138.0,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
+2026-07-29,,-33.46,"/VS26138/SS/KS 29.07.2026 8364,00 EUR",,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
+2026-07-29,NOTPROVIDED,-47.97,Uhrada faktury 260143,260143.0,Stanislav Balco,https://ib.fio.sk/ib/transparent?a=2103443372
+2026-07-29,FOTOLORINCIK s.r.o.,-150.0,Uhrada faktury FV26/005,26005.0,Stanislav Balco,https://ib.fio.sk/ib/transparent?a=2103443372
+2026-07-29,"Šegedová Natália, Mgr.",10.0,.-) keep on going VPRED!,20263883.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-29,Kelečeniová Emília,10.0,dar,20263884.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-28,NESTICKY MAREK,500.0,?/DO2026-07-28/SPMarek Nesticky,,Eva Nemčovská,https://www.transparentneucty.sk/#/ucet/SK1609000000005243966670
 2026-07-28,Mesto Trnava,-100.0,Daň/poplatok užívanie verejného priestranstva na rok 2026 - Rozhovory s Evou,1500010435.0,Eva Nemčovská,https://www.transparentneucty.sk/#/ucet/SK1609000000005243966670
 2026-07-28,INGRID KÖGELOVÁ,2100.0,podpora kampane,1234.0,Jaroslav Baška,https://ib.fio.sk/ib/transparent?a=2603527601
@@ -10,11 +32,11 @@ date,account_name,amount,message,vs,name,url
 2026-07-28,Zuzana Cupkova,500.0,prispevok cupka,,Matúš Čupka,https://ib.fio.sk/ib/transparent?a=2003398359
 2026-07-28,Zoltán Cziprusz,250.0,príspevok na kampaň,,Ondrej Lunter,https://www.transparentneucty.sk/#/ucet/SK2309000000005247265417
 2026-07-28,GRYF reklamne studio s.r.o.,-3880.65,Uhrada predfaktury 26139,26139.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-28,GRYF reklamne studio s.r.o.,-15.52,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-28,GRYF reklamne studio s.r.o.,-15.52,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-28,GRYF reklamne studio s.r.o.,-4920.0,Uhrada predfaktury 26140,26140.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-28,GRYF reklamne studio s.r.o.,-19.68,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-28,GRYF reklamne studio s.r.o.,-19.68,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-28,SITA Slovenska tlacova agentura a.s,-1955.7,Platba zalohovej faktury 26ZFV00013,2600013.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-28,SITA Slovenska tlacova agentura a.s,-7.82,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-28,SITA Slovenska tlacova agentura a.s,-7.82,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-28,Platba kartou,-54.0,FACEBK *HKACGV5S42 Dublin,****1970,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
 2026-07-28,Mesto Trenčín,-29.7,Dan/poplatok za verejné priestranstvo,1500413741.0,Sloboda a Solidarita,https://www.transparentneucty.sk/#/ucet/SK7109000000005244427206
 2026-07-28,,-0.12,"/VS1500413741/SS2603032788/KS0558 28.07.2026 29,70 EUR",,Sloboda a Solidarita,https://www.transparentneucty.sk/#/ucet/SK7109000000005244427206
@@ -26,17 +48,17 @@ date,account_name,amount,message,vs,name,url
 2026-07-28,,-0.02,"/VS1500413739/SS2603032786/KS0558 28.07.2026 4,40 EUR",,Sloboda a Solidarita,https://www.transparentneucty.sk/#/ucet/SK7109000000005244427206
 2026-07-28,Mesto Partizánske,-45.0,Poplatok za verejné priestranstvo,1500006877.0,Sloboda a Solidarita,https://www.transparentneucty.sk/#/ucet/SK7109000000005244427206
 2026-07-28,,-0.18,"/VS1500006877/SS2603012276/KS0558 28.07.2026 45,00 EUR",,Sloboda a Solidarita,https://www.transparentneucty.sk/#/ucet/SK7109000000005244427206
-2026-07-28,Zora Szomolanyiova,30.0,dar BA,20263874.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-28,Kostolný Jakub,30.0,dar,20263875.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-28,Tóthová Lenka,10.0,dar,20263876.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-28,"Lacík Igor, Mgr.",50.0,dar,20263877.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-28,Marek Zalibera,30.0,2620990000163874,20263878.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-28,Moravčíková Veronika,10.0,"Still in love with Bratislava, ďakujem",20263879.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-28,Borušovič Martin,50.0,"Držím palce, nech sa zveľaďovanie verejného priestoru, cyklo a koľajovej dopravy darí ďalej! A nech sa nevrátia rôzni kšeftári zpred roka 20",20263881.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-28,Viera Horvathova,50.0,dar,20263880.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-28,Klára Mária Harvánek,50.0,"Veríme, že vďaka Vašej práci sa môže Bratislava priblížiť Zurichu a tým nás stiahnúť späť domov.",20263882.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-28,Hlavné mesto Slovenskej republiky Bratislava,6.9,35394866,3424061090.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-28,"Ivaničko Radúz, Ing.",4000.0,OO26072800111732,,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-28,Klára Mária Harvánek,50.0,"Veríme, že vďaka Vašej práci sa môže Bratislava priblížiť Zurichu a tým nás stiahnúť späť domov.",20263882.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-28,Viera Horvathova,50.0,dar,20263880.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-28,Borušovič Martin,50.0,"Držím palce, nech sa zveľaďovanie verejného priestoru, cyklo a koľajovej dopravy darí ďalej! A nech sa nevrátia rôzni kšeftári zpred roka 20",20263881.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-28,Moravčíková Veronika,10.0,"Still in love with Bratislava, ďakujem",20263879.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-28,Hlavné mesto Slovenskej republiky Bratislava,6.9,35394866,3424061090.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-28,"Lacík Igor, Mgr.",50.0,dar,20263877.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-28,Tóthová Lenka,10.0,dar,20263876.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-28,Kostolný Jakub,30.0,dar,20263875.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-28,Zora Szomolanyiova,30.0,dar BA,20263874.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-28,Marek Zalibera,30.0,2620990000163874,20263878.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-28,,-199.26,"Odoslaná okamžitá platba, Reklamne predmety",VS: 260264,Tomáš Sobota,https://moja.csob.sk/transparent-accounts/98b324eb1750b68eb120abdeb62a46565fd69b2897e812aff3d4883644c091ac
 2026-07-28,,-1001.44,"Odoslaná platba elektronicky, Levicke noviny vol.2",VS: 2624100018 KS: 308,Vladimír Kuny,https://moja.csob.sk/transparent-accounts/90295e6bde4bec15d441560bc60685473174cb115e6bb67516f67b7054f6b79c
 2026-07-27,"ISPA, spol. s r.o.",-108.24,Volby 2026,20263110.0,Anna Súkeníková,https://www.transparentneucty.sk/#/ucet/SK1609000000005191944794
@@ -71,9 +93,9 @@ date,account_name,amount,message,vs,name,url
 2026-07-27,"Popradska tlaciaren, vydavatelstvo,",-197.78,"Platba/Popradska tlaciaren, vydavatelstvo - tlac letakov kamoan PSK Luscikova 07/2026",2607088.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-27,GLASS4U s. r. o.,217.35,Platba,2526059.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-27,"ISPA, spo. s.r.o.",-14956.8,Letna kampan Pravo na pravdu,202602859.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-27,"ISPA, spo. s.r.o.",-40.0,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-27,"ISPA, spo. s.r.o.",-40.0,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-27,"ISPA, spo. s.r.o.",-3050.4,Letna kampan Pravo na pravdu,202602858.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-27,"ISPA, spo. s.r.o.",-12.2,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-27,"ISPA, spo. s.r.o.",-12.2,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-27,Tomas Celovsky,1000.0,2620890000509151,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-07-27,MC Kosice Sidlisko Kvp,-15.0,Fakturujeme Vam prenajom velkej zasadacky miestneho uradu MC Kosice - Sidlisko KVP dna 15.07.2026 v,4214600014.0,Roman Matoušek,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9802000000007217503858
 2026-07-27,,-7.28,"/VS20260706/SS/KS0308 27.07.2026 1820,40 EUR",,Sloboda a Solidarita,https://www.transparentneucty.sk/#/ucet/SK7109000000005244427206
@@ -98,6 +120,7 @@ date,account_name,amount,message,vs,name,url
 2026-07-26,Igor Slovak,-100.0,VS 202609,,Lucia Loskotová,https://www.transparentneucty.sk/#/ucet/SK4609000000005248758512
 2026-07-26,Michaela Cabova,10.0,Matus si primator,,Matúš Molitoris,https://ib.fio.sk/ib/transparent?a=2503499252
 2026-07-26,PETER CIBULKA,1000.0,PLATBA,,Peter Cibulka,https://www.transparentneucty.sk/#/ucet/SK3309000000005245909565
+2026-07-26,GRYF reklamne studio s.r.o.,-615.0,johanes,26143.0,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
 2026-07-25,Chromjaková Felicita,100.0,F001250720266448417,,Felicita Chromjaková,https://transparentneucty.sk/#/ucet/SK3909000000005248903556
 2026-07-25,VERGA S.R.O.,-220.0,Produkcia spotu Klasický hejt do 120s rezia strih kamera postprodukcia VERGA s.r.o.,2681000170.0,Igor Kršiak,https://www.transparentneucty.sk/#/ucet/SK1009000000005189469947
 2026-07-25,HENEKOVA KATARINA,1200.0,?/DO2026-07-25/SP,,Katarína Heneková,https://www.transparentneucty.sk/#/ucet/SK1109000000005250150995
@@ -133,6 +156,7 @@ date,account_name,amount,message,vs,name,url
 2026-07-24,"Gedeon Jozef, Bc.",200.0,Nová energia pre Trebišov,,Peter Jozefi,https://transparentneucty.sk/#/ucet/SK0709000000005248347449
 2026-07-24,Progresívne Slovensko,30000.0,Platba/prevod medzi uctami,,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-24,,-1.54,Transakčná daň 23.07.2026,,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
+2026-07-24,Zilinsky vecernik,-2460.0,johanes,100260010.0,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
 2026-07-24,Multiprint s.r.o.,-264.45,Uhrada fa 20260213 - Stolik a flyba nner s potlacou,20260213.0,Renáta Zolnaiová,https://ib.fio.sk/ib/transparent?a=2703512431
 2026-07-24,,-0.74,"/VS260044/SS/KS 24.07.2026 184,50 EUR",,Slovenská národná strana,https://www.transparentneucty.sk/#/ucet/SK7809000000005248558019
 2026-07-24,LK weddings s.r.o.,-184.5,ostatne,260044.0,Slovenská národná strana,https://www.transparentneucty.sk/#/ucet/SK7809000000005248558019
@@ -188,11 +212,11 @@ date,account_name,amount,message,vs,name,url
 2026-07-23,ARTON s.r.o.,-153.75,Stanislav Balco. Gombalova N (tlac1 5). 11.06.2026,202606401.0,Stanislav Balco,https://ib.fio.sk/ib/transparent?a=2103443372
 2026-07-23,"Merion, s.r.o.",-73.8,,,Stanislav Balco,https://ib.fio.sk/ib/transparent?a=2103443372
 2026-07-23,JP MEDIA PRODUCTION S.R.O.,-73.8,,2026045.0,Stanislav Balco,https://ib.fio.sk/ib/transparent?a=2103443372
-2026-07-23,Želinská Jana,251.0,F001230720264290207,,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-23,Moravanský Matej,30.0,dar,20263868.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-23,Jajcayová Zuzana,30.0,skúška darovacieho formuláru,20263869.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-23,Radoslav Kysucký,111.0,dar,20263870.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-23,Ľuptáková Petruszová Flóra,50.0,Ďakujeme :),20263871.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-23,Radoslav Kysucký,111.0,dar,20263870.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-23,Jajcayová Zuzana,30.0,skúška darovacieho formuláru,20263869.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-23,Moravanský Matej,30.0,dar,20263868.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-23,Želinská Jana,251.0,F001230720264290207,,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-23,MARTIN JAKUS,30.0,?/DO2026-07-23/SPPRISPEVOK SALA,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja,https://ib.fio.sk/ib/transparent?a=2203415213
 2026-07-23,Mesto Trnava,-40.0,Zaber verejneho priestoru,5000333320.0,Ľubica Horváthová,https://www.transparentneucty.sk/#/ucet/SK6609000000005244601702
 2026-07-23,RAPOS s.r.o.,-120.54,RAPOS s.r.o.: 2026451 - LUBICA HORVATHOVA - 2026/05 vlajka,2026451.0,Ľubica Horváthová,https://www.transparentneucty.sk/#/ucet/SK6609000000005244601702
@@ -239,20 +263,20 @@ date,account_name,amount,message,vs,name,url
 2026-07-22,Akram Adnan,500.0,Platba/Kampan ksk,12.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-22,Simona Zatkova - PHOTO,-450.0,Platba/Simona Zatkova - fotograficke a graficke prace kampan BB Javorcikova 05/2026,1260009.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-22,"euroAWK, spol. s r.o.",-4059.0,Letna kampan Pravo na pravdu,2670108.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-22,Delip s.r.o.,-18.52,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-22,Delip s.r.o.,-18.52,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-22,Delip s.r.o.,-4628.98,Delip s.r.o.: 2026309 - Pravo na pr avdu - 2026/07,2026309.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-22,"euroAWK, spol. s r.o.",-16.24,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-22,"euroAWK, spol. s r.o.",-5.76,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-22,"MAFRA Slovakia, a.s.",-18.08,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-22,"euroAWK, spol. s r.o.",-40.0,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-22,"euroAWK, spol. s r.o.",-16.24,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-22,"euroAWK, spol. s r.o.",-5.76,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-22,"MAFRA Slovakia, a.s.",-18.08,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-22,"euroAWK, spol. s r.o.",-40.0,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-22,"euroAWK, spol. s r.o.",-29520.0,Letna kampan Pravo na pravdu,2670106.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-22,"MAFRA Slovakia, a.s.",-4520.25,clanok Rytmus zivota,22601370.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-22,"ISPA, spo. s.r.o.",-24.07,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-22,"ISPA, spo. s.r.o.",-24.07,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-22,"ISPA, spo. s.r.o.",-6017.16,kampan pre zupanku BSK Zuzanu Krajcovicovu Pravo na pravdu,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-22,"euroAWK, spol. s r.o.",-1439.1,kampan pre zupanku Zuzanu Krajcovicovu,2670112.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-22,OneNumber Services s.r.o.,-9988.0,Úhrada faktúry na základe objednávky č. 2026007 za tlač a distribúciu propagačných letákov a plagátov pre potreby volebnej kampane,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
-2026-07-22,,-100.0,Stanislav Balco. Trzby za poskytnute sluzby. 22.07.2026,102026001.0,Stanislav Balco,https://ib.fio.sk/ib/transparent?a=2103443372
 2026-07-22,"Merion, s.r.o.",-98.4,,,Stanislav Balco,https://ib.fio.sk/ib/transparent?a=2103443372
+2026-07-22,,-100.0,Stanislav Balco. Trzby za poskytnute sluzby. 22.07.2026,102026001.0,Stanislav Balco,https://ib.fio.sk/ib/transparent?a=2103443372
 2026-07-22,Kolčák Nikolas,30.0,"milujeme paru, držíme ti palce aj so snubenicou, ak by sa ti chcelo tak pod nas oddat, zavolaj ked sa ti bude chcet, nech sa darí, si frajer",20263866.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-22,Ďuranová Terézia,10.0,F001220720263762001,20263867.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-21,"Čop Radovan, Mgr.",1000.0,"Radovan Cop, Ulica pod Hajmi 12",,Andrej Sitkár,https://www.transparentneucty.sk/#/ucet/SK6909000000005248567687
@@ -277,7 +301,7 @@ date,account_name,amount,message,vs,name,url
 2026-07-21,Tomáš Freylich,250.0,Platba,7.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-21,Tomáš Freylich,250.0,Platba,7.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-21,Grafis Reklama SK,-117.86,Platba faktury 267154,267154.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-21,Grafis Reklama SK,-0.47,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-21,Grafis Reklama SK,-0.47,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-21,Rudolf Kusý,940.0,,,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
 2026-07-21,Rudolf Kusý,280.0,,,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
 2026-07-21,IN Production s.r.o.,-1405.18,,,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
@@ -324,16 +348,16 @@ date,account_name,amount,message,vs,name,url
 2026-07-20,"Gál Tomáš, PhDr., PhD.",56.0,Platba,7.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-20,Mestska cast Bratislava - Karlova Ves,-80.0,Platba/Mestska cast Bratislava - Karlova Ves - spravny poplatok zabratie priestranstva Karlova Ves 23.7.2026,221004109.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-20,ARTON s.r.o.,-977.85,Pravo na pravdu. Druzkovska - najom ( 45 tlac). 17.07.2026,260275.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-20,ARTON s.r.o.,-3.91,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-20,ARTON s.r.o.,-3.91,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-20,"agrokomplex NARODNE VYSTAVISKO, sta",-123.0,FD-996-prenajom,91260022.0,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
 2026-07-20,,-0.49,"/VS91260022/SS/KS 20.07.2026 123,00 EUR",,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
 2026-07-20,,-0.84,"/VS26126/SS/KS 20.07.2026 209,10 EUR",,Slovenská národná strana,https://www.transparentneucty.sk/#/ucet/SK7809000000005248558019
 2026-07-20,"GRYF reklamné štúdio, s.r.o.",-209.1,reklmane plochy,26126.0,Slovenská národná strana,https://www.transparentneucty.sk/#/ucet/SK7809000000005248558019
 2026-07-20,,-3.62,"/VS260273/SS/KS 20.07.2026 904,05 EUR",,Slovenská národná strana,https://www.transparentneucty.sk/#/ucet/SK7809000000005248558019
 2026-07-20,"ARTON, s. r. o.",-904.05,billboardy 09 10 2026,260273.0,Slovenská národná strana,https://www.transparentneucty.sk/#/ucet/SK7809000000005248558019
-2026-07-20,Katarína Králiková,30.0,ja dakujem,20263863.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-20,IVANA SMREK,20.0,MY SME BRATISLAVA,20263861.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-20,Lívia Prudilová,50.0,Team BA Dakujem,20263862.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-20,IVANA SMREK,20.0,MY SME BRATISLAVA,20263861.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-20,Katarína Králiková,30.0,ja dakujem,20263863.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-20,Vladimir Benka,275.0,2620190000222942,,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-20,Matys Michal,10000.0,dar,,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-20,Smola Miroslav,20.0,Nech sa sem chcu moje deti raz vratit. A aj ja nech to budem chcieť:),20263860.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
@@ -346,6 +370,7 @@ date,account_name,amount,message,vs,name,url
 2026-07-19,Bartko Marcel,500.0,"Prijatá platba, Marcel Bartko,podpora volby",,Branislav Gigac,https://moja.csob.sk/transparent-accounts/3257dd1dfa62203eaa96981862be622c280333207f1e441249c9ce47d5c7b3f6
 2026-07-19,,-403.62,"B2525083911-44544 12** **** 0611;POSTA KEZMAROK 1 ,KEZMAROK 1 ,SK ;17.07.2026 13:19:29 ;CashBack:0 EUR",,Gabriela Karabinošová,https://transparentneucty.sk/#/ucet/SK1609000000005250467319
 2026-07-19,Choma Igor,15000.0,Dotácia z BÚ,,Igor Choma,https://www.transparentneucty.sk/#/ucet/SK3909000000005249838733
+2026-07-19,Eva Rohonova,200.0,,0.0,Michal Niepel,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK1111110000001591705022
 2026-07-19,Branislav Marget,2100.0,Drzim palce,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-07-19,Gáfrik Andrej,1900.0,Držim palce !,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-07-19,Mochňacký Ľubomír,500.0,Držím palce,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
@@ -392,17 +417,19 @@ date,account_name,amount,message,vs,name,url
 2026-07-17,,-32.57,Transakčná daň 16.07.2026,,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-17,"Holéczy Igor, Mgr.",500.0,Platba/kampaň KSK Igor Holéczy,12.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-17,CloudDev s. r. o.,250.0,Platba,3.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
-2026-07-17,Click Media s.r.o.,-40.0,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-17,"Global 24, s.r.o.",-1.23,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-17,Click Media s.r.o.,-40.0,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-17,"Global 24, s.r.o.",-1.23,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-17,"Global 24, s.r.o.",-307.5,Pravo na pravdu. . 17.07.2026,2026029.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-17,Click Media s.r.o.,-28114.73,Uhrada faktury: 2026222,2026222.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-17,Regionpress,-1744.63,Uhrada faktury 14 426 0059,144260059.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-17,Regionpress,-8.32,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-17,Regionpress,-8.32,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-17,Regionpress,-2080.55,Uhrada zalohovej faktury 14 426 006 0,144260060.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-17,Regionpress,-6.98,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-17,Regionpress,-6.98,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-17,mediak s.r.o.,-5227.5,QR platba faktury 20260183,20260183.0,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
 2026-07-17,Pliška Adam,500.0,Držím prsty.,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-07-17,Mochňacký Dominik,750.0,Držim palce,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-07-17,Belousovova Anna,-28900.0,"REPUBLIKA, Repikova 18, Nitra, ICO: 31811761 - dar v zmysle DZ",,Republika,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4402000000007256801858
+2026-07-17,Viliam Torac,50.0,Dar,0.0,Roman Vajaš,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK2611110000006861394264
 2026-07-17,STANISLAV BALCO,2500.0,", Kamp",,Stanislav Balco,https://ib.fio.sk/ib/transparent?a=2103443372
 2026-07-17,Sirota Martin,5.0,Aby sa nám lepšie žilo po presťahovaní späť do Bratislavy.,20263853.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-17,"Mičovská Eva, RNDr.",250.0,OO26071700124381,20263852.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
@@ -424,6 +451,7 @@ date,account_name,amount,message,vs,name,url
 2026-07-16,Matus Klimovsky,7000.0,prispevok na predvolebnu kampan,,Daniel Klimovský,https://www.transparentneucty.sk/#/ucet/SK7309000000005246266581
 2026-07-16,Mgr. Miroslav Malinovský,-1500.0,Sluzby projektoveho manazmentu kampane a online komunikacie,20260003.0,Daniel Klimovský,https://www.transparentneucty.sk/#/ucet/SK7309000000005246266581
 2026-07-16,VENA Agentur s. r. o.,-600.0,Platba/Prenajom a sprava webu,20260002.0,Dunaj,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk2711000000002948288343
+2026-07-16,Pálfy Pavol,20.0,?/DO2026-07-15/SPdar David,202607,Dávid Staruch,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK2611110000001881762009
 2026-07-16,,-10.16,"/VS2026022/SS/KS0308 16.07.2026 2539,95 EUR",,Hnutie SLOVENSKO,https://www.transparentneucty.sk/#/ucet/SK8309000000005248035293
 2026-07-16,"KRUPA print BIZ,s.r.o.,IČO:44527551",-302.58,Reklamne predmety,2026418.0,Hnutie SLOVENSKO,https://www.transparentneucty.sk/#/ucet/SK8309000000005248035293
 2026-07-16,,-1.21,"/VS2026418/SS/KS0308 16.07.2026 302,58 EUR",,Hnutie SLOVENSKO,https://www.transparentneucty.sk/#/ucet/SK8309000000005248035293
@@ -449,7 +477,8 @@ date,account_name,amount,message,vs,name,url
 2026-07-16,Peter Bucholcer,999.0,Platba/Bucholcer,1.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-16,"FOCUS Centrum pre sociálnu a marketingovú analýzu, s r.o. v skratke FO",-8142.6,Platba/Focus - prieskum verejnej mienky LM Sufliarska 06/2026,20262056.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-16,X print s.r.o.,-63.96,Potlac mikrofonu.pravo na pravdu,2600064.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-16,X print s.r.o.,-0.26,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-16,X print s.r.o.,-0.26,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-16,Pavol Danisek,1000.0,,0.0,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
 2026-07-16,Mochňacký Adrián,750.0,Drzim palce,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-07-16,"NUBIUM, s. r. o.",-531.36,Billboardy NR 07/2026,2610004282.0,Republika,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4402000000007256801858
 2026-07-16,Dataprint sk s.r.o.,-2741.67,Bannery MS 07/26,2026047.0,Republika,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4402000000007256801858
@@ -496,16 +525,16 @@ date,account_name,amount,message,vs,name,url
 2026-07-16,,-0.4,"/VS28/SS/KS 16.07.2026 100,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-16,maciak s.r.o.,-100.0,Prenajom priestorov Artforum pre podujatie ku knihe Predtym a potom,28.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-16,,-1.6,"/VS017126/SS/KS0308 16.07.2026 400,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-16,,-2.4,"/VS2620053/SS/KS 16.07.2026 600,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-16,Bratislavský samosprávny kraj (IK 36063606),-400.0,Prenajom priestorov BSK na Camp Bratislava 13.6.,17126.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-16,,-2.4,"/VS2620053/SS/KS 16.07.2026 600,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-16,,-2.8,"/VS112026/SS/KS 16.07.2026 700,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-16,Juraj Hipš,-700.0,Facilitacia workshopu pre mladych na Camp Bratislava,112026.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-16,BOKK sro,-600.0,Moderovanie podujatia 2.6. Tvorime Bratislavu:Domov pre buducnost,2620053.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-16,Panabecca s. r. o.,-600.0,Moderovanie verejnej diskusie na Camp Bratislava,2026001.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-16,,-2.4,"/VS2026001/SS/KS 16.07.2026 600,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-16,Margaréta Pavlovová,-3000.0,Vedenie volebnej kampane 6/26,20260010.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-16,,-2.46,"/VS20260070/SS/KS0308 16.07.2026 615,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-16,Pan Tymian s.r.o.,-615.0,Obcerstvenie komunitne ranajky Camp Bratislava 12.6.,20260070.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-16,,-2.4,"/VS2026001/SS/KS 16.07.2026 600,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-16,Panabecca s. r. o.,-600.0,Moderovanie verejnej diskusie na Camp Bratislava,2026001.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-16,,-0.08,"/VS/SS/KS0898 16.07.2026 20,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-16,,-20.0,|||||,,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-16,,-0.89,"NOTPROVIDED 16.07.2026 222,94 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
@@ -536,8 +565,8 @@ date,account_name,amount,message,vs,name,url
 2026-07-15,Jozef Ráž,50000.0,,,Jozef Ráž,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5002000000007225813354
 2026-07-15,Šplíchalová Martina,700.0,príspevok na kampaň - Mgr. Martina Splichalova Viedenska 20 Kosice,,Ján Forgáč,https://www.transparentneucty.sk/#/ucet/SK5609000000005244130365
 2026-07-15,Sophia Gajarská,1800.0,"Sophia Gajarska, jana holleho 891/2, Forgac",,Ján Forgáč,https://www.transparentneucty.sk/#/ucet/SK5609000000005244130365
-2026-07-15,Sophia Gajarská,-1800.0,"Mgr. Ján Forgáč, Partizánska 7859/50A, Trenčín, vrátenie prijatej platby - dar neprijatý z dôvodu neuvedenej adresy trvalého pobytu darcu",,Ján Forgáč,https://www.transparentneucty.sk/#/ucet/SK5609000000005244130365
 2026-07-15,Gajarská Zuzana,-1000.0,"Mgr. Ján Forgáč, Partizánska 7859/50A, Trenčín, vrátenie prijatej platby - dar neprijatý z dôvodu neuvedenej adresy trvalého pobytu darcu",,Ján Forgáč,https://www.transparentneucty.sk/#/ucet/SK5609000000005244130365
+2026-07-15,Sophia Gajarská,-1800.0,"Mgr. Ján Forgáč, Partizánska 7859/50A, Trenčín, vrátenie prijatej platby - dar neprijatý z dôvodu neuvedenej adresy trvalého pobytu darcu",,Ján Forgáč,https://www.transparentneucty.sk/#/ucet/SK5609000000005244130365
 2026-07-15,"euroAWK, spol. s r.o.",-2656.8,"Záloha za služby na kampaň: KV (4xbillboard, tlač, výlep, 1.8. až 30.10.)",2670089.0,Ján Forgáč,https://www.transparentneucty.sk/#/ucet/SK5609000000005244130365
 2026-07-15,Gajarská Zuzana,1000.0,Gajarska Zuzana J.Holleho 891/2 Trenčín,,Ján Forgáč,https://www.transparentneucty.sk/#/ucet/SK5609000000005244130365
 2026-07-15,"Brindzová Iveta, JUDr.",100.0,OO26071500025508,,Katarína Heneková,https://www.transparentneucty.sk/#/ucet/SK1109000000005250150995
@@ -559,8 +588,8 @@ date,account_name,amount,message,vs,name,url
 2026-07-15,Skokan Radovan,10.0,Platba,6.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-15,Regionpress,-1210.07,Uhrada faktury 14 426 0063,144260063.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-15,Regionpress,-215.25,regionpress letakA5,144260064.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-15,Regionpress,-0.86,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-15,Regionpress,-4.84,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-15,Regionpress,-0.86,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-15,Regionpress,-4.84,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-15,Trnka Rastislav,500.0,F001150720262899702,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-07-15,"Pliška Erich, Mgr.",825.0,Držte sa,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-07-15,PLISKOVA SILVIA,675.0,?/DO2026-07-15/SPDrzte sa,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
@@ -645,6 +674,9 @@ date,account_name,amount,message,vs,name,url
 2026-07-14,Gazdura Dusan,100.0,Nová energia pre Trebišov Dušan Gazdura,,Peter Jozefi,https://transparentneucty.sk/#/ucet/SK0709000000005248347449
 2026-07-14,Petrikán Peter Mgr.,100.0,F001140720261814681,,Peter Petrikán,https://www.transparentneucty.sk/#/ucet/SK1109000000005250961333
 2026-07-14,"Cicman Dalibor, Ing.",2000.0,Platba,12.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
+2026-07-14,Anton Hyll,1000.0,,0.0,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
+2026-07-14,GRYF reklamne studio s.r.o,-1968.0,,26121.0,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
+2026-07-14,"JM create, s.r.o.",-2244.75,hrada zlohovej faktry: 30260022,30260022.0,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
 2026-07-14,Jačaninová Janka,1300.0,OO26071400137065,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-07-14,Jakub Gulic,1700.0,,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-07-14,,-1.5,Popl. za upomienku,9.0,Roman Malatinec,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6402000000007246317253
@@ -706,7 +738,7 @@ date,account_name,amount,message,vs,name,url
 2026-07-13,Beňuška Matej,10.0,Platba,7.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-13,Filip Snoha,56.0,Platba/merch stare mesto,7.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-13,Igor Holeczy,170.0,Platba/Dar na kampan Igor Holeczy,8.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
-2026-07-13,"REGIONPRESS, s.r.o.",-3.0,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-13,"REGIONPRESS, s.r.o.",-3.0,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-13,"REGIONPRESS, s.r.o.",-750.3,,146260429.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-13,Rudolf Kusý,200.0,,,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
 2026-07-13,Platba kartou,-14.21,FACEBK-.SFBGDTZ Dublin---------,****1970,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
@@ -714,17 +746,17 @@ date,account_name,amount,message,vs,name,url
 2026-07-13,Frantisek Danis,10.0,"Prijatá platba,",,Slávka Gazdová,https://moja.csob.sk/transparent-accounts/151cc3885839e48b748acdf2be2a06f9f35341230133adee59af00f7b9e2df3a
 2026-07-13,Valeria Imrova,5.0,"Prijatá platba,",,Slávka Gazdová,https://moja.csob.sk/transparent-accounts/151cc3885839e48b748acdf2be2a06f9f35341230133adee59af00f7b9e2df3a
 2026-07-13,Grominová Klaudia,5.0,"Prijatá platba,",,Slávka Gazdová,https://moja.csob.sk/transparent-accounts/151cc3885839e48b748acdf2be2a06f9f35341230133adee59af00f7b9e2df3a
-2026-07-13,"Čvapek Róbert, Ing.",-8000.0,Dakujeme za Vasu podporu a priazen. Po upozorneni na porusenie internych predpisov darovania sme sa rozhodli Vam dar vratit.,,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-13,LUKAS MICIAN,20.0,dar,20263804.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-13,Petra Matejova,50.0,Lebo milujem Bratislavu aj Paru a to cim dalej tym viac,20263803.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-13,Jana Danakova,20.0,dar,20263801.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-13,"Knapík Peter, Mgr.",30.0,"Hoci v Bratislave žijem už dlho, k bytu na hypo a trvalému pobytu som sa dostal až pred pár rokmi - takže toto budú moje prvé voľby ako Brat",20263797.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-13,Kollár Richard,5.0,"Nie som síce z Bratislavy, takže vás nemôžem voliť, ale záleží mi na Slovensku aj na jeho hlavnom meste. Za vami je vidieť kus poctivej prác",20263800.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-13,Igor Psota,100.0,dar,20263799.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-13,Hortová Alžbeta,29.0,"Prajem vám aby ste sa naďalej mohli starať o tento kúsok sveta, ide vám to super!",20263796.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-13,Alexandra Lukacova,15.0,"Dakujem za Vasu pracu, dakujem za Bratislavu, v ktorej sa citim dobre a doma.",20263794.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-13,Hortová Alžbeta,29.0,"Prajem vám aby ste sa naďalej mohli starať o tento kúsok sveta, ide vám to super!",20263796.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-13,,-32.0,"NOTPROVIDED 13.07.2026 8000,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-13,Igor Psota,100.0,dar,20263799.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-13,Kollár Richard,5.0,"Nie som síce z Bratislavy, takže vás nemôžem voliť, ale záleží mi na Slovensku aj na jeho hlavnom meste. Za vami je vidieť kus poctivej prác",20263800.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-13,"Piškaninová Milica, MUDr.",30.0,dar,20263802.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-13,Juraj Opálka,30.0,Neexistuje momentalne nikto lepsi,20263805.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-13,Jana Danakova,20.0,dar,20263801.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-13,Petra Matejova,50.0,Lebo milujem Bratislavu aj Paru a to cim dalej tym viac,20263803.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-13,LUKAS MICIAN,20.0,dar,20263804.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-13,"Čvapek Róbert, Ing.",-8000.0,Dakujeme za Vasu podporu a priazen. Po upozorneni na porusenie internych predpisov darovania sme sa rozhodli Vam dar vratit.,,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-13,"Knapík Peter, Mgr.",30.0,"Hoci v Bratislave žijem už dlho, k bytu na hypo a trvalému pobytu som sa dostal až pred pár rokmi - takže toto budú moje prvé voľby ako Brat",20263797.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-13,Martin Vrana,5.0,"Žijem v zahraničí, ale rád sa vraciam do svojho mesta, ktoré sa naozaj mení k lepšiemu vďaka vám. Možno sa aj niekedy kvôli tomu vrátim :)",20263811.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-13,Imrichová Monika,20.0,"Nežijem v BA, ale veľmi vám fandím. Držím palce.",20263807.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-13,Pavol Masik,10.0,dar,20263810.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
@@ -740,7 +772,7 @@ date,account_name,amount,message,vs,name,url
 2026-07-13,KATARÍNA KOLENČIAK,30.0,DAKUJEM ZA MOTIVACIU AKO SA TO MA ROBIT,20263795.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-13,Palicová Zuzana,100.0,F001130720260862236,20263806.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-13,Vadovicova Lubomira,10.0,Drzim palce,20263793.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-13,,-32.0,"NOTPROVIDED 13.07.2026 8000,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-13,Juraj Opálka,30.0,Neexistuje momentalne nikto lepsi,20263805.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-13,Bírová Stanislava,50.0,dar,20263792.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-13,Yuliya Kruhlik,50.0,Drzim vam palce,20263791.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-13,Michal Žuravlov,30.0,Naše mesto si nenecháme zničiť ani uvaliť späť do komunistických praktík...,20263764.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
@@ -851,7 +883,7 @@ date,account_name,amount,message,vs,name,url
 2026-07-10,Johnny servis,-135.3,Platba/Johnny servis - mobilne toalety rodinny festival Poprad 05/2026,1126306302.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-10,Ezex,-758.6,Platba/Ezex - prenajom priestoro kampan KSK KE Porvaznik 07/2026,26165.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-10,,-400.0,Hura prazdniny,20260601.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-10,,-1.6,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-10,,-1.6,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-10,OneNumber Services s.r.o.,-1891.0,Úhrada faktúry na základe objednávky č. 2026008 za prenájom priestorov a cateringové služby pre potreby volebnej kampane,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-07-10,OneNumber Services s.r.o.,-315.0,"Úhrada faktúry na základe objednávky č. 2026005 za reklamné predmety: tričká, mikiny, šiltovky pre potreby volebnej kampane",,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-07-10,OneNumber Services s.r.o.,-3666.0,"Úhrada faktúry na základe objednávky č. 2026006 za prenájom svetelnej, zvukovej a pódiovej techniky s obsluhou pre potreby volebnej kampane",,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
@@ -868,13 +900,13 @@ date,account_name,amount,message,vs,name,url
 2026-07-10,,-0.27,"/VS2620036/SS/KS0308 10.07.2026 68,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-10,Martina Mihalkovic Strapakova,-1300.0,Marketingove sluzby 6/26,2026062.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-10,,-6.0,"NOTPROVIDED 10.07.2026 1500,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-10,KN works,-1500.0,"Zabezpecenie produkcnych sluzieb na kampanovych podujatiach 5,6/26",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-10,,-5.2,"/VS2026062/SS/KS 10.07.2026 1300,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-10,,-1.23,"/VS2026011/SS/KS 10.07.2026 307,50 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-10,"Hasky group, s. r. o.",-307.5,Zabezpecenie techniky na podujati ku knihe Predtym a potom,2026011.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-10,,-1.0,"NOTPROVIDED 10.07.2026 250,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-10,Cirkevny zbor ECAV na Slovensku Bra,-68.0,Uhrada za obrusy na podujati,2620036.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-10,,-1.0,"NOTPROVIDED 10.07.2026 250,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-10,"Hasky group, s. r. o.",-307.5,Zabezpecenie techniky na podujati ku knihe Predtym a potom,2026011.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-10,Marek Jancuch,-250.0,Fotenie podujatia ku knihe Predtym potom,,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-10,,-5.2,"/VS2026062/SS/KS 10.07.2026 1300,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-10,KN works,-1500.0,"Zabezpecenie produkcnych sluzieb na kampanovych podujatiach 5,6/26",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-10,,-1.23,"/VS2026011/SS/KS 10.07.2026 307,50 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-10,"Plenta Peter, Mgr.",200.0,"Šaľa, Peter P.",,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja,https://ib.fio.sk/ib/transparent?a=2203415213
 2026-07-10,,-67.5,"Transakcia platobnou kartou, Suma: 67,5 EUR 08.07.2026 Miesto: MIRA OFFICE LEVICE",VS: 405000190 ŠS: 5032785547 KS: 0608,Vladimír Kuny,https://moja.csob.sk/transparent-accounts/90295e6bde4bec15d441560bc60685473174cb115e6bb67516f67b7054f6b79c
 2026-07-10,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 08.07.2026",VS: 497000190 ŠS: 5032785547 KS: 6898,Vladimír Kuny,https://moja.csob.sk/transparent-accounts/90295e6bde4bec15d441560bc60685473174cb115e6bb67516f67b7054f6b79c
@@ -894,13 +926,15 @@ date,account_name,amount,message,vs,name,url
 2026-07-09,"Vastusko Ladislav, Ing.",5000.0,/DO2026-07-08/SP,,Jozef Ráž,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5002000000007225813354
 2026-07-09,Hrušovský Michal,500.0,"Michal Hrušovský, Trenčianske Stankovce 427, príspevok na kampaň",,Ján Forgáč,https://www.transparentneucty.sk/#/ucet/SK5609000000005244130365
 2026-07-09,Dávid Pavlík,300.0,Platba,,Ján Hrčka,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk8411000000002975116547
+2026-07-09,Peter Melichac,25.0,Peter Melichac,0.0,Michal Niepel,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK1111110000001591705022
 2026-07-09,Mgr. Petra Lyziciarova Strukova,-7.6,Korektury,20260101.0,Michal Pálka,https://transparentneucty.sk/#/ucet/SK1109000000005246173510
 2026-07-09,Lubomir Bechny,10.0,Platba/podpora pana kandidata cez ciarovy kod,,Miroslav Sokol,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk0211000000002973085679
 2026-07-09,Ing.Frantisek Talapka,150.0,Platba/Podpora od Klubu ZaZA,,Miroslav Sokol,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk0211000000002973085679
 2026-07-09,"MountainAd, s.r.o.",-1540.0,Graficke prace a marketingove poradenstvo,26070003.0,Peter Jozefi,https://transparentneucty.sk/#/ucet/SK0709000000005248347449
 2026-07-09,"RJHJ, s. r. o.",-10000.0,"Platba/RJHJ sro priprava graficky navrhov, tvorba reklamnych videoprezentacii, reklamne sluzby porvaznik ke kampan",2026003.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-09,"AKO, s.r.o.",-16814.1,prieskumy,4520262648.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-09,"AKO, s.r.o.",-40.0,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-09,"AKO, s.r.o.",-40.0,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-09,Anton Hyll,1000.0,,0.0,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
 2026-07-09,Kaňuková Zuzana,1500.0,OO26070900020487,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-07-09,Ivanová Adriana,500.0,OO26070900077949,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-07-09,Viktor Hrobak,1000.0,2619090000353650,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
@@ -920,17 +954,17 @@ date,account_name,amount,message,vs,name,url
 2026-07-08,Andrej Skoda,400.0,Odoslane z Revolutu,,Igor Kršiak,https://www.transparentneucty.sk/#/ucet/SK1009000000005189469947
 2026-07-08,Ivana Heinz,3000.0,,,Jozef Ráž,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5002000000007225813354
 2026-07-08,PR Laboratory,-6050.0,,2623020.0,Jozef Ráž,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5002000000007225813354
-2026-07-08,Skalíková Zuzana,300.0,"Mgr. Zuzana Skalikova, Platanova 11 Stupava, prispevok na kampan",,Ján Forgáč,https://www.transparentneucty.sk/#/ucet/SK5609000000005244130365
 2026-07-08,Davorin Dibak,500.0,"MUDr Davorin Dibak, Trencianska Turna 600, Prispevok na kampan",,Ján Forgáč,https://www.transparentneucty.sk/#/ucet/SK5609000000005244130365
+2026-07-08,Skalíková Zuzana,300.0,"Mgr. Zuzana Skalikova, Platanova 11 Stupava, prispevok na kampan",,Ján Forgáč,https://www.transparentneucty.sk/#/ucet/SK5609000000005244130365
 2026-07-08,Natalia Podhorna,300.0,Platba,,Ján Hrčka,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk8411000000002975116547
 2026-07-08,Michal Cerny,300.0,Platba/Michal Cerny,,Ján Hrčka,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk8411000000002975116547
 2026-07-08,KRTIK JAN,1000.0,F001080720263895766,,Ján Krtík,https://transparentneucty.sk/#/ucet/SK8809000000005147630018
 2026-07-08,PRovoke s.r.o.,-800.0,Komunikačné služby – volebná kampaň na primátora mesta Levice,2026097.0,Ján Krtík,https://transparentneucty.sk/#/ucet/SK8809000000005147630018
 2026-07-08,PRovoke s.r.o.,-200.0,Komunikačné služby – volebná kampaň do VÚC,2026098.0,Ján Krtík,https://transparentneucty.sk/#/ucet/SK8809000000005147630018
-2026-07-08,,-1.44,"/VS0642026/SS/KS 08.07.2026 360,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-07-08,"Dračia stopa PLUS, s. r. o.",-360.0,Úhrada FA 0642026 za atrakcie pre detí na akcii KDH,642026.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-07-08,,-0.56,"/VS1311600020/SS/KS 08.07.2026 140,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-07-08,Obec Družstevná pri Hornáde,-140.0,Úhrada FA 1311600020 za prenájom priestorov na akciu,1311600020.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
-2026-07-08,"Dračia stopa PLUS, s. r. o.",-360.0,Úhrada FA 0642026 za atrakcie pre detí na akcii KDH,642026.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-07-08,,-1.44,"/VS0642026/SS/KS 08.07.2026 360,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-07-08,KDH servis s.r.o.,-369.0,Úhrada FA 1020260019 za propagačnú činnosť,1020260019.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-07-08,,-2.86,"/VS1020260016/SS/KS 08.07.2026 714,85 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-07-08,KDH servis s.r.o.,-714.85,Úhrada FA 1020260016 za propagačnú činnosť,1020260016.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
@@ -945,7 +979,7 @@ date,account_name,amount,message,vs,name,url
 2026-07-08,MICHAL DEMO,200.0,Platba/PLATBA,,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-08,Hapák Samuel,25000.0,Platba/Marian Porvaznik,,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-08,Bittner print s.r.o.,-77.86,Pravo na pravdu. . 06.07.2026,2020260051.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-08,Bittner print s.r.o.,-0.31,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-08,Bittner print s.r.o.,-0.31,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-08,Matijová Zuzana,700.0,F001080720264097880,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-07-08,Štefániková Marcela,1100.0,OO26070800132563,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-07-08,Lukáš Zavacký,1300.0,Drzim palce,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
@@ -993,7 +1027,8 @@ date,account_name,amount,message,vs,name,url
 2026-07-07,Ing. Tamara Tóthová Markovičová,20.0,Platba/Nech to vyjde!,2.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-07,Miroslava Dvořáková,30.0,Platba,3.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-07,kanos.sk s.r.o.,-492.0,Uhrada faktury: 20260058,20260058.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-07,kanos.sk s.r.o.,-1.97,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-07,kanos.sk s.r.o.,-1.97,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-07,Maria Chovancova,5500.0,,0.0,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
 2026-07-07,Svecova Timea,300.0,P-20260707-509554022,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-07-07,"Reklama a media, s. r. o.",-553.5,Platba faktury 260100035,260100035.0,Roman Matoušek,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9802000000007217503858
 2026-07-07,Fibra print s.r.o,-1242.3,,2026511,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
@@ -1038,14 +1073,15 @@ date,account_name,amount,message,vs,name,url
 2026-07-06,NOEMI RACZOVA,100.0,PLATBA/PLATBA,8.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-06,"PhDr. Ing. Petra Ludvikova, PhD.",-1800.0,Platba/Ludvikova - manazment kampane BB Javorcikova 05/2026,2026002.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-06,Dusan Vigas,100.0,Platba,,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
-2026-07-06,"ISPA, spo. s.r.o.",-40.0,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-06,"ISPA, spo. s.r.o.",-19.14,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-06,"ISPA, spo. s.r.o.",-40.0,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-06,"ISPA, spo. s.r.o.",-19.14,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-06,"ISPA, spo. s.r.o.",-4784.7,Letna kampan Pravo na pravdu,26950270.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-06,"ISPA, spo. s.r.o.",-14956.8,Letna kamparn Pravo na pravdu,26950271.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-06,"REGIONPRESS, s.r.o.",-301.35,,146260376.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-06,"REGIONPRESS, s.r.o.",-1.65,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-06,"REGIONPRESS, s.r.o.",-1.21,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-06,"REGIONPRESS, s.r.o.",-1.65,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-06,"REGIONPRESS, s.r.o.",-1.21,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-06,"REGIONPRESS, s.r.o.",-412.05,,146260396.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-06,Anton Hýll,1000.0,,0.0,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
 2026-07-06,GUBANAROVA VERONIKA,1500.0,?/DO2026-07-06/SPpre dobru vec,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-07-06,IMRE JOZEF,20.0,?/DO2026-07-06/SP,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-07-06,IMRE JOZEF,230.0,?/DO2026-07-06/SP,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
@@ -1145,18 +1181,18 @@ date,account_name,amount,message,vs,name,url
 2026-07-03,Marmima s. r. o.,-139.37,Platba/Marmima - potlac triciek kampn LM Sufliarska 29.6.2026,15126018.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-03,Tomas Krjak,-1300.0,Platba/Krjak - manazment kampane Revuca Benesova 06/2026,20260005.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-03,Lucia Marchynová,-1000.0,Platba/Lucia Marchynova - sprava socialnych sieti kampan SNV 05/2026,26002.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
-2026-07-03,GRYF reklamne studio s.r.o.,-32.2,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-03,GRYF reklamne studio s.r.o.,-33.21,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-03,GRYF reklamne studio s.r.o.,-32.2,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-03,GRYF reklamne studio s.r.o.,-33.21,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-03,GRYF reklamne studio s.r.o.,-8302.5,Uhrada faktury VF20262287,20262287.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-03,GRYF reklamne studio s.r.o.,-40.0,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-03,GRYF reklamne studio s.r.o.,-40.0,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-03,GRYF reklamne studio s.r.o.,-23603.7,Uhrada faktury VF20262286,20262286.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-03,"IMAGEWELL, s.r.o.",-40.0,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-03,"IMAGEWELL, s.r.o.",-40.0,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-03,GRYF reklamne studio s.r.o.,-8050.35,Uhrada faktury VF20262285,20262285.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-03,"euroAWK, spol. s r.o.",-40.0,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-03,"euroAWK, spol. s r.o.",-40.0,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-03,"euroAWK, spol. s r.o.",-29520.0,Letná kampaň Právo na pravdu,2670084.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-03,"euroAWK, spol. s r.o.",-16.24,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-03,"euroAWK, spol. s r.o.",-16.24,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-03,"euroAWK, spol. s r.o.",-4059.0,Letná kampaň Právo na pravdu,2670085.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-07-03,ARTON s.r.o.,-40.0,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-07-03,ARTON s.r.o.,-40.0,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-03,ARTON s.r.o.,-14347.95,"Pravo na pravdu. Zahorska N (tlac,i nst 2045). 01.07.2026",202607002.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-03,"IMAGEWELL, s.r.o.",-12662.11,Letna kampan Pravo na pravdu,460260018.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-07-03,Veronika Dvorská,500.0,T2515516223140208642,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
@@ -1190,6 +1226,7 @@ date,account_name,amount,message,vs,name,url
 2026-07-02,PETER JARKOVSKY,20.0,Platba/BB UZ POTREBUJE ZMENU,1.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-07-02,Stefan Simko,3000.0,2618390000142425,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-07-02,MC Sidlisko KVP,-15.0,Uhrada prenajmu priestoru,4217600011.0,Roman Matoušek,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9802000000007217503858
+2026-07-02,VAJASOVA ROMANA,100.0,?/DO2026-07-02/SP,0.0,Roman Vajaš,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK2611110000006861394264
 2026-07-02,"ŠTÚDIO s.r.o., Lučenec",-20.91,0260702151112.224894,,Rút Olšiaková,https://www.transparentneucty.sk/#/ucet/SK5309000000005247732126
 2026-07-02,Olšiaková Rút,200.0,F001020720267784958,,Rút Olšiaková,https://www.transparentneucty.sk/#/ucet/SK5309000000005247732126
 2026-07-02,,-1.72,"/VS202606138/SS/KS 02.07.2026 430,00 EUR",,Sloboda a Solidarita,https://www.transparentneucty.sk/#/ucet/SK7109000000005244427206
@@ -1208,9 +1245,9 @@ date,account_name,amount,message,vs,name,url
 2026-07-02,ARTON s.r.o.,-92.25,Tlac 5 ks plagatov,202605464.0,Sloboda a Solidarita,https://www.transparentneucty.sk/#/ucet/SK7109000000005244427206
 2026-07-02,,-0.6,"/VS2026019/SS/KS 02.07.2026 150,00 EUR",,Sloboda a Solidarita,https://www.transparentneucty.sk/#/ucet/SK7109000000005244427206
 2026-07-02,AjjA ateliér s.r.o.,-150.0,Fotograficke sluzby,2026019.0,Sloboda a Solidarita,https://www.transparentneucty.sk/#/ucet/SK7109000000005244427206
+2026-07-02,Dopravny Podnik,-833.94,Prenajom cabriobusu na Camp Bratislava 14.6.,,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-02,Dominik Micuda,-100.0,Tocenie kratkeho kampanoveho videa,2026006.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-02,,-0.4,"/VS2026006/SS/KS 02.07.2026 100,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-02,Dopravny Podnik,-833.94,Prenajom cabriobusu na Camp Bratislava 14.6.,,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-02,,-3.34,"NOTPROVIDED 02.07.2026 833,94 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-02,,-6.0,"/VS2026009/SS/KS 02.07.2026 1500,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-02,,-6.0,"/VS2026011/SS/KS 02.07.2026 1500,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
@@ -1220,11 +1257,11 @@ date,account_name,amount,message,vs,name,url
 2026-07-02,,-0.8,"/VS20260027/SS/KS0308 02.07.2026 200,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-02,Ing. Zofia Zakuciova,-1500.0,Komunitny manazment a komunikacia 5/26,2026011.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-02,Studio Dominika Bolgacova,-1500.0,Marketingove sluzby 6/26,2026009.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-02,Honest.company,-3310.39,Zabezpecenie cateringu a mobiliaru na podujati 2.6.v Umelke,2026035.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-02,Prediction s.r.o.,-1250.0,Tocenie a strih kampanovych videi na socialne siete 6/26,202607.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-02,Studio Dominika Bolgacova,-350.0,Fotograficke sluzby na podujati 2.6.,2026010.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-02,,-5.0,"/VS202607/SS/KS0308 02.07.2026 1250,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-07-02,Prediction s.r.o.,-1250.0,Tocenie a strih kampanovych videi na socialne siete 6/26,202607.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-02,,-13.24,"/VS2026035/SS/KS 02.07.2026 3310,39 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-07-02,Honest.company,-3310.39,Zabezpecenie cateringu a mobiliaru na podujati 2.6.v Umelke,2026035.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-02,,-6.0,"/VS2026003/SS/KS 02.07.2026 1500,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-02,Katarina Rajcanova,-1500.0,Medialne poradenstvo 6/26,2026003.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-07-02,,-3.94,"/VS20260033/SS/KS 02.07.2026 984,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
@@ -1260,11 +1297,11 @@ date,account_name,amount,message,vs,name,url
 2026-07-01,Mičian Peter,1100.0,,,Jozef Ráž,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5002000000007225813354
 2026-07-01,Mestská časť Bratislava - Vajnory,-390.0,Platba/Inzercia VN - Faktúra č.: 2026075,2026075.0,Juraj Zeman,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7511000000002971103722
 2026-07-01,"JUDR. KATARÍNA BRUNCKOVÁ, PHD.",1000.0,PLATBA/vlastne prostriedky kandidátky na kampan,,Katarína Bruncková,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk5611000000002979115779
+2026-07-01,,-3.99,"/VS20260030/SS/KS 01.07.2026 996,30 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-07-01,,-1.53,"/VS2026002/SS/KS 01.07.2026 382,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-07-01,Photo Studio Zweng s.r.o.,-382.0,Úhrada FA 2026002 za vyhotovenie fotiek,2026002.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
-2026-07-01,,-3.99,"/VS20260030/SS/KS 01.07.2026 996,30 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
-2026-07-01,Miesta pre mladých/Place for Young,-600.0,Úhrada FA 2606001 za prenájom Trnavského lanáča na akciu,2606001.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-07-01,,-2.4,"/VS2606001/SS/KS 01.07.2026 600,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-07-01,Miesta pre mladých/Place for Young,-600.0,Úhrada FA 2606001 za prenájom Trnavského lanáča na akciu,2606001.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-07-01,,-2.0,"/VS2026000059/SS/KS 01.07.2026 500,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-07-01,Mgr. Miroslav Šmilňák - Miro Jilo,-500.0,Úhrada FA 2026000059 za pesničkohry na akcii,2026000059.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-07-01,Ondruš Studio s. r. o.,-996.3,Úhrada FA 20260030 za videoprodukciu,20260030.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
@@ -1276,6 +1313,7 @@ date,account_name,amount,message,vs,name,url
 2026-07-01,"Galaxi, s.r.o.",-2700.0,Tlac: kampanovy obcasnik - 1.,1260490,Maroš Chudovský,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9302000000007208576553
 2026-07-01,"Kapitulík Martin, Ing.",10000.0,Platba/Martin Kapitulik kampan odvaha urobit viac,,Martin Kapitulík,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk6211000000002975097737
 2026-07-01,Andrej Rakovsky,20.0,preliezka - dar od starostu,,Martin Kuruc,https://transparentneucty.sk/#/ucet/SK8609000000005188670075
+2026-07-01,"Seitler Marián, Mgr.",300.0,Seitler Marian,0.0,Michal Niepel,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK1111110000001591705022
 2026-07-01,Richard Kontos,-80.0,Platba/Fotograficke sluzby,,Milan Ftorek,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7911000000002976122236
 2026-07-01,Mičega Miloš,3000.0,Štart pre Spojme sa!,,Miloš Mičega,https://www.transparentneucty.sk/#/ucet/SK3909000000005250312966
 2026-07-01,ARIES reklama s.r.o.,-699.87,"Platba/Aries reklama - vyroba pult, balony, reklamne kampan Ke mudrak 06/2026",1020260054.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
@@ -1358,8 +1396,8 @@ date,account_name,amount,message,vs,name,url
 2026-06-30,,-7.0,Poplatok za vedenie účtu,,Igor Petrovčík,https://www.transparentneucty.sk/#/ucet/SK0509000000005246351516
 2026-06-30,,-5.0,Zverejňovanie účtu,,Igor Petrovčík,https://www.transparentneucty.sk/#/ucet/SK0509000000005246351516
 2026-06-30,Andrej Petricek,300.0,"Dar, príspevok na kampaň",,Igor Polakovič,https://ib.fio.sk/ib/transparent?a=2903526790
-2026-06-30,,-5.0,Zverejňovanie účtu,,Igor Šimko,https://transparentneucty.sk/#/ucet/SK6309000000005248359730
 2026-06-30,,-7.0,Poplatok za vedenie účtu,,Igor Šimko,https://transparentneucty.sk/#/ucet/SK6309000000005248359730
+2026-06-30,,-5.0,Zverejňovanie účtu,,Igor Šimko,https://transparentneucty.sk/#/ucet/SK6309000000005248359730
 2026-06-30,,-5.0,Zverejňovanie účtu,,Ivana Tepličková,https://www.transparentneucty.sk/#/ucet/SK0409000000005248515895
 2026-06-30,,-10.0,"Vydanie a doručenie Platobnej karty,2114,5,Karta č. 4544 12** **** 0418Poplatok za vydanie a doručenie Platobnej karty",,Ivana Tepličková,https://www.transparentneucty.sk/#/ucet/SK0409000000005248515895
 2026-06-30,,-5.0,Zverejňovanie účtu,,Jaroslav Polaček,https://www.transparentneucty.sk/#/ucet/SK7609000000005144413229
@@ -1448,8 +1486,8 @@ date,account_name,amount,message,vs,name,url
 2026-06-30,,-7.0,Vedenie účtu,9.0,Republika,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4402000000007256801858
 2026-06-30,,-6.0,Vedenie konta Transparentný účet,9.0,Roman Malatinec,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6402000000007246317253
 2026-06-30,,-6.0,Vedenie konta Transparentný účet,9.0,Roman Matoušek,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9802000000007217503858
-2026-06-30,Platba kartou,-54.0,FACEBK-.VYRGFTV Dublin---------,****1970,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
 2026-06-30,,-6.0,Vedenie konta Transparentný účet,9,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
+2026-06-30,Platba kartou,-54.0,FACEBK-.VYRGFTV Dublin---------,****1970,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
 2026-06-30,,-5.0,Zverejňovanie účtu,,Rút Olšiaková,https://www.transparentneucty.sk/#/ucet/SK5309000000005247732126
 2026-06-30,Sophia Entertainment s.r.o.,-18726.75,FD-878-billboardy,,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
 2026-06-30,,-40.0,"/20260607/SS/KS 30.06.2026 18726,75 EUR",,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
@@ -1476,11 +1514,11 @@ date,account_name,amount,message,vs,name,url
 2026-06-30,,-0.02,"/VS/SS/KS0898 30.06.2026 4,83 EUR",,Slovenská národná strana,https://www.transparentneucty.sk/#/ucet/SK7809000000005248558019
 2026-06-30,,-4.83,Poplatok za vedenie účtu,,Slovenská národná strana,https://www.transparentneucty.sk/#/ucet/SK7809000000005248558019
 2026-06-30,,-0.02,"/VS/SS/KS0898 30.06.2026 5,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-30,,-0.02,"/VS/SS/KS0898 30.06.2026 5,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-30,,-5.0,Zverejňovanie účtu,,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-30,,-0.02,"/VS/SS/KS0898 30.06.2026 5,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-30,,-5.0,Poplatok za vedenie účtu,,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-30,Veronika Stropkovic,20.0,2618190000131107,20263735.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-30,Sedmák Šimon,5.0,"Sry ze tak málo ale som len študent, ale chcem aspoň trochu pomôcť",20263737.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-30,Veronika Stropkovic,20.0,2618190000131107,20263735.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-30,Klaudia Marisova,30.0,Variabilny symbol: 20263729,,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-30,"Tomáš Ján, Ing.",10000.0,35160676,,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-30,Beličák Martin,30.0,,20263740.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
@@ -1539,14 +1577,14 @@ date,account_name,amount,message,vs,name,url
 2026-06-29,FILIP PETRINEC,200.0,prispevok volby,,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
 2026-06-29,Mesto Trnava,-80.0,uhrada správneho poplatku,5000332320.0,Sloboda a Solidarita,https://www.transparentneucty.sk/#/ucet/SK7109000000005244427206
 2026-06-29,,-0.32,"/VS5000332320/SS/KS 29.06.2026 80,00 EUR",,Sloboda a Solidarita,https://www.transparentneucty.sk/#/ucet/SK7109000000005244427206
-2026-06-29,Dominika Verníčková,20.0,,20263732.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-29,Hajzoková Laura,10.0,"Robite skvelu robotu, len tak dalej!",20263734.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-29,,-0.01,"/VS/SS/KS0898 29.06.2026 0,25 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-29,,-0.25,Poplatok za platbu kartou,,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-29,,-283.1,"B2504267485-44544 17** **** 4232;Intuit Ireland Software L ,Dublin 2 ,IE ;28.06.2026 09:23:38 ;CashBack:0 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-29,"Čermáková Lucia, Ing.",30.0,dar,20263522.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-29,Lubica Racekova,50.0,"Dakujem, ze vdaka Vam a Teamu Bratislava nase mesto opeknelo a stalo sa privetivym k svojim obyvatelom aj navstevnikom",20263730.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-29,Havlát Eva,50.0,F001290620264364027,20263727.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-29,Maros Urbanovic,30.0,Drzim palce v kampani a aj tento prispevok je nie je len prispevok na kampan ale aj prispevok na Bratislavu.,,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-29,Dominika Verníčková,20.0,,20263732.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-29,SLAMKOVA ZUZANA,30.0,?/DO2026-06-29/SP,20263726.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-29,Sinčák Martin,50.0,dar,20263725.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-29,Vladimir Rezek,30.0,Jedna z poslednch bt zdravho rozumu. Musme ju ubrn,20263723.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
@@ -1554,7 +1592,7 @@ date,account_name,amount,message,vs,name,url
 2026-06-29,Viktor Solík,30.0,Nech sa dari dalej zlepsovat nase mesto.,20263720.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-29,Katarina Ovciarkova,50.0,2618090000272574,20263719.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-29,Marcel Kohút,30.0,"Dakujem za doposial dobre odvedenu pracu a verte, ze ako clovek, co v Bratislave zije cely zivot, vidim Vase usilie vsade kam sa pozriem. Br",20263718.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-29,Maros Urbanovic,30.0,Drzim palce v kampani a aj tento prispevok je nie je len prispevok na kampan ale aj prispevok na Bratislavu.,,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-29,Havlát Eva,50.0,F001290620264364027,20263727.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-29,"KULLA SK, s.r.o.",-3382.5,Platba/Mini ruze - kampan 1000 ruzi pre Ruzinov,2610000238.0,TÍM RUŽINOV,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk5911000000002948291841
 2026-06-29,"TVR a RE, sro",-7703.98,Platba/Tim Ruzinov inzercia 2. cast,26100012.0,TÍM RUŽINOV,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk5911000000002948291841
 2026-06-29,Ingrida Chatrnúchová,78.99,"sponzorsky dar, Prispevok na kampan",,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja,https://ib.fio.sk/ib/transparent?a=2203415213
@@ -1577,12 +1615,12 @@ date,account_name,amount,message,vs,name,url
 2026-06-27,JANA HANULIAKOVA,20.0,Platba,9.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-06-27,LAGUN s.r.o.,-137.76,Tlac letakov Richter 800ks,2026088.0,Sloboda a Solidarita,https://www.transparentneucty.sk/#/ucet/SK7109000000005244427206
 2026-06-27,,-0.55,"/VS2026088/SS/KS 27.06.2026 137,76 EUR",,Sloboda a Solidarita,https://www.transparentneucty.sk/#/ucet/SK7109000000005244427206
-2026-06-27,"Chudík Marek, Ing.",999.0,dar,20263713.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-27,Matejka Dušan,50.0,"Dobre robíte, čo robíte. Pokračujte v tom a hejterov si nevšímajte. Ďakujem. Idem popohnať prepis TP aby som Vás mohol voliť",20263712.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-27,"Chudík Marek, Ing.",999.0,dar,20263713.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-27,"Hlubocká Jana, Mgr.",30.0,Veľa šťastia!,20263710.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-27,Anna Ágoštonová,50.0,T2510907702016753665,20263709.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-27,"Burclová Andrea, Bc.",10.0,dar,20263711.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-27,Fabišíková Stela,30.0,dar,20263707.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-27,"Burclová Andrea, Bc.",10.0,dar,20263711.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-26,Sokol Peter Ing.,200.0,"Dar na kampan Peter Sokol Mierova84,Stara Lubovna",,Andrej Sitkár,https://www.transparentneucty.sk/#/ucet/SK6909000000005248567687
 2026-06-26,Pavkovčeková Alica PhDr.,-249.0,Vratenie neidentifikovanej podpory,,Daniel Klimovský,https://www.transparentneucty.sk/#/ucet/SK7309000000005246266581
 2026-06-26,Mušinský Peter,-214.0,Vratenie neidentifikovanej podpory,,Daniel Klimovský,https://www.transparentneucty.sk/#/ucet/SK7309000000005246266581
@@ -1600,12 +1638,12 @@ date,account_name,amount,message,vs,name,url
 2026-06-26,Alexandra Srholcova,800.0,,,Jozef Ráž,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5002000000007225813354
 2026-06-26,Halászová Lívia,1000.0,,,Jozef Ráž,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5002000000007225813354
 2026-06-26,MACHACKOVA KATARINA,10000.0,Katarína Macháčková,,Katarína Macháčková,https://www.transparentneucty.sk/#/ucet/SK2709000000005250153811
-2026-06-26,Park kultúry a oddychu,-70.0,Úhrada FA 017526 za prenájom el. prípojky na akcii,17526.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
-2026-06-26,,-2.4,"/VS2026031/SS/KS 26.06.2026 600,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-06-26,,-0.28,"/VS017526/SS/KS 26.06.2026 70,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
-2026-06-26,,-2.4,"/VS2026053/SS/KS 26.06.2026 600,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
-2026-06-26,Slovenská výtvarná únia,-600.0,Úhrada FA 2026053 za prenájom priestorov na akciu,2026053.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-06-26,Park kultúry a oddychu,-70.0,Úhrada FA 017526 za prenájom el. prípojky na akcii,17526.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-06-26,SMEJLINKA s. r. o.,-600.0,Úhrada FA 2026031 za realizáciu programu na akcii,2026031.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-06-26,,-2.4,"/VS2026053/SS/KS 26.06.2026 600,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-06-26,,-2.4,"/VS2026031/SS/KS 26.06.2026 600,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-06-26,Slovenská výtvarná únia,-600.0,Úhrada FA 2026053 za prenájom priestorov na akciu,2026053.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-06-26,,-100.0,"Odoslaná okamžitá platba, Fotograficke sluzby",VS: 20260014,Marek Preták,https://moja.csob.sk/transparent-accounts/2e0a2ba0ccb981c60c8c741eb50236d92a6ed1024f945c95e38c4a984907cf61
 2026-06-26,Eva Dériková,30.0,"Drzim palce, nech sa to podari",,Maroš Chudovský,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9302000000007208576553
 2026-06-26,Ing.Milos Sekelsky,100.0,27706213746,,Miroslav Olejár,https://www.transparentneucty.sk/#/ucet/SK7209000000005246909321
@@ -1618,18 +1656,18 @@ date,account_name,amount,message,vs,name,url
 2026-06-26,FILIP TUDOR,500.0,1161261770153263,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-06-26,GODART s.r.o.,-89.0,Biznis fotografie - uhrada,1020260106.0,Renáta Habrunová,https://ib.vub.sk/pch/transparentne-ucty?iban=SK1102000000007259001151
 2026-06-26,Renáta Habrunová,300.0,vlastne prostriedky,,Renáta Habrunová,https://ib.vub.sk/pch/transparentne-ucty?iban=SK1102000000007259001151
+2026-06-26,"petit press, a.s.",-220.17,clanok v novinach MY sme - volby,2633100994.0,Roman Vajaš,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK2611110000006861394264
 2026-06-26,Platba kartou,-54.0,FACEBK-.X9L3VR5 Dublin---------,****1970,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
 2026-06-26,ISPA s.r.o.,-108.24,Voĺby Ing.Rút Olšiaková,202504093.0,Rút Olšiaková,https://www.transparentneucty.sk/#/ucet/SK5309000000005247732126
 2026-06-26,Olšiaková Rút,100.0,F001260620261727798,,Rút Olšiaková,https://www.transparentneucty.sk/#/ucet/SK5309000000005247732126
-2026-06-26,Elena Parnican,15.0,dar,20263697.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-26,"Truchla Petra, Ing.",50.0,dar,20263706.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-26,Šošková Viera,300.0,"Bratislava je hlavné mesto SR, nemôžeme ju odovzdať do rúk tým,ktorí systematicky ničia Slovensko viac ako 15 rokov. Podporujem Matúša Valla",20263704.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-26,Schnorrerová Lucia,20.0,F001260620262024703,20263703.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-26,Barbora Medovarska,3.0,dar,20263702.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-26,Vlasta Nespalová,30.0,dar,20263701.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-26,Jakub Malich,50.0,dar,20263700.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-26,Valariková Mária,30.0,F001260620261851804,20263699.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-26,Bačová Patrícia,50.0,Ďakujem,20263698.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-26,Valariková Mária,30.0,F001260620261851804,20263699.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-26,Jakub Malich,50.0,dar,20263700.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-26,"Truchla Petra, Ing.",50.0,dar,20263706.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-26,Barbora Medovarska,3.0,dar,20263702.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-26,Schnorrerová Lucia,20.0,F001260620262024703,20263703.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-26,Elena Parnican,15.0,dar,20263697.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-26,Vlasta Nespalová,30.0,dar,20263701.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-26,Mokráň Pavel,30.0,dar,20263696.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-26,"Sileš Martin, Ing.",50.0,dar,20263692.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-26,Markušová Linda,20.0,dar,20263694.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
@@ -1642,6 +1680,7 @@ date,account_name,amount,message,vs,name,url
 2026-06-26,"Gabajová Zuzana, Ing.",20.0,"Chcem Bratislavu slobodnu, nezavislu, bezpecnu, napredujucu a krasnu. Preto Vas volim opakovane",20263687.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-26,Dominik Vagala,30.0,Chcem aby bola Bratislava aspon tak super ako doteraz,20263686.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-26,Sloboda Matúš,50.0,Za pokračovanie premeny Bratislavy na mesto s kvalitnými verejnými priestormi a inováciami!,20263695.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-26,Šošková Viera,300.0,"Bratislava je hlavné mesto SR, nemôžeme ju odovzdať do rúk tým,ktorí systematicky ničia Slovensko viac ako 15 rokov. Podporujem Matúša Valla",20263704.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-25,Likerova Ruzena,20.0,Likerova Ruzenka Mikoviniho 17 a 19,,Andrej Sitkár,https://www.transparentneucty.sk/#/ucet/SK6909000000005248567687
 2026-06-25,Platba kartou,-4.0,FACEBK-.REKKPS9 FACEBOOK.C-----,****7272,Branislav Baran,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7602000000007241595756
 2026-06-25,,-0.12,Transakčná daň 24.06.2026,,Dunaj,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk2711000000002948288343
@@ -1675,6 +1714,8 @@ date,account_name,amount,message,vs,name,url
 2026-06-25,LUKÁŠ VAŠKO,600.0,PLATBA,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-06-25,Slavomír Telepák,300.0,T2509508078056022020,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-06-25,Ivan Tomáš,500.0,F001250620260924549,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
+2026-06-25,Viliam Torac,150.0,Dar,0.0,Roman Vajaš,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK2611110000006861394264
+2026-06-25,Bahula Katarína,200.0,Dar volebna kampan 2026,0.0,Roman Vajaš,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK2611110000006861394264
 2026-06-25,Šulek Peter,5000.3,Platba,,Samuel Migaľ,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk5511000000002974103031
 2026-06-25,"Merion, s.r.o.",-270.6,,12026067.0,Stanislav Balco,https://ib.fio.sk/ib/transparent?a=2103443372
 2026-06-25,Cón Marian,10.0,dar,20263670.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
@@ -1702,9 +1743,9 @@ date,account_name,amount,message,vs,name,url
 2026-06-25,Macinský Ján,50.0,Lecgooo,20263685.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-25,"Karman Marek, MUDr.",50.0,dar,20263602.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-25,Floriš Marian,30.0,dar,20263673.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-25,Kubaľa Michal,30.0,Držím palce!,20263658.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-25,Matej Majtan,50.0,Drzim palce,20263656.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-25,Olšiak Zuzana,50.0,dar,20263655.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-25,Kubaľa Michal,30.0,Držím palce!,20263658.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-25,Sales Machine sro,150.0,OO26062500010914,20263639.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-25,JÁN GARAJ,30.0,DAKUJEM,20263638.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-25,Lubos Gajdos,30.0,2617690000086018,20263600.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-25,AHOY. s.r.o.,-2675.25,"Vyroba triciek, bannerov a fotosteny",2026282.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
@@ -1717,20 +1758,20 @@ date,account_name,amount,message,vs,name,url
 2026-06-25,,-12.0,"/VS20260008/SS/KS 25.06.2026 3000,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-25,Silvia Volkova,30.0,35121342,20263601.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-25,Pavlík Ján,500.0,dar,20263640.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-25,Sales Machine sro,150.0,OO26062500010914,20263639.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-25,Olšiak Zuzana,50.0,dar,20263655.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-25,MGR. FRANTIŠEK POUL,25.0,dar,20263618.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-25,OTAKAR STRAKA,100.0,PODPORA,20263619.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-25,Maretta Tomáš,10.0,"Ideme dalej, do psej matere!",20263652.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-25,Andrea Meleg,20.0,dar,20263650.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-25,Karšňáková Petra,150.0,dar,20263649.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-25,Andrea Kiripolská,20.0,dar,20263648.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-25,KRAUSOVA HELENA,20.0,?/DO2026-06-25/SP,20263651.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-25,Miháliková Barbora,20.0,dar,20263645.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-25,"Kollárik Peter, Ing.",50.0,dar,20263644.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-25,Brngál Milan Ing.,30.0,dar,20263643.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-25,Vladimira Jurinova,30.0,dar,20263642.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-25,Kozmon Ivan,10.0,dar,20263641.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-25,Vladimira Jurinova,30.0,dar,20263642.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-25,Brngál Milan Ing.,30.0,dar,20263643.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-25,"Kollárik Peter, Ing.",50.0,dar,20263644.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-25,Miháliková Barbora,20.0,dar,20263645.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-25,Vladimir Sarcevic,48.0,Bratislava je nas domov??????,20263647.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-25,Andrea Kiripolská,20.0,dar,20263648.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-25,Karšňáková Petra,150.0,dar,20263649.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-25,Andrea Meleg,20.0,dar,20263650.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-25,KRAUSOVA HELENA,20.0,?/DO2026-06-25/SP,20263651.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-25,Maretta Tomáš,10.0,"Ideme dalej, do psej matere!",20263652.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-25,OTAKAR STRAKA,100.0,PODPORA,20263619.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-25,Bravčoková Alžbeta,5.0,"Prijatá platba, prispevok na kampan Sobota 2026",,Tomáš Sobota,https://moja.csob.sk/transparent-accounts/98b324eb1750b68eb120abdeb62a46565fd69b2897e812aff3d4883644c091ac
 2026-06-24,"Hlaváč Marián,Hlaváčová Mária",50.0,Dar na kampaň. Marián Hlaváč Košice Plznska 17,,Andrej Sitkár,https://www.transparentneucty.sk/#/ucet/SK6909000000005248567687
 2026-06-24,Jana Bermannova,-150.0,Grafika,20260003.0,Andrej Sitkár,https://www.transparentneucty.sk/#/ucet/SK6909000000005248567687
@@ -1742,14 +1783,14 @@ date,account_name,amount,message,vs,name,url
 2026-06-24,PAVOL HLUCHÝ,1000.0,T2508808894801838083,,Eva Nemčovská,https://www.transparentneucty.sk/#/ucet/SK1609000000005243966670
 2026-06-24,"Zeman Juraj, JUDr.",100.0,Platba,,Juraj Zeman,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7511000000002971103722
 2026-06-24,Gazdíková Eva PhDr.,1800.0,"PhDr. Eva Gazdíková, Šafárikova 14, 911 08 Trenčín, príspevok na kampaň",,Ján Forgáč,https://www.transparentneucty.sk/#/ucet/SK5609000000005244130365
-2026-06-24,KING MEDIA s. r. o.,-1365.3,Úhrada ZF 0692026 za prenájom a tlač bilboardov,692026.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
-2026-06-24,,-2.52,"/VS2670075/SS/KS 24.06.2026 629,76 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
-2026-06-24,"euroAWK, spol. s r.o.",-629.76,Úhrada ZF 2670075 za citylight,2670075.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
-2026-06-24,,-5.46,"/VS0692026/SS/KS 24.06.2026 1365,30 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
-2026-06-24,"euroAWK, spol. s r.o.",-472.32,Úhrada ZF 2670076 za reklamný panel,2670076.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
-2026-06-24,,-0.11,"/VS2928600043/SS/KS0558 24.06.2026 27,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-06-24,Mesto Bardejov,-27.0,Úhrada dane za užívanie verej. priestranstva,2928600043.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-06-24,,-0.11,"/VS2928600043/SS/KS0558 24.06.2026 27,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-06-24,"euroAWK, spol. s r.o.",-472.32,Úhrada ZF 2670076 za reklamný panel,2670076.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-06-24,,-1.89,"/VS2670076/SS/KS 24.06.2026 472,32 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-06-24,"euroAWK, spol. s r.o.",-629.76,Úhrada ZF 2670075 za citylight,2670075.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-06-24,,-2.52,"/VS2670075/SS/KS 24.06.2026 629,76 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-06-24,KING MEDIA s. r. o.,-1365.3,Úhrada ZF 0692026 za prenájom a tlač bilboardov,692026.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-06-24,,-5.46,"/VS0692026/SS/KS 24.06.2026 1365,30 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-06-24,websupport,-18.41,uhrada domeny,1026213166.0,Matej Lančarič,https://ib.fio.sk/ib/transparent?a=2103532834
 2026-06-24,Magdalena Eliasova,350.0,Magdalena Eliasova,,Matej Lančarič,https://ib.fio.sk/ib/transparent?a=2103532834
 2026-06-24,Tibor Pekarčík,350.0,Podpora na zupana tt vuc,1407.0,Matej Lančarič,https://ib.fio.sk/ib/transparent?a=2103532834
@@ -1776,8 +1817,8 @@ date,account_name,amount,message,vs,name,url
 2026-06-24,LUKACSOVA ZUZANA,500.0,?/DO2026-06-24/SP,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-06-24,FABIAN JOZEF,400.0,?/DO2026-06-24/SP,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-06-24,Šoltís Pavol,20.0,F001240620269894297,,Slavomír Šoltís,https://transparentneucty.sk/#/ucet/SK0409000000005246959142
-2026-06-24,"Merion, s.r.o.",-984.0,,12026061.0,Stanislav Balco,https://ib.fio.sk/ib/transparent?a=2103443372
 2026-06-24,Bellov Maximilián,500.0,Bellov Maximilián,,Stanislav Balco,https://ib.fio.sk/ib/transparent?a=2103443372
+2026-06-24,"Merion, s.r.o.",-984.0,,12026061.0,Stanislav Balco,https://ib.fio.sk/ib/transparent?a=2103443372
 2026-06-24,Bellov Maximilián,500.0,Bellov Maximilián,,Stanislav Balco,https://ib.fio.sk/ib/transparent?a=2103443372
 2026-06-24,Martin Svec,10.0,drzim vam palce,20263617.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-24,JOZEF BOSÁK,10.0,DRZIM PALCE MATUS,20263506.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
@@ -1785,17 +1826,17 @@ date,account_name,amount,message,vs,name,url
 2026-06-24,Andrej Racko,50.0,dar,20263615.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-24,Csiba Dominik,100.0,"Ďakujem, za všetko čo robíte pre Bratislavu.",20263613.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-24,EVA ŽILINSKÁ,20.0,ZELAM VELA SIL A VYDRZE,20263612.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-24,"Maar Stanislav, RNDr.",250.0,dar,20263608.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-24,"Kuruc František, Ing.",30.0,dar,20263610.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-24,Petra Glassová,50.0,T2508894529361289220,20263620.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-24,"Maar Stanislav, RNDr.",250.0,dar,20263608.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-24,Julia Borcinova,11.0,27703052162,20263606.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-24,Gurín Jaroslav,10.0,dar,20263587.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-24,Boudová Eva Ing.,50.0,dar,20263605.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-24,"Holešová Viera, Mgr.",100.0,dar,20263604.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-24,Nada Cicakova,30.0,Drzim palce. Vam aj sebe.,20263611.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-24,Daniel Grula,30.0,Drzim palce,20263621.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-24,Baláž Siváková Beáta,10.0,ste uzasni,20263504.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-24,Petráš Daniel,50.0,dar,20263622.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-24,"Lupták Ronald, Ing.",50.0,dar,20263603.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-24,Peter Macaj,15.0,dar,20263637.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-24,"Tomečko Vladimír, Ing.",30.0,dar,20263636.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-24,"Štefániková Adela, Ing.",30.0,"Drzim palce,dame to.",20263635.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
@@ -1809,7 +1850,7 @@ date,account_name,amount,message,vs,name,url
 2026-06-24,Benčová Lucia,15.0,dar,20263625.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-24,"Mifkovič Adela, Mgr.",20.0,Drzim palce!,20263624.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-24,"Kravec Vladimír, Ing.",150.0,"Ďakujem za skvelú prácu, pokračujte. Prosím vymeňte panelovú cestu pred Depo Krasňany za asfaltovú :)",20263623.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-24,"Lupták Ronald, Ing.",50.0,dar,20263603.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-24,Baláž Siváková Beáta,10.0,ste uzasni,20263504.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-24,"Klostermann Oto, Ing.",50.0,Bratislava je moje mesto a nedam si ho vziat,20263630.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-24,"Toman František, Ing.",50.0,Dáš to!,20263598.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-24,Rodamex s.r.o.,250.0,Chceme žiť a podnikať v slušnom meste!,20263614.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
@@ -1864,8 +1905,8 @@ date,account_name,amount,message,vs,name,url
 2026-06-23,Mgr. Matej Mísal,-700.0,Platba/graficke prace,202612.0,Martin Vician,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7511000000002974075026
 2026-06-23,BUFFER PLAN,-43.16,INT NÁKUP POS EUR BUFFER PLAN / BUFFER.COM / (POS 2TMTLWQ7),,Martin Vician,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7511000000002974075026
 2026-06-23,NESTICKY MAREK,350.0,?/DO2026-06-23/SPMarek Nesticky,,Matej Lančarič,https://ib.fio.sk/ib/transparent?a=2103532834
-2026-06-23,"REGIONPRESS, s.r.o.",-84.87,0260623103105.093301,646260002.0,Miroslav Olejár,https://www.transparentneucty.sk/#/ucet/SK7209000000005246909321
 2026-06-23,Euroawk,-246.0,,263426.0,Miroslav Olejár,https://www.transparentneucty.sk/#/ucet/SK7209000000005246909321
+2026-06-23,"REGIONPRESS, s.r.o.",-84.87,0260623103105.093301,646260002.0,Miroslav Olejár,https://www.transparentneucty.sk/#/ucet/SK7209000000005246909321
 2026-06-23,MUTTON s.r.o.,-999.63,MUTTON s.r.o.: 202600657 - Mgr. Ondrej Lunter - 2026/05,202600657.0,Ondrej Lunter,https://www.transparentneucty.sk/#/ucet/SK2309000000005247265417
 2026-06-23,,-0.22,Poplatok Okamžitá platba (elektronicky),202600657.0,Ondrej Lunter,https://www.transparentneucty.sk/#/ucet/SK2309000000005247265417
 2026-06-23,"NUBIUM, s. r. o.",-319.8,Billboardy Patrik Vaško,2610003614.0,Patrik Vaško,https://www.transparentneucty.sk/#/ucet/SK1609000000005247247016
@@ -1899,11 +1940,13 @@ date,account_name,amount,message,vs,name,url
 2026-06-23,"ABASOFT, s. r. o.",-239.0,Platba/Abasoft - tlac predmetov SNV Ilasova 05/2026,260501.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-06-23,"EPYX, s.r.o.",-251.9,Platba/EPYX - logovanie a tricka kampan SNV ilasova 06/2026,2600250.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-06-23,Reklama Boka,-45.0,Platba/Reklama Boka - tlac plagatov kampan Ke Ksk Porvaznik 06/2026,26151.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
+2026-06-23,Peter Sitar,2500.0,,0.0,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
 2026-06-23,Ivana Semanicka,500.0,2617490000466484,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-06-23,Róbert Kovačka,200.0,T2508179099512520705,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-06-23,REPUBLIKA,100000.0,prevod prostriedkov na transparentny ucet,,Republika,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4402000000007256801858
 2026-06-23,"NUBIUM, s. r. o.",-177.12,Prenajom reklamneho panela Uhercik jun,2610003897.0,Sloboda a Solidarita,https://www.transparentneucty.sk/#/ucet/SK7109000000005244427206
 2026-06-23,,-0.71,"/VS2610003897/SS/KS 23.06.2026 177,12 EUR",,Sloboda a Solidarita,https://www.transparentneucty.sk/#/ucet/SK7109000000005244427206
+2026-06-23,"Marshall Eva, Ing.",50.0,Držím vám palce,20263535.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,PETRONELA BAŠNÁK RUDZANOVÁ,100.0,PODPORUJEME PANA VALLA ZA PRIMATORA,20263534.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Langer Michal,50.0,dar,20263533.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Ivan Gocník,30.0,Je toho vela za co sa da podakovat. Ale hlavne dakujeme za vela viditelnej aj neviditelnej prace celeho teamu.,20263531.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
@@ -1911,17 +1954,17 @@ date,account_name,amount,message,vs,name,url
 2026-06-23,Vovk Martin,50.0,dar,20263528.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Vovk Martin,50.0,dar,20263526.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Veronika Kostková,30.0,T2508075235425648641,20263523.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-23,"Benianová Zuzana, Mgr.",50.0,OO26062300062777,20263520.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-23,Ondrejkovič Peter,10.0,dar,20263519.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-23,Dagmar Behunova,50.0,2617490000483706,20263536.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,ANNA BALAJ VACLAVOVA,20.0,dar,20263518.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-23,"Marshall Eva, Ing.",50.0,Držím vám palce,20263535.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Lucia BAŘINOVÁ,30.0,?/DO2026-06-23/SPSmer do Bratislavy nepatrí,20263517.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Knápková Karolína,20.0,Drzim nam palce,20263515.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Vychodil Miroslav,25.0,dar,20263514.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-23,BRANISLAV ZUDEL,30.0,DAR,20263513.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-23,Ondrejkovič Peter,10.0,dar,20263519.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-23,Dagmar Behunova,50.0,2617490000483706,20263536.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-23,"Benianová Zuzana, Mgr.",50.0,OO26062300062777,20263520.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-23,Adam Zeman,30.0,Za este lepsiu Bratislavu.,20263516.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-23,Veronika Burgess,20.0,"Bratislava, inkluzivne mesto 21. storocia",20263538.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Beata Stanova,30.0,dar,20263537.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-23,Marušák Christián,5.0,dar,20263539.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-23,Oľga Slovíková,30.0,Drzim palce,20263558.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Martin Dobis,20.0,2617490001065979,20263557.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Vladimír Repiščák,50.0,dar,20263555.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Molčan Michal,50.0,Ďakujem primátorovi za jeho prácu pre mesto,20263554.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
@@ -1937,55 +1980,54 @@ date,account_name,amount,message,vs,name,url
 2026-06-23,Lubomir Billy,500.0,2617490000491025,20263542.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,CHOVAN JOZEF,10.0,Vallo team držím palce na víťazstvo. Ba opeknela kopec vecí sa zmenilo k lepšiemu. Ba nesmie byť smerácka !,20263543.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,"Merovingian, s. r. o.",30.0,Merovingian s.r.o.,20263540.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-23,Veronika Burgess,20.0,"Bratislava, inkluzivne mesto 21. storocia",20263538.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-23,BRANISLAV ZUDEL,30.0,DAR,20263513.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-23,Marušák Christián,5.0,dar,20263539.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Lorencová Slavomíra,30.0,OO26062300054650,20263512.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-23,Adam Zeman,30.0,Za este lepsiu Bratislavu.,20263516.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-23,"Dimunová Petra, Ing. arch.",15.0,OO26062300054637,20263511.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-23,Hájovský Michal,50.0,Dobra praca,20263507.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-23,Dugovič Andrea,3.0,dar vallo natrvallo,20263509.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-23,Ševečková Ľubica Mgr.,20.0,Bratislavu si nedame vziat a ukradnúť !,20263508.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-23,Rabatinová Lucia,50.0,Dáte to!,20263510.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-23,Branislav Solovic,30.0,Milujem moje rodne mesto pod Vasim vedenim budem Vas volit uz po 3 krat a verim vo volebny uspech A milujem Paru to tam musite povedat,20263479.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,FRESH GARDEN s. r. o.,250.0,dar,20263484.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,"Lipka Tomáš, Bc.",30.0,OO26062300036744,20263482.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Oľga Babjaková,30.0,Dame to,20263481.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Brodňanová Rebecca,10.0,F001230620268520160,20263480.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Kajos Boris,20.0,dar,20263477.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Lucia Štasselová,250.0,Podpora kampane MV,20263478.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-23,VIKTOR DÚCKY,50.0,DAR,20263486.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Michal Noskovic,15.0,dar,20263476.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-23,Vladimír Goldschmidt,20.0,T2507972536189411332,20263475.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,"Kmetiková Rita, Mgr.",30.0,"Držím silno palce, do Ba chodíme síce len za prácou a deti do školy, ale vnímame viac pozitívnych zmien a snahu o kvalitnejší priestor. Vďak",20263474.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Groll Andrej,30.0,dar,20263473.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Siebenstich Micháleková Lucia,20.0,dar,20263472.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,ADAM PETRÁŠ,20.0,DAR,20263471.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Anton Kukučka,250.0,dar,20263470.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Folkmer Petra,50000.0,Dar na zaklade zmluvy- Petra Folkmer,,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-23,Oľga Slovíková,30.0,Drzim palce,20263558.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-23,Branislav Solovic,30.0,Milujem moje rodne mesto pod Vasim vedenim budem Vas volit uz po 3 krat a verim vo volebny uspech A milujem Paru to tam musite povedat,20263479.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-23,VIKTOR DÚCKY,50.0,DAR,20263486.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-23,Androvič Adrian,30.0,dar,20263559.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-23,Vladimír Goldschmidt,20.0,T2507972536189411332,20263475.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-23,"Dimunová Petra, Ing. arch.",15.0,OO26062300054637,20263511.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,"Bednár Marián, Ing.",10.0,dar,20263488.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-23,Hederová Tatiana,20.0,Drzim palce! A dakujem za doterajsie vysledky.,20263489.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-23,Ševečková Ľubica Mgr.,20.0,Bratislavu si nedame vziat a ukradnúť !,20263508.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-23,Boris Nyers,1.0,"20263487, dakujem za vasu pracu",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-23,Dugovič Andrea,3.0,dar vallo natrvallo,20263509.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-23,Hájovský Michal,50.0,Dobra praca,20263507.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,,-40.0,"NOTPROVIDED 23.06.2026 50000,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Folkmer Petra,-50000.0,Vrátená chybná platba,,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,"Tvarožek Vladislav, Ing. arch.",250.0,Verím v lepšie fungujúcu Bratislavu!,20263501.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,"Hlubocká Holéciová Ivana, Mgr.",10.0,dar,20263497.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Slámková Lucia,30.0,dar,20263431.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-23,Hederová Tatiana,20.0,Drzim palce! A dakujem za doterajsie vysledky.,20263489.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Šuchová Lýdia,50.0,dar na predvolebnu kampan,20263495.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-23,Rabatinová Lucia,50.0,Dáte to!,20263510.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-23,Agáta Novinski,15.0,dar,20263500.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-23,HEINRICHOVA SENTA,10.0,?/DO2026-06-23/SP,20263499.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Alexanderčík Adam,15.0,"Za krajšiu a slobodnú Bratislavu, ktorá patrí ľuďom a nie autám. Najlepší primátor akého Bratislava kedy mala.",20263498.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Zóna Marcel,10.0,Drzim palce,20263496.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Izsofová Zuzana,20.0,dar,20263494.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Gálová Eva,30.0,Máte moj hlas,20263493.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Schönwiesnerová Diana,30.0,dar,20263492.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Terenová Ema,30.0,OO26062300041558,20263490.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-23,Boris Nyers,1.0,"20263487, dakujem za vasu pracu",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-23,HEINRICHOVA SENTA,10.0,?/DO2026-06-23/SP,20263499.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-23,Agáta Novinski,15.0,dar,20263500.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Zafková Miriam,10.0,dar,20263485.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-23,Androvič Adrian,30.0,dar,20263559.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-23,Mgr. Jarmila Faktorova,30.0,Bratislava s Dunajom spaja ludi navzajom,20263561.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-23,Dana Prekopová,30.0,Matus Vallo primator,20263560.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Lubica Cernicka,30.0,dar,20263562.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Financie Lukáš Mrázik s. r. o.,50.0,OO26062300123955,20263563.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Packová Natália,10.0,dar,20263564.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-23,Dana Prekopová,30.0,Matus Vallo primator,20263560.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-23,Mgr. Jarmila Faktorova,30.0,Bratislava s Dunajom spaja ludi navzajom,20263561.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-23,Igor Pribelsky,200.0,"Prijatá platba, vivat sobota",,Tomáš Sobota,https://moja.csob.sk/transparent-accounts/98b324eb1750b68eb120abdeb62a46565fd69b2897e812aff3d4883644c091ac
 2026-06-23,"Ferák Martin, Mgr.",5000.0,Platba/Dar,,TÍM RUŽINOV,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk5911000000002948291841
 2026-06-23,MARTIN JAKUS,30.0,?/DO2026-06-23/SPPRISPEVOK SALA,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja,https://ib.fio.sk/ib/transparent?a=2203415213
@@ -2009,26 +2051,34 @@ date,account_name,amount,message,vs,name,url
 2026-06-22,Jozef Ráž,100000.0,,,Jozef Ráž,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5002000000007225813354
 2026-06-22,"Slovák Ľubomír, Ing.",500.0,,20260622.0,Jozef Ráž,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5002000000007225813354
 2026-06-22,Martina Stepianska Hilbertova,50.0,Platba/dar na kampan,,Juraj Zeman,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7511000000002971103722
-2026-06-22,Mgr. art Katarína Mojžišová Dis.art,-150.0,Atrakcie pre deti na podujatí KDH,6062026.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-06-22,Kresťanskodemokratické hnutie,30000.0,Prevod finančných prostriedkov z bežného účtu,2206.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-06-22,,-0.6,"/VS06062026/SS/KS 22.06.2026 150,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-06-22,,-2.0,"/VS2026000052/SS/KS 22.06.2026 500,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-06-22,Mgr. Miroslav Šmilňák - Miro Jilo,-500.0,Úhrada FA 2026000052 za pesničkohry,2026000052.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-06-22,Mgr. art Katarína Mojžišová Dis.art,-150.0,Atrakcie pre deti na podujatí KDH,6062026.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-06-22,Mgr. art Katarína Mojžišová Dis.art,-150.0,Koncert. vystúpenie na podujatí KDH,13062026.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-06-22,,-0.6,"/VS13062026/SS/KS 22.06.2026 150,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
-2026-06-22,Mgr. Miroslav Šmilňák - Miro Jilo,-500.0,Úhrada FA 2026000052 za pesničkohry,2026000052.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
-2026-06-22,,-2.0,"/VS2026000052/SS/KS 22.06.2026 500,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
-2026-06-22,Kresťanskodemokratické hnutie,30000.0,Prevod finančných prostriedkov z bežného účtu,2206.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-06-22,Xénia Ujhelyiová - ARIES - reklamn,3.0,Vrátená platba - preplatok,20260011.0,Lucia Gurbáľová,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4002000000007220920951
 2026-06-22,Xtra Slovakia s.r.o.,-240.47,Platba faktury 260100569,260100569.0,Lucia Loskotová,https://www.transparentneucty.sk/#/ucet/SK4609000000005248758512
 2026-06-22,ALACARTE s.r.o.,-546.0,Úhrada faktúry: 20260075,20260075.0,Lucia Loskotová,https://www.transparentneucty.sk/#/ucet/SK4609000000005248758512
 2026-06-22,NOTPROVIDED,-90.0,prenajom priestorov KKC na TB,,Matej Lančarič,https://ib.fio.sk/ib/transparent?a=2103532834
 2026-06-22,"RNDr. Cabanová, Gabriela",333.0,Cabanova Gabriela,,Matej Lančarič,https://ib.fio.sk/ib/transparent?a=2103532834
 2026-06-22,LANCARIC MATEJ,400.0,?/DO2026-06-22/SPprispevok na kampan,,Matej Lančarič,https://ib.fio.sk/ib/transparent?a=2103532834
+2026-06-22,2026.06.19 PT UNIVERZAL I,-15.96,"15,96 EUR",,Michal Niepel,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK1111110000001591705022
 2026-06-22,"Ja-Mar, s.r.o.",-1130.0,Platba/Sokol,2026025.0,Miroslav Sokol,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk0211000000002973085679
 2026-06-22,Ivana Jozefiova,400.0,Nova energia pre Trebisov,,Peter Jozefi,https://transparentneucty.sk/#/ucet/SK0709000000005248347449
+2026-06-22,2026.06.19 POSTA ZILINA 1,-1120.0,"1.120,00 EUR",,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
+2026-06-22,2026.06.18 POSTA ZILINA 7,-364.0,"364,00 EUR",,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
+2026-06-22,2026.06.18 POSTA ZILINA 1,-245.0,"245,00 EUR",,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
+2026-06-22,2026.06.18 POSTA ZILINA 8,-616.0,"616,00 EUR",,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
+2026-06-22,2026.06.18 POSTA ZILINA 4,-126.0,"126,00 EUR",,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
 2026-06-22,MVDR. VLADIMÍR PAVÚK,500.0,35094109,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-06-22,MACHATA JOZEF,400.0,?/DO2026-06-22/SP,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-06-22,Jenčová Nataša,1900.0,OO26062200113867,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-06-22,MRAZOVA ZUZANA,400.0,?/DO2026-06-22/SP,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-06-22,Tomas Zolnai,1000.0,Tomas Zolnai,,Renáta Zolnaiová,https://ib.fio.sk/ib/transparent?a=2703512431
+2026-06-22,Roman Vajas,300.0,volby 2026,0.0,Roman Vajaš,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK2611110000006861394264
+2026-06-22,josef karnet - mobilne bilboardy,-460.0,mobilny bilboard,260059.0,Roman Vajaš,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK2611110000006861394264
 2026-06-22,Platba kartou,-54.0,FACEBK-.EC6UUSD fb.me/ads------,****1970,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
 2026-06-22,Gombár Jakub,50.0,"drzim palce, treba to robit poriadne",20263469.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-22,Marek Jancuch,-400.0,Fotografovanie podujatia 2.6. Tvorime Bratislavu Domov pre buducnost,,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
@@ -2087,6 +2137,7 @@ date,account_name,amount,message,vs,name,url
 2026-06-20,Katarina Petrasova,800.0,1161261719059017,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
 2026-06-20,Ragač Marek,100.0,dar,20263463.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-19,Platba kartou,-2.0,FACEBK-.Y7XH2TM fb.me/ads------,****7272,Branislav Baran,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7602000000007241595756
+2026-06-19,Pálfy Pavol,20.0,?/DO2026-06-18/SPdar David,202606,Dávid Staruch,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK2611110000001881762009
 2026-06-19,Šiška Matej,200.0,F001190620264214146,,Lucia Loskotová,https://www.transparentneucty.sk/#/ucet/SK4609000000005248758512
 2026-06-19,Dana Dzinova,218.0,,,Maroš Chudovský,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9302000000007208576553
 2026-06-19,"Schultz Boris, Ing. arch.",70.0,TPP/Dar,,Martin Vician,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7511000000002974075026
@@ -2108,9 +2159,9 @@ date,account_name,amount,message,vs,name,url
 2026-06-18,Kepič Matej,400.0,BB Maj,,Ladislav Lörinc,https://www.transparentneucty.sk/#/ucet/SK3809000000005242796163
 2026-06-18,"Nubium,s.r.o.",-3303.78,,2610003110.0,Lucia Gurbáľová,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4002000000007220920951
 2026-06-18,,-10.0,uzivanie priestranstva,6130016709.0,Matúš Čupka,https://ib.fio.sk/ib/transparent?a=2003398359
-2026-06-18,,-922.5,reklamna kampan,420260531.0,Matúš Čupka,https://ib.fio.sk/ib/transparent?a=2003398359
-2026-06-18,,-40.59,kapa dosky,202606010.0,Matúš Čupka,https://ib.fio.sk/ib/transparent?a=2003398359
 2026-06-18,,-710.0,tvorba webu,2026031.0,Matúš Čupka,https://ib.fio.sk/ib/transparent?a=2003398359
+2026-06-18,,-40.59,kapa dosky,202606010.0,Matúš Čupka,https://ib.fio.sk/ib/transparent?a=2003398359
+2026-06-18,,-922.5,reklamna kampan,420260531.0,Matúš Čupka,https://ib.fio.sk/ib/transparent?a=2003398359
 2026-06-18,Miroslav Davala,400.0,Nova energia pre TrebisovMiroslav Davala,,Peter Jozefi,https://transparentneucty.sk/#/ucet/SK0709000000005248347449
 2026-06-18,Vladimir Balaz,400.0,Nova energia pre TrebisovEvaKentosBalazova,,Peter Jozefi,https://transparentneucty.sk/#/ucet/SK0709000000005248347449
 2026-06-18,,-28.93,"Nákup: REMPO s.r.o., Bratislava, SK, dne 17.6.2026, částka 28.93 EUR",8899.0,Peter Lakota,https://ib.fio.sk/ib/transparent?a=2603510754
@@ -2124,6 +2175,7 @@ date,account_name,amount,message,vs,name,url
 2026-06-18,Artforum Kosice,-246.0,"Platba/Artforum Kosice - prenajom priestorov 1.6.2026 - debata o knihe - KE KSK porvaznik, mudrak",1151821.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-06-18,"Futáková Janka, Mgr.",10.0,Platba,1.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-06-18,Olejárová Dominika,200.0,OO26061800033245,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
+2026-06-18,VAJASOVA ROMANA,110.0,?/DO2026-06-18/SP,0.0,Roman Vajaš,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK2611110000006861394264
 2026-06-18,Lengyel Monika,200.0,rudolf kusy_monika lengyel,,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
 2026-06-18,Mesto Bardejov,-27.0,FD-859-dan za uzivanie verejneho priestranstva,2922600036.0,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
 2026-06-18,,-0.11,"/VS2922600036/SS/KS 18.06.2026 27,00 EUR",,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
@@ -2151,8 +2203,7 @@ date,account_name,amount,message,vs,name,url
 2026-06-17,Hnutie SLOVENSKO,235000.0,Prevod na TU,,Hnutie SLOVENSKO,https://www.transparentneucty.sk/#/ucet/SK8309000000005248035293
 2026-06-17,PAMA NITRA SRO,-3011.04,0260617182532.831715,268362.0,Igor Kršiak,https://www.transparentneucty.sk/#/ucet/SK1009000000005189469947
 2026-06-17,Restartup s.r.o.,-3073.77,Platba,2026045.0,Ján Beljak,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk9111000000002971071521
-2026-06-17,Mesto Prešov,-24.3,Úhrada dane za užívanie verej. priestranstva,1500009532.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
-2026-06-17,Mgr. Miroslav Šmilňák - Miro Jilo,-500.0,Úhrada FA 2026000049 za pesničkohry na akcii KDH,2026000049.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-06-17,,-0.1,"/VS1500009532/SS2603044568/KS0558 17.06.2026 24,30 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-06-17,,-2.0,"/VS2026000049/SS/KS 17.06.2026 500,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-06-17,Mgr. Miroslav Šmilňák - Miro Jilo,-500.0,Úhrada FA 2026000050 za pesničkohry,2026000050.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-06-17,,-2.0,"/VS2026000050/SS/KS 17.06.2026 500,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
@@ -2160,10 +2211,12 @@ date,account_name,amount,message,vs,name,url
 2026-06-17,,-2.86,"/VS1020260013/SS/KS 17.06.2026 714,85 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-06-17,Varínska tlačiareň/ELEKTRO AB s.r.o.,-327.18,Úhrada FA 260310 za letáky,260310.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-06-17,,-1.31,"/VS260310/SS/KS 17.06.2026 327,18 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
-2026-06-17,,-0.1,"/VS1500009532/SS2603044568/KS0558 17.06.2026 24,30 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-06-17,Mesto Prešov,-24.3,Úhrada dane za užívanie verej. priestranstva,1500009532.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-06-17,Mgr. Miroslav Šmilňák - Miro Jilo,-500.0,Úhrada FA 2026000049 za pesničkohry na akcii KDH,2026000049.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-06-17,"Chren Martin, Ing.",100.0,Prevod medzi vlastnymi uctami,,Martin Chren,https://www.transparentneucty.sk/#/ucet/SK5909000000005188209617
 2026-06-17,Tím Ružinov,-15000.0,,,Martin Chren,https://www.transparentneucty.sk/#/ucet/SK5909000000005188209617
 2026-06-17,Zuzana Cupkova,1700.0,prispevok kampan,,Matúš Čupka,https://ib.fio.sk/ib/transparent?a=2003398359
+2026-06-17,"Beňacka Andrej, Mgr.",300.0,Andrej Beňacka,0.0,Michal Niepel,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK1111110000001591705022
 2026-06-17,Ivana Bednar Hrda,10.0,"Prijatá platba, Drzim palce",,Natália Svítková,https://moja.csob.sk/transparent-accounts/edde427a4974b76e9a9c43fb2f23434bea8c796b02dc283df109d3b719abf3c5
 2026-06-17,Helena Balážová,100.0,"Prijatá platba, NA KAMPAN, H.Balazova",,Natália Svítková,https://moja.csob.sk/transparent-accounts/edde427a4974b76e9a9c43fb2f23434bea8c796b02dc283df109d3b719abf3c5
 2026-06-17,MARTIN SCIBRAN,50.0,1161261688387427,,Peter Cibulka,https://www.transparentneucty.sk/#/ucet/SK3309000000005245909565
@@ -2174,6 +2227,7 @@ date,account_name,amount,message,vs,name,url
 2026-06-17,Mikulas Bendula,250.0,Platba/Dar na kampan L.Benesova,5.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-06-17,Martina Potomova,100.0,Platba,8.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-06-17,Marianna Bausova,400.0,2616890000992117,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
+2026-06-17,2026.06.15 POSTA PIESTANY,-924.0,"924,00 EUR",,Roman Vajaš,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK2611110000006861394264
 2026-06-17,NOTPROVIDED,-190.04,Uhrada faktury 260117,260117.0,Stanislav Balco,https://ib.fio.sk/ib/transparent?a=2103443372
 2026-06-17,Darmová Mária Ing.,150.0,dar,20263458.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-17,,-420.0,"Odoslaná okamžitá platba, Tvorba propag videi",VS: 20260030 KS: 0308,Tomáš Sobota,https://moja.csob.sk/transparent-accounts/98b324eb1750b68eb120abdeb62a46565fd69b2897e812aff3d4883644c091ac
@@ -2204,10 +2258,11 @@ date,account_name,amount,message,vs,name,url
 2026-06-16,,-127.31,Trade Tising s.r.o.: 2026219 - JUDr . Peter Lakota - 2026/06,2026219.0,Peter Lakota,https://ib.fio.sk/ib/transparent?a=2603510754
 2026-06-16,Ing.Radomir Revilak,100.0,Platba,8.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-06-16,,-8.8,Transakčná daň 15.06.2026,,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
-2026-06-16,"SLOVENSKA POSTA, A.S.",230.0,19082010000612062026/SS-0000000000/ZDENKA BELAKOVA-RAZTOCNO/ENA,21012026,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
+2026-06-16,VAJASOVA ROMANA,250.0,?/DO2026-06-16/SPDar Volby 2026,0.0,Roman Vajaš,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK2611110000006861394264
 2026-06-16,Valovicova Pavlina,200.0,/DO2026-06-15/SPDar do kampanr,,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
 2026-06-16,Gabriela Galbavá,200.0,,,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
 2026-06-16,Kaprinay Zuzana,200.0,,,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
+2026-06-16,"SLOVENSKA POSTA, A.S.",230.0,19082010000612062026/SS-0000000000/ZDENKA BELAKOVA-RAZTOCNO/ENA,21012026,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
 2026-06-16,BAUER TRADE s.r.o.,-9000.0,Zalohova c.30 - bilboardy,260001.0,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
 2026-06-16,,-36.0,"/VS260001/SS/KS 16.06.2026 9000,00 EUR",,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
 2026-06-16,Nemec Peter,5.0,"Prijatá platba, Prispevok na kampan",,Tomáš Sobota,https://moja.csob.sk/transparent-accounts/98b324eb1750b68eb120abdeb62a46565fd69b2897e812aff3d4883644c091ac
@@ -2233,14 +2288,19 @@ date,account_name,amount,message,vs,name,url
 2026-06-15,,-6888.0,"Odoslaná okamžitá platba, Zaloha na kampan VUC",VS: 30260004,Magyar Szövetség - Maďarská aliancia,https://moja.csob.sk/transparent-accounts/52b9f2e9bb4a2062709a3ecb89abdd4899ce35cdba52e58bbd03e2c5a52cd91b
 2026-06-15,Agneša Lukovicsová Nagyová,250.0,,7772512913,Maroš Chudovský,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9302000000007208576553
 2026-06-15,MAGIC OFFICE s. r. o.,-200.0,"Platba/kuzelnik, MDD, 30.5.2026",20260010.0,Martin Vician,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7511000000002974075026
+2026-06-15,"2026.06.12 FAXCOPY32,PN,W",-14.9,"14,90 EUR",,Michal Niepel,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK1111110000001591705022
 2026-06-15,Ing. Marian Adamisin,20.0,prispevok,,Miroslav Olejár,https://www.transparentneucty.sk/#/ucet/SK7209000000005246909321
 2026-06-15,ING. IVAN RUSNÁK,-150.0,Platba/prenajom priestorov tlacovka revuca benesova 15.5.2026,92026.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-06-15,Mgr. Michaela Gromová,-2050.0,Platba/gromova manazovanie kampane PK hanulik 05/26,20260006.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-06-15,Eva Ziakova,10.0,PLATBA/Podpora,6.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-06-15,MÁRIA ORŠULOVÁ,15.0,Platba/PLATBA,1.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-06-15,Zed Production s. r. o.,-6306.06,nahravacia technika,2026019.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-06-15,Zed Production s. r. o.,-25.22,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-06-15,Zed Production s. r. o.,-25.22,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-06-15,"Martinka Vladimír, Ing.",8000.0,?/DO2026-06- 12/SPVladimír Martinka,0.0,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
+2026-06-15,2iP printing solutions,-2201.7,johanes,26550749.0,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
 2026-06-15,Trnka Rastislav,500.0,F001150620266412355,,Rastislav Trnka,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708
+2026-06-15,Roman Vajas,500.0,Dar,0.0,Roman Vajaš,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK2611110000006861394264
+2026-06-15,"Vajas Patrícia, Ing.",200.0,Dar volebna kampan 2026,0.0,Roman Vajaš,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK2611110000006861394264
 2026-06-15,Rudolf Kusý,940.0,,,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
 2026-06-15,SHS Rad svateho Galahada,-600.0,,,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
 2026-06-15,EventiQ s.r.o.,-860.0,,2026027,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
@@ -2289,6 +2349,7 @@ date,account_name,amount,message,vs,name,url
 2026-06-12,Dunaj,11000.0,Platba/Prevod prostriedkov,,Dunaj,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk2711000000002948288343
 2026-06-12,"ANDALEX REALITY, s.r.o.",-7000.0,Platba/Prenajom reklamnych ploch,62026.0,Dunaj,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk2711000000002948288343
 2026-06-12,"MT INVESTMENT, spol. s r.o.",-3936.0,Platba/Prenajom reklamnej plochy,2026025.0,Dunaj,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk2711000000002948288343
+2026-06-12,Dávid Staruch,50.0,Rezia - ucet,0,Dávid Staruch,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK2611110000001881762009
 2026-06-12,DIW s.r.o.,-116.85,Platba/Tlac letakov,2026060182.0,Erik Doman,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk5011000000002970103229
 2026-06-12,Nemčovská Eva,1000.0,Eva Nemčovská - vklad vlastné zdroje - kampaň,,Eva Nemčovská,https://www.transparentneucty.sk/#/ucet/SK1609000000005243966670
 2026-06-12,"Polakovič, Igor",351.06,dar - kampaň Lepší Lamač 2026,,Igor Polakovič,https://ib.fio.sk/ib/transparent?a=2903526790
@@ -2351,6 +2412,7 @@ date,account_name,amount,message,vs,name,url
 2026-06-11,Patrik Panik,-393.6,Platba/Panik - tlac grafikcke prace - Revuca Benesova 05/2026,261400214.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-06-11,zlober bober s. r. o.,-1600.0,Platba/Zlober bober - sprava socialnych sieti a kampanova vypomoc - BA SM Vagac 05/2026,20260005.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-06-11,Michal Valašik,-750.0,Platba/Valasik - tvorba webu BB kampan Javorcikova 05/2026,20260046.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
+2026-06-11,2026.06.10 ATM S6AN066B,-140.0,"140,00 EUR",,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
 2026-06-11,Websupport s.r.o.,-44.13,Nakup webhostingu,1026201214.0,Renáta Zolnaiová,https://ib.fio.sk/ib/transparent?a=2703512431
 2026-06-11,"Zolnaiová Renáta, Mg",500.0,"Zolnaiová Renáta, Mg",,Renáta Zolnaiová,https://ib.fio.sk/ib/transparent?a=2703512431
 2026-06-11,"Stano Adam, Ing.",250.0,,,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
@@ -2373,8 +2435,8 @@ date,account_name,amount,message,vs,name,url
 2026-06-10,Dasa Melicherikova,230.0,Platba/Melicherikova Dasa volby 2026,,Ján Beljak,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk9111000000002971071521
 2026-06-10,,-2.0,"/VS2026000045/SS/KS 10.06.2026 500,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-06-10,,-1.06,"/VS20260024/SS/KS 10.06.2026 265,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
-2026-06-10,Mgr. Miroslav Šmilňák - Miro Jilo,-500.0,Úhrada FA 2026000045 za pesničkohry,2026000045.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-06-10,Fashionlooks SK s. r. o.,-265.0,Úhrada FA 20260024 za prenájom atrakcií na akciu KDH,20260024.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-06-10,Mgr. Miroslav Šmilňák - Miro Jilo,-500.0,Úhrada FA 2026000045 za pesničkohry,2026000045.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-06-10,PAVOL ČELKO,10.0,DAR,7771491425,Maroš Chudovský,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9302000000007208576553
 2026-06-10,Igor Dopirák,15.0,Aby bol Bardejov este lepsim miestom pre zivot,,Miroslav Olejár,https://www.transparentneucty.sk/#/ucet/SK7209000000005246909321
 2026-06-10,OPENAI *CHATGPT SUBSCR,-23.0,EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),,Miroslav Sokol,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk0211000000002973085679
@@ -2424,10 +2486,10 @@ date,account_name,amount,message,vs,name,url
 2026-06-09,"EKOHOLDING SLOVAKIA, s.r.o.",-606.0,SEPA Europrevod/NonSEPAPrevod,2026009,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
 2026-06-09,EVENTS 3000 s.r.o.,-500.0,SEPA Europrevod/NonSEPAPrevod,55112026,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
 2026-06-09,"EKOHOLDING SLOVAKIA, s.r.o",-276.0,SEPA Europrevod/NonSEPAPrevod,2026010,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
-2026-06-09,Dobrovolny hasicsky zbor Bratislava - Raca Organizacna jednotka,-120.0,SEPA Europrevod/NonSEPAPrevod,,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
+2026-06-09,Jan Havranek,200.0,,,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
 2026-06-09,Juraj Švec,200.0,Podpor a zachran MC BA -NM,,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
 2026-06-09,Ladislav Vitkovič,200.0,LV,,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
-2026-06-09,Jan Havranek,200.0,,,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
+2026-06-09,Dobrovolny hasicsky zbor Bratislava - Raca Organizacna jednotka,-120.0,SEPA Europrevod/NonSEPAPrevod,,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
 2026-06-09,"Migaľ Samuel, Mgr.",10000.0,Platba/Príspevok na kampaň,,Samuel Migaľ,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk5511000000002974103031
 2026-06-09,Marek Gábrik,20.0,dar,20263434.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-09,Tomáš Viglašský,20.0,"Dakujem za peknu Bratislavu. Som Petrzalcan, mam to tu rad a Bratislava nikdy nebola tak pekna, ako je teraz. Budem rad ak potiahnete este d",20263432.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
@@ -2518,9 +2580,9 @@ date,account_name,amount,message,vs,name,url
 2026-06-05,,-78.53,Transakčná daň 04.06.2026,,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-06-05,Mesto Gelnica,-500.0,Platba/Mesto Gelnica - prenajom plochy na promo knihy KSK KE Porvaznik 22.5.2026,9919600275.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-06-05,More Design s. r. o.,-479.7,Platba/More Design s.r.o. vyvoj webu KSK KE Porvaznik 04/2026,202616.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
-2026-06-05,Arton sro,-0.89,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-06-05,Arton sro,-0.89,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-06-05,"Arton Sro,",-2164.8,Pravo na pravdu. Zahorska - najom p re zupanku BSK volebna kampan,260146.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
-2026-06-05,"Arton Sro,",-8.66,,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
+2026-06-05,"Arton Sro,",-8.66,povolená lúpež,,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-06-05,Arton sro,-221.4,Pravo na pravdu. Zahorska - tlac. z upanka BSK kampan,260147.0,Právo na pravdu,https://ib.fio.sk/ib/transparent?a=2003494797
 2026-06-05,"Filipovič Branislav, PhDr.",800.0,Kampaň 2026 BF,1,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
 2026-06-05,MINERALNE VODY a.s.,-54.0,,52680337,Rudolf Kusý,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000007244269753
@@ -2574,8 +2636,8 @@ date,account_name,amount,message,vs,name,url
 2026-06-04,"Gnip Slavomír, RNDr.",100.0,dar,20263396.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-04,Vladislav Pracny,50.0,20263391,,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-04,Martin Beniak,20.0,drzim palec :-),20263397.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-04,Kontríková Daša JUDr,30.0,F001040620263540878,20263399.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-04,BRNGÁLOVÁ ZUZANA,50.0,Držím nám palce,20263393.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-04,Zuzana Maksimcuk,30.0,dar,20263400.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-04,Bartoš Lukáš,30.0,"Porazte všetkých demagógov a dezolátov, ktorí chcú ovládnuť aj toto mesto! Nedovoľte im to, prosím. Buďte smart.",20263402.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-04,"Šujan Juraj, Ing. arch.",-500.0,Vrátený dar,,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-04,,-2.0,"NOTPROVIDED 04.06.2026 500,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
@@ -2585,7 +2647,7 @@ date,account_name,amount,message,vs,name,url
 2026-06-04,,-0.01,"/VS/SS/KS0898 04.06.2026 0,25 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-04,"Pomšár Ladislav,Pomšárová Barbora",30.0,F001040620263620899,20263401.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-04,Martin Kuklovsky,50.0,2615590000434324,20263381.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
-2026-06-04,Kontríková Daša JUDr,30.0,F001040620263540878,20263399.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
+2026-06-04,Zuzana Maksimcuk,30.0,dar,20263400.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-04,Sefrankova Anna,232.0,Pevny,117125.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-04,Linda Novosadova,30.0,20263392,,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-06-04,"Tarnovský Juraj, Ing.",100.0,dar,20263362.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
@@ -2793,10 +2855,10 @@ date,account_name,amount,message,vs,name,url
 2026-05-31,,-5.0,Zverejňovanie účtu,,Peter Jozefi,https://transparentneucty.sk/#/ucet/SK0709000000005248347449
 2026-05-31,,-5.0,Zverejňovanie účtu,,Peter Slávik,https://transparentneucty.sk/#/ucet/SK7209000000005247710832
 2026-05-31,,-5.0,Zverejňovanie účtu,,Rút Olšiaková,https://www.transparentneucty.sk/#/ucet/SK5309000000005247732126
+2026-05-31,,-0.02,"/VS/SS/KS0898 31.05.2026 5,00 EUR",,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
 2026-05-31,,-5.0,Zverejňovanie účtu,,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
 2026-05-31,,-0.02,"/VS/SS/KS0898 31.05.2026 5,00 EUR",,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
 2026-05-31,,-5.0,Poplatok za vedenie účtu,,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
-2026-05-31,,-0.02,"/VS/SS/KS0898 31.05.2026 5,00 EUR",,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
 2026-05-31,,-5.0,Zverejňovanie účtu,,Slavomír Šoltís,https://transparentneucty.sk/#/ucet/SK0409000000005246959142
 2026-05-31,,-5.0,Poplatok za vedenie účtu,,Sloboda a Solidarita,https://www.transparentneucty.sk/#/ucet/SK7109000000005244427206
 2026-05-31,,-0.02,"/VS/SS/KS0898 31.05.2026 5,00 EUR",,Sloboda a Solidarita,https://www.transparentneucty.sk/#/ucet/SK7109000000005244427206
@@ -2844,13 +2906,13 @@ date,account_name,amount,message,vs,name,url
 2026-05-29,,-7.6,"B2470459441-44544 12** **** 5341;FACEBK *KBLHNV98H2 ,FACEBOOK.COM ,IE ;28.05.2026 06:41:31 ;CashBack:0 EUR",,Igor Petrovčík,https://www.transparentneucty.sk/#/ucet/SK0509000000005246351516
 2026-05-29,,-6.0,Vedenie konta Transparentný účet,9.0,Jozef Ráž,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5002000000007225813354
 2026-05-29,,-6.0,Vedenie konta Transparentný účet,9.0,Ján Sklár,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5802000000004657749559
-2026-05-29,,-0.3,"/VS262401080/SS/KS 29.05.2026 74,97 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
-2026-05-29,Kresťanskodemokratické hnutie,10000.0,Prevod finančných prostriedkov z bežného účtu,2905.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
-2026-05-29,"Anima House, s.r.o.",-6900.0,Úhrada FA 2026002 za prieskum verejnej mienky,2026002.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
-2026-05-29,,-27.6,"/VS2026002/SS/KS 29.05.2026 6900,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
-2026-05-29,"Anima House, s.r.o.",-3075.0,"Úhrada FA 2026003 za grafické práce, podklady pre web. stránku",2026003.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-05-29,,-12.3,"/VS2026003/SS/KS 29.05.2026 3075,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-05-29,"Anima House, s.r.o.",-3075.0,"Úhrada FA 2026003 za grafické práce, podklady pre web. stránku",2026003.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-05-29,,-27.6,"/VS2026002/SS/KS 29.05.2026 6900,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-05-29,Mgr. Jaroslav Kováč - KOVÁČ SERVIS,-74.97,Úhrada FA 262401080 za materiál na akciu KDH,262401080.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-05-29,Kresťanskodemokratické hnutie,10000.0,Prevod finančných prostriedkov z bežného účtu,2905.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-05-29,,-0.3,"/VS262401080/SS/KS 29.05.2026 74,97 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-05-29,"Anima House, s.r.o.",-6900.0,Úhrada FA 2026002 za prieskum verejnej mienky,2026002.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-05-29,,-6.0,Vedenie konta Transparentný účet,9.0,Ladislav Hozlár,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8602000000005224775553
 2026-05-29,,-10.0,Poplatky za platby nad rámec konta,9.0,Ladislav Smatana,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9002000000007214689159
 2026-05-29,,-6.0,Vedenie konta Transparentný účet,9.0,Ladislav Smatana,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9002000000007214689159
@@ -2892,8 +2954,8 @@ date,account_name,amount,message,vs,name,url
 2026-05-28,Jan Ruzovic,10.0,Platba,,Erik Doman,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk5011000000002970103229
 2026-05-28,Mgr. Tibor Pekarcik,5000.0,Podpora Eva Nemcovska volby 2026,,Eva Nemčovská,https://www.transparentneucty.sk/#/ucet/SK1609000000005243966670
 2026-05-28,"SLOV-MATIC, S.R.O.",0.08,Financne konto,883355066.0,Ivana Tepličková,https://www.transparentneucty.sk/#/ucet/SK0409000000005248515895
-2026-05-28,"SATOR, s.r.o.",-2703.66,Úhrada FA 2026060 za propagačný materiál,2026060.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-05-28,,-10.81,"/VS2026060/SS/KS 28.05.2026 2703,66 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-05-28,"SATOR, s.r.o.",-2703.66,Úhrada FA 2026060 za propagačný materiál,2026060.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-05-28,Berinšter Peter,5600.0,/DO2026-05-27/SP,,Lucia Gurbáľová,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4002000000007220920951
 2026-05-28,LUCIA LOSKOTOVÁ,10000.0,PLATBA,,Lucia Loskotová,https://www.transparentneucty.sk/#/ucet/SK4609000000005248758512
 2026-05-28,,-658.05,"Odoslaná okamžitá platba, Uhrada faktury za bilbordy",VS: 20260065,Marek Preták,https://moja.csob.sk/transparent-accounts/2e0a2ba0ccb981c60c8c741eb50236d92a6ed1024f945c95e38c4a984907cf61
@@ -2981,6 +3043,7 @@ date,account_name,amount,message,vs,name,url
 2026-05-25,Platba kartou + A-pay,-152.2,Toscana1 Povazska B,****9632,Maroš Chudovský,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9302000000007208576553
 2026-05-25,gastrokuchyne.sk,-294.39,POS nákup gastrokuchyne.sk / Bardejov / (POS G1037815),,Martin Vician,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7511000000002974075026
 2026-05-25,MICHAL MIHÁLIK,200.0,Platba/PLATBA,,Martin Vician,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7511000000002974075026
+2026-05-25,"Polák Andrej, Mgr.",300.0,Polák,0.0,Michal Niepel,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK1111110000001591705022
 2026-05-25,"Olejár Miloslav, Ing. arch.",50.0,OO26052500044558,,Miroslav Olejár,https://www.transparentneucty.sk/#/ucet/SK7209000000005246909321
 2026-05-25,"Irena Vavrekova, I-plast",-255.84,Tlač letákov,260040.0,Miroslav Olejár,https://www.transparentneucty.sk/#/ucet/SK7209000000005246909321
 2026-05-25,Mgr. Mário Medzihradský - Media Online,-28.0,Úhrada faktúry: ONB2026062,2026062.0,Miroslav Olejár,https://www.transparentneucty.sk/#/ucet/SK7209000000005246909321
@@ -3102,6 +3165,7 @@ date,account_name,amount,message,vs,name,url
 2026-05-20,Kristina Simonova,300.0,,,Ladislav Smatana,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9002000000007214689159
 2026-05-20,Jaroslav Hurta,201.0,MGR.PHD. MAROŠ CHUDOVSKÝ,112276,Maroš Chudovský,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9302000000007208576553
 2026-05-20,Paško Martin,140.0,Platba/Dobrovolny dar,,Martin Vician,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7511000000002974075026
+2026-05-20,Eva Vancová,300.0,"Eva Vancova, kandidatka na poslanky",0.0,Michal Niepel,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK1111110000001591705022
 2026-05-20,AMCOLOR JUB,-143.75,POS nákup AMCOLOR JUB / TEPLICKA NAD / (POS 99108331),,Miroslav Sokol,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk0211000000002973085679
 2026-05-20,OBI Zilina,-47.53,POS nákup OBI Zilina / Zilina / (POS 55616369),,Miroslav Sokol,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk0211000000002973085679
 2026-05-20,C027 Zilina,-129.59,POS nákup C027 Zilina / Zilina / (POS 06222997),,Miroslav Sokol,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk0211000000002973085679
@@ -3127,9 +3191,10 @@ date,account_name,amount,message,vs,name,url
 2026-05-19,,-4.78,"B2459805156-44544 12** **** 5341;FACEBK *ALNYBPR7H2 ,FACEBOOK.COM ,IE ;18.05.2026 13:15:37 ;CashBack:0 EUR",,Igor Petrovčík,https://www.transparentneucty.sk/#/ucet/SK0509000000005246351516
 2026-05-19,Repa Pavol,1500.0,Drzim palce,,Jaroslav Polaček,https://www.transparentneucty.sk/#/ucet/SK7609000000005144413229
 2026-05-19,Anna Beljakova,200.0,Platba,,Ján Beljak,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk9111000000002971071521
-2026-05-19,,-3.39,"/VS26950199/SS/KS 19.05.2026 848,70 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-05-19,"ISPA, spol. s r.o.",-848.7,"Úhrada ZF26950199 za reklamný priestor, billboardy, za obdobie sept. - október",26950199.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-05-19,,-3.39,"/VS26950199/SS/KS 19.05.2026 848,70 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-05-19,Martin Tišťan,10.0,"Mesto s ludmi - drzim palce Tisto, Podpora kandidatury",,Matúš Molitoris,https://ib.fio.sk/ib/transparent?a=2503499252
+2026-05-19,Martin Vlachynský,100.0,,0.0,Michal Niepel,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK1111110000001591705022
 2026-05-19,Websupport s. r. o.,-36.83,Platba,1026175736.0,Miroslav Sokol,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk0211000000002973085679
 2026-05-19,Michal Bagacka,250.0,"Michal Bsgacka, prispevok na kampan",,Ondrej Lunter,https://www.transparentneucty.sk/#/ucet/SK2309000000005247265417
 2026-05-19,Božena Kováčová,250.0,Prispevok na kampan,,Ondrej Lunter,https://www.transparentneucty.sk/#/ucet/SK2309000000005247265417
@@ -3156,6 +3221,7 @@ date,account_name,amount,message,vs,name,url
 2026-05-18,Radko Fercak,250.0,,,Jozef Ráž,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5002000000007225813354
 2026-05-18,Michal Macko,230.0,Platba/Prispevok na volebnu kampan Michal Macko,,Ján Beljak,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk9111000000002971071521
 2026-05-18,Jozef Beljak,150.0,Platba,,Ján Beljak,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk9111000000002971071521
+2026-05-18,Michael Niepel,500.0,Michael Niepel,0.0,Michal Niepel,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK1111110000001591705022
 2026-05-18,"JS trade Slovakia, spol. s r.o.",-269.89,Upomienkove predmety,260100528.0,Michal Pálka,https://transparentneucty.sk/#/ucet/SK1109000000005246173510
 2026-05-18,OLEJPREZDRAVIE,-227.0,MOBILE APP NÁKUP E-COMM OLEJPREZDRAVIE / NITRA / (POS DL4EANUA),,Miroslav Sokol,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk0211000000002973085679
 2026-05-18,"FAXCOPY62,ZA,AUPARK",-66.41,"POS nákup FAXCOPY62,ZA,AUPARK / ZILINA / (POS 05442400)",,Miroslav Sokol,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk0211000000002973085679
@@ -3210,6 +3276,9 @@ date,account_name,amount,message,vs,name,url
 2026-05-15,ROMAN BARTA,25.0,Platba/DAR ROMAN BARTA,35.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-05-15,KING MEDIA s. r. o.,-1291.5,Platba/KING MEDIA prenajom city light luscikova poprad 13.10-26.10.2026,312026.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-05-15,,-18.88,Transakčná daň 14.05.2026,,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
+2026-05-15,GRYF,-5535.0,,26081.0,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
+2026-05-15,GRYF,-5535.0,,26093.0,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
+2026-05-15,Frantisek Balun - IDEON,-15.0,,2026253.0,Roman Vajaš,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK2611110000006861394264
 2026-05-15,,-6.68,"/VS2026023/SS/KS 15.05.2026 1670,00 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-05-15,Brhlová Petra,59.0,dar petra brhlova,20263180.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-05-15,Lukáš Krajčík - Digital stories,-1670.0,Daniel Klimovsky - dizajn webstranky,2026023.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
@@ -3255,8 +3324,8 @@ date,account_name,amount,message,vs,name,url
 2026-05-13,Lenka Hajekova,100.0,Platba/Dar_Lenka Hajekova,,Martin Vician,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7511000000002974075026
 2026-05-13,"Šelestiaková Júlia,",100.0,"Šelestiaková Júlia,",,Matúš Molitoris,https://ib.fio.sk/ib/transparent?a=2503499252
 2026-05-13,"Bugár Ján, Mgr.",-200.0,Graficke prace,26001.0,Michal Pálka,https://transparentneucty.sk/#/ucet/SK1109000000005246173510
-2026-05-13,Ing. Marian Adamisin,20.0,prispevok,,Miroslav Olejár,https://www.transparentneucty.sk/#/ucet/SK7209000000005246909321
 2026-05-13,"Štefanková Andrea, Ing.",300.0,34763279,,Miroslav Olejár,https://www.transparentneucty.sk/#/ucet/SK7209000000005246909321
+2026-05-13,Ing. Marian Adamisin,20.0,prispevok,,Miroslav Olejár,https://www.transparentneucty.sk/#/ucet/SK7209000000005246909321
 2026-05-13,OPENAI *CHATGPT SUBSCR,-23.0,EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),,Miroslav Sokol,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk0211000000002973085679
 2026-05-13,GoPay Czech odštěpný závod,-273.8,Platba,9255195399.0,Miroslav Sokol,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk0211000000002973085679
 2026-05-13,PETER CIBULKA,1000.0,PLATBA,,Peter Cibulka,https://www.transparentneucty.sk/#/ucet/SK3309000000005245909565
@@ -3264,7 +3333,6 @@ date,account_name,amount,message,vs,name,url
 2026-05-13,Roman Valo,2400.0,Platba/Roman Valo,9.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-05-13,Ciprus Pavel,990.0,Platba,9.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-05-13,"Lábaj Ondrej, Ing., PhD.",250.0,Platba/Podpora kampane Tímu za Lepšie Staré Mesto,8.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
-2026-05-13,Reves Štefan,1000.0,Kampan 2026,,Roman Matoušek,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9802000000007217503858
 2026-05-13,"EXO TECHNOLOGIES, spol. s r.o.",-67.64,VS:2670912219 - EXO TECHNOLOGIES,2670912219.0,Rút Olšiaková,https://www.transparentneucty.sk/#/ucet/SK5309000000005247732126
 2026-05-13,Olšiaková Rút,100.0,F001130520267668936,,Rút Olšiaková,https://www.transparentneucty.sk/#/ucet/SK5309000000005247732126
 2026-05-13,Pitoňák Maxim,39.0,Dar - Maxim Pitoňák,20263172.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
@@ -3313,13 +3381,13 @@ date,account_name,amount,message,vs,name,url
 2026-05-11,PayPal Europe S.a.r.l. et Cie S.C.A,0.14,YYR1050155452458/PAYPAL,,Erik Radačovský,https://transparentneucty.sk/#/ucet/SK8809000000005247659619
 2026-05-11,Jozef Mikus,230.0,Platba/Prispevok na volebnu kampan od Jozef Mikus,,Ján Beljak,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk9111000000002971071521
 2026-05-11,BORSKA TATIANA,230.0,Platba/prispevok na voleb kampan tatiana borska,,Ján Beljak,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk9111000000002971071521
-2026-05-11,,-0.52,"/VS260006/SS/KS 11.05.2026 129,03 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-05-11,Kresťanskodemokratické hnutie,10000.0,Prevod finančných prostriedkov z bežného účtu,1105.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-05-11,KDH servis s.r.o.,-714.85,Úhrada FA 1020260010 za propagačnú činnosť,1020260010.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-05-11,,-2.86,"/VS1020260010/SS/KS 11.05.2026 714,85 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-05-11,Ing. Peter Weiss - AB Centrum,-5400.0,Úhrada FA 2260149 za ruže,2260149.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-05-11,,-21.6,"/VS2260149/SS/KS 11.05.2026 5400,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-05-11,"DARIUS IT, s. r. o.",-129.03,Úhrada FA 260006 za doménu hrdyvychod.sk,260006.0,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-05-11,,-0.52,"/VS260006/SS/KS 11.05.2026 129,03 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-05-11,,-500.0,"Odoslaná okamžitá platba, Produkcia a postprodukcia videi",,Marek Preták,https://moja.csob.sk/transparent-accounts/2e0a2ba0ccb981c60c8c741eb50236d92a6ed1024f945c95e38c4a984907cf61
 2026-05-11,CapCut,-29.99,INT NÁKUP POS EUR CapCut / SINGAPORE / (POS 99999999),,Martin Vician,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7511000000002974075026
 2026-05-11,Richard Jajcay,100.0,Platba,,Martin Vician,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7511000000002974075026
@@ -3382,6 +3450,7 @@ date,account_name,amount,message,vs,name,url
 2026-05-08,IMI TRADE s.r.o.,-189.54,Platba/imi trade merch sufliarska,7002606375.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-05-08,"Jurč Andrej, Bc.",25.0,Platba/Dar,35.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-05-08,,-35.77,Transakčná daň 07.05.2026,,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
+2026-05-08,Kamil Duris,5000.0,?/DO2026-05-07/SP,0.0,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
 2026-05-08,ISPA s.r.o.,-1180.8,Voĺby Ing. Rút Olšiaková č. 202504093,,Rút Olšiaková,https://www.transparentneucty.sk/#/ucet/SK5309000000005247732126
 2026-05-08,Olšiaková Rút,700.0,F001080520261159505,,Rút Olšiaková,https://www.transparentneucty.sk/#/ucet/SK5309000000005247732126
 2026-05-08,"Krta Ján, Ing.",100.0,OO26050800034255,,Zuzana Aufrichtová,https://www.transparentneucty.sk/#/ucet/SK8009000000005246806066
@@ -3521,9 +3590,9 @@ date,account_name,amount,message,vs,name,url
 2026-04-30,,-5.0,Zverejňovanie účtu,,Ján Krtík,https://transparentneucty.sk/#/ucet/SK8809000000005147630018
 2026-04-30,,-6.0,Vedenie konta Transparentný účet,9.0,Ján Sklár,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5802000000004657749559
 2026-04-30,,-0.02,"/VS/SS/KS0898 30.04.2026 5,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
-2026-04-30,,-0.02,"/VS/SS/KS0898 30.04.2026 5,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-04-30,,-5.0,Zverejňovanie účtu,,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-04-30,,-5.0,Poplatok za vedenie účtu,,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
+2026-04-30,,-0.02,"/VS/SS/KS0898 30.04.2026 5,00 EUR",,Kresťanskodemokratické hnutie,https://www.transparentneucty.sk/#/ucet/SK7509000000005246166150
 2026-04-30,MG company s.r.o.,-172.2,SEPA Okamžitá platba,872026.0,Ladislav Hozlár,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8602000000005224775553
 2026-04-30,,-6.0,Vedenie konta Transparentný účet,9.0,Ladislav Hozlár,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8602000000005224775553
 2026-04-30,,-5.0,Zverejňovanie účtu,,Ladislav Lörinc,https://www.transparentneucty.sk/#/ucet/SK3809000000005242796163
@@ -3571,15 +3640,16 @@ date,account_name,amount,message,vs,name,url
 2026-04-30,Stanislav Dubovsky,-25.0,Platba/vratenie daru stanislav dubovsky,,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-04-30,SPAJZKA s. r. o.,-300.0,Platba/prenajom priestorov spajzka pezinok diskusia 21.4.2026,20260005.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-04-30,HOWK s.r.o.,-184.5,Platba/foto technika a postprodukcia ke mudrak,20260027.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
-2026-04-30,,-6.0,Vedenie konta Transparentný účet,9.0,Roman Matoušek,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9802000000007217503858
+2026-04-30,ABTLAC SK,-984.0,johanes,20260050.0,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
+2026-04-30,,-16.0,POPL Vybery v hotovosti,,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
 2026-04-30,,-5.0,Zverejňovanie účtu,,Rút Olšiaková,https://www.transparentneucty.sk/#/ucet/SK5309000000005247732126
 2026-04-30,"BigMedia, s.r.o.",-418.2,Voĺby Olšiaková 08/2026,,Rút Olšiaková,https://www.transparentneucty.sk/#/ucet/SK5309000000005247732126
 2026-04-30,"BigMedia, s.r.o.",-1014.75,Kampaň voĺby Olšiaková 09/2026,,Rút Olšiaková,https://www.transparentneucty.sk/#/ucet/SK5309000000005247732126
 2026-04-30,Olšiaková Rút,2000.0,F001300420262721523,,Rút Olšiaková,https://www.transparentneucty.sk/#/ucet/SK5309000000005247732126
-2026-04-30,,-5.0,Poplatok za vedenie účtu,,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
 2026-04-30,,-0.02,"/VS/SS/KS0898 30.04.2026 5,00 EUR",,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
 2026-04-30,,-5.0,Zverejňovanie účtu,,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
 2026-04-30,,-0.02,"/VS/SS/KS0898 30.04.2026 5,00 EUR",,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
+2026-04-30,,-5.0,Poplatok za vedenie účtu,,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
 2026-04-30,,-5.0,Zverejňovanie účtu,,Slavomír Šoltís,https://transparentneucty.sk/#/ucet/SK0409000000005246959142
 2026-04-30,,-5.0,Poplatok za vedenie účtu,,Sloboda a Solidarita,https://www.transparentneucty.sk/#/ucet/SK7109000000005244427206
 2026-04-30,,-0.02,"/VS/SS/KS0898 30.04.2026 5,00 EUR",,Sloboda a Solidarita,https://www.transparentneucty.sk/#/ucet/SK7109000000005244427206
@@ -3616,6 +3686,8 @@ date,account_name,amount,message,vs,name,url
 2026-04-29,,-0.22,Poplatok Okamžitá platba (elektronicky),16120015.0,Ondrej Lunter,https://www.transparentneucty.sk/#/ucet/SK2309000000005247265417
 2026-04-29,TAMARA TÓTHOVÁ MARKOVIČOVÁ,10.0,Platba/PLATBA,2.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-04-29,Rafaj Becová Lucia,100.0,Platba,2.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
+2026-04-29,"Vajas Patrícia, Ing.",500.0,Dar volebna kampan 2026,0.0,Roman Vajaš,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK2611110000006861394264
+2026-04-29,Rink.sk,-312.42,"tricka a pera, Volby 2026",2026211.0,Roman Vajaš,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK2611110000006861394264
 2026-04-29,,-0.01,"Vratenie daru - neuplna identifikac ia darcu, chyba adresa trvaleho po bytu.",,Ľubomír Géci,https://ib.fio.sk/ib/transparent?a=2003435076
 2026-04-29,"Szárazová Zuzana, Ing.",10.0,Za zmenu,,Ľuboslav Farkaš,https://www.transparentneucty.sk/#/ucet/SK0809000000005247620319
 2026-04-28,"Očkaják Adam, Mgr.",356.0,OO26042800136908,,Anna Súkeníková,https://www.transparentneucty.sk/#/ucet/SK1609000000005191944794
@@ -3636,6 +3708,7 @@ date,account_name,amount,message,vs,name,url
 2026-04-28,,-18.27,Transakčná daň 27.04.2026,,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-04-28,"Holéczy Igor, Mgr.",10.0,Platba,2.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-04-28,Marián Porvažník,6800.0,Platba/Prevod prostriedkov na TU PS na zaklade darovacej zmluvuy zo dna 16.04.2026,12.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
+2026-04-28,RASTISLAV JOHANES,-500.0,,,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
 2026-04-28,J+T,-95.94,Uhrada faktury 260086,260086.0,Stanislav Balco,https://ib.fio.sk/ib/transparent?a=2103443372
 2026-04-28,,-9.31,"/VS2526231/SS/KS 28.04.2026 2328,39 EUR",,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-04-28,BÜRO MILK S.R.O.,-2328.39,"Graficke navrhy billboardy, webdizajn",2526231.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
@@ -3667,6 +3740,7 @@ date,account_name,amount,message,vs,name,url
 2026-04-27,ARAKOVO PRODUCTION s. r. o.,-550.0,Úhrada zálohovej faktúry: 30260098,30260098.0,Peter Cibulka,https://www.transparentneucty.sk/#/ucet/SK3309000000005245909565
 2026-04-27,"Bauer Miklošovičová Bibiana, MVDr.",500.0,Platba,3.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-04-27,SEDEM - vasa kreativna s. r. o.,-4568.22,Platba/SEDEM - vasa kreativna s. r. o. - tlac noviny ke,12026012.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
+2026-04-27,RASTISLAV JOHANES,-2000.0,,,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
 2026-04-27,"DDMedia, s. r. o.",-560.88,"DDMedia, s. r. o.: 2026082 - Lubomir Jasso - 2026/04",2026082.0,Ľubomír Jaššo,https://www.transparentneucty.sk/#/ucet/SK5109000000005246410440
 2026-04-27,SUKROMNA SKOLA UMELECKEHO PRIEMYSLU ANIMOVANEJ TVO,200.0,Viera Zavarcikova,,Ľuboslav Farkaš,https://www.transparentneucty.sk/#/ucet/SK0809000000005247620319
 2026-04-27,Kmeť Peter,7.77,PRE STASTIE!,,Ľuboslav Farkaš,https://www.transparentneucty.sk/#/ucet/SK0809000000005247620319
@@ -3704,6 +3778,7 @@ date,account_name,amount,message,vs,name,url
 2026-04-24,,-64.22,Transakčná daň 23.04.2026,,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-04-24,ARTON s.r.o.,-1217.7,Platba/Arton najom billboardov 04 26 mudrak ke,260115.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-04-24,ARTON s.r.o.,-166.05,Platba/arton tlac plagatov mudrak ke p4 26,260116.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
+2026-04-24,,-20.0,Popl. doruč. na pobočku,,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
 2026-04-24,"Cicman Dalibor, Ing.",2000.0,dar,20263164.0,Team Bratislava,https://www.transparentneucty.sk/#/ucet/SK9009000000005244443839
 2026-04-24,Kovacova Katarina,30.0,podpora Sala,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja,https://ib.fio.sk/ib/transparent?a=2203415213
 2026-04-23,Dudas Daniel,10.0,P-20260423-493268308,,Dana Čahojová,https://www.transparentneucty.sk/#/ucet/SK3009000000005149256103
@@ -3830,6 +3905,7 @@ date,account_name,amount,message,vs,name,url
 2026-04-17,REMOS spol. s r.o.,-223.68,Platba/QR2326045117,2326045117.0,Miroslav Sokol,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk0211000000002973085679
 2026-04-17,,-0.39,Transakčná daň 16.04.2026,,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-04-17,Dalibor Cicman,-2000.0,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
+2026-04-17,RASTISLAV JOHANES,10000.0,,0.0,Rastislav Johanes,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK4511110000006856301131
 2026-04-17,Martin Chren,10000.0,PLATBA/Dar na zaklade overenej zmluvy,2026002.0,TÍM RUŽINOV,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk5911000000002948291841
 2026-04-17,"Petrušek Boris, Mgr.",30.0,", kampan 26",,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja,https://ib.fio.sk/ib/transparent?a=2203415213
 2026-04-17,MATAJS JAKUB,20.0,?/DO2026-04-17/SP,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja,https://ib.fio.sk/ib/transparent?a=2203415213
@@ -4090,8 +4166,6 @@ date,account_name,amount,message,vs,name,url
 2026-03-31,Kristina Gajdosova,5.0,Platba,4.0,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-03-31,,-0.0,Poplatok za balík,,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
 2026-03-31,,-10.8,Poplatky za transakcie,,Progresívne Slovensko,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk1511000000002944290219
-2026-03-31,,5.0,Storno-popl.za platby a ved.úč/kon,9.0,Roman Matoušek,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9802000000007217503858
-2026-03-31,,-5.0,Vedenie účtu,9.0,Roman Matoušek,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9802000000007217503858
 2026-03-31,,-1.45,Poplatok za vedenie účtu,,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
 2026-03-31,,-0.01,"/VS/SS/KS0898 31.03.2026 1,45 EUR",,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
 2026-03-31,,-5.0,Zverejňovanie účtu,,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
@@ -4151,7 +4225,6 @@ date,account_name,amount,message,vs,name,url
 2026-03-26,Zúbek Michal,229.0,F001260320264072125,,Ladislav Lörinc,https://www.transparentneucty.sk/#/ucet/SK3809000000005242796163
 2026-03-26,Daniela Lichvárová,501.0,Daniela Lichvarova,26032026.0,Ladislav Lörinc,https://www.transparentneucty.sk/#/ucet/SK3809000000005242796163
 2026-03-26,GOPAY *BEZPOTISKU.CZ,-92.68,INT NÁKUP POS EUR GOPAY *BEZPOTISKU.CZ / PRAHA / (POS EE800048),,Martin Vician,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7511000000002974075026
-2026-03-26,Roman Matoušek,500.0,Kampan,,Roman Matoušek,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9802000000007217503858
 2026-03-26,,300.0,,,Ľubomír Jaššo,https://www.transparentneucty.sk/#/ucet/SK5109000000005246410440
 2026-03-25,,-3.3,Transakčná daň 24.03.2026,,Dunaj,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk2711000000002948288343
 2026-03-25,Orlovský Michal,3700.0,Drzim palce Jaro,,Jaroslav Polaček,https://www.transparentneucty.sk/#/ucet/SK7609000000005144413229
@@ -4172,9 +4245,9 @@ date,account_name,amount,message,vs,name,url
 2026-03-24,PETER CIBULKA,260.0,PLATBA,,Peter Cibulka,https://www.transparentneucty.sk/#/ucet/SK3309000000005245909565
 2026-03-24,SMER - sociálna demokracia,10.0,Vklad z bezneho uctu SMER-SD,24032026.0,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
 2026-03-24,SMER - sociálna demokracia,160000.0,Prevod z bezneho uctu SMER-SD,24032026.0,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
-2026-03-24,SMER - sociálna demokracia,160000.0,Prevod z bezneho uctu SMER-SD,24032026.0,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
-2026-03-24,SMER - sociálna demokracia,160000.0,Prevod z bezneho uctu SMER-SD,24032026.0,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
 2026-03-24,SMER - sociálna demokracia,120000.0,Prevod z bezneho uctu SMER-SD,24032026.0,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
+2026-03-24,SMER - sociálna demokracia,160000.0,Prevod z bezneho uctu SMER-SD,24032026.0,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
+2026-03-24,SMER - sociálna demokracia,160000.0,Prevod z bezneho uctu SMER-SD,24032026.0,SMER - sociálna demokracia,https://www.transparentneucty.sk/#/ucet/SK1709000000005245573360
 2026-03-24,Kovacova Katarina,30.0,podpora Sala,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja,https://ib.fio.sk/ib/transparent?a=2203415213
 2026-03-23,,-1404.66,reklamný priestor kampane - BB,26950115.0,Branislav Baroš,https://ib.fio.sk/ib/transparent?a=2003423219
 2026-03-23,,-814.26,reklamný priestor kampane - BB,26950119.0,Branislav Baroš,https://ib.fio.sk/ib/transparent?a=2003423219
@@ -4272,6 +4345,7 @@ date,account_name,amount,message,vs,name,url
 2026-03-09,,-5.27,Transakčná daň 07.03.2026,,Dunaj,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk2711000000002948288343
 2026-03-09,"Beljak Ján, PhDr., PhD.",900.0,Platba,,Ján Beljak,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk9111000000002971071521
 2026-03-09,Ľubica Brenišinová,1000.0,F001090320261860723,,Ladislav Lörinc,https://www.transparentneucty.sk/#/ucet/SK3809000000005242796163
+2026-03-09,Rink.sk,-349.94,Letáky A5 - Volby 2026,2026132.0,Roman Vajaš,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK2611110000006861394264
 2026-03-07,Poláčiková Jana,30.0,Príspevok,,Dana Čahojová,https://www.transparentneucty.sk/#/ucet/SK3009000000005149256103
 2026-03-07,Dunaj,1000.0,Platba/Prevod prostriedkov na kampan komunal,,Dunaj,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk2711000000002948288343
 2026-03-07,Regionpress,-1318.56,Platba/Inzercia bratislavsko,914260006.0,Dunaj,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk2711000000002948288343
@@ -4479,6 +4553,7 @@ date,account_name,amount,message,vs,name,url
 2026-02-03,Dagmar Filgasová,235.0,,,Ladislav Hozlár,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8602000000005224775553
 2026-02-02,,-0.08,Transakčná daň 31.01.2026,,Demokrati,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk8511000000002946166297
 2026-02-02,"Čupka, Matúš",296.28,,,Matúš Čupka,https://ib.fio.sk/ib/transparent?a=2003398359
+2026-02-02,Frantisek Balun - IDEON,-15.0,Dizajn plagatov - Volby 2026,2026252.0,Roman Vajaš,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK2611110000006861394264
 2026-02-01,Súkeníková Anna,10.0,F001010220262093556,,Anna Súkeníková,https://www.transparentneucty.sk/#/ucet/SK1609000000005191944794
 2026-02-01,Forgáč Ján,500.0,"Mgr. Ján Fogáč, Partizánska 7859/50A, 91101 Trenčín, prispevok",,Ján Forgáč,https://www.transparentneucty.sk/#/ucet/SK5609000000005244130365
 2026-01-31,,-5.0,Zverejňovanie účtu,,Anna Súkeníková,https://www.transparentneucty.sk/#/ucet/SK1609000000005191944794
@@ -4503,6 +4578,7 @@ date,account_name,amount,message,vs,name,url
 2026-01-31,,-7.0,Poplatok za vedenie účtu,,Martin Kuruc,https://transparentneucty.sk/#/ucet/SK8609000000005188670075
 2026-01-31,,-5.0,Zverejňovanie účtu,,Martin Kuruc,https://transparentneucty.sk/#/ucet/SK8609000000005188670075
 2026-01-31,,-0.0,Poplatok za účet,,Martin Vician,https://www.tatrabanka.sk/sk/personal/ucet-platby/transparentne-ucty/ucet/?iban=sk7511000000002974075026
+2026-01-31,Roman Vajaš,500.0,,0.0,Roman Vajaš,https://www.unicreditbank.sk/sk/ostatne/transparentny-ucet.html?IBAN=SK2611110000006861394264
 2026-01-30,Bartovičová Zuzana,1000.0,Dar,,Dana Čahojová,https://www.transparentneucty.sk/#/ucet/SK3009000000005149256103
 2026-01-30,,-6.0,Vedenie konta Transparentný účet,9.0,Ján Sklár,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5802000000004657749559
 2026-01-30,,-6.0,Vedenie konta Transparentný účet,9.0,Ladislav Hozlár,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8602000000005224775553
