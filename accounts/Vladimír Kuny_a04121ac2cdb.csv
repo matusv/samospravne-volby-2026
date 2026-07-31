@@ -1,4 +1,10 @@
 date,amount,currency,account_name,message,vs
+2026-07-30,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 28.07.2026","VS: 497000210
+ŠS: 5032785547
+KS: 6898"
+2026-07-30,-171.3,EUR,,"Transakcia platobnou kartou, Suma: 171,3 EUR 28.07.2026 Miesto: FAXCOPY42,LV,SV. MICHALA LEVICE","VS: 405000210
+ŠS: 5032785547
+KS: 0608"
 2026-07-28,-1001.44,EUR,,"Odoslaná platba elektronicky, Levicke noviny vol.2","VS: 2624100018
 KS: 308"
 2026-07-27,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.07.2026","VS: 497000207
@@ -44,5 +50,3 @@ KS: 6898"
 2026-07-09,-29.99,EUR,,"Transakcia platobnou kartou, Suma: 29,99 EUR 07.07.2026 Miesto: Google Play Apps Dublin","VS: 405000190
 ŠS: 5032785547
 KS: 0608"
-2026-07-08,20.0,EUR,Andrea Cengerova,"Prijatá platba, ",
-2026-07-07,50.0,EUR,Elena Bridisova,"Prijatá platba, ",
