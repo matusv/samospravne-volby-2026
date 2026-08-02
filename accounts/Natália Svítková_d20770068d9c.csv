@@ -1,4 +1,8 @@
 date,amount,currency,account_name,message,vs
+2026-07-31,-10.0,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.07.2026 do 31.07.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 1 x prijaté platby: 0,00, 4 x debet - elektronicky: 0,00",
+2026-07-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA CLASSIC DEB. CL Suma: 3 EUR 30.07.2026","VS: 495000211
+ŠS: 1139269320
+KS: 6898"
 2026-07-20,10000.0,EUR,Demokrati,"Prijatá platba, Dar na kampan",VS: 10042026
 2026-07-06,-356.7,EUR,,"Odoslaná okamžitá platba, Beach flagy komplet",VS: 1260048
 2026-07-06,-1488.3,EUR,,"Odoslaná okamžitá platba, Billboardy tlac",VS: 1260047
@@ -27,5 +31,3 @@ KS: 6898"
 2026-05-28,-44.13,EUR,,"Odoslaná okamžitá platba, Web hosting","VS: 1026186001
 KS: 0308"
 2026-05-12,-1000.0,EUR,,"Odoslaná okamžitá platba, Fotoprodukcia",
-2026-05-04,-14077.35,EUR,,"Odoslaná okamžitá platba, ",
-2026-05-04,3000.0,EUR,MAROS MIKUS,"Prijatá platba, Maros Mikus prispevok na kampan",

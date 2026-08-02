@@ -1,4 +1,12 @@
 date,amount,account_name,message,vs
+2026-07-31,-5.0,,Zverejňovanie účtu,
+2026-07-31,-0.02,,"/VS/SS/KS0898 31.07.2026 5,00 EUR",
+2026-07-31,-5.0,,Poplatok za vedenie účtu,
+2026-07-31,-0.02,,"/VS/SS/KS0898 31.07.2026 5,00 EUR",
+2026-07-31,-3.13,,"/VS26000634/SS/KS 31.07.2026 783,00 EUR",
+2026-07-31,-783.0,"balón - pártysk, s.r.o.",Úhrada faktúry 26000634 za propagačný materiál - balóny,26000634.0
+2026-07-31,-4.39,,"VS 268803868 31.07.2026 1096,80 EUR",
+2026-07-31,-1096.8,"PIVOTÉKA, s.r.o.",Úhrada objednávky za zariadenie na akciu KDH,
 2026-07-29,-10.33,,"/VS2026004/SS/KS 29.07.2026 2583,00 EUR",
 2026-07-29,-2583.0,"SATOR, s.r.o.",Úhrada ZF2026004 za reklamné predmety,2026004.0
 2026-07-24,-2.46,,"/VS2026097/SS/KS 24.07.2026 615,74 EUR",

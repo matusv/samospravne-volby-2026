@@ -1,4 +1,8 @@
 date,amount,currency,account_name,message,vs
+2026-07-31,-2.6,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.07.2026 do 31.07.2026, Za vedenie účtu/balíka služieb a výpisy: 2,00, Za transakcie: 0,60 , z toho:, 3 x debet - elektronicky: 0,60",
+2026-07-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 30.07.2026","VS: 495000211
+ŠS: 5032602247
+KS: 6898"
 2026-07-28,-199.26,EUR,,"Odoslaná okamžitá platba, Reklamne predmety",VS: 260264
 2026-07-27,-7.42,EUR,,"Transakcia platobnou kartou, Suma: 7,42 EUR 24.07.2026 Miesto: COOP KA529 Banska B Banska Bystri","VS: 405000206
 ŠS: 5032602247
@@ -32,6 +36,3 @@ KS: 6898"
 2026-06-23,200.0,EUR,Igor Pribelsky,"Prijatá platba, vivat sobota",
 2026-06-22,5.0,EUR,Bérešová Klára,"Prijatá platba, ",
 2026-06-18,-100.0,EUR,,"Odoslaná platba elektronicky, Vratenie platby zo zahranicia",
-2026-06-17,-420.0,EUR,,"Odoslaná okamžitá platba, Tvorba propag videi","VS: 20260030
-KS: 0308"
-2026-06-16,5.0,EUR,Nemec Peter,"Prijatá platba, Prispevok na kampan",

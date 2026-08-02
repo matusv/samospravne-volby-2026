@@ -1,4 +1,6 @@
 date,amount,account_name,message,vs
-2026-07-23,400,Peter Petrikán,T2529837839412133890,
-2026-07-23,200,Petrikán Peter,F001230720264472400,
-2026-07-14,100,Petrikán Peter Mgr.,F001140720261814681,
+2026-07-31,-5.0,,Zverejňovanie účtu,
+2026-07-31,-4.06,,Poplatok za vedenie účtu,
+2026-07-23,400.0,Peter Petrikán,T2529837839412133890,
+2026-07-23,200.0,Petrikán Peter,F001230720264472400,
+2026-07-14,100.0,Petrikán Peter Mgr.,F001140720261814681,

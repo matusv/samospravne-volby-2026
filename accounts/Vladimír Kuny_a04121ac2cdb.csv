@@ -1,4 +1,14 @@
 date,amount,currency,account_name,message,vs
+2026-08-01,1000.0,EUR,Alexandra Toth Dobrovolna,"Prijatá platba, Alexandra Toth Dobrovolna",
+2026-07-31,-10.0,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.07.2026 do 31.07.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 16 x prijaté platby: 0,00, 11 x debet - elektronicky: 0,00",
+2026-07-31,100.0,EUR,Michal Pacala,"Prijatá platba, Michal Pacala",
+2026-07-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 30.07.2026","VS: 495000211
+ŠS: 5032785547
+KS: 6898"
+2026-07-31,1000.0,EUR,Juraj Braun,"Prijatá platba, Juraj Braun",
+2026-07-31,-324.0,EUR,,"Odoslaná platba elektronicky, Dan uzivanie verejneho priestranstva","VS: 133012217
+KS: 308"
+2026-07-31,-1340.0,EUR,,"Odoslaná platba elektronicky, Photo Services s. r. o.: 2026014 - Mgr. Vladimir Kuny - 2026/07",VS: 2026014
 2026-07-30,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 28.07.2026","VS: 497000210
 ŠS: 5032785547
 KS: 6898"
@@ -34,19 +44,3 @@ KS: 0608"
 2026-07-15,1200.0,EUR,Liberálny dom s. r. o.,"Prijatá platba, Dar",
 2026-07-15,1000.0,EUR,Peter Polak,"Prijatá platba, ",
 2026-07-14,900.0,EUR,Adam Bajo,"Prijatá platba, Dar na kampan",
-2026-07-13,115.5,EUR,Renata Hradecsna,"Prijatá platba, KV",
-2026-07-13,-18.2,EUR,,"Odoslaná platba elektronicky, Vylep plagatov MsKS",VS: 202600076
-2026-07-13,-615.0,EUR,,"Odoslaná okamžitá platba, Komunikacna podpora - kampan","VS: 20260014
-KS: 0308"
-2026-07-10,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 08.07.2026","VS: 497000190
-ŠS: 5032785547
-KS: 6898"
-2026-07-10,-67.5,EUR,,"Transakcia platobnou kartou, Suma: 67,5 EUR 08.07.2026 Miesto: MIRA OFFICE LEVICE","VS: 405000190
-ŠS: 5032785547
-KS: 0608"
-2026-07-09,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 07.07.2026","VS: 497000190
-ŠS: 5032785547
-KS: 6898"
-2026-07-09,-29.99,EUR,,"Transakcia platobnou kartou, Suma: 29,99 EUR 07.07.2026 Miesto: Google Play Apps Dublin","VS: 405000190
-ŠS: 5032785547
-KS: 0608"

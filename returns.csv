@@ -15,14 +15,14 @@ date,amount,account_name,message,vs,name
 2026-04-22,2990.0,Andrej Skoda,Odoslane z Revolutu,,Igor Kršiak
 2026-07-14,1000.0,"Tanoczký Norbert, Ing.","Tanoczky Norbert Ing, trencin, zlatovska, prispevok na kampan",,Ján Forgáč
 2026-07-14,-1000.0,"Tanoczký Norbert, Ing.","Mgr. Ján Forgáč, Partizánska 7859/50A, Trenčín, vrátenie prijatej platby - dar neprijatý",,Ján Forgáč
-2026-07-15,1800.0,Sophia Gajarská,"Sophia Gajarska, jana holleho 891/2, Forgac",,Ján Forgáč
-2026-07-15,1000.0,Gajarská Zuzana,Gajarska Zuzana J.Holleho 891/2 Trenčín,,Ján Forgáč
 2026-07-15,-1800.0,Sophia Gajarská,"Mgr. Ján Forgáč, Partizánska 7859/50A, Trenčín, vrátenie prijatej platby - dar neprijatý z dôvodu neuvedenej adresy trvalého pobytu darcu",,Ján Forgáč
 2026-07-15,-1000.0,Gajarská Zuzana,"Mgr. Ján Forgáč, Partizánska 7859/50A, Trenčín, vrátenie prijatej platby - dar neprijatý z dôvodu neuvedenej adresy trvalého pobytu darcu",,Ján Forgáč
+2026-07-15,1000.0,Gajarská Zuzana,Gajarska Zuzana J.Holleho 891/2 Trenčín,,Ján Forgáč
+2026-07-15,1800.0,Sophia Gajarská,"Sophia Gajarska, jana holleho 891/2, Forgac",,Ján Forgáč
 2026-04-15,0.01,Ivan Rostas,SK73 0200 0000 0045 5336 2157 . dakujem,,Kresťanskodemokratické hnutie
 2026-04-17,-0.01,Ivan Rostas,Mylná platba,,Kresťanskodemokratické hnutie
-2025-11-26,-50.0,Katarina Campisova,,,Ladislav Hozlár
 2025-11-26,50.0,Katarína Čampišová,Chybna platba,,Ladislav Hozlár
+2025-11-26,-50.0,Katarina Campisova,,,Ladislav Hozlár
 2026-04-07,253.0,Bosák Tibor,Tibor Bosák,,Ladislav Lörinc
 2026-04-14,274.0,Szöllösiová Terézia,Terézia Szollosiova,14042026.0,Ladislav Lörinc
 2026-04-14,272.0,SNOPKOVA EMILIA,?/DO2026-04-14/SP,,Ladislav Lörinc
@@ -38,9 +38,9 @@ date,amount,account_name,message,vs,name
 2026-05-13,-252.0,"Klasovitá Soňa, Ing.",Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-13,-220.0,Závodská Gabriela,Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-14,-274.0,Szöllösiová Terézia,Vrátenie chybnej platby,,Ladislav Lörinc
-2026-05-26,-256.0,Novák Ján,Vrátenie chybnej platby,,Ladislav Lörinc
-2026-05-26,-272.0,SNOPKOVA EMILIA,Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-26,-225.0,Ondrejka Matúš,Vrátenie chybnej platby,,Ladislav Lörinc
+2026-05-26,-272.0,SNOPKOVA EMILIA,Vrátenie chybnej platby,,Ladislav Lörinc
+2026-05-26,-256.0,Novák Ján,Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-20,300.0,Kristina Simonova,,,Ladislav Smatana
 2026-05-27,-300.0,KRISTINA SIMONOVA,VRATENIE PLATBY,,Ladislav Smatana
 2026-03-18,0.55,Echko Mário,F001180320266377492,,Lucia Búšová
@@ -63,7 +63,7 @@ date,amount,account_name,message,vs,name
 2026-05-15,-1670.0,Lukáš Krajčík - Digital stories,Daniel Klimovsky - dizajn webstranky,2026023.0,Team Bratislava
 2026-06-03,500.0,"Šujan Juraj, Ing. arch.",dar,20263359.0,Team Bratislava
 2026-06-04,-500.0,"Šujan Juraj, Ing. arch.",Vrátený dar,,Team Bratislava
-2026-06-23,50000.0,Folkmer Petra,Dar na zaklade zmluvy- Petra Folkmer,,Team Bratislava
 2026-06-23,-50000.0,Folkmer Petra,Vrátená chybná platba,,Team Bratislava
+2026-06-23,50000.0,Folkmer Petra,Dar na zaklade zmluvy- Petra Folkmer,,Team Bratislava
 2026-07-07,8000.0,"Čvapek Róbert, Ing.",Dar Čvapkovci,,Team Bratislava
 2026-07-13,-8000.0,"Čvapek Róbert, Ing.",Dakujeme za Vasu podporu a priazen. Po upozorneni na porusenie internych predpisov darovania sme sa rozhodli Vam dar vratit.,,Team Bratislava
