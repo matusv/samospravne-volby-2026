@@ -1,4 +1,7 @@
 date,amount,account_name,message,vs
+2026-08-01,-0.15,,Transakčná daň 31.07.2026,
+2026-08-01,500.0,Ivana Spaldonova,Platba/DAR,
+2026-08-01,1500.0,Viliam Novotny,Platba/Novotny KSK,12
 2026-07-31,1500.0,Ľubica Blaškovičová,Platba/Kampan KSK,12
 2026-07-31,-37.12,,Poplatky za transakcie,
 2026-07-31,-0.0,,Poplatok za balík,
@@ -388,104 +391,6 @@ date,amount,account_name,message,vs
 2026-05-08,-1000.0,Pavol Krajci Consulting,Platba/Krajci manazment komunalnej kampane PS 2026,2026050101
 2026-05-08,-3000.0,Martin Péchy,Platba/Pechy kampanova komunikacia 04 26,20260005
 2026-05-08,25.0,"Jurč Andrej, Bc.",Platba/Dar,35
-2026-05-08,-35.77,,Transakčná daň 07.05.2026,
-2026-05-07,-5.2,,Transakčná daň 06.05.2026,
-2026-05-07,-4944.6,CyberSoft s.r.o.,Platba/Cybersoft prenajomreklamnych ploch porvaznik 29 ks 05 26,26050101
-2026-05-07,-2952.0,BURO MILK S.R.O.,Platba/Buro Milk graficke prace vizual,2526244
-2026-05-07,-1045.5,Pop studio s. r. o.,Platba/pop studio marketingove sluzby foto a video pre soc.siete,20260020
-2026-05-06,25.0,"Olláriová Adriána, Ing.",Platba/dar_LuboChmela,35
-2026-05-06,25.0,"Olláriová Adriána, Ing.",Platba/dar_OlláriováAdriana,35
-2026-05-06,-4.87,,Transakčná daň 05.05.2026,
-2026-05-06,25.0,Miroslav Olah,Platba/Dar,35
-2026-05-06,-1300.0,Tomas Krjak,Platba/krjak organizacia kampane,20260002
-2026-05-06,10.0,"Futáková Janka, Mgr.",Platba,1
-2026-05-05,-1217.7,stringo sro,Platba/stringo merch porvaznik ke kampan,20260019
-2026-05-05,100.0,Dusan Vigas,Platba,
-2026-05-04,10.0,DÁVID VARADZIN,Platba/PRE KOSICE,2
-2026-05-04,10.0,Kopka Michal,Platba/Michal Kopka,2
-2026-05-04,25.0,Miroslav Tomek,Platba/Dar,35
-2026-05-02,-44.27,,Transakčná daň 30.04.2026,
-2026-04-30,-13.44,,Poplatky za transakcie,
-2026-04-30,-0.0,,Poplatok za balík,
-2026-04-30,150.0,JUDr.Stanislava Majerova,Platba/Spolocne za lepsie Stare Mesto,08
-2026-04-30,43.0,Ing.Peter Majer,Platba/Kosice s viziou,2
-2026-04-30,-10.33,"JUDr. Daniela Kováčová, notár",Platba/notar osvedcenie podpisu darovacia zmluva,20260017
-2026-04-30,-184.5,HOWK s.r.o.,Platba/foto technika a postprodukcia ke mudrak,20260027
-2026-04-30,-49.2,ARTON s.r.o.,Platba/Arton tlac plagatov billboardy LM sufliarska 05 26,260167
-2026-04-30,-270.6,ARTON s.r.o.,Platba/Arton reklamny priestor billboardy LM sufliarska 05 26,260166
-2026-04-30,-15076.97,"Petit Press, a.s.",Platba/petitpress inzercia sme.sk ke porvaznik mudrak 05 26,262210056
-2026-04-30,-25.0,Stanislav Dubovsky,Platba/vratenie daru stanislav dubovsky,
-2026-04-30,-300.0,SPAJZKA s. r. o.,Platba/prenajom priestorov spajzka pezinok diskusia 21.4.2026,20260005
-2026-04-30,-215.48,Ing. Jozef Šivec - Webing.sk,Platba/webing tlac letakov SNV,2600076
-2026-04-29,100.0,Rafaj Becová Lucia,Platba,2
-2026-04-29,10.0,TAMARA TÓTHOVÁ MARKOVIČOVÁ,Platba/PLATBA,2
-2026-04-28,6800.0,Marián Porvažník,Platba/Prevod prostriedkov na TU PS na zaklade darovacej zmluvuy zo dna 16.04.2026,12
-2026-04-28,10.0,"Holéczy Igor, Mgr.",Platba,2
-2026-04-28,-18.27,,Transakčná daň 27.04.2026,
-2026-04-27,-4568.22,SEDEM - vasa kreativna s. r. o.,Platba/SEDEM - vasa kreativna s. r. o. - tlac noviny ke,12026012
-2026-04-27,500.0,"Bauer Miklošovičová Bibiana, MVDr.",Platba,3
-2026-04-25,-5.53,,Transakčná daň 24.04.2026,
-2026-04-24,-166.05,ARTON s.r.o.,Platba/arton tlac plagatov mudrak ke p4 26,260116
-2026-04-24,-1217.7,ARTON s.r.o.,Platba/Arton najom billboardov 04 26 mudrak ke,260115
-2026-04-24,-64.22,,Transakčná daň 23.04.2026,
-2026-04-24,2000.0,"Cicman Dalibor, Ing.",Platba,2
-2026-04-23,-500.0,"Litterra, n. o.",Platba/Literra prenajom diskusia revuca 9.4.2026,260100019
-2026-04-23,-856.92,"CONFIDENCE MEDIA SR, s.r.o.",Platba/confidence media hanulik pezinok prenajom +produkcia billboard 06 2026,2621060
-2026-04-23,-1076.25,"Petit Press, a.s.",Platba/petitpress inzercia bb javorcikova 04 26,2633100592
-2026-04-23,-20.0,Michal Valašik,Platba/valasik licencia na web javorcikova,20260042
-2026-04-23,-1463.7,ARIES reklama s.r.o.,Platba/Aries mudrak reklamne predmety,1020260040
-2026-04-23,-2078.7,"REGIONPRESS, s.r.o.",Platba/Regionpress KE+KSK reklama porvaznik mudrak 05 26,664260053
-2026-04-23,-442.8,ARTON s.r.o.,Platba/arton tlac plagatov billboardy 05 26 porvaznik ke,260159
-2026-04-23,-3247.2,ARTON s.r.o.,Platba/Arton najom billboardov 1.5-31.5.2026 porvaznik ke,260158
-2026-04-23,-227.03,"LemonCreative, s.r.o.","Platba/LemonCreative tlac nalepky, letaky ke",26010119
-2026-04-23,-1517.25,"LemonCreative, s.r.o.",Platba/LemonCreative noviny KE tlac,26010118
-2026-04-23,-260.0,Vladimir Ferdinandy,Platba/tlac letakov revuca,260078
-2026-04-23,-25.68,,Transakčná daň 22.04.2026,
-2026-04-23,-4365.27,Policy Insights s. r. o.,PLATBA VA26042300398/policy insights komunalna kampan,2026006
-2026-04-22,-3059.13,"UNIMEDIA, s.r.o.",Platba/unimedia reklamna kampan outdoor KV KE zupan 03 26,420260193
-2026-04-22,50000.0,Progresívne Slovensko,Platba/prevod medzi uctami,
-2026-04-22,-3360.61,"UNIMEDIA, s.r.o.",Platba/unimedia reklamna kampan outdoor KV KE zupan 04 26,420260300
-2026-04-22,25.0,Gašparovičová Andrea Nina,Platba/dar komunál,
-2026-04-21,40.0,Tomáš Varga,Platba,3
-2026-04-20,20.0,Daniela Nguyen Vanova,DE26042062054 RVDITR2604204906/VS - 3 (nsoci),
-2026-04-18,500.0,Štúrik Marián,Platba,9
-2026-04-18,10.0,Soboličová Lucia,Platba,3
-2026-04-18,-8.0,,Transakčná daň 17.04.2026,
-2026-04-17,-0.39,,Transakčná daň 16.04.2026,
-2026-04-17,-2000.0,Dalibor Cicman,Platba/vratenie daru podla 85/2005 Z.z.,
-2026-04-16,-41.56,,Transakčná daň 15.04.2026,
-2026-04-16,25.0,Petra Majernikova,Platba/Dar komunal,35
-2026-04-16,-97.54,grafon,Platba/grafon plagaty sufliarska,6260728
-2026-04-15,-7620.34,"UNIMEDIA, s.r.o.",Platba/unimedia outdoor reklamna kampan KV KE primator 04 26,420260306
-2026-04-15,-650.0,STONED MEDIA s.r.o.,Platba/stoned media inzercia led obrazovka 14.4-24.10.2026 pezinok hanulik,26040005
-2026-04-15,-345.0,ondreas,Platba/doplatenie dph ondreas navrh a spracovanie vizualnej identity sufliarska,20260007
-2026-04-15,-164.07,"Media Creative Production, spol. s r.o.","Platba/Media Creative Production tlac plagatov, letakov bb javorcikova",2612316
-2026-04-15,-109.27,ARIES reklama s.r.o.,Platba/aries prezentacny pult ke,1020260037
-2026-04-15,-1500.0,Mgr. Martina Bartekova,Platba/bartekova manazment kampane bb javorska 03 26,2026001
-2026-04-15,25.0,Stanislav Dubovsky,PLATBA/Dar,35
-2026-04-15,2000.0,"Cicman Dalibor, Ing.",Platba,2
-2026-04-14,-65.25,,Transakčná daň 13.04.2026,
-2026-04-14,100.0,Lubomir Susol,Platba/mudr. susol,3
-2026-04-13,50.0,Paulini Samuel,Platba,3
-2026-04-13,10.0,MILOSLAV OŽVALD,Platba/PLATBA,3
-2026-04-13,-2410.8,More Design s. r. o.,Platba/more design dizajnove sluzby komunalne volby,202612
-2026-04-13,-368.58,grafon,"Platba/grafon letaky, plagaty sufliarska",6260668
-2026-04-13,-3000.0,Andrea Nina Gašparovičová,Platba/Gasparovicova Manazment kampane Mudrak 03/2026,2026004
-2026-04-13,-1500.0,ondreas,Platba/ondreas navrh a spracovanie vizualnej identity sufliarska,20260007
-2026-04-13,-12.18,Websupport s. r. o.,"Platba/lepsistarosta.sk, ke domena",1026125655
-2026-04-13,-150.0,Samuel Snek,"Platba/snek, tb bb foto sluzby 31.3",1260017
-2026-04-13,-172.0,"LemonCreative, s.r.o.","Platba/LemonCreative 2026/03 polyam, montaz ke",26010077
-2026-04-13,-492.0,Cookies s. r. o.,Platba/Cookies s. r. o.: mini cookies ke,26040201
-2026-04-13,-184.5,Artforum Košice s.r.o.,Platba/artforum kosice diskusia prenajom priestorov 30.3.2026,1151806
-2026-04-13,-1000.0,krajci,Platba/Krajci manazovanie komunalnej a regionalnej kampane PS 03 26,2026033101
-2026-04-13,-372.16,"LFABRICA, s.r.o.",Platba/lfabrica zilina potlac textil stena,24080753
-2026-04-13,-403.7,"COLORgrafik, spol. s r.o.","Platba/colorgarfik tlacoviny letaky, vizitky, plagaty javorcikova 03 26",20260034
-2026-04-13,-384.95,Marila trade s.r.o.,Platba/marila trade zbezpecenie tb javorcikova banska bystrica 31.3.26,2026007
-2026-04-13,-2000.0,Lenka Bikárová,Platba/Bikarova produkcia eventov kampan ke Mudrak 03 26,20260004
-2026-04-13,-3862.2,CyberSoft s.r.o.,Platba/Cybersoft prenajom reklamnych ploch porvaznik 23ks 04 26,26032302
-2026-04-11,-22.33,,Transakčná daň 10.04.2026,
-2026-04-10,-2200.0,Martin Majdak,Platba/majdak reklamne sluzby mudrak 03 26,20260304
-2026-04-10,10.0,Iglarova Renata,PLATBA/DAR,04
 2026-04-10,-2976.6,ARTON s.r.o.,Platba/arton porvaznik najom billboardu 1.4-30.4.2026,260113
 2026-04-10,-405.9,ARTON s.r.o.,Platba/arton porvaznik tlac plagatov,260114
 2026-04-09,-5.2,,Transakčná daň 08.04.2026,

@@ -1,4 +1,22 @@
 date,amount,currency,account_name,message,vs
+2026-08-03,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 31.07.2026","VS: 497000213
+ŠS: 5032785547
+KS: 6898"
+2026-08-03,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 31.07.2026","VS: 497000213
+ŠS: 5032785547
+KS: 6898"
+2026-08-03,-39.69,EUR,,"Transakcia platobnou kartou, Suma: 39,69 EUR 31.07.2026 Miesto: KAUFLAND 2620, LV, KOME LEVICE","VS: 405000213
+ŠS: 5032785547
+KS: 0608"
+2026-08-03,-35.7,EUR,,"Transakcia platobnou kartou, Suma: 35,7 EUR 31.07.2026 Miesto: THE CAFFE Levice","VS: 405000213
+ŠS: 5032785547
+KS: 0608"
+2026-08-03,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.07.2026","VS: 497000212
+ŠS: 5032785547
+KS: 6898"
+2026-08-03,-23.05,EUR,,"Transakcia platobnou kartou, Suma: 23,05 EUR 30.07.2026 Miesto: KAUFLAND 2620, LV, KOME LEVICE","VS: 405000212
+ŠS: 5032785547
+KS: 0608"
 2026-08-01,1000.0,EUR,Alexandra Toth Dobrovolna,"Prijatá platba, Alexandra Toth Dobrovolna",
 2026-07-31,-10.0,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.07.2026 do 31.07.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 16 x prijaté platby: 0,00, 11 x debet - elektronicky: 0,00",
 2026-07-31,100.0,EUR,Michal Pacala,"Prijatá platba, Michal Pacala",
@@ -34,13 +52,3 @@ KS: 0608"
 2026-07-17,-70.0,EUR,,"Odoslaná platba elektronicky, Obcerstvenie akcia Tancovacka",
 2026-07-17,-500.0,EUR,,"Odoslaná platba elektronicky, Hudobna produkcia Tancovacka",
 2026-07-17,-492.0,EUR,,"Odoslaná platba elektronicky, IZA - GUKA s. r. o.: 2026035 - Mgr. Vladimir Kuny - 2026/06",VS: 2026035
-2026-07-16,30.0,EUR,Gazdík Tomáš,"Prijatá platba, ",
-2026-07-15,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 12.07.2026","VS: 497000195
-ŠS: 5032785547
-KS: 6898"
-2026-07-15,-5.48,EUR,,"Transakcia platobnou kartou, Suma: 5,48 EUR 12.07.2026 Miesto: MERKURY SHOP s.r.o. LEVICE","VS: 405000195
-ŠS: 5032785547
-KS: 0608"
-2026-07-15,1200.0,EUR,Liberálny dom s. r. o.,"Prijatá platba, Dar",
-2026-07-15,1000.0,EUR,Peter Polak,"Prijatá platba, ",
-2026-07-14,900.0,EUR,Adam Bajo,"Prijatá platba, Dar na kampan",

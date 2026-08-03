@@ -53,8 +53,6 @@ date,amount,account_name,message,vs,name
 2026-06-04,-250.0,Adzimová Fedorová Miroslava,Vrátenie chybnej platby,,Patrik Vaško
 2026-06-04,-250.0,Lavo Juraj,Vrátenie chybnej platby,,Patrik Vaško
 2026-06-04,-200.0,"SLOVENSKÁ POŠTA, A.S.",Vrátenie chybnej platby,,Patrik Vaško
-2026-04-15,25.0,Stanislav Dubovsky,PLATBA/Dar,35.0,Progresívne Slovensko
-2026-04-30,-25.0,Stanislav Dubovsky,Platba/vratenie daru stanislav dubovsky,,Progresívne Slovensko
 2026-07-13,2000.0,Andrea Janicka Rudnayova,Platba/kampan KSK,12.0,Progresívne Slovensko
 2026-07-21,-2000.0,Andrea Janicka Rudnayova,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
 2026-04-15,2000.0,"Cicman Dalibor, Ing.",dar,20263164.0,Team Bratislava
@@ -63,7 +61,7 @@ date,amount,account_name,message,vs,name
 2026-05-15,-1670.0,Lukáš Krajčík - Digital stories,Daniel Klimovsky - dizajn webstranky,2026023.0,Team Bratislava
 2026-06-03,500.0,"Šujan Juraj, Ing. arch.",dar,20263359.0,Team Bratislava
 2026-06-04,-500.0,"Šujan Juraj, Ing. arch.",Vrátený dar,,Team Bratislava
-2026-06-23,-50000.0,Folkmer Petra,Vrátená chybná platba,,Team Bratislava
 2026-06-23,50000.0,Folkmer Petra,Dar na zaklade zmluvy- Petra Folkmer,,Team Bratislava
+2026-06-23,-50000.0,Folkmer Petra,Vrátená chybná platba,,Team Bratislava
 2026-07-07,8000.0,"Čvapek Róbert, Ing.",Dar Čvapkovci,,Team Bratislava
 2026-07-13,-8000.0,"Čvapek Róbert, Ing.",Dakujeme za Vasu podporu a priazen. Po upozorneni na porusenie internych predpisov darovania sme sa rozhodli Vam dar vratit.,,Team Bratislava
