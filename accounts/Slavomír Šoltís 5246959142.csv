@@ -1,7 +1,0 @@
-index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Alza.cz a.s.,2026-07-23,-203.75,EUR,,SEPA platba (elektronicky),1050162882.0,
-1,,2026-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-2,Šoltís Pavol,2026-06-24,20.0,EUR,F001240620269894297,Prijatá SEPA platba,,
-3,,2026-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-4,NETKONTO s.r.o.,2026-05-27,-300.0,EUR,JUDr. Slavomir Soltis; ; 27.05.2026,Okamžitá platba (elektronicky),102026096.0,
-5,,2026-04-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,

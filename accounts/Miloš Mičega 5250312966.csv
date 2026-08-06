@@ -1,6 +1,0 @@
-index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Milos Poruban,2026-07-25,1500,EUR,Spojme sa?,Prijatá Okamžitá platba,,
-1,Bľachová Jana,2026-07-23,2300,EUR,Držím palce.,Prijatá SEPA platba,,
-2,Nadezda Kyselicova,2026-07-23,1300,EUR,2620490000317474,Prijatá Okamžitá platba,,
-3,Kyselica Rastislav,2026-07-23,1150,EUR,Spojme sa,Prijatá Okamžitá platba,,
-4,Mičega Miloš,2026-07-01,3000,EUR,Štart pre Spojme sa!,Prijatá SEPA platba,,

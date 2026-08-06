@@ -1,9 +1,0 @@
-index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2026-05-06,2026.0,Platba prevodom v rámci banky,"Drotován, Michal",,,,,
-1,2025-09-27,-87.08,Transakcia kartou,,"Nákup: WWW.WEBSUPPORT.SK COMF,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 26.9.2025, částka  87.08 EUR",,7162,,"Nákup: WWW.WEBSUPPORT.SK COMF,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 26.9.2025, částka  87.08 EUR"
-2,2025-05-10,-19.56,Transakcia kartou,,"Nákup: WWW.WEBSUPPORT.SK COMF,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 9.5.2025, částka  19.56 EUR",,7162,,"Nákup: WWW.WEBSUPPORT.SK COMF,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 9.5.2025, částka  19.56 EUR"
-3,2024-09-27,-70.56,Transakcia kartou,,"Nákup: WWW.WEBSUPPORT.SK COMF,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 26.9.2024, částka  70.56 EUR",,7162,,"Nákup: WWW.WEBSUPPORT.SK COMF,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 26.9.2024, částka  70.56 EUR"
-4,2024-05-11,-17.88,Transakcia kartou,,"Nákup: WWW.WEBSUPPORT.SK COMF,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 10.5.2024, částka  17.88 EUR",,7162,,"Nákup: WWW.WEBSUPPORT.SK COMF,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 10.5.2024, částka  17.88 EUR"
-5,2023-12-01,-110.0,Bezhotovostná platba,NOTPROVIDED,Vratenie platby,,,,Vratenie platby
-6,2023-09-28,-70.56,Transakcia kartou,,"Nákup: WWW.WEBSUPPORT.SK COMF,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 27.9.2023, částka  70.56 EUR",,7162,,"Nákup: WWW.WEBSUPPORT.SK COMF,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 27.9.2023, částka  70.56 EUR"
-7,2023-07-31,-50.0,Bezhotovostná platba,NOTPROVIDED,Prispevok na PC pre Ukrajinu,,,,
