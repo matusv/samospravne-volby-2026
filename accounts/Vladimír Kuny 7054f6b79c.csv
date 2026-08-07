@@ -1,4 +1,6 @@
 date,amount,currency,account_name,message,vs
+2026-08-06,-100.0,EUR,,"Odoslaná platba elektronicky, Fotograficke sluzby","VS: 152026
+KS: 308"
 2026-08-05,-1350.0,EUR,,"Odoslaná okamžitá platba, Platba faktury 2026038 polep auta kampan","VS: 2026038
 KS: 0308"
 2026-08-05,-615.0,EUR,,"Odoslaná okamžitá platba, Komunikacna podpora kampan","VS: 20260018
@@ -53,4 +55,3 @@ KS: 6898"
 KS: 0608"
 2026-07-17,-830.3,EUR,,"Odoslaná platba elektronicky, Obcerstvenie akcia Tancovacka",VS: 182026
 2026-07-17,-18.2,EUR,,"Odoslaná platba elektronicky, Vylep plagatov",
-2026-07-17,-70.0,EUR,,"Odoslaná platba elektronicky, Obcerstvenie akcia Tancovacka",
