@@ -1,4 +1,7 @@
 date,amount,currency,account_name,message,vs
+2026-08-07,1000.0,EUR,"Csendesová Lucia, Mgr.","Prijatá platba, ",
+2026-08-07,-1359.77,EUR,,"Odoslaná okamžitá platba, Tricka s potlacou - kampan","VS: 10260104
+KS: 008"
 2026-08-06,-100.0,EUR,,"Odoslaná platba elektronicky, Fotograficke sluzby","VS: 152026
 KS: 308"
 2026-08-05,-1350.0,EUR,,"Odoslaná okamžitá platba, Platba faktury 2026038 polep auta kampan","VS: 2026038
@@ -53,5 +56,3 @@ KS: 6898"
 2026-07-27,-610.0,EUR,,"Transakcia platobnou kartou, Suma: 610 EUR 23.07.2026 Miesto: ZAHRADKA LEVICE","VS: 405000205
 ŠS: 5032785547
 KS: 0608"
-2026-07-17,-830.3,EUR,,"Odoslaná platba elektronicky, Obcerstvenie akcia Tancovacka",VS: 182026
-2026-07-17,-18.2,EUR,,"Odoslaná platba elektronicky, Vylep plagatov",
