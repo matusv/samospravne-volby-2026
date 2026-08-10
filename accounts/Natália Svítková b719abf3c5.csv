@@ -1,4 +1,5 @@
 date,amount,currency,account_name,message,vs
+2026-08-08,500.0,EUR,Lucia Trnová,"Prijatá platba, ",
 2026-08-05,600.0,EUR,Ľubica Zubajová,"Prijatá platba, ",
 2026-08-02,950.0,EUR,Peter Kmet,"Prijatá platba, ",
 2026-07-31,-10.0,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.07.2026 do 31.07.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 1 x prijaté platby: 0,00, 4 x debet - elektronicky: 0,00",
@@ -27,6 +28,3 @@ KS: 6898"
 2026-06-07,5.0,EUR,Matus Vrazba,"Prijatá platba, Za modru zupu.",
 2026-06-05,20.0,EUR,KUNIK ROBERT,"Prijatá platba, /DO2026-06-05/SPdar",
 2026-05-31,-10.0,EUR,,"Za vedenie účtu, výpisy a transakcie, od 30.04.2026 do 31.05.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 7 x prijaté platby: 0,00, 3 x debet - elektronicky: 0,00",
-2026-05-29,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA CLASSIC DEB. CL Suma: 3 EUR 28.05.2026","VS: 495000148
-ŠS: 1139269320
-KS: 6898"
