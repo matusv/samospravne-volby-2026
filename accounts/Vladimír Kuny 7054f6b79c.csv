@@ -1,4 +1,10 @@
 date,amount,currency,account_name,message,vs
+2026-08-10,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 07.08.2026","VS: 497000220
+ŠS: 5032785547
+KS: 6898"
+2026-08-10,-29.99,EUR,,"Transakcia platobnou kartou, Suma: 29,99 EUR 07.08.2026 Miesto: GOOGLE *GOOGLE PLAY AP 8888888888","VS: 405000220
+ŠS: 5032785547
+KS: 0608"
 2026-08-07,1000.0,EUR,"Csendesová Lucia, Mgr.","Prijatá platba, ",
 2026-08-07,-1359.77,EUR,,"Odoslaná okamžitá platba, Tricka s potlacou - kampan","VS: 10260104
 KS: 008"
@@ -48,11 +54,5 @@ KS: 308"
 ŠS: 5032785547
 KS: 6898"
 2026-07-27,-21.22,EUR,,"Transakcia platobnou kartou, Suma: 21,22 EUR 24.07.2026 Miesto: Mailchimp 678-9990141","VS: 405000207
-ŠS: 5032785547
-KS: 0608"
-2026-07-27,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 23.07.2026","VS: 497000205
-ŠS: 5032785547
-KS: 6898"
-2026-07-27,-610.0,EUR,,"Transakcia platobnou kartou, Suma: 610 EUR 23.07.2026 Miesto: ZAHRADKA LEVICE","VS: 405000205
 ŠS: 5032785547
 KS: 0608"
