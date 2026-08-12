@@ -3,8 +3,8 @@ date,amount,account_name,message,vs,name
 2026-05-29,-180.0,Milan Korim,Vratenie financnych prostriedkov,,Branislav Baran
 2026-04-17,0.1,Reich Lukas,Vitaj v BA vychodniar,,Daniel Klimovský
 2026-04-28,-0.1,Reich Lukas,0260428152236.816371,,Daniel Klimovský
-2026-06-04,3200.0,VENA Agentur s. r. o.,PLATBA,20260001.0,Dunaj
 2026-06-04,-3200.0,VENA Agentur s. r. o.,Platba/Vyroba a osadenie reklamnych ploch,20260001.0,Dunaj
+2026-06-04,3200.0,VENA Agentur s. r. o.,PLATBA,20260001.0,Dunaj
 2026-05-25,0.02,PayPal Europe S.a.r.l. et Cie S.C.A,Return: Payment returned because you sent it to the wrong bank account. Log in to your PayPal account and choose 'Transfer Money' to retry,,Erik Radačovský
 2026-05-25,-0.02,PayPal Europe S.a.r.l. et Cie S.C.A,Vratenie platby - neidentifikovany darca,,Erik Radačovský
 2026-05-25,0.14,PayPal Europe S.a.r.l. et Cie S.C.A,Return: Payment returned because you sent it to the wrong bank account. Log in to your PayPal account and choose 'Transfer Money' to retry,,Erik Radačovský
