@@ -1,4 +1,5 @@
 date,amount,currency,account_name,message,vs
+2026-08-13,500.0,EUR,Eva Bielik Hajdamárová,"Prijatá platba, ",
 2026-08-10,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 07.08.2026","VS: 497000220
 ŠS: 5032785547
 KS: 6898"
@@ -53,6 +54,3 @@ KS: 308"
 2026-07-27,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.07.2026","VS: 497000207
 ŠS: 5032785547
 KS: 6898"
-2026-07-27,-21.22,EUR,,"Transakcia platobnou kartou, Suma: 21,22 EUR 24.07.2026 Miesto: Mailchimp 678-9990141","VS: 405000207
-ŠS: 5032785547
-KS: 0608"

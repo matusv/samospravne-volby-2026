@@ -1,4 +1,7 @@
 date,amount,currency,account_name,message,vs
+2026-08-14,500.0,EUR,Tomáš Jalovecký,"Prijatá platba, Prispevok na kampan",
+2026-08-13,-1000.0,EUR,,"Odoslaná okamžitá platba, Zaloha na prenajom priestorov","VS: 24260087
+KS: 0308"
 2026-08-12,-738.0,EUR,,"Odoslaná okamžitá platba, Bilboardy august",VS: 202608147
 2026-07-31,-2.6,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.07.2026 do 31.07.2026, Za vedenie účtu/balíka služieb a výpisy: 2,00, Za transakcie: 0,60 , z toho:, 3 x debet - elektronicky: 0,60",
 2026-07-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 30.07.2026","VS: 495000211
@@ -34,5 +37,3 @@ KS: 6898"
 2026-06-24,50.0,EUR,"Galátová Zuzana, Mgr.","Prijatá platba, prispevok na kampan Sobota 2026",
 2026-06-24,5.0,EUR,JURAJ BENČÍK,"Prijatá platba, prispevok na kampan Sobota 2026",
 2026-06-24,15.0,EUR,Salomon Volko,"Prijatá platba, prispevok na kampan Sobota 2026",
-2026-06-23,200.0,EUR,Igor Pribelsky,"Prijatá platba, vivat sobota",
-2026-06-22,5.0,EUR,Bérešová Klára,"Prijatá platba, ",
