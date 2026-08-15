@@ -1,4 +1,5 @@
 date,amount,currency,account_name,message,vs
+2026-08-14,-2.47,EUR,,"Transakčná daň z prevodov, ",KS: 0558
 2026-08-07,-2790.87,EUR,,"Odoslaná okamžitá platba, Prenajom billboardov, tlac plakatov",VS: 268003
 2026-08-07,2800.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 082026
 2026-08-05,-20049.0,EUR,,"Odoslaná okamžitá platba, Zaloha na kampan VUC",VS: 30260005
@@ -35,4 +36,3 @@ KS: 6898"
 KS: 6898"
 2026-05-27,-6715.8,EUR,,"Odoslaná okamžitá platba, Zaloha na kampan VUC",VS: 30260003
 2026-05-27,6730.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 052026
-2026-05-14,-0.03,EUR,,"Transakčná daň z prevodov, ",KS: 0558

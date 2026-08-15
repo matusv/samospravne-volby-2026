@@ -1,4 +1,5 @@
 date,amount,account_name,message,vs
+2026-08-14,-100.0,ARKONS,Reklamne sluzby na zaklade Zmluvy o reklame zo dna 13.8.2026,20260001
 2026-07-31,-6.0,,Vedenie konta Transparentný účet,9
 2026-07-01,-90.0,LH Production s.r.o.,,26010
 2026-06-30,-6.0,,Vedenie konta Transparentný účet,9
@@ -9,3 +10,8 @@ date,amount,account_name,message,vs
 2026-06-12,30.0,Iveta Sajanová,Dar,
 2026-06-12,10.0,Eva Banarova,,
 2026-06-12,10.0,Stefan Hlavaty,,
+2026-05-29,5.0,,Storno-popl.za platby a ved.úč/kon,9
+2026-05-29,-5.0,,Vedenie účtu,9
+2026-05-26,50.0,Roman Porubsky,Prispevok na podporu VK 2026,
+2026-05-18,20.0,ROMAN HURTON,/DO2026-05-15/SPPLATBA,
+2026-05-11,400.0,Ivan Daniel,SEPA Okamžitá platba,

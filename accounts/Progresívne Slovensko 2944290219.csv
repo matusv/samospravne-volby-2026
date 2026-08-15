@@ -1,4 +1,5 @@
 date,amount,account_name,message,vs
+2026-08-13,250.0,Mgr.Rastislav Jilek,Platba/volby KSK kampan Jilek,12
 2026-08-12,12.0,Jana Tolicova,Platba/Tolicova,1
 2026-08-12,50.0,Milan Kocka,Platba,9
 2026-08-12,-25.0,,SPRAC.POPLATOK VA26081204053,
@@ -587,3 +588,120 @@ date,amount,account_name,message,vs
 2026-04-13,-172.0,"LemonCreative, s.r.o.","Platba/LemonCreative 2026/03 polyam, montaz ke",26010077
 2026-04-13,-492.0,Cookies s. r. o.,Platba/Cookies s. r. o.: mini cookies ke,26040201
 2026-04-13,-184.5,Artforum Košice s.r.o.,Platba/artforum kosice diskusia prenajom priestorov 30.3.2026,1151806
+2026-04-13,-1000.0,krajci,Platba/Krajci manazovanie komunalnej a regionalnej kampane PS 03 26,2026033101
+2026-04-13,-372.16,"LFABRICA, s.r.o.",Platba/lfabrica zilina potlac textil stena,24080753
+2026-04-13,-403.7,"COLORgrafik, spol. s r.o.","Platba/colorgarfik tlacoviny letaky, vizitky, plagaty javorcikova 03 26",20260034
+2026-04-13,-384.95,Marila trade s.r.o.,Platba/marila trade zbezpecenie tb javorcikova banska bystrica 31.3.26,2026007
+2026-04-13,-2000.0,Lenka Bikárová,Platba/Bikarova produkcia eventov kampan ke Mudrak 03 26,20260004
+2026-04-13,-3862.2,CyberSoft s.r.o.,Platba/Cybersoft prenajom reklamnych ploch porvaznik 23ks 04 26,26032302
+2026-04-11,-22.33,,Transakčná daň 10.04.2026,
+2026-04-10,-2200.0,Martin Majdak,Platba/majdak reklamne sluzby mudrak 03 26,20260304
+2026-04-10,10.0,Iglarova Renata,PLATBA/DAR,04
+2026-04-10,-2976.6,ARTON s.r.o.,Platba/arton porvaznik najom billboardu 1.4-30.4.2026,260113
+2026-04-10,-405.9,ARTON s.r.o.,Platba/arton porvaznik tlac plagatov,260114
+2026-04-09,-5.2,,Transakčná daň 08.04.2026,
+2026-04-09,500.0,Martina Medvecova,Platba/pre lepsi Mikulas,04
+2026-04-09,5.0,"Ďurecová Ivana, Ing. arch., arch.",Platba,4
+2026-04-09,25.0,Iveta Jászberényiová,Platba/dar,35
+2026-04-08,-1300.0,Tomas Krjak,Platba/krjak organizacia kampane benesova,20260001
+2026-04-07,25.0,Dalibor Žigo,Platba/Dar,35
+2026-04-07,60.0,RASTISLAV LETNICKY,Platba,03
+2026-04-07,25.0,Dalida Kondacova,Platba,35
+2026-04-07,500.0,Dusan Vigas,Platba,01
+2026-04-04,25.0,"Kováčová Monika, JUDr.",Platba/Dar,35
+2026-04-04,25.0,"Krištúfek Michal, JUDr.",Platba/Dar Kristufkova,35
+2026-04-02,25.0,Marian Brlaz,"Platba/dar, Marian Brlaz",35
+2026-04-02,25.0,Jakub Goda,Platba/Dar,35
+2026-04-02,25.0,Bízek Boris,Platba/dar,35
+2026-04-01,-0.04,,Transakčná daň 31.03.2026,
+2026-03-31,-10.8,,Poplatky za transakcie,
+2026-03-31,-0.0,,Poplatok za balík,
+2026-03-31,5.0,Kristina Gajdosova,Platba,04
+2026-03-31,-0.29,,Transakčná daň 30.03.2026,
+2026-03-30,-73.3,Marian Kmeťo,Platba/green garden pezinok hanulik obcerstvenie 26.3,260001
+2026-03-30,300.0,GALA LADISLAV,Platba/15,15
+2026-03-28,-44.44,,Transakčná daň 27.03.2026,
+2026-03-27,-130.0,STONED MEDIA s.r.o.,"Platba/stoned media, pezinok inzercia led obrazovka 6.3-5.4.2026",26030007
+2026-03-27,-307.5,MULTIPRINT s.r.o.,Platba/multiprint tlacoviny letaky a plagaty mudrak,20260082
+2026-03-27,-12.92,MULTIPRINT S.R.O.,Platba/multiprint tlacoviny mudrak letak,20260074
+2026-03-27,-126.69,Nckr s. r. o.,Platba/nckr prenajom priestorov+catering pezinok hanulik,2026001
+2026-03-27,-224.0,Bc. Patrik Kuchta,Platba/kuchta pocitacove sluzby 02 26 mudrak ke,202601021
+2026-03-27,-51.66,"LemonCreative, s.r.o.","Platba/LemonCreative tabule na bicykel , doska, folia mudrak ke",26010037
+2026-03-27,-811.8,ARTON s.r.o.,Platba/arton najom billboard mudrak ke 1.3-31.3.2026,260074
+2026-03-27,-688.8,"Pandan, s. r. o.",Platba/pandan recnicke pukty pre komunalnu kampan,202603041
+2026-03-27,-5229.59,"UNIMEDIA, s.r.o.",Platba/unimedia outdoor reklamna kampan KV KE primator 03 26,420260200
+2026-03-27,-1076.25,GBS s.r.o.,Platba/gbs marketingove sluzby 02 26 r.valo,260100023
+2026-03-27,-1800.0,Mgr. Michaela Gromová,Platba/gromova manazovanie kampane PK hanulik 02 26,20260003
+2026-03-27,50000.0,Progresívne Slovensko,Platba/prevod medzi uctami,
+2026-03-27,-644.41,"LFABRICA, s.r.o.","Platba/sufliarska lfabrica promo stolik, vlajka",24080742
+2026-03-21,100.0,Erik Michalides,Platba,3
+2026-03-19,50.0,Lubomir Janecka,"Platba/Prispevok na kampan, Janecka",3
+2026-03-18,50.0,Elena Kralikova,Platba,3
+2026-03-18,-2.32,,Transakčná daň 17.03.2026,
+2026-03-17,-579.33,ARIES reklama s.r.o.,Platba/Aries merch pera porvaznik,1020260026
+2026-03-17,50.0,Konečný Bohuš,Platba/Dar pre Juraja,3
+2026-03-16,20.0,Edita Jakubacova,Platba,3
+2026-03-14,-19.9,,Transakčná daň 13.03.2026,
+2026-03-13,-750.0,Michal Valašik,Platba/valasik tvorba webu dianajavorcikova.sk,20260006
+2026-03-13,-39.36,MULTIPRINT s.r.o.,Platba/multiprint tlacoviny mudrak,20260067
+2026-03-13,-12.3,MULTIPRINT s.r.o.,"Platba/multiprint tlac letak plagat, mudrak",20260064
+2026-03-13,-263.0,Skofficz s. r. o.,"Platba/fotenie, vizas kandidata Javorcikova",261001
+2026-03-13,-250.0,Bagin Ľubomír,Platba/Bagin moderovanie podujatia town hall Pezinok,2026346
+2026-03-13,-3000.0,Andrea Nina Gašparovičová,Platba/gasparovicova manazment kampan ke mudrak 02 26,2026003
+2026-03-13,-660.02,"LemonCreative, s.r.o.","Platba/LemonCreative rollup, letak, polep holeczy",26010035
+2026-03-12,-16.0,,Transakčná daň 11.03.2026,
+2026-03-11,-2000.0,Čifári Zuzana,VÝBER V HOTOVOSTI/vklad do pokladne,
+2026-03-11,-14.66,,Transakčná daň 10.03.2026,
+2026-03-10,-3665.4,"AKO, s.r.o.",Platba/AKO prieskum verejnej mienky VUC Kosice 20.2-26.2.2026,102026
+2026-03-05,-7.2,,Transakčná daň 04.03.2026,
+2026-03-04,-1200.0,Martin Majdak,Platba/majdak reklamne sluzby mudrak 02 26,20260303
+2026-03-04,-600.0,Martin Majdak,Platba/majdak reklamne sluzby mudrak 01 26,20260203
+2026-03-04,-12.16,,Transakčná daň 03.03.2026,
+2026-03-03,-27.95,,Transakčná daň 02.03.2026,
+2026-03-03,500.0,"Prostredník Ondrej, Mgr., PhD.",Platba,3
+2026-03-03,-40.59,MULTIPRINT s.r.o.,"Platba/multiprint mudrak tlac letakov, menovky",20260056
+2026-03-03,-1000.0,"MVLVMK, s.r.o.",Platba/marketingove sluzby 02 26,282220261
+2026-03-03,-2000.0,Lenka Bikárová,"Platba/bikarova, produkcia eventov ke mudrak 02 26",20260002
+2026-03-02,-417.5,Mesto Pezinok,Platba/mesto pezinok prenajom DK 1.3 town hall hanulik,20260103
+2026-03-02,-3142.5,Mgr. Michaela Rýdza,Platba/ridza pezinok marketingove sluzby 01 26,202602001
+2026-03-02,-1000.0,"MVLVMK, s.r.o.",Platba/marketingove sluzby 01 26,311220261
+2026-03-02,-916.35,"Pandan, s. r. o.",Platba/pandan tlacoviny judita ilasova,202602095
+2026-03-02,-1511.06,"Petit Press, a.s.","Platba/petittpress, inzercia sme.sk ke mudrak 03 26",262210046
+2026-03-02,-0.02,,Transakčná daň 28.02.2026,
+2026-02-28,-0.02,,Úroky,
+2026-02-28,-1.44,,Poplatky za transakcie,
+2026-02-28,-0.0,,Poplatok za balík,
+2026-02-26,990.0,"Sukupčák Martin, Ing.",Platba,04
+2026-02-26,-5.77,,Transakčná daň 25.02.2026,
+2026-02-25,-1.16,,Transakčná daň 24.02.2026,
+2026-02-25,-1000.0,Martin Sukupčák,Platba/vratenie daru podla 85/2005 Z.z.,
+2026-02-25,-442.8,"BUY NOW studio, s. r. o.","Platba/Graficke prace ku komunalnej kampani kandidata R. Valo, RS.",2026001
+2026-02-24,-290.0,STONED MEDIA s.r.o.,"Platba/stoned media, pezinok inzercia led obrazovka 23.2-1.3.2026, fotosluzby",26020003
+2026-02-24,-10.41,,Transakčná daň 23.02.2026,
+2026-02-23,-2000.0,Mgr. Ján Olexa,Platba/olexa poradenske a konzultacne sluzby 01 26 bb kraj,2026001
+2026-02-23,-602.7,More Design s. r. o.,Platba/more design dizajnove konzultacie rimavska sobota,202603
+2026-02-20,-10.23,,Transakčná daň 19.02.2026,
+2026-02-19,-644.52,"ISPA, spol. s r.o.","Platba/ispa reklamny priestor billboardy Revuca 06, 07,09 26",26950056
+2026-02-19,-1912.5,Mgr. Michaela Gromová,Platba/gromova manazovanie kampane PK hanulik 01 26,20260001
+2026-02-19,-72.32,,Transakčná daň 18.02.2026,
+2026-02-18,-676.5,More Design s. r. o.,Platba/More Design web dizajn komunalny kandidati,202606
+2026-02-18,-830.25,"Pandan, s. r. o.","Platba/pandan, rs kampan valo beachflag, rollup, recnicky pult",202601040
+2026-02-18,-1000.0,Lenka Bikarova,"Platba/bikarova, produkcia eventov ke mudrak 01 26",20260001
+2026-02-18,-7189.84,"UNIMEDIA, s.r.o.",Platba/unimedia outdoor reklamna kampan KV KE primator 02 26,420260102
+2026-02-18,-3000.0,Andrea Nina Gasparovicova,Platba/gasparovicova manazment kampan ke mudrak 01 26,2026002
+2026-02-18,-90.0,Divadlo NA PERONE,Platba/divadlo na perone ke workshop 02 26,282026
+2026-02-18,-338.25,More Design s. r. o.,"Platba/more design, billboard dizajn 01 26 ke mudrak",202604
+2026-02-18,-1455.09,"Petit Press, a.s.","Platba/petittpress, inzercia sme.sk ke mudrak 02/26",262210039
+2026-02-18,-600.0,LoraVeber s. r. o.,"Platba/loraveber, ke kameraman sluzby 01 26",022026
+2026-02-18,-45.0,Divadlo NA PERONE,Platba/divadlo na perone ke workshop,272026
+2026-02-18,-2327.16,"ISPA, spol. s r.o.",Platba/ispa reklamny priestor billboardy Banska bystrica 1.9-31.10.2026,26950063
+2026-02-18,-285.36,ABYSS s.r.o.,"Platba/abyss sro, vesty dobrovolnici mudrak",32602006
+2026-02-18,-242.0,polep.sk s.r.o.,"Platba/polep.sk letaky tlac, valo",20260104
+2026-02-18,-3.69,,Transakčná daň 17.02.2026,
+2026-02-18,1000.0,"Sukupčák Martin, Ing.",Platba,04
+2026-02-17,-110.7,ARTON s.r.o.,Platba/arton tlac plagatov ke mudrak 02 26,260021
+2026-02-17,-811.8,ARTON s.r.o.,Platba/arton najom billboard 1.2-28.2.26 mudrak ke,260020
+2026-02-12,-8.5,,Transakčná daň 11.02.2026,
+2026-02-11,-2124.21,"CONFIDENCE MEDIA SR, s.r.o.",Platba/confidence media hanulik pezinok prenajom +produkcia billboard 09-10 2026,2621017
+2026-02-09,50000.0,Progresívne Slovensko,Platba/prevod medzi uctami,
+2026-02-06,-10.0,DORUČENIE KARTY - POBOČKA,DORUČENIE KARTY - POBOČKA DORUČENIE KARTY - POBOČKA,
