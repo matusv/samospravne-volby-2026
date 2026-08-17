@@ -1,4 +1,11 @@
 date,amount,currency,account_name,message,vs
+2026-08-17,1000.0,EUR,Alexandra Hulvejová,"Prijatá platba, Dar",
+2026-08-17,500.0,EUR,Libuše Šajbenová,"Prijatá platba, Dar",
+2026-08-17,-492.0,EUR,,"Odoslaná platba elektronicky, Bolboard kampan zaloha","VS: 2670273
+KS: 308"
+2026-08-17,-58.5,EUR,,"Odoslaná okamžitá platba, Vylep plagatov","VS: 202600085
+KS: 308"
+2026-08-17,1000.0,EUR,Marcel Masiar,"Prijatá platba, Vratme zivot do Levic - dar kampan",
 2026-08-14,500.0,EUR,Libuše Šajbenová,"Prijatá platba, Dar",
 2026-08-14,-485.85,EUR,,"Odoslaná okamžitá platba, Reklamne predmety","VS: 10260111
 KS: 308"
@@ -41,13 +48,3 @@ KS: 0608"
 2026-08-01,1000.0,EUR,Alexandra Toth Dobrovolna,"Prijatá platba, Alexandra Toth Dobrovolna",
 2026-07-31,-10.0,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.07.2026 do 31.07.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 16 x prijaté platby: 0,00, 11 x debet - elektronicky: 0,00",
 2026-07-31,100.0,EUR,Michal Pacala,"Prijatá platba, Michal Pacala",
-2026-07-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 30.07.2026","VS: 495000211
-ŠS: 5032785547
-KS: 6898"
-2026-07-31,1000.0,EUR,Juraj Braun,"Prijatá platba, Juraj Braun",
-2026-07-31,-324.0,EUR,,"Odoslaná platba elektronicky, Dan uzivanie verejneho priestranstva","VS: 133012217
-KS: 308"
-2026-07-31,-1340.0,EUR,,"Odoslaná platba elektronicky, Photo Services s. r. o.: 2026014 - Mgr. Vladimir Kuny - 2026/07",VS: 2026014
-2026-07-30,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 28.07.2026","VS: 497000210
-ŠS: 5032785547
-KS: 6898"

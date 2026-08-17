@@ -1,4 +1,6 @@
 date,amount,currency,account_name,message,vs
+2026-08-17,-868.38,EUR,,"Odoslaná okamžitá platba, ISPA - billboardy",VS: 202503593
+2026-08-17,-1476.0,EUR,,"Odoslaná okamžitá platba, euroAWK billboardy",VS: 2670282
 2026-08-10,100.0,EUR,Michal Varga,"Prijatá platba, Dar",
 2026-07-31,-10.0,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.07.2026 do 31.07.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 8 x prijaté platby: 0,00, 3 x debet - elektronicky: 0,00",
 2026-07-30,100.0,EUR,Renata KOCSISOVA,"Prijatá platba, ",VS: 30072026
@@ -25,5 +27,3 @@ KS: 0308"
 2026-06-30,10.0,EUR,Mihaľ Daniel,"Prijatá platba, Darcek Janko",
 2026-06-30,-221.4,EUR,,"Odoslaná okamžitá platba, Reklamna plocha","VS: 25162
 KS: 0308"
-2026-06-29,1000.0,EUR,Josef Alsharabi,"Prijatá platba, drzim palce",
-2026-06-27,2000.0,EUR,Branislav Gigac,"Prijatá platba, Dar",
