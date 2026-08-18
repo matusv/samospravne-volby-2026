@@ -1,4 +1,8 @@
 date,amount,currency,account_name,message,vs
+2026-08-18,500.0,EUR,Martin Luchava,"Prijatá platba, Dar pre Lepsiu Prievidzu",
+2026-08-17,200.0,EUR,Lea Daniela Matušková,"Prijatá platba, ",
+2026-08-17,600.0,EUR,Adam Simonovic,"Prijatá platba, Za lepsiu Prievidzu :)",
+2026-08-17,600.0,EUR,Gigacová Daniela,"Prijatá platba, Fandime najviac :)",
 2026-08-17,-868.38,EUR,,"Odoslaná okamžitá platba, ISPA - billboardy",VS: 202503593
 2026-08-17,-1476.0,EUR,,"Odoslaná okamžitá platba, euroAWK billboardy",VS: 2670282
 2026-08-10,100.0,EUR,Michal Varga,"Prijatá platba, Dar",
@@ -22,8 +26,3 @@ KS: 0308"
 2026-06-30,-10.0,EUR,,"Odoslaná okamžitá platba, Omyl - vratenie platby",
 2026-06-30,-10.0,EUR,,"Odoslaná okamžitá platba, Omyl - vratenie platby",
 2026-06-30,10.0,EUR,Denisa Orosova,"Prijatá platba, Darcek Janko",
-2026-06-30,10.0,EUR,Alzbeta Hudakova,"Prijatá platba, Darcek Janko",
-2026-06-30,10.0,EUR,Abdulwahab Al-Sbenaty,"Prijatá platba, Darcek Janko",
-2026-06-30,10.0,EUR,Mihaľ Daniel,"Prijatá platba, Darcek Janko",
-2026-06-30,-221.4,EUR,,"Odoslaná okamžitá platba, Reklamna plocha","VS: 25162
-KS: 0308"
