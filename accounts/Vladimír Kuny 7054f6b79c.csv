@@ -1,4 +1,5 @@
 date,amount,currency,account_name,message,vs
+2026-08-18,50.0,EUR,Kóša Ladislav,"Prijatá platba, Finančný dar na podporu kandidatúry na primátora v LV",
 2026-08-18,1000.0,EUR,Tomas Flidr,"Prijatá platba, Dar",
 2026-08-17,1000.0,EUR,Alexandra Hulvejová,"Prijatá platba, Dar",
 2026-08-17,500.0,EUR,Libuše Šajbenová,"Prijatá platba, Dar",
@@ -47,4 +48,3 @@ KS: 6898"
 ŠS: 5032785547
 KS: 0608"
 2026-08-01,1000.0,EUR,Alexandra Toth Dobrovolna,"Prijatá platba, Alexandra Toth Dobrovolna",
-2026-07-31,-10.0,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.07.2026 do 31.07.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 16 x prijaté platby: 0,00, 11 x debet - elektronicky: 0,00",
