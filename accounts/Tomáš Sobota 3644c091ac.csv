@@ -1,4 +1,5 @@
 date,amount,currency,account_name,message,vs
+2026-08-21,5000.0,EUR,SOBOTA TOMAS,"Prijatá platba, /DO2026-08-21/SPprevod na kampan",
 2026-08-18,-204.92,EUR,,"Odoslaná platba elektronicky, Inzercia MY extra BB",VS: 2633101214
 2026-08-14,500.0,EUR,Tomáš Jalovecký,"Prijatá platba, Prispevok na kampan",
 2026-08-13,-1000.0,EUR,,"Odoslaná okamžitá platba, Zaloha na prenajom priestorov","VS: 24260087
@@ -36,4 +37,3 @@ KS: 6898"
 2026-06-24,50.0,EUR,LUKAJ RADOSLAV,"Prijatá platba, /DO2026-06-24/SPprispevok na kampan Sobota 2026",
 2026-06-24,20.0,EUR,SILVIA SULEKOVA KOLLARIKOVA,"Prijatá platba, ",
 2026-06-24,50.0,EUR,"Galátová Zuzana, Mgr.","Prijatá platba, prispevok na kampan Sobota 2026",
-2026-06-24,5.0,EUR,JURAJ BENČÍK,"Prijatá platba, prispevok na kampan Sobota 2026",

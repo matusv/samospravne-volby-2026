@@ -1,4 +1,6 @@
 date,amount,currency,account_name,message,vs
+2026-08-20,-1279.2,EUR,,"Odoslaná okamžitá platba, ",VS: 2670247
+2026-08-20,1250.0,EUR,KYSEL STEFAN,"Prijatá platba, /DO2026-08-20/SP",
 2026-07-31,-10.0,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.07.2026 do 31.07.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 3 x prijaté platby: 0,00, 2 x debet - elektronicky: 0,00",
 2026-07-25,-461.25,EUR,,"Odoslaná okamžitá platba, Ing. Stefan Kysel Pazicka - najom (75 tlac) 24.07.2026",VS: 260295
 2026-07-25,200.0,EUR,KYSEL STEFAN,"Prijatá platba, /DO2026-07-25/SP",

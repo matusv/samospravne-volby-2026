@@ -1,4 +1,16 @@
 date,amount,currency,account_name,message,vs
+2026-08-20,1000.0,EUR,Mgr.Rastislav Stevko,"Prijatá platba, ",
+2026-08-20,1000.0,EUR,PETRA ŠTEVKOVÁ,"Prijatá platba, PRISPEVOK NA KAMPAN",
+2026-08-20,-185.0,EUR,,"Odoslaná platba elektronicky, Platba faktury 2601097 kampan 2026","VS: 2601097
+KS: 0308"
+2026-08-20,200.0,EUR,Libuše Šajbenová,"Prijatá platba, Dar",
+2026-08-19,1000.0,EUR,Vrecnik Peter,"Prijatá platba, Dar",
+2026-08-19,-77.68,EUR,,"Transakcia platobnou kartou, Suma: 77,68 EUR 17.08.2026 Miesto: MIRA OFFICE LEVICE","VS: 405000230
+ŠS: 5032785547
+KS: 0608"
+2026-08-19,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 17.08.2026","VS: 497000230
+ŠS: 5032785547
+KS: 6898"
 2026-08-18,50.0,EUR,Kóša Ladislav,"Prijatá platba, Finančný dar na podporu kandidatúry na primátora v LV",
 2026-08-18,1000.0,EUR,Tomas Flidr,"Prijatá platba, Dar",
 2026-08-17,1000.0,EUR,Alexandra Hulvejová,"Prijatá platba, Dar",
@@ -29,22 +41,3 @@ KS: 308"
 KS: 0308"
 2026-08-05,-615.0,EUR,,"Odoslaná okamžitá platba, Komunikacna podpora kampan","VS: 20260018
 KS: 0308"
-2026-08-03,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 31.07.2026","VS: 497000213
-ŠS: 5032785547
-KS: 6898"
-2026-08-03,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 31.07.2026","VS: 497000213
-ŠS: 5032785547
-KS: 6898"
-2026-08-03,-39.69,EUR,,"Transakcia platobnou kartou, Suma: 39,69 EUR 31.07.2026 Miesto: KAUFLAND 2620, LV, KOME LEVICE","VS: 405000213
-ŠS: 5032785547
-KS: 0608"
-2026-08-03,-35.7,EUR,,"Transakcia platobnou kartou, Suma: 35,7 EUR 31.07.2026 Miesto: THE CAFFE Levice","VS: 405000213
-ŠS: 5032785547
-KS: 0608"
-2026-08-03,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.07.2026","VS: 497000212
-ŠS: 5032785547
-KS: 6898"
-2026-08-03,-23.05,EUR,,"Transakcia platobnou kartou, Suma: 23,05 EUR 30.07.2026 Miesto: KAUFLAND 2620, LV, KOME LEVICE","VS: 405000212
-ŠS: 5032785547
-KS: 0608"
-2026-08-01,1000.0,EUR,Alexandra Toth Dobrovolna,"Prijatá platba, Alexandra Toth Dobrovolna",
