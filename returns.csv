@@ -1,4 +1,6 @@
 date,amount,account_name,message,vs,name
+2026-05-27,180.0,Milan Korim,,,Branislav Baran
+2026-05-29,-180.0,Milan Korim,Vratenie financnych prostriedkov,,Branislav Baran
 2026-04-17,0.1,Reich Lukas,Vitaj v BA vychodniar,,Daniel Klimovský
 2026-04-28,-0.1,Reich Lukas,0260428152236.816371,,Daniel Klimovský
 2026-06-04,3200.0,VENA Agentur s. r. o.,PLATBA,20260001.0,Dunaj
@@ -37,8 +39,6 @@ date,amount,account_name,message,vs,name
 2026-05-26,-272.0,SNOPKOVA EMILIA,Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-26,-256.0,Novák Ján,Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-26,-225.0,Ondrejka Matúš,Vrátenie chybnej platby,,Ladislav Lörinc
-2026-05-20,300.0,Kristina Simonova,,,Ladislav Smatana
-2026-05-27,-300.0,KRISTINA SIMONOVA,VRATENIE PLATBY,,Ladislav Smatana
 2026-03-18,0.55,Echko Mário,F001180320266377492,,Lucia Búšová
 2026-03-23,0.01,Echko Mário,dakujem za kandidaturu a prosim o odpovede na moje otazky dakujem,,Lucia Búšová
 2026-03-24,-0.55,Echko Mário,"Vrátenie platby - Echko Mário, 18.03.2026",,Lucia Búšová
@@ -51,10 +51,8 @@ date,amount,account_name,message,vs,name
 2026-06-04,-250.0,Adzimová Fedorová Miroslava,Vrátenie chybnej platby,,Patrik Vaško
 2026-06-04,-250.0,Lavo Juraj,Vrátenie chybnej platby,,Patrik Vaško
 2026-06-04,-200.0,"SLOVENSKÁ POŠTA, A.S.",Vrátenie chybnej platby,,Patrik Vaško
-2026-04-15,25.0,Stanislav Dubovsky,PLATBA/Dar,35,Progresívne Slovensko
+2026-04-15,25.0,Stanislav Dubovsky,PLATBA/Dar,35.0,Progresívne Slovensko
 2026-04-30,-25.0,Stanislav Dubovsky,Platba/vratenie daru stanislav dubovsky,,Progresívne Slovensko
-2026-07-13,2000.0,Andrea Janicka Rudnayova,Platba/kampan KSK,12,Progresívne Slovensko
-2026-07-21,-2000.0,Andrea Janicka Rudnayova,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
 2026-04-15,2000.0,"Cicman Dalibor, Ing.",dar,20263164.0,Team Bratislava
 2026-04-20,-2000.0,"Cicman Dalibor, Ing.",Vrateny dar,,Team Bratislava
 2026-05-14,1670.0,Lukáš Krajčík - Digital stories,Vratenie platby,,Team Bratislava
