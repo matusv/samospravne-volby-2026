@@ -1,4 +1,7 @@
 date,amount,currency,account_name,message,vs
+2026-08-22,-616.23,EUR,,"Odoslaná okamžitá platba, NUBIUM, s.r.o. billboardy",VS: 16120102
+2026-08-22,-821.64,EUR,,"Odoslaná okamžitá platba, NUBIUM, s.r.o. billboardy",VS: 16220021
+2026-08-21,1000.0,EUR,Ján Gigac,"Prijatá platba, Na kampan",
 2026-08-19,20.0,EUR,Gabriela Vlcikova,"Prijatá platba, ",
 2026-08-19,100.0,EUR,KMET LUBOS,"Prijatá platba, /DO2026-08-19/SPLubos Kmet na podporu kampane",
 2026-08-18,500.0,EUR,Martin Luchava,"Prijatá platba, Dar pre Lepsiu Prievidzu",
@@ -23,6 +26,3 @@ KS: 0308"
 2026-07-04,-400.0,EUR,,"Odoslaná okamžitá platba, Mgr. Viliam Drab: FA2026009 - Mgr.Branislav Gigac - 2026/06 - VIDEO",VS: 2026009
 2026-06-30,-73.8,EUR,,"Odoslaná okamžitá platba, Vyroba propagacneho produktu","VS: 260300212
 KS: 0308"
-2026-06-30,-10.0,EUR,,"Odoslaná okamžitá platba, Omyl - vratenie platby",
-2026-06-30,-10.0,EUR,,"Odoslaná okamžitá platba, Omyl - vratenie platby",
-2026-06-30,-10.0,EUR,,"Odoslaná okamžitá platba, Omyl - vratenie platby",

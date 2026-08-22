@@ -1,4 +1,8 @@
 date,amount,account_name,message,vs
+2026-08-22,-2.0,,S1110481498-30Karta č. 4544 17** **** 9209Ročná daň za platobnú kartu,
+2026-08-22,-0.01,,"/VS/SS/KS0898 22.08.2026 0,25 EUR",
+2026-08-22,-0.25,,Poplatok za platbu kartou,
+2026-08-22,-3.4,,"B2562087152-44544 17** **** 9209;FACEBK *6CSTG2WSW4 ,Dublin ,IE ;20.08.2026 09:34:55 ;CashBack:0 EUR",
 2026-08-20,-38.78,,"/VS260002/SS/KS 20.08.2026 9696,00 EUR",
 2026-08-20,-9696.0,BAUER TRADE s.r.o.,Zaloh.fa c.44-bilboardy,260002.0
 2026-08-19,-3.37,,"/VS26950334/SS/KS 19.08.2026 841,32 EUR",
