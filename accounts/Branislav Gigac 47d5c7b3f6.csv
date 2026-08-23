@@ -1,4 +1,5 @@
 date,amount,currency,account_name,message,vs
+2026-08-23,-500.0,EUR,,"Odoslaná okamžitá platba, Mgr. Tomas Kovalinka, PhD - tvorbawebovej stranky na zaklade dodanych podkladov",VS: 20260011
 2026-08-22,-616.23,EUR,,"Odoslaná okamžitá platba, NUBIUM, s.r.o. billboardy",VS: 16120102
 2026-08-22,-821.64,EUR,,"Odoslaná okamžitá platba, NUBIUM, s.r.o. billboardy",VS: 16220021
 2026-08-21,1000.0,EUR,Ján Gigac,"Prijatá platba, Na kampan",
@@ -24,5 +25,3 @@ KS: 0308"
 2026-07-14,20.0,EUR,Renata Ludrovska,"Prijatá platba, dar kampan Renata Ludrovska",
 2026-07-10,100.0,EUR,Michal Varga,"Prijatá platba, DAR",
 2026-07-04,-400.0,EUR,,"Odoslaná okamžitá platba, Mgr. Viliam Drab: FA2026009 - Mgr.Branislav Gigac - 2026/06 - VIDEO",VS: 2026009
-2026-06-30,-73.8,EUR,,"Odoslaná okamžitá platba, Vyroba propagacneho produktu","VS: 260300212
-KS: 0308"
