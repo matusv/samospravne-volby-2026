@@ -1,4 +1,6 @@
 date,amount,currency,account_name,message,vs
+2026-08-24,-7213.95,EUR,,"Odoslaná okamžitá platba, Prieskum verejnej mienky","VS: 5220262657
+KS: 0308"
 2026-08-21,700.0,EUR,MÁRIA DÓŠOVÁ,"Prijatá platba, PODPORA NA KAMPAN",
 2026-08-21,5000.0,EUR,SOBOTA TOMAS,"Prijatá platba, /DO2026-08-21/SPprevod na kampan",
 2026-08-18,-204.92,EUR,,"Odoslaná platba elektronicky, Inzercia MY extra BB",VS: 2633101214
@@ -36,4 +38,3 @@ KS: 0608"
 KS: 6898"
 2026-06-25,5.0,EUR,Bravčoková Alžbeta,"Prijatá platba, prispevok na kampan Sobota 2026",
 2026-06-24,50.0,EUR,LUKAJ RADOSLAV,"Prijatá platba, /DO2026-06-24/SPprispevok na kampan Sobota 2026",
-2026-06-24,20.0,EUR,SILVIA SULEKOVA KOLLARIKOVA,"Prijatá platba, ",
