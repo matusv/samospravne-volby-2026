@@ -1,4 +1,8 @@
 date,amount,currency,account_name,message,vs
+2026-08-25,-200.0,EUR,,"Odoslaná okamžitá platba, Mgr. Branislav Cukan - rozpravka Kiki a Kuky na Susedskom popoludni vNecpaloch",KS: 0308
+2026-08-25,500.0,EUR,Radka Barcinova,"Prijatá platba, Dar",
+2026-08-24,-350.0,EUR,,"Odoslaná okamžitá platba, Sokoliari AQUILA Bojnice - vystupenie na Susedskom popoludni na Kopaniciach",KS: 0308
+2026-08-24,1000.0,EUR,PAVOL MEDÁR,"Prijatá platba, PLATBA",
 2026-08-24,400.0,EUR,Hromadová Jana,"Prijatá platba, ",
 2026-08-23,-500.0,EUR,,"Odoslaná okamžitá platba, Mgr. Tomas Kovalinka, PhD - tvorbawebovej stranky na zaklade dodanych podkladov",VS: 20260011
 2026-08-22,-616.23,EUR,,"Odoslaná okamžitá platba, NUBIUM, s.r.o. billboardy",VS: 16120102
@@ -21,7 +25,3 @@ KS: 0308"
 2026-07-20,1000.0,EUR,Marcel Malincik,"Prijatá platba, Marcel Malincik, dar na kampan",VS: 20072026
 2026-07-19,500.0,EUR,Bartko Marcel,"Prijatá platba, Marcel Bartko,podpora volby",
 2026-07-17,10.0,EUR,Milan Bukoven,"Prijatá platba, Podpora kampane od m.bukovena.",
-2026-07-16,10.0,EUR,Vieriu Lívia,"Prijatá platba, Za lepšiu Prievidzu",
-2026-07-15,100.0,EUR,Hlavina Miroslav,"Prijatá platba, ",
-2026-07-14,20.0,EUR,Renata Ludrovska,"Prijatá platba, dar kampan Renata Ludrovska",
-2026-07-10,100.0,EUR,Michal Varga,"Prijatá platba, DAR",

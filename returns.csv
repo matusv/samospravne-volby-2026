@@ -1,6 +1,4 @@
 date,amount,account_name,message,vs,name
-2026-05-27,180.0,Milan Korim,,,Branislav Baran
-2026-05-29,-180.0,Milan Korim,Vratenie financnych prostriedkov,,Branislav Baran
 2026-04-17,0.1,Reich Lukas,Vitaj v BA vychodniar,,Daniel Klimovský
 2026-04-28,-0.1,Reich Lukas,0260428152236.816371,,Daniel Klimovský
 2026-06-04,3200.0,VENA Agentur s. r. o.,PLATBA,20260001.0,Dunaj
@@ -24,8 +22,8 @@ date,amount,account_name,message,vs,name
 2025-11-26,50.0,Katarína Čampišová,Chybna platba,,Ladislav Hozlár
 2025-11-26,-50.0,Katarina Campisova,,,Ladislav Hozlár
 2026-04-07,253.0,Bosák Tibor,Tibor Bosák,,Ladislav Lörinc
-2026-04-14,272.0,SNOPKOVA EMILIA,?/DO2026-04-14/SP,,Ladislav Lörinc
 2026-04-14,274.0,Szöllösiová Terézia,Terézia Szollosiova,14042026.0,Ladislav Lörinc
+2026-04-14,272.0,SNOPKOVA EMILIA,?/DO2026-04-14/SP,,Ladislav Lörinc
 2026-04-15,220.0,Závodská Gabriela,OO26041500098735,137885.0,Ladislav Lörinc
 2026-04-17,225.0,Ondrejka Matúš,OO26041700046627,,Ladislav Lörinc
 2026-04-17,252.0,"Klasovitá Soňa, Ing.",Sona Klasovita,17042026.0,Ladislav Lörinc

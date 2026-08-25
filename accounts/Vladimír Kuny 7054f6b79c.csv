@@ -1,4 +1,5 @@
 date,amount,currency,account_name,message,vs
+2026-08-24,1000.0,EUR,Libor Kmeť,"Prijatá platba, Dar na kampan",
 2026-08-20,1000.0,EUR,Mgr.Rastislav Stevko,"Prijatá platba, ",
 2026-08-20,1000.0,EUR,PETRA ŠTEVKOVÁ,"Prijatá platba, PRISPEVOK NA KAMPAN",
 2026-08-20,-185.0,EUR,,"Odoslaná platba elektronicky, Platba faktury 2601097 kampan 2026","VS: 2601097
@@ -38,6 +39,4 @@ KS: 008"
 2026-08-06,-100.0,EUR,,"Odoslaná platba elektronicky, Fotograficke sluzby","VS: 152026
 KS: 308"
 2026-08-05,-1350.0,EUR,,"Odoslaná okamžitá platba, Platba faktury 2026038 polep auta kampan","VS: 2026038
-KS: 0308"
-2026-08-05,-615.0,EUR,,"Odoslaná okamžitá platba, Komunikacna podpora kampan","VS: 20260018
 KS: 0308"
