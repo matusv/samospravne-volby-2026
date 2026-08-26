@@ -1,8 +1,10 @@
 date,amount,account_name,message,vs,name
+2026-05-27,180.0,Milan Korim,,,Branislav Baran
+2026-05-29,-180.0,Milan Korim,Vratenie financnych prostriedkov,,Branislav Baran
 2026-04-17,0.1,Reich Lukas,Vitaj v BA vychodniar,,Daniel Klimovský
 2026-04-28,-0.1,Reich Lukas,0260428152236.816371,,Daniel Klimovský
-2026-06-04,3200.0,VENA Agentur s. r. o.,PLATBA,20260001.0,Dunaj
 2026-06-04,-3200.0,VENA Agentur s. r. o.,Platba/Vyroba a osadenie reklamnych ploch,20260001.0,Dunaj
+2026-06-04,3200.0,VENA Agentur s. r. o.,PLATBA,20260001.0,Dunaj
 2026-05-25,0.02,PayPal Europe S.a.r.l. et Cie S.C.A,Return: Payment returned because you sent it to the wrong bank account. Log in to your PayPal account and choose 'Transfer Money' to retry,,Erik Radačovský
 2026-05-25,-0.02,PayPal Europe S.a.r.l. et Cie S.C.A,Vratenie platby - neidentifikovany darca,,Erik Radačovský
 2026-05-25,0.14,PayPal Europe S.a.r.l. et Cie S.C.A,Return: Payment returned because you sent it to the wrong bank account. Log in to your PayPal account and choose 'Transfer Money' to retry,,Erik Radačovský
@@ -11,6 +13,8 @@ date,amount,account_name,message,vs,name
 2026-02-17,-170.0,RANDA VLADIMIR,"Vrátenie platby, ktorá bola zaslaná z Vášho účtu na môj (omylom) dňa 10.02.2026.",,Igor Hus
 2026-04-22,-2990.0,Andrej Škoda,Vratenie hotovostneho vkladu,,Igor Kršiak
 2026-04-22,2990.0,Andrej Skoda,Odoslane z Revolutu,,Igor Kršiak
+2026-08-14,1500.0,Ivanecký Ján,"Ján Ivanecký, podpora víťazného tímu :)",,Jaroslav Polaček
+2026-08-25,-1500.0,Ivanecký Ján,Vrátená platba,,Jaroslav Polaček
 2026-07-14,1000.0,"Tanoczký Norbert, Ing.","Tanoczky Norbert Ing, trencin, zlatovska, prispevok na kampan",,Ján Forgáč
 2026-07-14,-1000.0,"Tanoczký Norbert, Ing.","Mgr. Ján Forgáč, Partizánska 7859/50A, Trenčín, vrátenie prijatej platby - dar neprijatý",,Ján Forgáč
 2026-07-15,-1800.0,Sophia Gajarská,"Mgr. Ján Forgáč, Partizánska 7859/50A, Trenčín, vrátenie prijatej platby - dar neprijatý z dôvodu neuvedenej adresy trvalého pobytu darcu",,Ján Forgáč

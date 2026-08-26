@@ -1,4 +1,8 @@
 date,amount,currency,account_name,message,vs
+2026-08-26,232.88,EUR,Juraj Leporis,"Prijatá platba, Dar",
+2026-08-26,232.88,EUR,Sidonia Cicmancova,"Prijatá platba, Polievkova",
+2026-08-26,350.0,EUR,Veronika Drabikova,"Prijatá platba, dar",
+2026-08-26,233.0,EUR,LUKÁŠ ZELENÍK,"Prijatá platba, DAR - LEPSIA PD",
 2026-08-25,-200.0,EUR,,"Odoslaná okamžitá platba, Mgr. Branislav Cukan - rozpravka Kiki a Kuky na Susedskom popoludni vNecpaloch",KS: 0308
 2026-08-25,500.0,EUR,Radka Barcinova,"Prijatá platba, Dar",
 2026-08-24,-350.0,EUR,,"Odoslaná okamžitá platba, Sokoliari AQUILA Bojnice - vystupenie na Susedskom popoludni na Kopaniciach",KS: 0308
@@ -21,7 +25,3 @@ date,amount,currency,account_name,message,vs
 2026-07-30,100.0,EUR,Renata KOCSISOVA,"Prijatá platba, ",VS: 30072026
 2026-07-27,-307.5,EUR,,"Odoslaná platba elektronicky, Inzercia v regionalnom vydani novin Horna Nitra - region plny zivota","VS: 2633101114
 KS: 0308"
-2026-07-22,-200.0,EUR,,"Odoslaná okamžitá platba, Mgr. Viliam Drab, ICO: 54145287 - vyroba propagacnych videi",VS: 2026011
-2026-07-20,1000.0,EUR,Marcel Malincik,"Prijatá platba, Marcel Malincik, dar na kampan",VS: 20072026
-2026-07-19,500.0,EUR,Bartko Marcel,"Prijatá platba, Marcel Bartko,podpora volby",
-2026-07-17,10.0,EUR,Milan Bukoven,"Prijatá platba, Podpora kampane od m.bukovena.",
