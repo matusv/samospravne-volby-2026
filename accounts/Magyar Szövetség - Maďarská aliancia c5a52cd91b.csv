@@ -1,4 +1,6 @@
 date,amount,currency,account_name,message,vs
+2026-08-26,-250.0,EUR,,"Odoslaná okamžitá platba, Fotograficke sluzby",VS: 2026028
+2026-08-26,250.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 082026
 2026-08-25,-9473.45,EUR,,"Odoslaná okamžitá platba, Prenajom reklamnych ploch, billboardy",VS: 26080003
 2026-08-25,9500.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 082026
 2026-08-24,-408.36,EUR,,"Odoslaná okamžitá platba, Vymena grafiky a oprava Roll UP, tlac a laminovanie grafiky recnickeho pultu",VS: 2026305
@@ -30,5 +32,3 @@ KS: 6898"
 2026-06-30,-0.02,EUR,,"Zaúčtovanie záporných úrokov, Istina: 0,02",
 2026-06-15,-6888.0,EUR,,"Odoslaná okamžitá platba, Zaloha na kampan VUC",VS: 30260004
 2026-06-15,7000.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 062025
-2026-06-14,-26.89,EUR,,"Transakčná daň z prevodov, ",KS: 0558
-2026-05-31,-2.2,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.05.2026 do 31.05.2026, Za vedenie účtu/balíka služieb a výpisy: 2,00, Za transakcie: 0,20 , z toho:, 1 x debet - elektronicky: 0,20",
