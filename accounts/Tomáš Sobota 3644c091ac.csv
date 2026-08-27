@@ -1,21 +1,21 @@
 date,amount,currency,account_name,message,vs
-2026-08-25,-147.6,EUR,,"Odoslaná okamžitá platba, Bilboardy - Tlac",VS: 202607546
-2026-08-25,-516.6,EUR,,"Odoslaná okamžitá platba, Bilboardy jun 2026",VS: 202606170
-2026-08-25,-172.2,EUR,,"Odoslaná okamžitá platba, Bilboardy jun 2026",VS: 202606159
-2026-08-24,-7213.95,EUR,,"Odoslaná okamžitá platba, Prieskum verejnej mienky","VS: 5220262657
+2026-08-25,-147.6,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, Bilboardy - Tlac",VS: 202607546
+2026-08-25,-516.6,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, Bilboardy jun 2026",VS: 202606170
+2026-08-25,-172.2,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, Bilboardy jun 2026",VS: 202606159
+2026-08-24,-7213.95,EUR,"Ako, s.r.o.","Odoslaná okamžitá platba, Prieskum verejnej mienky","VS: 5220262657
 KS: 0308"
 2026-08-21,700.0,EUR,MÁRIA DÓŠOVÁ,"Prijatá platba, PODPORA NA KAMPAN",
 2026-08-21,5000.0,EUR,SOBOTA TOMAS,"Prijatá platba, /DO2026-08-21/SPprevod na kampan",
-2026-08-18,-204.92,EUR,,"Odoslaná platba elektronicky, Inzercia MY extra BB",VS: 2633101214
+2026-08-18,-204.92,EUR,"Petit Press, a.s.","Odoslaná platba elektronicky, Inzercia MY extra BB",VS: 2633101214
 2026-08-14,500.0,EUR,Tomáš Jalovecký,"Prijatá platba, Prispevok na kampan",
-2026-08-13,-1000.0,EUR,,"Odoslaná okamžitá platba, Zaloha na prenajom priestorov","VS: 24260087
+2026-08-13,-1000.0,EUR,ARCADE spol. s r.o.,"Odoslaná okamžitá platba, Zaloha na prenajom priestorov","VS: 24260087
 KS: 0308"
-2026-08-12,-738.0,EUR,,"Odoslaná okamžitá platba, Bilboardy august",VS: 202608147
-2026-07-31,-2.6,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.07.2026 do 31.07.2026, Za vedenie účtu/balíka služieb a výpisy: 2,00, Za transakcie: 0,60 , z toho:, 3 x debet - elektronicky: 0,60",
+2026-08-12,-738.0,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, Bilboardy august",VS: 202608147
+2026-07-31,-2.6,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.07.2026 do 31.07.2026, Za vedenie účtu/balíka služieb a výpisy: 2,00, Za transakcie: 0,60 , z toho:, 3 x debet - elektronicky: 0,60",
 2026-07-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 30.07.2026","VS: 495000211
 ŠS: 5032602247
 KS: 6898"
-2026-07-28,-199.26,EUR,,"Odoslaná okamžitá platba, Reklamne predmety",VS: 260264
+2026-07-28,-199.26,EUR,SERIGRAFIKA s.r.o.,"Odoslaná okamžitá platba, Reklamne predmety",VS: 260264
 2026-07-27,-7.42,EUR,,"Transakcia platobnou kartou, Suma: 7,42 EUR 24.07.2026 Miesto: COOP KA529 Banska B Banska Bystri","VS: 405000206
 ŠS: 5032602247
 KS: 0608"
@@ -24,8 +24,8 @@ KS: 0608"
 KS: 6898"
 2026-07-18,100.0,EUR,Vestiga s. r. o.,"Prijatá platba, prispevok na kampan Sobota 2026",
 2026-07-18,50.0,EUR,JOZEF BALÁŽ,"Prijatá platba, DAR NA KAMPAN",
-2026-07-17,-200.0,EUR,,"Odoslaná okamžitá platba, Prenajom priest 2026-07-14",VS: 20260701
-2026-07-15,-787.2,EUR,,"Odoslaná okamžitá platba, Billb jul 26",VS: 202607152
+2026-07-17,-200.0,EUR,ATRIUM BB,"Odoslaná okamžitá platba, Prenajom priest 2026-07-14",VS: 20260701
+2026-07-15,-787.2,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, Billb jul 26",VS: 202607152
 2026-07-15,5.0,EUR,Bérešová Klára,"Prijatá platba, ",
 2026-07-02,20.0,EUR,Lucia Kováčová,"Prijatá platba, ",
 2026-07-02,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.06.2026","VS: 497000182
@@ -35,4 +35,4 @@ KS: 6898"
 ŠS: 5032602247
 KS: 0608"
 2026-07-01,150.0,EUR,Vestiga s. r. o.,"Prijatá platba, prispevok na kampan Sobota 2026",
-2026-06-30,-2.6,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.06.2026 do 30.06.2026, Za vedenie účtu/balíka služieb a výpisy: 2,00, Za transakcie: 0,60 , z toho:, 3 x debet - elektronicky: 0,60",
+2026-06-30,-2.6,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.06.2026 do 30.06.2026, Za vedenie účtu/balíka služieb a výpisy: 2,00, Za transakcie: 0,60 , z toho:, 3 x debet - elektronicky: 0,60",
