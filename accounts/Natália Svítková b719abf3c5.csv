@@ -1,4 +1,6 @@
 date,amount,currency,account_name,message,vs
+2026-08-28,-2000.0,EUR,Dovi dopo kolektiv,"Odoslaná okamžitá platba, Marketingove sluzby",VS: 2026003
+2026-08-28,-125.0,EUR,Lukas Knaze,"Odoslaná okamžitá platba, Prenajom zariadenia na vyrobu cukrovej vaty",
 2026-08-26,250.0,EUR,"Rebrová Katarína, MUDr.","Prijatá platba, Katarina Rebrová",
 2026-08-20,950.0,EUR,Trn Michal,"Prijatá platba, ",
 2026-08-08,500.0,EUR,Lucia Trnová,"Prijatá platba, ",
@@ -26,5 +28,3 @@ KS: 6898"
 2026-06-16,999.0,EUR,Mydlíková Eva,"Prijatá platba, ",
 2026-06-10,-1200.0,EUR,Matej Kukucka,"Odoslaná okamžitá platba, Graficke sluzby-uvod kampane",
 2026-06-08,20.0,EUR,Bc.Peter Kovacik,"Prijatá platba, Dar",
-2026-06-07,200.0,EUR,"Lifka Róbert, Ing.","Prijatá platba, Zaciatok zmeny . Drzim palce.",
-2026-06-07,5.0,EUR,Matus Vrazba,"Prijatá platba, Za modru zupu.",

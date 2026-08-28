@@ -1,4 +1,5 @@
 date,amount,currency,account_name,message,vs
+2026-08-28,-1402.2,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, Bilboardy 09-10/26 preddavkova FA",VS: 260412
 2026-08-25,-147.6,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, Bilboardy - Tlac",VS: 202607546
 2026-08-25,-516.6,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, Bilboardy jun 2026",VS: 202606170
 2026-08-25,-172.2,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, Bilboardy jun 2026",VS: 202606159
@@ -35,4 +36,3 @@ KS: 6898"
 ŠS: 5032602247
 KS: 0608"
 2026-07-01,150.0,EUR,Vestiga s. r. o.,"Prijatá platba, prispevok na kampan Sobota 2026",
-2026-06-30,-2.6,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.06.2026 do 30.06.2026, Za vedenie účtu/balíka služieb a výpisy: 2,00, Za transakcie: 0,60 , z toho:, 3 x debet - elektronicky: 0,60",

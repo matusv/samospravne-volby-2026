@@ -1,4 +1,10 @@
 date,amount,currency,account_name,message,vs
+2026-08-27,-0.5,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.08.2026","VS: 497000239
+ŠS: 1139224978
+KS: 6898"
+2026-08-27,-600.0,EUR,,"Výber hotovosti kartou, Suma: 600 EUR 26.08.2026 Miesto: LUCENEC,DR. VODU 2 LUCENEC","VS: 401000239
+ŠS: 1139224978
+KS: 0608"
 2026-08-27,-658.05,EUR,Abracadabra s.r.o.,"Odoslaná okamžitá platba, Uhrada faktury: 20260095",VS: 20260095
 2026-08-14,-309.96,EUR,Pieskovisko s.r.o.,"Odoslaná okamžitá platba, Roll up",VS: 0520260044
 2026-07-31,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.07.2026 do 31.07.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 2 x debet - elektronicky: 0,00",
@@ -10,4 +16,3 @@ KS: 0308"
 2026-05-31,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.05.2026 do 31.05.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 5 x debet - elektronicky: 0,00",
 2026-05-30,-3000.0,EUR,"Bodor, LLC","Odoslaná okamžitá platba, Strategicke medialne poradenstvo",
 2026-05-28,-658.05,EUR,Abracadabra s.r.o.,"Odoslaná okamžitá platba, Uhrada faktury za bilbordy",VS: 20260065
-2026-05-27,-500.0,EUR,"Bodor, LLC","Odoslaná okamžitá platba, Produkcia a postprodukcia videi",
