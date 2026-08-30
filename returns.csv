@@ -67,8 +67,6 @@ date,amount,account_name,message,vs,name
 2024-09-02,-100.0,Zlatica Suliova,ZLATIICA SULIOVA Vratenie mylnej platby.,122950,Peter Rék
 2026-04-15,25.0,Stanislav Dubovsky,PLATBA/Dar,35,Progresívne Slovensko
 2026-04-30,-25.0,Stanislav Dubovsky,Platba/vratenie daru stanislav dubovsky,,Progresívne Slovensko
-2026-07-13,2000.0,Andrea Janicka Rudnayova,Platba/kampan KSK,12,Progresívne Slovensko
-2026-07-21,-2000.0,Andrea Janicka Rudnayova,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
 2026-07-29,500.0,Kristína Gajdosová,,0,Rastislav Makový
 2026-07-29,-500.0,Kristina Gajdosova,Vratenie platby. (Omyl),0,Rastislav Makový
 2026-04-15,2000.0,"Cicman Dalibor, Ing.",dar,20263164.0,Team Bratislava

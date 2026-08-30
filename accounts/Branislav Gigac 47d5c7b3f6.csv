@@ -1,4 +1,8 @@
 date,amount,currency,account_name,message,vs
+2026-08-29,-4559.61,EUR,"REGIONPRESS, s.r.o.","Odoslaná platba elektronicky, REGIONPRESS, s.r.o. - inzercia vo vydaniach Prievidzska",VS: 134260261
+2026-08-29,-300.0,EUR,NAtraKY - potulne divadlo,"Odoslaná okamžitá platba, NAtraKY - potulne divadlo - rozpravka na Susedskom popoludni na Zapotockoch",VS: 1322026
+2026-08-29,2500.0,EUR,Pavel Blaho,"Prijatá platba, Dar",
+2026-08-28,232.88,EUR,"Svítok Juraj, JUDr.","Prijatá platba, Dar",
 2026-08-28,500.0,EUR,Josef Alsharabi,"Prijatá platba, drzim palce",
 2026-08-26,232.88,EUR,Juraj Leporis,"Prijatá platba, Dar",
 2026-08-26,232.88,EUR,Sidonia Cicmancova,"Prijatá platba, Polievkova",
@@ -20,7 +24,3 @@ date,amount,currency,account_name,message,vs
 2026-08-17,600.0,EUR,Adam Simonovic,"Prijatá platba, Za lepsiu Prievidzu :)",
 2026-08-17,600.0,EUR,Gigacová Daniela,"Prijatá platba, Fandime najviac :)",
 2026-08-17,-868.38,EUR,ISPA - billboardy,"Odoslaná okamžitá platba, ISPA - billboardy",VS: 202503593
-2026-08-17,-1476.0,EUR,EUROAWK - billboardy,"Odoslaná okamžitá platba, euroAWK billboardy",VS: 2670282
-2026-08-10,100.0,EUR,Michal Varga,"Prijatá platba, Dar",
-2026-07-31,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.07.2026 do 31.07.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 8 x prijaté platby: 0,00, 3 x debet - elektronicky: 0,00",
-2026-07-30,100.0,EUR,Renata KOCSISOVA,"Prijatá platba, ",VS: 30072026
