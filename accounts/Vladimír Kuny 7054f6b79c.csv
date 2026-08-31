@@ -1,4 +1,5 @@
 date,amount,currency,account_name,message,vs
+2026-08-31,100.0,EUR,"Macák Marek, Ing.","Prijatá platba, Vratme zivot do Levic",
 2026-08-26,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.08.2026","VS: 497000237
 ŠS: 5032785547
 KS: 6898"
@@ -40,5 +41,3 @@ KS: 6898"
 ŠS: 5032785547
 KS: 0608"
 2026-08-07,1000.0,EUR,"Csendesová Lucia, Mgr.","Prijatá platba, ",
-2026-08-07,-1359.77,EUR,Limax,"Odoslaná okamžitá platba, Tricka s potlacou - kampan","VS: 10260104
-KS: 008"

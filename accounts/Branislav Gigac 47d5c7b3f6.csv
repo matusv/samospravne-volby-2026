@@ -1,4 +1,5 @@
 date,amount,currency,account_name,message,vs
+2026-08-30,100.0,EUR,Bahna Samuel,"Prijatá platba, ",
 2026-08-29,-4559.61,EUR,"REGIONPRESS, s.r.o.","Odoslaná platba elektronicky, REGIONPRESS, s.r.o. - inzercia vo vydaniach Prievidzska",VS: 134260261
 2026-08-29,-300.0,EUR,NAtraKY - potulne divadlo,"Odoslaná okamžitá platba, NAtraKY - potulne divadlo - rozpravka na Susedskom popoludni na Zapotockoch",VS: 1322026
 2026-08-29,2500.0,EUR,Pavel Blaho,"Prijatá platba, Dar",
@@ -23,4 +24,3 @@ date,amount,currency,account_name,message,vs
 2026-08-17,200.0,EUR,Lea Daniela Matušková,"Prijatá platba, ",
 2026-08-17,600.0,EUR,Adam Simonovic,"Prijatá platba, Za lepsiu Prievidzu :)",
 2026-08-17,600.0,EUR,Gigacová Daniela,"Prijatá platba, Fandime najviac :)",
-2026-08-17,-868.38,EUR,ISPA - billboardy,"Odoslaná okamžitá platba, ISPA - billboardy",VS: 202503593

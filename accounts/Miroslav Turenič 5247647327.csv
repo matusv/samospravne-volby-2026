@@ -1,9 +1,13 @@
 date,amount,account_name,message,vs
-2026-07-31,-5,,Zverejňovanie účtu,
-2026-06-30,-5,,Zverejňovanie účtu,
-2026-05-31,-5,,Zverejňovanie účtu,
-2026-05-11,644,Turenič Miroslav,Prevod medzi vlastnými účtami,
-2026-05-11,-930,"Shenzhen XKD Technology Co., LTD","payment Miroslav Turenic for ballpoint pens, PI NO: KD20260508",
-2026-05-10,1000,Turenič Miroslav,Vlastny vklad na kampan,
-2026-04-30,0,,Poplatok za vedenie účtu,
-2026-04-30,-10,,"Vydanie a doručenie Platobnej karty,2114,5,Karta č. 4544 12** **** 5927Poplatok za vydanie a doručenie Platobnej karty",
+2026-08-31,-200.0,Milan Nižňanský,20260827,
+2026-08-31,-21.4,Websupport s.r.o.,webstránka,626704010.0
+2026-08-31,-88.41,Websupport s.r.o.,web stránka,1026265461.0
+2026-08-31,-21.4,Websupport s.r.o.,web stránka,
+2026-07-31,-5.0,,Zverejňovanie účtu,
+2026-06-30,-5.0,,Zverejňovanie účtu,
+2026-05-31,-5.0,,Zverejňovanie účtu,
+2026-05-11,644.0,Turenič Miroslav,Prevod medzi vlastnými účtami,
+2026-05-11,-930.0,"Shenzhen XKD Technology Co., LTD","payment Miroslav Turenic for ballpoint pens, PI NO: KD20260508",
+2026-05-10,1000.0,Turenič Miroslav,Vlastny vklad na kampan,
+2026-04-30,0.0,,Poplatok za vedenie účtu,
+2026-04-30,-10.0,,"Vydanie a doručenie Platobnej karty,2114,5,Karta č. 4544 12** **** 5927Poplatok za vydanie a doručenie Platobnej karty",

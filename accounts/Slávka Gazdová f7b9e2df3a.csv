@@ -1,4 +1,6 @@
 date,amount,currency,account_name,message,vs
+2026-08-31,100.0,EUR,Slavomír Gazda,"Prijatá platba, Dar",
+2026-08-30,-584.25,EUR,Reklamny kurier s. r. o.,"Odoslaná okamžitá platba, Uhrada faktury: 20260141",VS: 20260141
 2026-08-30,400.0,EUR,Slávka Gazdová,"Prijatá platba, ",
 2026-08-01,-420.0,EUR,Viera Kobielska,"Odoslaná okamžitá platba, ",VS: 26050017
 2026-08-01,500.0,EUR,Slávka Gazdová,"Prijatá platba, ",
