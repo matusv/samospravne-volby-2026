@@ -1,4 +1,8 @@
 date,amount,currency,account_name,message,vs
+2026-08-31,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.08.2026 do 31.08.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 1 x prijaté platby: 0,00, 3 x debet - elektronicky: 0,00",
+2026-08-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA CLASSIC DEB. CL Suma: 3 EUR 28.08.2026","VS: 495000240
+ŠS: 1139004073
+KS: 6898"
 2026-08-20,-1273.67,EUR,euroAWK,"Odoslaná okamžitá platba, Kampan: VK primator",VS: 2670208
 2026-08-20,-804.42,EUR,euroAWK,"Odoslaná okamžitá platba, Kampan: VK primator",VS: 2670210
 2026-08-20,-536.28,EUR,euroAWK,"Odoslaná okamžitá platba, Kampan: VK primator zaloha",VS: 2670222

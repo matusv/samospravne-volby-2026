@@ -1,4 +1,9 @@
 date,amount,currency,account_name,message,vs
+2026-08-31,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.08.2026 do 31.08.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 16 x prijaté platby: 0,00, 9 x debet - elektronicky: 0,00",
+2026-08-31,500.0,EUR,Marek Gabona,"Prijatá platba, Dar na kampan",
+2026-08-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 28.08.2026","VS: 495000240
+ŠS: 5032785547
+KS: 6898"
 2026-08-31,100.0,EUR,"Macák Marek, Ing.","Prijatá platba, Vratme zivot do Levic",
 2026-08-26,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.08.2026","VS: 497000237
 ŠS: 5032785547
@@ -34,10 +39,3 @@ KS: 308"
 2026-08-14,-7195.5,EUR,IPSOS,"Odoslaná okamžitá platba, Levice - prieskum","VS: 26000412
 KS: 308"
 2026-08-13,500.0,EUR,Eva Bielik Hajdamárová,"Prijatá platba, ",
-2026-08-10,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 07.08.2026","VS: 497000220
-ŠS: 5032785547
-KS: 6898"
-2026-08-10,-29.99,EUR,,"Transakcia platobnou kartou, Suma: 29,99 EUR 07.08.2026 Miesto: GOOGLE *GOOGLE PLAY AP 8888888888","VS: 405000220
-ŠS: 5032785547
-KS: 0608"
-2026-08-07,1000.0,EUR,"Csendesová Lucia, Mgr.","Prijatá platba, ",

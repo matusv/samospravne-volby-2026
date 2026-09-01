@@ -1,6 +1,4 @@
 date,amount,account_name,message,vs,name
-2026-05-27,180.0,Milan Korim,,,Branislav Baran
-2026-05-29,-180.0,Milan Korim,Vratenie financnych prostriedkov,,Branislav Baran
 2026-04-17,0.1,Reich Lukas,Vitaj v BA vychodniar,,Daniel Klimovský
 2026-04-28,-0.1,Reich Lukas,0260428152236.816371,,Daniel Klimovský
 2026-06-04,3200.0,VENA Agentur s. r. o.,PLATBA,20260001.0,Dunaj
@@ -32,23 +30,25 @@ date,amount,account_name,message,vs,name
 2025-11-26,50.0,Katarína Čampišová,Chybna platba,,Ladislav Hozlár
 2025-11-26,-50.0,Katarina Campisova,,,Ladislav Hozlár
 2026-04-07,253.0,Bosák Tibor,Tibor Bosák,,Ladislav Lörinc
-2026-04-14,274.0,Szöllösiová Terézia,Terézia Szollosiova,14042026.0,Ladislav Lörinc
 2026-04-14,272.0,SNOPKOVA EMILIA,?/DO2026-04-14/SP,,Ladislav Lörinc
+2026-04-14,274.0,Szöllösiová Terézia,Terézia Szollosiova,14042026.0,Ladislav Lörinc
 2026-04-15,220.0,Závodská Gabriela,OO26041500098735,137885.0,Ladislav Lörinc
-2026-04-17,252.0,"Klasovitá Soňa, Ing.",Sona Klasovita,17042026.0,Ladislav Lörinc
 2026-04-17,225.0,Ondrejka Matúš,OO26041700046627,,Ladislav Lörinc
+2026-04-17,252.0,"Klasovitá Soňa, Ing.",Sona Klasovita,17042026.0,Ladislav Lörinc
 2026-04-20,-253.0,Bosák Tibor,Vrátenie chybnej platby,,Ladislav Lörinc
+2026-04-21,251.0,Mária Hrajnohová,T2462492454255878148,21042026.0,Ladislav Lörinc
 2026-04-22,243.0,"Adamková Alena, Ing.",Alena Adamkova,,Ladislav Lörinc
 2026-04-23,256.0,Novák Ján,Vklad,,Ladislav Lörinc
 2026-04-23,271.0,"Zálepa Ladislav, PaedDr.",Ladislav Zalepa,23042026.0,Ladislav Lörinc
 2026-05-04,-243.0,"Adamková Alena, Ing.",Vrátenie chybnej platby,,Ladislav Lörinc
-2026-05-13,-252.0,"Klasovitá Soňa, Ing.",Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-13,-271.0,"Zálepa Ladislav, PaedDr.",Vrátenie chybnej platby,,Ladislav Lörinc
+2026-05-13,-252.0,"Klasovitá Soňa, Ing.",Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-13,-220.0,Závodská Gabriela,Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-14,-274.0,Szöllösiová Terézia,Vrátenie chybnej platby,,Ladislav Lörinc
+2026-05-26,-225.0,Ondrejka Matúš,Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-26,-272.0,SNOPKOVA EMILIA,Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-26,-256.0,Novák Ján,Vrátenie chybnej platby,,Ladislav Lörinc
-2026-05-26,-225.0,Ondrejka Matúš,Vrátenie chybnej platby,,Ladislav Lörinc
+2026-09-01,-251.0,Mária Hrajnohová,Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-20,300.0,Kristina Simonova,,,Ladislav Smatana
 2026-05-27,-300.0,KRISTINA SIMONOVA,VRATENIE PLATBY,,Ladislav Smatana
 2026-03-18,0.55,Echko Mário,F001180320266377492,,Lucia Búšová
@@ -67,6 +67,8 @@ date,amount,account_name,message,vs,name
 2024-09-02,-100.0,Zlatica Suliova,ZLATIICA SULIOVA Vratenie mylnej platby.,122950,Peter Rék
 2026-04-15,25.0,Stanislav Dubovsky,PLATBA/Dar,35,Progresívne Slovensko
 2026-04-30,-25.0,Stanislav Dubovsky,Platba/vratenie daru stanislav dubovsky,,Progresívne Slovensko
+2026-07-13,2000.0,Andrea Janicka Rudnayova,Platba/kampan KSK,12,Progresívne Slovensko
+2026-07-21,-2000.0,Andrea Janicka Rudnayova,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
 2026-07-29,500.0,Kristína Gajdosová,,0,Rastislav Makový
 2026-07-29,-500.0,Kristina Gajdosova,Vratenie platby. (Omyl),0,Rastislav Makový
 2026-04-15,2000.0,"Cicman Dalibor, Ing.",dar,20263164.0,Team Bratislava

@@ -1,4 +1,11 @@
 date,amount,currency,account_name,message,vs
+2026-09-01,-1000.0,EUR,Matej Kukucka,"Odoslaná okamžitá platba, Graficke sluzby",VS: 502026
+2026-08-31,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.08.2026 do 31.08.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 7 x prijaté platby: 0,00, 2 x debet - elektronicky: 0,00",
+2026-08-31,250.0,EUR,Martina Zilkova,"Prijatá platba, DAR",
+2026-08-31,250.0,EUR,Mokry Marek,"Prijatá platba, Marek Mokry dar",
+2026-08-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA CLASSIC DEB. CL Suma: 3 EUR 28.08.2026","VS: 495000240
+ŠS: 1139269320
+KS: 6898"
 2026-08-28,-2000.0,EUR,Dovi dopo kolektiv,"Odoslaná okamžitá platba, Marketingove sluzby",VS: 2026003
 2026-08-28,-125.0,EUR,Lukas Knaze,"Odoslaná okamžitá platba, Prenajom zariadenia na vyrobu cukrovej vaty",
 2026-08-26,250.0,EUR,"Rebrová Katarína, MUDr.","Prijatá platba, Katarina Rebrová",
@@ -23,8 +30,3 @@ KS: 6898"
 2026-06-17,10.0,EUR,Ivana Bednar Hrda,"Prijatá platba, Drzim palce",
 2026-06-16,10.0,EUR,Michal Nemethy,"Prijatá platba, ",
 2026-06-16,44.0,EUR,MARTIN LAMAČKA,"Prijatá platba, VELA STASTIA",VS: 1
-2026-06-16,25.0,EUR,Bystrík Novák,"Prijatá platba, Drzime palce",
-2026-06-16,11.11,EUR,Illeš Robert,"Prijatá platba, Príspevok na kampaň za župana Trenčianskeho kraja,",
-2026-06-16,999.0,EUR,Mydlíková Eva,"Prijatá platba, ",
-2026-06-10,-1200.0,EUR,Matej Kukucka,"Odoslaná okamžitá platba, Graficke sluzby-uvod kampane",
-2026-06-08,20.0,EUR,Bc.Peter Kovacik,"Prijatá platba, Dar",

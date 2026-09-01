@@ -1,4 +1,7 @@
 date,amount,currency,account_name,message,vs
+2026-08-31,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.08.2026 do 31.08.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 2 x prijaté platby: 0,00, 5 x debet - elektronicky: 0,00",
+2026-08-31,-2767.5,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, BB, BG 09,10/26",VS: 260425
+2026-08-31,1920.0,EUR,Špak Miroslav,"Prijatá platba, ",
 2026-08-21,-64.58,EUR,LAVACOM s.r.o.,"Odoslaná okamžitá platba, Kampan","VS: **********
 KS: 0308"
 2026-08-21,-123.0,EUR,LAVACOM s.r.o.,"Odoslaná okamžitá platba, Kampan","VS: 2601280024

@@ -1,4 +1,11 @@
 date,amount,currency,account_name,message,vs
+2026-08-31,-3.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.08.2026 do 31.08.2026, Za vedenie účtu/balíka služieb a výpisy: 2,00, Za transakcie: 1,00 , z toho:, 5 x debet - elektronicky: 1,00",
+2026-08-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: MC BUSINESS DEBETNA CL Suma: 3 EUR 28.08.2026","VS: 295000240
+ŠS: 3400020725
+KS: 6898"
+2026-08-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 28.08.2026","VS: 495000240
+ŠS: 5032755813
+KS: 6898"
 2026-08-26,-250.0,EUR,Olidarosi s.r.o.,"Odoslaná okamžitá platba, Fotograficke sluzby",VS: 2026028
 2026-08-26,250.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 082026
 2026-08-25,-9473.45,EUR,Kanovits Group s.r.o.,"Odoslaná okamžitá platba, Prenajom reklamnych ploch, billboardy",VS: 26080003
@@ -29,6 +36,3 @@ KS: 6898"
 2026-06-30,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 29.06.2026","VS: 495000180
 ŠS: 5032755813
 KS: 6898"
-2026-06-30,-0.02,EUR,NEGACRUN:.02257,"Zaúčtovanie záporných úrokov, Istina: 0,02",
-2026-06-15,-6888.0,EUR,H K Plus s.r.o.,"Odoslaná okamžitá platba, Zaloha na kampan VUC",VS: 30260004
-2026-06-15,7000.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 062025

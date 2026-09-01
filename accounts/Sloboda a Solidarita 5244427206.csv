@@ -1,4 +1,10 @@
 date,amount,account_name,message,vs
+2026-08-31,-0.02,,"/VS/SS/KS0898 31.08.2026 5,00 EUR",
+2026-08-31,-5.0,,Zverejňovanie účtu,
+2026-08-31,-0.02,,"/VS/SS/KS0898 31.08.2026 5,00 EUR",
+2026-08-31,-5.0,,Poplatok za vedenie účtu,
+2026-08-31,-3.15,,"/VS26950362/SS/KS 31.08.2026 787,20 EUR",
+2026-08-31,-787.2,ISPA,Prenájom reklamného priestoru,26950362.0
 2026-08-28,-8.85,,"/VS7002612800/SS/KS 28.08.2026 2212,77 EUR",
 2026-08-28,-2212.77,IMI TRADE s.r.o.,siltovka a taska rozdavacka,7002612800.0
 2026-08-28,-0.04,,"/VS1312600113/SS/KS 28.08.2026 10,00 EUR",

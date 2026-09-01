@@ -1,3 +1,6 @@
 date,amount,account_name,message,vs
-2026-08-17,720,Mojto Miloš,F001170820262574147,
-2026-08-12,100,Mojto Miloš,F001120820264721019,
+2026-08-31,-5.0,,Zverejňovanie účtu,
+2026-08-31,-4.52,,Poplatok za vedenie účtu,
+2026-08-31,-10.0,,"Vydanie a doručenie Platobnej karty,2114,5,Karta č. 4544 12** **** 7671Poplatok za vydanie a doručenie Platobnej karty",
+2026-08-17,720.0,Mojto Miloš,F001170820262574147,
+2026-08-12,100.0,Mojto Miloš,F001120820264721019,
