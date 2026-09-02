@@ -1,4 +1,5 @@
 date,amount,account_name,message,vs
+2026-09-01,-1.2,,Mesačný popl. Vydanie/obnova karty,6054
 2026-08-31,-6.0,,Vedenie konta Transparentný účet,9
 2026-08-31,100.0,"Valchovník Ivan, Ing.",,
 2026-08-31,4000.0,Ladislav Smatana,,
@@ -8,13 +9,3 @@ date,amount,account_name,message,vs
 2026-07-29,-30.0,Mesto Bojnice,"Dan/poplatok 2026 UVP null DAN c. 154, null",2419600154
 2026-06-30,-6.0,,Vedenie konta Transparentný účet,9
 2026-06-15,100.0,Kutlíková Andrea,,
-2026-05-29,-10.0,,Poplatky za platby nad rámec konta,9
-2026-05-29,-6.0,,Vedenie konta Transparentný účet,9
-2026-05-29,-0.02,,Debetný úrok-zinkasovaný,9
-2026-05-27,300.0,"Urbančok Robert, Ing.",Prispevok na kampan,
-2026-05-27,-300.0,KRISTINA SIMONOVA,VRATENIE PLATBY,
-2026-05-20,300.0,Kristina Simonova,,
-2026-05-08,50.0,Ladislav Smatana,LADISLAV SMATANA,
-2026-04-30,-6.0,,Vedenie konta Transparentný účet,9
-2026-03-31,5.0,,Storno-popl.za platby a ved.úč/kon,9
-2026-03-31,-5.0,,Vedenie účtu,9

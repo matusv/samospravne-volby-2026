@@ -1,4 +1,19 @@
 date,amount,currency,account_name,message,vs
+2026-09-02,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 31.08.2026","VS: 497000244
+ŠS: 5032785547
+KS: 6898"
+2026-09-02,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 31.08.2026","VS: 497000244
+ŠS: 5032785547
+KS: 6898"
+2026-09-02,-32.75,EUR,,"Transakcia platobnou kartou, Suma: 32,75 EUR 31.08.2026 Miesto: TEDI,LV,TURECKY RAD LEVICE","VS: 405000244
+ŠS: 5032785547
+KS: 0608"
+2026-09-02,-32.52,EUR,,"Transakcia platobnou kartou, Suma: 32,52 EUR 31.08.2026 Miesto: FAXCOPY42,LV,SV. MICHALA LEVICE","VS: 405000244
+ŠS: 5032785547
+KS: 0608"
+2026-09-01,0.01,EUR,MIROSLAV SNIDA,"Prijatá platba, PLATBA",
+2026-09-01,0.67,EUR,Dominik Galgoc,"Prijatá platba, six seven",
+2026-09-01,0.01,EUR,MIROSLAV SNIDA,"Prijatá platba, PLATBA",
 2026-08-31,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.08.2026 do 31.08.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 16 x prijaté platby: 0,00, 9 x debet - elektronicky: 0,00",
 2026-08-31,500.0,EUR,Marek Gabona,"Prijatá platba, Dar na kampan",
 2026-08-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 28.08.2026","VS: 495000240
@@ -28,14 +43,3 @@ KS: 6898"
 2026-08-18,1000.0,EUR,Tomas Flidr,"Prijatá platba, Dar",
 2026-08-17,1000.0,EUR,Alexandra Hulvejová,"Prijatá platba, Dar",
 2026-08-17,500.0,EUR,Libuše Šajbenová,"Prijatá platba, Dar",
-2026-08-17,-492.0,EUR,euroAWK,"Odoslaná platba elektronicky, Bolboard kampan zaloha","VS: 2670273
-KS: 308"
-2026-08-17,-58.5,EUR,MsKS,"Odoslaná okamžitá platba, Vylep plagatov","VS: 202600085
-KS: 308"
-2026-08-17,1000.0,EUR,Marcel Masiar,"Prijatá platba, Vratme zivot do Levic - dar kampan",
-2026-08-14,500.0,EUR,Libuše Šajbenová,"Prijatá platba, Dar",
-2026-08-14,-485.85,EUR,Limax,"Odoslaná okamžitá platba, Reklamne predmety","VS: 10260111
-KS: 308"
-2026-08-14,-7195.5,EUR,IPSOS,"Odoslaná okamžitá platba, Levice - prieskum","VS: 26000412
-KS: 308"
-2026-08-13,500.0,EUR,Eva Bielik Hajdamárová,"Prijatá platba, ",
