@@ -1,4 +1,5 @@
 date,amount,currency,account_name,message,vs
+2026-09-02,375.0,EUR,Lubica Galisova,"Prijatá platba, Galisova Lubica",
 2026-09-01,-1000.0,EUR,Matej Kukucka,"Odoslaná okamžitá platba, Graficke sluzby",VS: 502026
 2026-08-31,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.08.2026 do 31.08.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 7 x prijaté platby: 0,00, 2 x debet - elektronicky: 0,00",
 2026-08-31,250.0,EUR,Martina Zilkova,"Prijatá platba, DAR",
@@ -29,4 +30,3 @@ KS: 6898"
 2026-06-17,100.0,EUR,Helena Balážová,"Prijatá platba, NA KAMPAN, H.Balazova",
 2026-06-17,10.0,EUR,Ivana Bednar Hrda,"Prijatá platba, Drzim palce",
 2026-06-16,10.0,EUR,Michal Nemethy,"Prijatá platba, ",
-2026-06-16,44.0,EUR,MARTIN LAMAČKA,"Prijatá platba, VELA STASTIA",VS: 1
