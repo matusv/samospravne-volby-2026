@@ -21,10 +21,10 @@ date,amount,account_name,message,vs,name
 2026-05-05,62.73,KING MEDIA s. r. o.,King media - Jozef Kralik - duplicitna platba fa,,Jozef Králik
 2026-07-14,1000.0,"Tanoczký Norbert, Ing.","Tanoczky Norbert Ing, trencin, zlatovska, prispevok na kampan",,Ján Forgáč
 2026-07-14,-1000.0,"Tanoczký Norbert, Ing.","Mgr. Ján Forgáč, Partizánska 7859/50A, Trenčín, vrátenie prijatej platby - dar neprijatý",,Ján Forgáč
-2026-07-15,-1800.0,Sophia Gajarská,"Mgr. Ján Forgáč, Partizánska 7859/50A, Trenčín, vrátenie prijatej platby - dar neprijatý z dôvodu neuvedenej adresy trvalého pobytu darcu",,Ján Forgáč
 2026-07-15,-1000.0,Gajarská Zuzana,"Mgr. Ján Forgáč, Partizánska 7859/50A, Trenčín, vrátenie prijatej platby - dar neprijatý z dôvodu neuvedenej adresy trvalého pobytu darcu",,Ján Forgáč
 2026-07-15,1000.0,Gajarská Zuzana,Gajarska Zuzana J.Holleho 891/2 Trenčín,,Ján Forgáč
 2026-07-15,1800.0,Sophia Gajarská,"Sophia Gajarska, jana holleho 891/2, Forgac",,Ján Forgáč
+2026-07-15,-1800.0,Sophia Gajarská,"Mgr. Ján Forgáč, Partizánska 7859/50A, Trenčín, vrátenie prijatej platby - dar neprijatý z dôvodu neuvedenej adresy trvalého pobytu darcu",,Ján Forgáč
 2026-08-27,100.0,HERMELYOVA KATARINA,"Katarína Hemrelyová , Dar kampaň",,Katarína Hermelyová
 2026-08-28,-100.0,HERMELYOVA KATARINA,Vrátenie vkladu v hotovosti,,Katarína Hermelyová
 2026-04-15,0.01,Ivan Rostas,SK73 0200 0000 0045 5336 2157 . dakujem,,Kresťanskodemokratické hnutie
@@ -65,14 +65,16 @@ date,amount,account_name,message,vs,name
 2026-06-04,-250.0,Adzimová Fedorová Miroslava,Vrátenie chybnej platby,,Patrik Vaško
 2026-06-04,-250.0,Lavo Juraj,Vrátenie chybnej platby,,Patrik Vaško
 2026-06-04,-200.0,"SLOVENSKÁ POŠTA, A.S.",Vrátenie chybnej platby,,Patrik Vaško
+2024-07-22,100.0,Zlatica Suliova,ZLATIICA SULIOVA,122950,Peter Rék
+2024-09-02,-100.0,Zlatica Suliova,ZLATIICA SULIOVA Vratenie mylnej platby.,122950,Peter Rék
 2026-04-15,25.0,Stanislav Dubovsky,PLATBA/Dar,35,Progresívne Slovensko
 2026-04-30,-25.0,Stanislav Dubovsky,Platba/vratenie daru stanislav dubovsky,,Progresívne Slovensko
 2026-07-13,2000.0,Andrea Janicka Rudnayova,Platba/kampan KSK,12,Progresívne Slovensko
 2026-07-21,-2000.0,Andrea Janicka Rudnayova,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
 2026-08-28,1000.0,Diana Mesikova,Platba,1,Progresívne Slovensko
 2026-09-01,1000.0,bohowski s. r. o.,Platba/Vratenie nespravnej platby,,Progresívne Slovensko
-2026-09-01,-1000.0,Diana Mesikova,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
 2026-09-01,-1000.0,bohowski s. r. o.,Platba/Bohowski - konzultacne a marketingove sluzby 08/2026,20260033,Progresívne Slovensko
+2026-09-01,-1000.0,Diana Mesikova,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
 2026-07-29,500.0,Kristína Gajdosová,,0,Rastislav Makový
 2026-07-29,-500.0,Kristina Gajdosova,Vratenie platby. (Omyl),0,Rastislav Makový
 2026-04-15,2000.0,"Cicman Dalibor, Ing.",dar,20263164.0,Team Bratislava

@@ -1,4 +1,8 @@
 date,amount,currency,account_name,message,vs
+2026-09-04,-615.0,EUR,naknap s. r. o.,"Odoslaná okamžitá platba, komunikacna podpora - kampan 2026","VS: 20260023
+KS: 0308"
+2026-09-04,-39.0,EUR,MsKS,"Odoslaná platba elektronicky, Vylep plagatov","VS: 202600089
+KS: 308"
 2026-09-02,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 31.08.2026","VS: 497000244
 ŠS: 5032785547
 KS: 6898"
@@ -41,5 +45,3 @@ KS: 0608"
 KS: 6898"
 2026-08-18,50.0,EUR,Kóša Ladislav,"Prijatá platba, Finančný dar na podporu kandidatúry na primátora v LV",
 2026-08-18,1000.0,EUR,Tomas Flidr,"Prijatá platba, Dar",
-2026-08-17,1000.0,EUR,Alexandra Hulvejová,"Prijatá platba, Dar",
-2026-08-17,500.0,EUR,Libuše Šajbenová,"Prijatá platba, Dar",
