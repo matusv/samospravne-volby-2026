@@ -1,4 +1,10 @@
 date,amount,account_name,message,vs
+2026-09-03,-1500.0,VANDA TUCHYNOVA,Platba/Management kampane,15
+2026-09-03,-123.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",Platba/Uhrada faktury VF20263122,20263122
+2026-09-03,-1400.0,Filip Balvan,Platba/Úhrada faktúry: 2026TR43,202643
+2026-09-03,-400.0,Martin Schneider,Platba/Martin Schneider: 2026004 - Miroslav Sokol - 2026/09,2026004
+2026-09-03,4000.0,"Sokol Miroslav, Ing.",Platba,
+2026-09-03,-23.0,OPENAI *CHATGPT SUBSCR,EUR NÁKUP POS OPENAI *CHATGPT SUBSCR / DUBLIN / (POS SNUPPJRZ),
 2026-08-31,-3.0,,Poplatok za účet,
 2026-08-27,50.0,LUKASOVA ALBINA,Platba,
 2026-08-24,-54.93,Lidl dakuje 111,POS nákup Lidl dakuje 111 / ZILINA / (POS 06540500),
