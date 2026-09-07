@@ -1,4 +1,10 @@
 date,amount,currency,account_name,message,vs
+2026-09-07,750.0,EUR,Iveta Pospisilova,"Prijatá platba, dar","VS: 636210
+ŠS: 636210"
+2026-09-07,500.0,EUR,Porubec Ivan,"Prijatá platba, Eleonora Porubcova",
+2026-09-07,500.0,EUR,Porubec Ivan,"Prijatá platba, Ivan Porubec",
+2026-09-07,750.0,EUR,KDH - Krestanskodemokraticke hnutie,"Prijatá platba, Penazny dar",VS: 31082026
+2026-09-05,50.0,EUR,"Trgala Tomáš, Mgr.","Prijatá platba, Dar na kampan",
 2026-09-02,375.0,EUR,Lubica Galisova,"Prijatá platba, Galisova Lubica",
 2026-09-01,-1000.0,EUR,Matej Kukucka,"Odoslaná okamžitá platba, Graficke sluzby",VS: 502026
 2026-08-31,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.08.2026 do 31.08.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 7 x prijaté platby: 0,00, 2 x debet - elektronicky: 0,00",
@@ -23,10 +29,3 @@ KS: 6898"
 2026-07-06,-1488.3,EUR,"VKMM, spol. s r.o.","Odoslaná okamžitá platba, Billboardy tlac",VS: 1260047
 2026-07-06,-239.42,EUR,"ANWELL, s.r.o.","Odoslaná okamžitá platba, Vyroba odznakov",VS: 20262204
 2026-07-06,-2000.0,EUR,Dovi dopo kolektiv,"Odoslaná okamžitá platba, Marketingove sluzby",VS: 2026001
-2026-06-30,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.06.2026 do 30.06.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 11 x prijaté platby: 0,00, 1 x debet - elektronicky: 0,00",
-2026-06-30,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA CLASSIC DEB. CL Suma: 3 EUR 29.06.2026","VS: 495000180
-ŠS: 1139269320
-KS: 6898"
-2026-06-17,100.0,EUR,Helena Balážová,"Prijatá platba, NA KAMPAN, H.Balazova",
-2026-06-17,10.0,EUR,Ivana Bednar Hrda,"Prijatá platba, Drzim palce",
-2026-06-16,10.0,EUR,Michal Nemethy,"Prijatá platba, ",

@@ -1,4 +1,7 @@
 date,amount,currency,account_name,message,vs
+2026-09-07,-185.98,EUR,SERIGRAFIKA s.r.o.,"Odoslaná okamžitá platba, Tlac letakov",VS: 260313
+2026-09-07,-460.34,EUR,"LUKY MZ, s.r.o.","Odoslaná okamžitá platba, Balony","VS: 2610200525
+KS: 0008"
 2026-08-31,-3.6,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.08.2026 do 31.08.2026, Za vedenie účtu/balíka služieb a výpisy: 2,00, Za transakcie: 1,60 , z toho:, 8 x debet - elektronicky: 1,60",
 2026-08-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 28.08.2026","VS: 495000240
 ŠS: 5032602247
@@ -32,7 +35,3 @@ KS: 6898"
 2026-07-17,-200.0,EUR,ATRIUM BB,"Odoslaná okamžitá platba, Prenajom priest 2026-07-14",VS: 20260701
 2026-07-15,-787.2,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, Billb jul 26",VS: 202607152
 2026-07-15,5.0,EUR,Bérešová Klára,"Prijatá platba, ",
-2026-07-02,20.0,EUR,Lucia Kováčová,"Prijatá platba, ",
-2026-07-02,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.06.2026","VS: 497000182
-ŠS: 5032602247
-KS: 6898"
