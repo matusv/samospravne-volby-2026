@@ -21,10 +21,10 @@ date,amount,account_name,message,vs,name
 2026-05-05,62.73,KING MEDIA s. r. o.,King media - Jozef Kralik - duplicitna platba fa,,Jozef Králik
 2026-07-14,1000.0,"Tanoczký Norbert, Ing.","Tanoczky Norbert Ing, trencin, zlatovska, prispevok na kampan",,Ján Forgáč
 2026-07-14,-1000.0,"Tanoczký Norbert, Ing.","Mgr. Ján Forgáč, Partizánska 7859/50A, Trenčín, vrátenie prijatej platby - dar neprijatý",,Ján Forgáč
-2026-07-15,-1000.0,Gajarská Zuzana,"Mgr. Ján Forgáč, Partizánska 7859/50A, Trenčín, vrátenie prijatej platby - dar neprijatý z dôvodu neuvedenej adresy trvalého pobytu darcu",,Ján Forgáč
-2026-07-15,1000.0,Gajarská Zuzana,Gajarska Zuzana J.Holleho 891/2 Trenčín,,Ján Forgáč
-2026-07-15,1800.0,Sophia Gajarská,"Sophia Gajarska, jana holleho 891/2, Forgac",,Ján Forgáč
 2026-07-15,-1800.0,Sophia Gajarská,"Mgr. Ján Forgáč, Partizánska 7859/50A, Trenčín, vrátenie prijatej platby - dar neprijatý z dôvodu neuvedenej adresy trvalého pobytu darcu",,Ján Forgáč
+2026-07-15,-1000.0,Gajarská Zuzana,"Mgr. Ján Forgáč, Partizánska 7859/50A, Trenčín, vrátenie prijatej platby - dar neprijatý z dôvodu neuvedenej adresy trvalého pobytu darcu",,Ján Forgáč
+2026-07-15,1800.0,Sophia Gajarská,"Sophia Gajarska, jana holleho 891/2, Forgac",,Ján Forgáč
+2026-07-15,1000.0,Gajarská Zuzana,Gajarska Zuzana J.Holleho 891/2 Trenčín,,Ján Forgáč
 2026-08-27,100.0,HERMELYOVA KATARINA,"Katarína Hemrelyová , Dar kampaň",,Katarína Hermelyová
 2026-08-28,-100.0,HERMELYOVA KATARINA,Vrátenie vkladu v hotovosti,,Katarína Hermelyová
 2026-04-15,0.01,Ivan Rostas,SK73 0200 0000 0045 5336 2157 . dakujem,,Kresťanskodemokratické hnutie
@@ -43,14 +43,16 @@ date,amount,account_name,message,vs,name
 2026-04-23,256.0,Novák Ján,Vklad,,Ladislav Lörinc
 2026-04-23,271.0,"Zálepa Ladislav, PaedDr.",Ladislav Zalepa,23042026.0,Ladislav Lörinc
 2026-05-04,-243.0,"Adamková Alena, Ing.",Vrátenie chybnej platby,,Ladislav Lörinc
+2026-05-13,-271.0,"Zálepa Ladislav, PaedDr.",Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-13,-252.0,"Klasovitá Soňa, Ing.",Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-13,-220.0,Závodská Gabriela,Vrátenie chybnej platby,,Ladislav Lörinc
-2026-05-13,-271.0,"Zálepa Ladislav, PaedDr.",Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-14,-274.0,Szöllösiová Terézia,Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-26,-272.0,SNOPKOVA EMILIA,Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-26,-256.0,Novák Ján,Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-26,-225.0,Ondrejka Matúš,Vrátenie chybnej platby,,Ladislav Lörinc
 2026-09-01,-251.0,Mária Hrajnohová,Vrátenie chybnej platby,,Ladislav Lörinc
+2026-05-20,300.0,Kristina Simonova,,,Ladislav Smatana
+2026-05-27,-300.0,KRISTINA SIMONOVA,VRATENIE PLATBY,,Ladislav Smatana
 2026-03-18,0.55,Echko Mário,F001180320266377492,,Lucia Búšová
 2026-03-23,0.01,Echko Mário,dakujem za kandidaturu a prosim o odpovede na moje otazky dakujem,,Lucia Búšová
 2026-03-24,-0.55,Echko Mário,"Vrátenie platby - Echko Mário, 18.03.2026",,Lucia Búšová
@@ -67,11 +69,13 @@ date,amount,account_name,message,vs,name
 2024-09-02,-100.0,Zlatica Suliova,ZLATIICA SULIOVA Vratenie mylnej platby.,122950,Peter Rék
 2026-04-15,25.0,Stanislav Dubovsky,PLATBA/Dar,35,Progresívne Slovensko
 2026-04-30,-25.0,Stanislav Dubovsky,Platba/vratenie daru stanislav dubovsky,,Progresívne Slovensko
+2026-07-13,2000.0,Andrea Janicka Rudnayova,Platba/kampan KSK,12,Progresívne Slovensko
+2026-07-21,-2000.0,Andrea Janicka Rudnayova,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
 2026-08-28,1000.0,Diana Mesikova,Platba,1,Progresívne Slovensko
 2026-09-01,1000.0,bohowski s. r. o.,Platba/Vratenie nespravnej platby,,Progresívne Slovensko
 2026-09-01,-1000.0,bohowski s. r. o.,Platba/Bohowski - konzultacne a marketingove sluzby 08/2026,20260033,Progresívne Slovensko
-2026-09-01,-1000.0,Diana Mesikova,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
 2026-09-01,1000.0,BENCO STANISLAV,Platba,2,Progresívne Slovensko
+2026-09-01,-1000.0,Diana Mesikova,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
 2026-09-03,141.4,Juraj Štefunko,Platba/Vratenie mylnej platby,,Progresívne Slovensko
 2026-09-03,-1000.0,BENCO STANISLAV,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
 2026-09-03,-141.4,Juraj Štefunko,Platba/Juraj Stefunko - administrativne sluzby sprava mailov Ps 07/2026,212026,Progresívne Slovensko

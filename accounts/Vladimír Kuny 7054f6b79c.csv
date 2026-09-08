@@ -1,4 +1,10 @@
 date,amount,currency,account_name,message,vs
+2026-09-07,-19.21,EUR,,"Transakcia platobnou kartou, Suma: 19,21 EUR 03.09.2026 Miesto: FAXCOPY42,LV,SV. MICHALA LEVICE","VS: 405000249
+ŠS: 5032785547
+KS: 0608"
+2026-09-07,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 03.09.2026","VS: 497000249
+ŠS: 5032785547
+KS: 6898"
 2026-09-04,-615.0,EUR,naknap s. r. o.,"Odoslaná okamžitá platba, komunikacna podpora - kampan 2026","VS: 20260023
 KS: 0308"
 2026-09-04,-39.0,EUR,MsKS,"Odoslaná platba elektronicky, Vylep plagatov","VS: 202600089
@@ -43,5 +49,3 @@ KS: 0608"
 2026-08-19,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 17.08.2026","VS: 497000230
 ŠS: 5032785547
 KS: 6898"
-2026-08-18,50.0,EUR,Kóša Ladislav,"Prijatá platba, Finančný dar na podporu kandidatúry na primátora v LV",
-2026-08-18,1000.0,EUR,Tomas Flidr,"Prijatá platba, Dar",
