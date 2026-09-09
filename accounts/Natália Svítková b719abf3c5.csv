@@ -1,4 +1,6 @@
 date,amount,currency,account_name,message,vs
+2026-09-08,375.0,EUR,Martina Margolienova,"Prijatá platba, Kandidacky prispevok",
+2026-09-08,-7576.8,EUR,BRANMEDIA s. r. o.,"Odoslaná okamžitá platba, Uhrada faktury: 26090040 - prenajom billboardov 09/26",VS: 26090040
 2026-09-08,375.0,EUR,Lukáš Ranik,"Prijatá platba, Dar",
 2026-09-07,750.0,EUR,Iveta Pospisilova,"Prijatá platba, dar","VS: 636210
 ŠS: 636210"
@@ -27,5 +29,3 @@ KS: 6898"
 KS: 6898"
 2026-07-20,10000.0,EUR,Demokrati,"Prijatá platba, Dar na kampan",VS: 10042026
 2026-07-06,-356.7,EUR,"VKMM, spol. s r.o.","Odoslaná okamžitá platba, Beach flagy komplet",VS: 1260048
-2026-07-06,-1488.3,EUR,"VKMM, spol. s r.o.","Odoslaná okamžitá platba, Billboardy tlac",VS: 1260047
-2026-07-06,-239.42,EUR,"ANWELL, s.r.o.","Odoslaná okamžitá platba, Vyroba odznakov",VS: 20262204

@@ -1,4 +1,7 @@
 date,amount,currency,account_name,message,vs
+2026-09-08,-51.66,EUR,Slovensky ochranny zvaz autorsky pre prava k hudobnym dielam,"Odoslaná okamžitá platba, Slovensky ochranny zvaz autorsky pre prava k hudobnym dielam - susedske popoludnia","VS: **********
+ŠS: 56278
+KS: 0308"
 2026-09-07,1000.0,EUR,František Küffer,"Prijatá platba, ",
 2026-09-06,3000.0,EUR,Silvia Turzikova,"Prijatá platba, ",
 2026-09-05,20.0,EUR,Jaroslav Zabka,"Prijatá platba, Zabka Jaroslav - dar na kampan",
@@ -23,4 +26,3 @@ date,amount,currency,account_name,message,vs
 2026-08-22,-821.64,EUR,"NUBIUM, s. r. o.","Odoslaná okamžitá platba, NUBIUM, s.r.o. billboardy",VS: 16220021
 2026-08-21,1000.0,EUR,Ján Gigac,"Prijatá platba, Na kampan",
 2026-08-19,20.0,EUR,Gabriela Vlcikova,"Prijatá platba, ",
-2026-08-19,100.0,EUR,KMET LUBOS,"Prijatá platba, /DO2026-08-19/SPLubos Kmet na podporu kampane",

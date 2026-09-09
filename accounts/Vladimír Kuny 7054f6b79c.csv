@@ -1,4 +1,10 @@
 date,amount,currency,account_name,message,vs
+2026-09-08,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 06.09.2026","VS: 497000250
+ŠS: 5032785547
+KS: 6898"
+2026-09-08,-50.0,EUR,,"Transakcia platobnou kartou, Suma: 50 EUR 06.09.2026 Miesto: THE CAFFE Levice","VS: 405000250
+ŠS: 5032785547
+KS: 0608"
 2026-09-07,-19.21,EUR,,"Transakcia platobnou kartou, Suma: 19,21 EUR 03.09.2026 Miesto: FAXCOPY42,LV,SV. MICHALA LEVICE","VS: 405000249
 ŠS: 5032785547
 KS: 0608"
@@ -43,9 +49,3 @@ KS: 0608"
 KS: 0308"
 2026-08-20,200.0,EUR,Libuše Šajbenová,"Prijatá platba, Dar",
 2026-08-19,1000.0,EUR,Vrecnik Peter,"Prijatá platba, Dar",
-2026-08-19,-77.68,EUR,,"Transakcia platobnou kartou, Suma: 77,68 EUR 17.08.2026 Miesto: MIRA OFFICE LEVICE","VS: 405000230
-ŠS: 5032785547
-KS: 0608"
-2026-08-19,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 17.08.2026","VS: 497000230
-ŠS: 5032785547
-KS: 6898"

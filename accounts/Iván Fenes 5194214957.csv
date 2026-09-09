@@ -1,4 +1,7 @@
 date,amount,account_name,message,vs
+2026-09-09,1200.0,Bežný účet ČSOB,vratenie duplicitnej platby,2026008.0
+2026-09-09,-10.0,,Poplatok Potvrdenie o vykonaní platby,
+2026-09-09,-10.0,,Poplatok Potvrdenie o vykonaní platby,
 2026-09-08,-1200.0,Bežný účet ČSOB,Prenájom reklamnej plochy - Voľby do samosprávy obcí 2026,2026008.0
 2026-09-08,-1200.0,Bežný účet ČSOB,Úhrada faktúry č. 8/2026,2026008.0
 2026-08-31,-5.0,,Zverejňovanie účtu,
