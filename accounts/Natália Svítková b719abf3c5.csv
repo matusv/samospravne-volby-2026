@@ -1,4 +1,11 @@
 date,amount,currency,account_name,message,vs
+2026-09-10,-3591.6,EUR,"2muse, s.r.o.","Odoslaná okamžitá platba, Platba faktury 260100292- prieskum1","VS: 260100292
+KS: 0308"
+2026-09-10,750.0,EUR,Peter Mikulas,"Prijatá platba, Peter Mikulas",
+2026-09-10,5000.0,EUR,"ZMB, SPOL. S R.O.","Prijatá platba, ","VS: 09092026
+ŠS: 0
+KS: 0"
+2026-09-09,350.0,EUR,NADA TRELOVA SONOGOVA,"Prijatá platba, Nada Trelova Sonogova -dar",
 2026-09-08,375.0,EUR,Martina Margolienova,"Prijatá platba, Kandidacky prispevok",
 2026-09-08,-7576.8,EUR,BRANMEDIA s. r. o.,"Odoslaná okamžitá platba, Uhrada faktury: 26090040 - prenajom billboardov 09/26",VS: 26090040
 2026-09-08,375.0,EUR,Lukáš Ranik,"Prijatá platba, Dar",
@@ -23,9 +30,3 @@ KS: 6898"
 2026-08-08,500.0,EUR,Lucia Trnová,"Prijatá platba, ",
 2026-08-05,600.0,EUR,Ľubica Zubajová,"Prijatá platba, ",
 2026-08-02,950.0,EUR,Peter Kmet,"Prijatá platba, ",
-2026-07-31,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.07.2026 do 31.07.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 1 x prijaté platby: 0,00, 4 x debet - elektronicky: 0,00",
-2026-07-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA CLASSIC DEB. CL Suma: 3 EUR 30.07.2026","VS: 495000211
-ŠS: 1139269320
-KS: 6898"
-2026-07-20,10000.0,EUR,Demokrati,"Prijatá platba, Dar na kampan",VS: 10042026
-2026-07-06,-356.7,EUR,"VKMM, spol. s r.o.","Odoslaná okamžitá platba, Beach flagy komplet",VS: 1260048

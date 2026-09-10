@@ -1,4 +1,5 @@
 date,amount,currency,account_name,message,vs
+2026-09-10,150.0,EUR,Juraj Vrablansky,"Prijatá platba, DAR",
 2026-09-08,-51.66,EUR,Slovensky ochranny zvaz autorsky pre prava k hudobnym dielam,"Odoslaná okamžitá platba, Slovensky ochranny zvaz autorsky pre prava k hudobnym dielam - susedske popoludnia","VS: **********
 ŠS: 56278
 KS: 0308"
@@ -25,4 +26,3 @@ KS: 0308"
 2026-08-22,-616.23,EUR,"NUBIUM, s. r. o.","Odoslaná okamžitá platba, NUBIUM, s.r.o. billboardy",VS: 16120102
 2026-08-22,-821.64,EUR,"NUBIUM, s. r. o.","Odoslaná okamžitá platba, NUBIUM, s.r.o. billboardy",VS: 16220021
 2026-08-21,1000.0,EUR,Ján Gigac,"Prijatá platba, Na kampan",
-2026-08-19,20.0,EUR,Gabriela Vlcikova,"Prijatá platba, ",

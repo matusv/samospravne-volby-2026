@@ -1,4 +1,6 @@
 date,amount,currency,account_name,message,vs
+2026-09-09,-2610.0,EUR,web positive s.r.o.,"Odoslaná okamžitá platba, Graficke prace - volby 2026",VS: 1992026
+2026-09-09,2600.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 092026
 2026-09-08,-4760.1,EUR,"KANOVITS FINEART, s.r.o.","Odoslaná okamžitá platba, Fotograficke sluzby","VS: 260900001
 KS: 0308"
 2026-09-08,4800.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 092026
@@ -31,5 +33,3 @@ KS: 6898"
 KS: 6898"
 2026-07-28,-250.0,EUR,KEMAR s r.o.,"Odoslaná okamžitá platba, Vyroba rollup",VS: 20260280
 2026-07-27,250.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 072026
-2026-07-14,-27.59,EUR,,"Transakčná daň z prevodov, ",KS: 0558
-2026-07-14,-359.16,EUR,"BigMedia, spol. s r.o.","Odoslaná okamžitá platba, Poskytnutie reklamnych sluzieb - billboardy",VS: 122690064
