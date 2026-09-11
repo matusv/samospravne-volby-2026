@@ -1,4 +1,7 @@
 date,amount,currency,account_name,message,vs
+2026-09-11,750.0,EUR,Ladislav Matejka,"Prijatá platba, Matejka Ladislav",
+2026-09-11,750.0,EUR,Tomas Urminsky,"Prijatá platba, NMnV podporuje Svitkovu",
+2026-09-10,750.0,EUR,"Oulehle Peter, MUDr.","Prijatá platba, MUDr. Peter Oulehle",
 2026-09-10,-3591.6,EUR,"2muse, s.r.o.","Odoslaná okamžitá platba, Platba faktury 260100292- prieskum1","VS: 260100292
 KS: 0308"
 2026-09-10,750.0,EUR,Peter Mikulas,"Prijatá platba, Peter Mikulas",
@@ -27,6 +30,3 @@ KS: 6898"
 2026-08-28,-125.0,EUR,Lukas Knaze,"Odoslaná okamžitá platba, Prenajom zariadenia na vyrobu cukrovej vaty",
 2026-08-26,250.0,EUR,"Rebrová Katarína, MUDr.","Prijatá platba, Katarina Rebrová",
 2026-08-20,950.0,EUR,Trn Michal,"Prijatá platba, ",
-2026-08-08,500.0,EUR,Lucia Trnová,"Prijatá platba, ",
-2026-08-05,600.0,EUR,Ľubica Zubajová,"Prijatá platba, ",
-2026-08-02,950.0,EUR,Peter Kmet,"Prijatá platba, ",
