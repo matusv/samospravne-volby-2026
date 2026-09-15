@@ -1,4 +1,16 @@
 date,amount,currency,account_name,message,vs
+2026-09-14,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 12.09.2026","VS: 497000256
+ŠS: 5032602247
+KS: 6898"
+2026-09-14,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 12.09.2026","VS: 497000256
+ŠS: 5032602247
+KS: 6898"
+2026-09-14,-40.91,EUR,,"Transakcia platobnou kartou, Suma: 40,91 EUR 12.09.2026 Miesto: C055 Banska Bytrica Banska Bytric","VS: 405000256
+ŠS: 5032602247
+KS: 0608"
+2026-09-14,-37.89,EUR,,"Transakcia platobnou kartou, Suma: 37,89 EUR 12.09.2026 Miesto: C055 Banska Bytrica Banska Bytric","VS: 405000256
+ŠS: 5032602247
+KS: 0608"
 2026-09-07,-185.98,EUR,SERIGRAFIKA s.r.o.,"Odoslaná okamžitá platba, Tlac letakov",VS: 260313
 2026-09-07,-460.34,EUR,"LUKY MZ, s.r.o.","Odoslaná okamžitá platba, Balony","VS: 2610200525
 KS: 0008"
@@ -31,7 +43,3 @@ KS: 0608"
 ŠS: 5032602247
 KS: 6898"
 2026-07-18,100.0,EUR,Vestiga s. r. o.,"Prijatá platba, prispevok na kampan Sobota 2026",
-2026-07-18,50.0,EUR,JOZEF BALÁŽ,"Prijatá platba, DAR NA KAMPAN",
-2026-07-17,-200.0,EUR,ATRIUM BB,"Odoslaná okamžitá platba, Prenajom priest 2026-07-14",VS: 20260701
-2026-07-15,-787.2,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, Billb jul 26",VS: 202607152
-2026-07-15,5.0,EUR,Bérešová Klára,"Prijatá platba, ",

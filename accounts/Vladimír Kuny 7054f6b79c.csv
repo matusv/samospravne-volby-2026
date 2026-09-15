@@ -1,4 +1,10 @@
 date,amount,currency,account_name,message,vs
+2026-09-14,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 10.09.2026","VS: 497000254
+ŠS: 5032785547
+KS: 6898"
+2026-09-14,-26.25,EUR,,"Transakcia platobnou kartou, Suma: 26,25 EUR 10.09.2026 Miesto: MIRA OFFICE LEVICE","VS: 405000254
+ŠS: 5032785547
+KS: 0608"
 2026-09-09,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 07.09.2026","VS: 497000251
 ŠS: 5032785547
 KS: 6898"
@@ -54,5 +60,3 @@ KS: 6898"
 2026-08-26,-20.66,EUR,,"Transakcia platobnou kartou, Suma: 20,66 EUR 24.08.2026 Miesto: Mailchimp 678-9990141","VS: 405000237
 ŠS: 5032785547
 KS: 0608"
-2026-08-24,1000.0,EUR,Libor Kmeť,"Prijatá platba, Dar na kampan",
-2026-08-20,1000.0,EUR,Mgr.Rastislav Stevko,"Prijatá platba, ",
