@@ -1,4 +1,5 @@
 date,amount,currency,account_name,message,vs
+2026-09-16,2500.0,EUR,Zdenko Cepan,"Prijatá platba, ",
 2026-09-11,750.0,EUR,Ladislav Matejka,"Prijatá platba, Matejka Ladislav",
 2026-09-11,750.0,EUR,Tomas Urminsky,"Prijatá platba, NMnV podporuje Svitkovu",
 2026-09-10,750.0,EUR,"Oulehle Peter, MUDr.","Prijatá platba, MUDr. Peter Oulehle",
@@ -29,4 +30,3 @@ KS: 6898"
 2026-08-28,-2000.0,EUR,Dovi dopo kolektiv,"Odoslaná okamžitá platba, Marketingove sluzby",VS: 2026003
 2026-08-28,-125.0,EUR,Lukas Knaze,"Odoslaná okamžitá platba, Prenajom zariadenia na vyrobu cukrovej vaty",
 2026-08-26,250.0,EUR,"Rebrová Katarína, MUDr.","Prijatá platba, Katarina Rebrová",
-2026-08-20,950.0,EUR,Trn Michal,"Prijatá platba, ",

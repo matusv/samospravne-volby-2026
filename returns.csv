@@ -5,8 +5,8 @@ date,amount,account_name,message,vs,name
 2026-04-28,-0.1,Reich Lukas,0260428152236.816371,,Daniel Klimovský
 2026-06-04,3200.0,VENA Agentur s. r. o.,PLATBA,20260001.0,Dunaj
 2026-06-04,-3200.0,VENA Agentur s. r. o.,Platba/Vyroba a osadenie reklamnych ploch,20260001.0,Dunaj
-2026-09-07,-50.0,"Drevenice Lazisko, s.r.o.",Platba/Vratka,,Erik Doman
 2026-09-07,50.0,"Drevenice Lazisko, s.r.o.",Platba,,Erik Doman
+2026-09-07,-50.0,"Drevenice Lazisko, s.r.o.",Platba/Vratka,,Erik Doman
 2026-05-25,0.02,PayPal Europe S.a.r.l. et Cie S.C.A,Return: Payment returned because you sent it to the wrong bank account. Log in to your PayPal account and choose 'Transfer Money' to retry,,Erik Radačovský
 2026-05-25,-0.02,PayPal Europe S.a.r.l. et Cie S.C.A,Vratenie platby - neidentifikovany darca,,Erik Radačovský
 2026-05-25,0.14,PayPal Europe S.a.r.l. et Cie S.C.A,Return: Payment returned because you sent it to the wrong bank account. Log in to your PayPal account and choose 'Transfer Money' to retry,,Erik Radačovský
@@ -78,17 +78,15 @@ date,amount,account_name,message,vs,name
 2026-07-21,-2000.0,Andrea Janicka Rudnayova,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
 2026-08-28,1000.0,Diana Mesikova,Platba,1,Progresívne Slovensko
 2026-09-01,1000.0,bohowski s. r. o.,Platba/Vratenie nespravnej platby,,Progresívne Slovensko
-2026-09-01,-1000.0,bohowski s. r. o.,Platba/Bohowski - konzultacne a marketingove sluzby 08/2026,20260033,Progresívne Slovensko
-2026-09-01,1000.0,BENCO STANISLAV,Platba,2,Progresívne Slovensko
 2026-09-01,-1000.0,Diana Mesikova,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
+2026-09-01,1000.0,BENCO STANISLAV,Platba,2,Progresívne Slovensko
+2026-09-01,-1000.0,bohowski s. r. o.,Platba/Bohowski - konzultacne a marketingove sluzby 08/2026,20260033,Progresívne Slovensko
 2026-09-02,750.0,Juraj Smutko,Platba,12,Progresívne Slovensko
 2026-09-03,141.4,Juraj Štefunko,Platba/Vratenie mylnej platby,,Progresívne Slovensko
 2026-09-03,-1000.0,BENCO STANISLAV,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
 2026-09-03,-141.4,Juraj Štefunko,Platba/Juraj Stefunko - administrativne sluzby sprava mailov Ps 07/2026,212026,Progresívne Slovensko
 2026-09-09,-750.0,Juraj Smutko,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
 2026-09-10,-800.0,GALA LADISLAV,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
-2026-07-29,500.0,Kristína Gajdosová,,0,Rastislav Makový
-2026-07-29,-500.0,Kristina Gajdosova,Vratenie platby. (Omyl),0,Rastislav Makový
 2026-04-15,2000.0,"Cicman Dalibor, Ing.",dar,20263164.0,Team Bratislava
 2026-04-20,-2000.0,"Cicman Dalibor, Ing.",Vrateny dar,,Team Bratislava
 2026-05-14,1670.0,Lukáš Krajčík - Digital stories,Vratenie platby,,Team Bratislava

@@ -1,4 +1,14 @@
 date,amount,currency,account_name,message,vs
+2026-09-16,-1248.82,EUR,LIMAX LM s.r.o.,"Odoslaná okamžitá platba, Kampanove tricka a nalepky","VS: 10260135
+KS: 308"
+2026-09-16,-39.0,EUR,MsKS,"Odoslaná okamžitá platba, Vylep plagatov na 2 tyzdne v LV","VS: 202600098
+KS: 308"
+2026-09-16,-96.0,EUR,MsKS,"Odoslaná platba elektronicky, Technicke zabezpecenie podujatia","VS: 202600094
+KS: 308"
+2026-09-16,-1291.5,EUR,"CLIENT SERVICE, s.r.o.","Odoslaná okamžitá platba, Bilboardy 9, 10. Kampan 2026","VS: 10260538
+KS: 308"
+2026-09-15,-25.0,EUR,MESTSKE KULTURNE STREDISKO LEVICE,"Odoslaná platba elektronicky, Pozvanka mestsky rozhlas MsKS","VS: 202600099
+KS: 308"
 2026-09-14,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 10.09.2026","VS: 497000254
 ŠS: 5032785547
 KS: 6898"
@@ -49,14 +59,3 @@ KS: 0608"
 2026-09-01,0.67,EUR,Dominik Galgoc,"Prijatá platba, six seven",
 2026-09-01,0.01,EUR,MIROSLAV SNIDA,"Prijatá platba, PLATBA",
 2026-08-31,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.08.2026 do 31.08.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 16 x prijaté platby: 0,00, 9 x debet - elektronicky: 0,00",
-2026-08-31,500.0,EUR,Marek Gabona,"Prijatá platba, Dar na kampan",
-2026-08-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 28.08.2026","VS: 495000240
-ŠS: 5032785547
-KS: 6898"
-2026-08-31,100.0,EUR,"Macák Marek, Ing.","Prijatá platba, Vratme zivot do Levic",
-2026-08-26,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.08.2026","VS: 497000237
-ŠS: 5032785547
-KS: 6898"
-2026-08-26,-20.66,EUR,,"Transakcia platobnou kartou, Suma: 20,66 EUR 24.08.2026 Miesto: Mailchimp 678-9990141","VS: 405000237
-ŠS: 5032785547
-KS: 0608"
