@@ -1,4 +1,5 @@
 date,amount,currency,account_name,message,vs
+2026-09-18,-250.0,EUR,Diana Cernakova,"Odoslaná okamžitá platba, Foto v exterieri - zmluva",
 2026-09-14,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 12.09.2026","VS: 497000256
 ŠS: 5032602247
 KS: 6898"
@@ -42,4 +43,3 @@ KS: 0608"
 2026-07-27,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.07.2026","VS: 497000206
 ŠS: 5032602247
 KS: 6898"
-2026-07-18,100.0,EUR,Vestiga s. r. o.,"Prijatá platba, prispevok na kampan Sobota 2026",
