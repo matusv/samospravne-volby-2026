@@ -1,4 +1,6 @@
 date,amount,currency,account_name,message,vs
+2026-09-19,-1500.0,EUR,Youngandproud s. r. o.,"Odoslaná platba elektronicky, Vyroba audiovizualneho obsahu a strategie","VS: 920260003
+KS: 0308"
 2026-09-16,10.0,EUR,Miroslava Lacovicova,"Prijatá platba, drzim silno paste z Kanianky",
 2026-09-11,500.0,EUR,Jaroslav Vojtas,"Prijatá platba, Ivona a Jaroslav Vojtasovi",ŠS: **********
 2026-09-11,-1525.2,EUR,"ADRA ATTIS, s. r. o.","Odoslaná okamžitá platba, Reklamne a propgacne predmety, potlace","VS: 26225
@@ -26,4 +28,3 @@ KS: 0308"
 2026-08-24,-350.0,EUR,Sokoliari AQUILA Bojnice,"Odoslaná okamžitá platba, Sokoliari AQUILA Bojnice - vystupenie na Susedskom popoludni na Kopaniciach",KS: 0308
 2026-08-24,1000.0,EUR,PAVOL MEDÁR,"Prijatá platba, PLATBA",
 2026-08-24,400.0,EUR,Hromadová Jana,"Prijatá platba, ",
-2026-08-23,-500.0,EUR,"Mgr. Tomas Kovalinka, PhD","Odoslaná okamžitá platba, Mgr. Tomas Kovalinka, PhD - tvorbawebovej stranky na zaklade dodanych podkladov",VS: 20260011
