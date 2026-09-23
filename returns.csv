@@ -59,18 +59,24 @@ date,amount,account_name,message,vs,name
 2026-03-23,0.01,Echko Mário,dakujem za kandidaturu a prosim o odpovede na moje otazky dakujem,,Lucia Búšová
 2026-03-24,-0.01,Echko Mário,"Vrátenie platby - Echko Mário, 23.03.2026",,Lucia Búšová
 2026-03-24,-0.55,Echko Mário,"Vrátenie platby - Echko Mário, 18.03.2026",,Lucia Búšová
-2026-09-07,-34.7,Matej Greschner,Kruzkobranie-sponzorsky dar Lopty,,Maroš Greschner
 2026-09-07,34.7,Matej Greschner,spatna platba kruzkobranie,,Maroš Greschner
+2026-09-07,-34.7,Matej Greschner,Kruzkobranie-sponzorsky dar Lopty,,Maroš Greschner
 2026-08-06,223.86,"ISPA, spol. s r.o.",?/DO2026-08-05/SP,202603149.0,Matej Lančarič
 2026-08-06,-223.86,"ISPA, spol.s.r.o.","Oprava platby, poskytnutie reklamne ho priestoru Bilbord",26950321.0,Matej Lančarič
 2026-09-10,250.0,Peter Olejnik,Peter Olejnik,10092026.0,Michal Brna
 2026-09-17,-250.0,Peter Olejnik,vratenie platby,10092026.0,Michal Brna
+2026-09-21,100.0,Jan Varholik,"Prijatá platba, ",,Miroslav Špak
+2026-09-21,300.0,Jan Varholik,"Prijatá platba, ",,Miroslav Špak
+2026-09-21,-300.0,Jan Varholik,"Odoslaná okamžitá platba, ",,Miroslav Špak
+2026-09-21,-100.0,Jan Varholik,"Odoslaná okamžitá platba, ",,Miroslav Špak
 2026-05-21,200.0,"SLOVENSKÁ POŠTA, A.S.",18014250916319052026/SS-0000000000/DAGMAR SZECSENYIOVA-BRATISLAVA/,4742523.0,Patrik Vaško
 2026-05-21,250.0,Lavo Juraj,Juraj Lavo,4751101.0,Patrik Vaško
 2026-05-21,250.0,Adzimová Fedorová Miroslava,Miroslava Adzimová Fedorová,4751331.0,Patrik Vaško
 2026-06-04,-250.0,Adzimová Fedorová Miroslava,Vrátenie chybnej platby,,Patrik Vaško
 2026-06-04,-250.0,Lavo Juraj,Vrátenie chybnej platby,,Patrik Vaško
 2026-06-04,-200.0,"SLOVENSKÁ POŠTA, A.S.",Vrátenie chybnej platby,,Patrik Vaško
+2026-09-21,100.0,Peter Hajas,drzim palce vo volbach a verim ti,,Peter Fiabáne
+2026-09-21,-100.0,Peter Hajas,"Dakujem, platby od sponzorov mojich protikandidatov neprijimam.",,Peter Fiabáne
 2024-07-22,100.0,Zlatica Suliova,ZLATIICA SULIOVA,122950,Peter Rék
 2024-09-02,-100.0,Zlatica Suliova,ZLATIICA SULIOVA Vratenie mylnej platby.,122950,Peter Rék
 2026-04-15,25.0,Stanislav Dubovsky,PLATBA/Dar,35,Progresívne Slovensko
@@ -89,8 +95,8 @@ date,amount,account_name,message,vs,name
 2026-09-03,-141.4,Juraj Štefunko,Platba/Juraj Stefunko - administrativne sluzby sprava mailov Ps 07/2026,212026,Progresívne Slovensko
 2026-09-09,-750.0,Juraj Smutko,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
 2026-09-10,-800.0,GALA LADISLAV,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
-2026-07-29,500.0,Kristína Gajdosová,,0,Rastislav Makový
-2026-07-29,-500.0,Kristina Gajdosova,Vratenie platby. (Omyl),0,Rastislav Makový
+2026-09-18,221.4,KESELY DAVID,"?/DO2026-09-18/SPDavid Kesely, komunalne volby 2026, bilbord Nubium v.s.16120180",16120180.0,SME RODINA
+2026-09-22,-221.4,KESELY DAVID,Vratenie daru,16120180.0,SME RODINA
 2026-04-15,2000.0,"Cicman Dalibor, Ing.",dar,20263164.0,Team Bratislava
 2026-04-20,-2000.0,"Cicman Dalibor, Ing.",Vrateny dar,,Team Bratislava
 2026-05-14,1670.0,Lukáš Krajčík - Digital stories,Vratenie platby,,Team Bratislava

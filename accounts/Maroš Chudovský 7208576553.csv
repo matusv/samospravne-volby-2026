@@ -1,6 +1,7 @@
 date,amount,account_name,message,vs
 2026-09-21,-480.0,Platba kartou,Tutanchamon Bratislava,****9632
 2026-09-21,30.0,VOJTKOVA KATARINA,dar,7770123793
+2026-09-21,-369.0,"Petit press, a.s.",Reklamny priestor Chudovsky,2633101497
 2026-09-16,10.0,Ladislav Mitrev,dar 4 drzim palce,7775689147
 2026-09-15,2500.0,Peter Vačko,Dar Peter Vacko,7776630654
 2026-09-15,500.0,Radovan Hantak,Dar,
@@ -8,4 +9,3 @@ date,amount,account_name,message,vs
 2026-09-14,200.0,Ján Ondreják,dar,7774986374
 2026-09-14,100.0,Natalia Celko Pilatova,"Drzim moc palce, prajem si zmenu pre mesto",
 2026-09-10,500.0,Milan Majercak,dar,7770637190
-2026-09-09,-8.7,Platba kartou + A-pay,Hospitality Wor POVAZSKA B,****9632

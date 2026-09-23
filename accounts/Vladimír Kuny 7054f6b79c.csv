@@ -1,4 +1,41 @@
 date,amount,currency,account_name,message,vs
+2026-09-22,-16.56,EUR,,"Transakcia platobnou kartou, Suma: 16,56 EUR 19.09.2026 Miesto: MERKURY SHOP s.r.o. LEVICE","VS: 405000264
+ŠS: 5032785547
+KS: 0608"
+2026-09-22,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 19.09.2026","VS: 497000264
+ŠS: 5032785547
+KS: 6898"
+2026-09-22,-680.0,EUR,STAGE LIGHT S.R.O.,"Odoslaná okamžitá platba, Prenajom podia kom.volby2026","VS: 342026
+KS: 308"
+2026-09-22,-940.8,EUR,Peter Hloska,"Odoslaná okamžitá platba, Catering pivo a kofola v parku","VS: 252026
+KS: 308"
+2026-09-22,-324.0,EUR,Dobre Vibracie,"Odoslaná okamžitá platba, Catering Pizza v parku","VS: 012026
+KS: 308"
+2026-09-22,-2361.59,EUR,CAPRESE s. r. o.,"Odoslaná okamžitá platba, Catering a prenajom stankov",VS: 2026088
+2026-09-21,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 18.09.2026","VS: 497000262
+ŠS: 5032785547
+KS: 6898"
+2026-09-21,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 18.09.2026","VS: 497000262
+ŠS: 5032785547
+KS: 6898"
+2026-09-21,-69.0,EUR,,"Transakcia platobnou kartou, Suma: 69 EUR 18.09.2026 Miesto: PAC Zitava LV - Fiskal Levice","VS: 405000262
+ŠS: 5032785547
+KS: 0608"
+2026-09-21,-195.85,EUR,,"Transakcia platobnou kartou, Suma: 195,85 EUR 18.09.2026 Miesto: Maso-udeniny NIVO Levice","VS: 405000262
+ŠS: 5032785547
+KS: 0608"
+2026-09-21,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 17.09.2026","VS: 497000261
+ŠS: 5032785547
+KS: 6898"
+2026-09-21,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 17.09.2026","VS: 497000261
+ŠS: 5032785547
+KS: 6898"
+2026-09-21,-147.23,EUR,,"Transakcia platobnou kartou, Suma: 147,23 EUR 17.09.2026 Miesto: FAXCOPY42,LV,SV. MICHALA LEVICE","VS: 405000261
+ŠS: 5032785547
+KS: 0608"
+2026-09-21,-59.33,EUR,,"Transakcia platobnou kartou, Suma: 59,33 EUR 17.09.2026 Miesto: MIRA OFFICE LEVICE","VS: 405000261
+ŠS: 5032785547
+KS: 0608"
 2026-09-16,-1248.82,EUR,LIMAX LM s.r.o.,"Odoslaná okamžitá platba, Kampanove tricka a nalepky","VS: 10260135
 KS: 308"
 2026-09-16,-39.0,EUR,MsKS,"Odoslaná okamžitá platba, Vylep plagatov na 2 tyzdne v LV","VS: 202600098
@@ -27,35 +64,3 @@ KS: 0608"
 2026-09-09,-11.26,EUR,,"Transakcia platobnou kartou, Suma: 11,26 EUR 07.09.2026 Miesto: 101 DROGERIE,LV,SV.MICH LEVICE","VS: 405000251
 ŠS: 5032785547
 KS: 0608"
-2026-09-08,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 06.09.2026","VS: 497000250
-ŠS: 5032785547
-KS: 6898"
-2026-09-08,-50.0,EUR,,"Transakcia platobnou kartou, Suma: 50 EUR 06.09.2026 Miesto: THE CAFFE Levice","VS: 405000250
-ŠS: 5032785547
-KS: 0608"
-2026-09-07,-19.21,EUR,,"Transakcia platobnou kartou, Suma: 19,21 EUR 03.09.2026 Miesto: FAXCOPY42,LV,SV. MICHALA LEVICE","VS: 405000249
-ŠS: 5032785547
-KS: 0608"
-2026-09-07,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 03.09.2026","VS: 497000249
-ŠS: 5032785547
-KS: 6898"
-2026-09-04,-615.0,EUR,naknap s. r. o.,"Odoslaná okamžitá platba, komunikacna podpora - kampan 2026","VS: 20260023
-KS: 0308"
-2026-09-04,-39.0,EUR,MsKS,"Odoslaná platba elektronicky, Vylep plagatov","VS: 202600089
-KS: 308"
-2026-09-02,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 31.08.2026","VS: 497000244
-ŠS: 5032785547
-KS: 6898"
-2026-09-02,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 31.08.2026","VS: 497000244
-ŠS: 5032785547
-KS: 6898"
-2026-09-02,-32.75,EUR,,"Transakcia platobnou kartou, Suma: 32,75 EUR 31.08.2026 Miesto: TEDI,LV,TURECKY RAD LEVICE","VS: 405000244
-ŠS: 5032785547
-KS: 0608"
-2026-09-02,-32.52,EUR,,"Transakcia platobnou kartou, Suma: 32,52 EUR 31.08.2026 Miesto: FAXCOPY42,LV,SV. MICHALA LEVICE","VS: 405000244
-ŠS: 5032785547
-KS: 0608"
-2026-09-01,0.01,EUR,MIROSLAV SNIDA,"Prijatá platba, PLATBA",
-2026-09-01,0.67,EUR,Dominik Galgoc,"Prijatá platba, six seven",
-2026-09-01,0.01,EUR,MIROSLAV SNIDA,"Prijatá platba, PLATBA",
-2026-08-31,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.08.2026 do 31.08.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 16 x prijaté platby: 0,00, 9 x debet - elektronicky: 0,00",
