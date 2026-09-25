@@ -1,4 +1,7 @@
 date,amount,currency,account_name,message,vs
+2026-09-24,-7779.75,EUR,"VALEUR, s. r. o.","Odoslaná okamžitá platba, Tlac letakov","VS: 5872026
+KS: 0308"
+2026-09-24,7850.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 092026
 2026-09-14,-91.71,EUR,,"Transakčná daň z prevodov, ",KS: 0558
 2026-09-09,-2610.0,EUR,web positive s.r.o.,"Odoslaná okamžitá platba, Graficke prace - volby 2026",VS: 1992026
 2026-09-09,2600.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 092026
@@ -29,7 +32,3 @@ KS: 6898"
 2026-07-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 30.07.2026","VS: 495000211
 ŠS: 5032755813
 KS: 6898"
-2026-07-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: MC BUSINESS DEBETNA CL Suma: 3 EUR 30.07.2026","VS: 295000211
-ŠS: 3400020725
-KS: 6898"
-2026-07-28,-250.0,EUR,KEMAR s r.o.,"Odoslaná okamžitá platba, Vyroba rollup",VS: 20260280

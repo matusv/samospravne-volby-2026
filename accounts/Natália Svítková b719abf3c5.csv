@@ -1,4 +1,8 @@
 date,amount,currency,account_name,message,vs
+2026-09-24,12.0,EUR,Illeš Robert,"Prijatá platba, Dar na víťazstvo vo voľbách novej županky.",
+2026-09-24,400.0,EUR,"Trelová Sonogová Naďa, PhDr.","Prijatá platba, ",
+2026-09-24,750.0,EUR,Jana Danova,"Prijatá platba, peter dano","VS: 9
+KS: 0558"
 2026-09-16,2500.0,EUR,Zdenko Cepan,"Prijatá platba, ",
 2026-09-11,750.0,EUR,Ladislav Matejka,"Prijatá platba, Matejka Ladislav",
 2026-09-11,750.0,EUR,Tomas Urminsky,"Prijatá platba, NMnV podporuje Svitkovu",
@@ -27,6 +31,3 @@ KS: 0"
 2026-08-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA CLASSIC DEB. CL Suma: 3 EUR 28.08.2026","VS: 495000240
 ŠS: 1139269320
 KS: 6898"
-2026-08-28,-2000.0,EUR,Dovi dopo kolektiv,"Odoslaná okamžitá platba, Marketingove sluzby",VS: 2026003
-2026-08-28,-125.0,EUR,Lukas Knaze,"Odoslaná okamžitá platba, Prenajom zariadenia na vyrobu cukrovej vaty",
-2026-08-26,250.0,EUR,"Rebrová Katarína, MUDr.","Prijatá platba, Katarina Rebrová",

@@ -1,0 +1,17 @@
+date,amount,currency,account_name,message,vs
+2026-09-21,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 19.09.2026","VS: 497000263
+ŠS: 1139268439
+KS: 6898"
+2026-09-21,-300.0,EUR,,"Transakcia platobnou kartou, Suma: 300 EUR 19.09.2026 Miesto: FACEBK *6357542GN4 Dublin","VS: 405000263
+ŠS: 1139268439
+KS: 0608"
+2026-09-17,-50.0,EUR,,"Poplatok platobné karty, Miesto: EXPRESNE VYDANIE KARTY Suma: 50 EUR 10.09.2026","VS: 498000259
+ŠS: 1139268439
+KS: 6898"
+2026-09-16,-0.5,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 14.09.2026","VS: 497000258
+ŠS: 1139268439
+KS: 6898"
+2026-09-16,-10.0,EUR,,"Výber hotovosti kartou, Suma: 10 EUR 14.09.2026 Miesto: CSOB M. R. S. Trebiso Trebisov","VS: 401000258
+ŠS: 1139268439
+KS: 0608"
+2026-09-10,1000.0,EUR,Marián Kolesár,"Prijatá platba, ",

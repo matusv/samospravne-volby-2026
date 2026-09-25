@@ -1,4 +1,6 @@
 date,amount,currency,account_name,message,vs
+2026-09-24,100.0,EUR,Bartos Kristian,"Prijatá platba, ",
+2026-09-24,-265.68,EUR,"euroAWK, spol. s r.o.","Odoslaná okamžitá platba, Tlac CLV plagatov pre kampan Citylight",VS: 265501
 2026-09-18,200.0,EUR,Milan Siska,"Prijatá platba, ",
 2026-09-08,500.0,EUR,"Balko Marián, Ing.","Prijatá platba, Marian Balko, Velky Krtis",
 2026-08-31,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.08.2026 do 31.08.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 1 x prijaté platby: 0,00, 3 x debet - elektronicky: 0,00",

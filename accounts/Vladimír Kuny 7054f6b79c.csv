@@ -1,4 +1,8 @@
 date,amount,currency,account_name,message,vs
+2026-09-25,20.0,EUR,Pavol Lukac,"Prijatá platba, Vela stastia",
+2026-09-23,-320.0,EUR,Duo veselie,"Odoslaná okamžitá platba, Hudobna produkcia kampan2026",
+2026-09-23,-15.0,EUR,MsLS,"Odoslaná okamžitá platba, Rozhlasove hlasenie kampan 2026","VS: 202600102
+KS: 308"
 2026-09-22,-16.56,EUR,,"Transakcia platobnou kartou, Suma: 16,56 EUR 19.09.2026 Miesto: MERKURY SHOP s.r.o. LEVICE","VS: 405000264
 ŠS: 5032785547
 KS: 0608"
@@ -55,12 +59,3 @@ KS: 0608"
 2026-09-09,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 07.09.2026","VS: 497000251
 ŠS: 5032785547
 KS: 6898"
-2026-09-09,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 07.09.2026","VS: 497000251
-ŠS: 5032785547
-KS: 6898"
-2026-09-09,-29.99,EUR,,"Transakcia platobnou kartou, Suma: 29,99 EUR 07.09.2026 Miesto: GOOGLE*GOOGLE PLAY APP IRELAND","VS: 405000251
-ŠS: 5032785547
-KS: 0608"
-2026-09-09,-11.26,EUR,,"Transakcia platobnou kartou, Suma: 11,26 EUR 07.09.2026 Miesto: 101 DROGERIE,LV,SV.MICH LEVICE","VS: 405000251
-ŠS: 5032785547
-KS: 0608"
