@@ -1,4 +1,10 @@
 date,amount,currency,account_name,message,vs
+2026-09-26,-307.01,EUR,"VISTA real Pezinok, s.r.o.","Odoslaná okamžitá platba, Platba faktury 2601264","VS: 2601264
+KS: 0308"
+2026-09-26,500.0,EUR,"Mács Roman, JUDr.","Prijatá platba, ",
+2026-09-26,30.0,EUR,Naništa Roman,"Prijatá platba, Pre dobreho primatora",
+2026-09-25,30.0,EUR,"Naništa Jakub, Ing.","Prijatá platba, Za lepší Pezinok",VS: 25092026
+2026-09-25,150.0,EUR,"Naništová Lívia, Ing.","Prijatá platba, ",VS: 2026
 2026-09-18,-430.5,EUR,Ing. Filip Kubik - Cubic Visuals,"Odoslaná okamžitá platba, Uhrada faktury: 0632026",VS: 0632026
 2026-09-03,-565.8,EUR,3CTECH S. R. O.,"Odoslaná okamžitá platba, ","VS: 2681000035
 KS: 0308"
