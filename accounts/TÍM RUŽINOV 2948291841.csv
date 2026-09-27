@@ -1,4 +1,9 @@
 date,amount,account_name,message,vs
+2026-09-25,2000.0,Tomas Alscher,Platba/Dar,
+2026-09-25,-1808.1,"ROS reklamno obchodná spoločnosť, s.r.o.",Platba/TIM RUZINOV; najom GB Baj./09-10; 14.09.2026,120260387
+2026-09-25,-500.0,CULTUS Ružinov s.r.o.,Platba/Stanok hody - Platba zalohovej faktury 39260054,39260054
+2026-09-25,-1495.68,"ISPA, spol. s r.o.",Platba/ISPA bilbordy uhrada faktury 20263986,20263986
+2026-09-25,-1400.72,"TVR a RE, s.r.o.",Platba/Ruzinivske Echi inzercia Platba faktury 26FV100095,26100095
 2026-09-15,-3.57,,Transakčná daň 14.09.2026,
 2026-09-14,-892.98,"BigMedia, spol. s r.o.","Platba/BigMedia, spol. s r.o.:- TÍM RUŽINOV - 2026-08-31",1226207066
 2026-09-12,-4.87,,Transakčná daň 11.09.2026,
