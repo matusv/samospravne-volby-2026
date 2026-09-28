@@ -1,4 +1,6 @@
 date,amount,currency,account_name,message,vs
+2026-09-28,-27.06,EUR,"ISPA, spol. s.r.o.","Odoslaná okamžitá platba, ISPA, spol. s.r.o. - prelep billboardu",
+2026-09-28,300.0,EUR,Porubcová Ľubica,"Prijatá platba, Dar",
 2026-09-23,-493.85,EUR,"REGIONPRESS, s.r.o.","Odoslaná platba elektronicky, REGIONPRESS, s.r.o. - Uhrada faktury 13 426 0296",VS: 134260296
 2026-09-19,-1500.0,EUR,Youngandproud s. r. o.,"Odoslaná platba elektronicky, Vyroba audiovizualneho obsahu a strategie","VS: 920260003
 KS: 0308"
@@ -26,5 +28,3 @@ KS: 0308"
 2026-08-26,233.0,EUR,LUKÁŠ ZELENÍK,"Prijatá platba, DAR - LEPSIA PD",
 2026-08-25,-200.0,EUR,Mgr. Branislav Cukan,"Odoslaná okamžitá platba, Mgr. Branislav Cukan - rozpravka Kiki a Kuky na Susedskom popoludni vNecpaloch",KS: 0308
 2026-08-25,500.0,EUR,Radka Barcinova,"Prijatá platba, Dar",
-2026-08-24,-350.0,EUR,Sokoliari AQUILA Bojnice,"Odoslaná okamžitá platba, Sokoliari AQUILA Bojnice - vystupenie na Susedskom popoludni na Kopaniciach",KS: 0308
-2026-08-24,1000.0,EUR,PAVOL MEDÁR,"Prijatá platba, PLATBA",
