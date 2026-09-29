@@ -1,4 +1,9 @@
 date,amount,currency,account_name,message,vs
+2026-09-28,-197.8,EUR,GaJa Vision s.r.o.,"Odoslaná okamžitá platba, Uhrada faktury Mgr. Dusan Polacek","VS: 3426
+KS: 0308"
+2026-09-28,-197.8,EUR,GaJa Vision s.r.o.,"Odoslaná okamžitá platba, Uhrada faktury Mgr. Dusan Polacek","VS: 3326
+KS: 0308"
+2026-09-28,300.0,EUR,Dušan Poláček,"Prijatá platba, Vklad",
 2026-09-17,-197.8,EUR,GaJa Vision s.r.o.,"Odoslaná okamžitá platba, Uhrada faktury Mgr. Dusan Polacek","VS: 3026
 KS: 0308"
 2026-09-17,300.0,EUR,Dušan Poláček,"Prijatá platba, ",
