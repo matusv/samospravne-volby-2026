@@ -1,4 +1,8 @@
 date,amount,currency,account_name,message,vs
+2026-09-30,-2000.0,EUR,Matej Kukucka,"Odoslaná okamžitá platba, Graficke sluzby",VS: 502026
+2026-09-30,-289.05,EUR,MG company s.r.o.,"Odoslaná okamžitá platba, Uhrada za balony","VS: 2162026
+KS: 308"
+2026-09-29,200.0,EUR,Pavol Hromadka,"Prijatá platba, ",
 2026-09-28,750.0,EUR,Katarina Malanova,"Prijatá platba, Juraj Malan",
 2026-09-24,12.0,EUR,Illeš Robert,"Prijatá platba, Dar na víťazstvo vo voľbách novej županky.",
 2026-09-24,400.0,EUR,"Trelová Sonogová Naďa, PhDr.","Prijatá platba, ",
@@ -26,6 +30,3 @@ KS: 0"
 2026-09-05,50.0,EUR,"Trgala Tomáš, Mgr.","Prijatá platba, Dar na kampan",
 2026-09-02,375.0,EUR,Lubica Galisova,"Prijatá platba, Galisova Lubica",
 2026-09-01,-1000.0,EUR,Matej Kukucka,"Odoslaná okamžitá platba, Graficke sluzby",VS: 502026
-2026-08-31,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.08.2026 do 31.08.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 7 x prijaté platby: 0,00, 2 x debet - elektronicky: 0,00",
-2026-08-31,250.0,EUR,Martina Zilkova,"Prijatá platba, DAR",
-2026-08-31,250.0,EUR,Mokry Marek,"Prijatá platba, Marek Mokry dar",

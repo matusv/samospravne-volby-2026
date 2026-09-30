@@ -1,4 +1,5 @@
 date,amount,currency,account_name,message,vs
+2026-09-29,-310.0,EUR,Viliam Drab,"Odoslaná okamžitá platba, Mgr. Viliam Drab: FA2026014 - Mgr.Branislav Gigac - 2026/09 - videoprodukcia",VS: 2026014
 2026-09-28,-200.0,EUR,Mgr. Branislav Cukan,"Odoslaná okamžitá platba, Mgr. Branislav Cukan - rozpravka Kiki a Kuky na Susedskom popoludni na Zabniku",KS: 0308
 2026-09-28,-27.06,EUR,"ISPA, spol. s.r.o.","Odoslaná okamžitá platba, ISPA, spol. s.r.o. - prelep billboardu",
 2026-09-28,300.0,EUR,Porubcová Ľubica,"Prijatá platba, Dar",
@@ -27,4 +28,3 @@ KS: 0308"
 2026-08-26,232.88,EUR,Sidonia Cicmancova,"Prijatá platba, Polievkova",
 2026-08-26,350.0,EUR,Veronika Drabikova,"Prijatá platba, dar",
 2026-08-26,233.0,EUR,LUKÁŠ ZELENÍK,"Prijatá platba, DAR - LEPSIA PD",
-2026-08-25,-200.0,EUR,Mgr. Branislav Cukan,"Odoslaná okamžitá platba, Mgr. Branislav Cukan - rozpravka Kiki a Kuky na Susedskom popoludni vNecpaloch",KS: 0308
