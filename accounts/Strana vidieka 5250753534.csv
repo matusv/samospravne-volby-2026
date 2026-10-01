@@ -1,4 +1,10 @@
 date,amount,account_name,message,vs
+2026-10-01,-2.12,,"/VS2633101420/SS/KS0308 01.10.2026 528,90 EUR",
+2026-10-01,-528.9,"Petit Press, a.s.",Dana Kavorova volebná kampaň,2633101420.0
+2026-09-30,-0.02,,"/VS/SS/KS0898 30.09.2026 5,00 EUR",
+2026-09-30,-5.0,,Zverejňovanie účtu,
+2026-09-30,-0.02,,"/VS/SS/KS0898 30.09.2026 5,00 EUR",
+2026-09-30,-5.0,,Poplatok za vedenie účtu,
 2026-08-31,-0.02,,"/VS/SS/KS0898 31.08.2026 5,00 EUR",
 2026-08-31,-5.0,,Zverejňovanie účtu,
 2026-08-31,-0.02,,"/VS/SS/KS0898 31.08.2026 5,00 EUR",

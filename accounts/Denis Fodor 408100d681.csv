@@ -1,4 +1,8 @@
 date,amount,currency,account_name,message,vs
+2026-09-30,20.0,EUR,Komora Peter,"Prijatá platba, Dar na volebnu kampan - Peter Komora",
+2026-09-30,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA CLASSIC DEB. CL Suma: 3 EUR 29.09.2026","VS: 495000272
+ŠS: 1139315636
+KS: 6898"
 2026-09-28,10.0,EUR,MARTIN TURŇA,"Prijatá platba, DAR NA VOLEBNU KAMPAN- MARTIN TURNA",
 2026-09-27,15.0,EUR,Eliska Rendekova,"Prijatá platba, Dar na volebnu kampan- E. Rendekova",
 2026-09-24,10.0,EUR,Martina Adamova,"Prijatá platba, dar na volebnu kampan -Martina Adamova",

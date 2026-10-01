@@ -1,4 +1,8 @@
 date,amount,currency,account_name,message,vs
+2026-09-30,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.09.2026 do 30.09.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 20 x prijaté platby: 0,00, 5 x debet - elektronicky: 0,00",
+2026-09-30,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA CLASSIC DEB. CL Suma: 3 EUR 29.09.2026","VS: 495000272
+ŠS: 1139269320
+KS: 6898"
 2026-09-30,-2000.0,EUR,Matej Kukucka,"Odoslaná okamžitá platba, Graficke sluzby",VS: 502026
 2026-09-30,-289.05,EUR,MG company s.r.o.,"Odoslaná okamžitá platba, Uhrada za balony","VS: 2162026
 KS: 308"
@@ -28,5 +32,3 @@ KS: 0"
 2026-09-07,500.0,EUR,Porubec Ivan,"Prijatá platba, Ivan Porubec",
 2026-09-07,750.0,EUR,KDH - Krestanskodemokraticke hnutie,"Prijatá platba, Penazny dar",VS: 31082026
 2026-09-05,50.0,EUR,"Trgala Tomáš, Mgr.","Prijatá platba, Dar na kampan",
-2026-09-02,375.0,EUR,Lubica Galisova,"Prijatá platba, Galisova Lubica",
-2026-09-01,-1000.0,EUR,Matej Kukucka,"Odoslaná okamžitá platba, Graficke sluzby",VS: 502026

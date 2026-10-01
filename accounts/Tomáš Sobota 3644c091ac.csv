@@ -1,4 +1,8 @@
 date,amount,currency,account_name,message,vs
+2026-09-30,-2.8,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.09.2026 do 30.09.2026, Za vedenie účtu/balíka služieb a výpisy: 2,00, Za transakcie: 0,80 , z toho:, 4 x debet - elektronicky: 0,80",
+2026-09-30,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 29.09.2026","VS: 495000272
+ŠS: 5032602247
+KS: 6898"
 2026-09-28,-25.0,EUR,Michaela Albertova,"Odoslaná okamžitá platba, Malovanie na tvar",VS: 11
 2026-09-18,-250.0,EUR,Diana Cernakova,"Odoslaná okamžitá platba, Foto v exterieri - zmluva",
 2026-09-14,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 12.09.2026","VS: 497000256
@@ -37,7 +41,3 @@ KS: 0308"
 2026-07-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 30.07.2026","VS: 495000211
 ŠS: 5032602247
 KS: 6898"
-2026-07-28,-199.26,EUR,SERIGRAFIKA s.r.o.,"Odoslaná okamžitá platba, Reklamne predmety",VS: 260264
-2026-07-27,-7.42,EUR,,"Transakcia platobnou kartou, Suma: 7,42 EUR 24.07.2026 Miesto: COOP KA529 Banska B Banska Bystri","VS: 405000206
-ŠS: 5032602247
-KS: 0608"

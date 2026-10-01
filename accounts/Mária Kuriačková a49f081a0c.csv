@@ -1,4 +1,8 @@
 date,amount,currency,account_name,message,vs
+2026-09-30,-15.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.09.2026 do 30.09.2026, Za vedenie účtu/balíka služieb a výpisy: 15,00, Za transakcie: 0,00, 2 x prijaté platby: 0,00, 3 x debet - elektronicky: 0,00",
+2026-09-30,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA CLASSIC DEB. CL Suma: 3 EUR 29.09.2026","VS: 495000272
+ŠS: 1139541686
+KS: 6898"
 2026-09-17,-418.2,EUR,NUBIUM s.r.o.,"Odoslaná okamžitá platba, ",VS: 2610005818
 2026-09-13,400.0,EUR,Miriam Ehnova,"Prijatá platba, ",
 2026-09-09,-270.0,EUR,Sona Bacikova Photogallery,"Odoslaná okamžitá platba, Fotograficke sluzby","VS: 202600002

@@ -1,4 +1,6 @@
 date,amount,currency,account_name,message,vs
+2026-10-01,-29.52,EUR,"euro AWK,spol.s r.o.","Odoslaná okamžitá platba, ",VS: 265338
+2026-09-30,-15.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.09.2026 do 30.09.2026, Za vedenie účtu/balíka služieb a výpisy: 15,00, Za transakcie: 0,00, 1 x prijaté platby: 0,00",
 2026-09-30,100.0,EUR,PETRA MAZÚROVÁ,"Prijatá platba, ",
 2026-09-30,-0.28,EUR,NEGACRUN:.28152,"Zaúčtovanie záporných úrokov, Istina: 0,28",
 2026-09-06,-3.0,EUR,Avizo - Vyzva,"Poplatok, ",

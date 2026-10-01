@@ -1,4 +1,5 @@
 date,amount,currency,account_name,message,vs
+2026-09-30,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.09.2026 do 30.09.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 9 x debet - elektronicky: 0,00",
 2026-09-30,-400.0,EUR,Andrea Bodorova,"Odoslaná okamžitá platba, Sprava socialnych sieti",VS: 20260003
 2026-09-29,-1391.13,EUR,Abracadabra s.r.o.,"Odoslaná okamžitá platba, Uhrada faktury: 20260107 bilboardylidl a mierova",VS: 20260107
 2026-09-29,-172.9,EUR,NITOCON s.r.o.,"Odoslaná okamžitá platba, NITOCON s.r.o.: ZAL12026218 - JUDr. Marek Pretak, nezavisly kandidat na primatora - 2026/09",VS: 12310
@@ -22,4 +23,3 @@ KS: 0608"
 2026-07-30,-385.0,EUR,Vladimir Veverka s. r. o.,"Odoslaná okamžitá platba, Uhrada faktury: 20260052 foto sluzby",VS: 20260052
 2026-07-25,-21.4,EUR,Websupport s.r.o.,"Odoslaná okamžitá platba, Platba za domenu","VS: 1026233616
 KS: 0308"
-2026-06-30,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.06.2026 do 30.06.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 1 x debet - elektronicky: 0,00",

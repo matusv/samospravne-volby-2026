@@ -1,4 +1,8 @@
 date,amount,currency,account_name,message,vs
+2026-09-30,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.09.2026 do 30.09.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 3 x prijaté platby: 0,00, 1 x debet - elektronicky: 0,00",
+2026-09-30,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA CLASSIC DEB. CL Suma: 3 EUR 29.09.2026","VS: 495000272
+ŠS: 1139004073
+KS: 6898"
 2026-09-24,100.0,EUR,Bartos Kristian,"Prijatá platba, ",
 2026-09-24,-265.68,EUR,"euroAWK, spol. s r.o.","Odoslaná okamžitá platba, Tlac CLV plagatov pre kampan Citylight",VS: 265501
 2026-09-18,200.0,EUR,Milan Siska,"Prijatá platba, ",

@@ -1,4 +1,10 @@
 date,amount,currency,account_name,message,vs
+2026-10-01,-584.5,EUR,"REGIONPRESS, s.r.o.","Odoslaná okamžitá platba, REGIONPRESS, s.r.o. - inzercia",VS: 134260318
+2026-10-01,-1639.59,EUR,"REGIONPRESS, s.r.o.","Odoslaná okamžitá platba, REGIONPRESS, s.r.o. tlac a dostribucia novin",VS: 134260317
+2026-10-01,-516.6,EUR,"euroAWK, spol. s.r.o.","Odoslaná okamžitá platba, euroAWK, spol. s.r.o. - reklamne plochy",VS: 2670187
+2026-09-30,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.09.2026 do 30.09.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 7 x prijaté platby: 0,00, 8 x debet - elektronicky: 0,00",
+2026-09-30,-77.99,EUR,Kulturne a spolocenske stredisko v Prievidzi,"Odoslaná okamžitá platba, Kulturne a spolocenske stredisko vPrievidzi - vylep a tlac plagatov","VS: 2026179
+KS: 0308"
 2026-09-29,-310.0,EUR,Viliam Drab,"Odoslaná okamžitá platba, Mgr. Viliam Drab: FA2026014 - Mgr.Branislav Gigac - 2026/09 - videoprodukcia",VS: 2026014
 2026-09-28,-200.0,EUR,Mgr. Branislav Cukan,"Odoslaná okamžitá platba, Mgr. Branislav Cukan - rozpravka Kiki a Kuky na Susedskom popoludni na Zabniku",KS: 0308
 2026-09-28,-27.06,EUR,"ISPA, spol. s.r.o.","Odoslaná okamžitá platba, ISPA, spol. s.r.o. - prelep billboardu",
@@ -23,8 +29,3 @@ KS: 0308"
 2026-08-29,-300.0,EUR,NAtraKY - potulne divadlo,"Odoslaná okamžitá platba, NAtraKY - potulne divadlo - rozpravka na Susedskom popoludni na Zapotockoch",VS: 1322026
 2026-08-29,2500.0,EUR,Pavel Blaho,"Prijatá platba, Dar",
 2026-08-28,232.88,EUR,"Svítok Juraj, JUDr.","Prijatá platba, Dar",
-2026-08-28,500.0,EUR,Josef Alsharabi,"Prijatá platba, drzim palce",
-2026-08-26,232.88,EUR,Juraj Leporis,"Prijatá platba, Dar",
-2026-08-26,232.88,EUR,Sidonia Cicmancova,"Prijatá platba, Polievkova",
-2026-08-26,350.0,EUR,Veronika Drabikova,"Prijatá platba, dar",
-2026-08-26,233.0,EUR,LUKÁŠ ZELENÍK,"Prijatá platba, DAR - LEPSIA PD",
