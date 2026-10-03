@@ -1,4 +1,8 @@
 date,amount,currency,account_name,message,vs
+2026-10-02,100.0,EUR,Peter Luptak,"Prijatá platba, Peter Luptak - Financny prispevok na komunalne volby 2026","VS: 02102026
+ŠS: **********
+KS: 0558"
+2026-10-02,-1402.2,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, Bilboardy 09-10/26 preddavkova FA",VS: 260412
 2026-09-30,-2.8,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.09.2026 do 30.09.2026, Za vedenie účtu/balíka služieb a výpisy: 2,00, Za transakcie: 0,80 , z toho:, 4 x debet - elektronicky: 0,80",
 2026-09-30,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 29.09.2026","VS: 495000272
 ŠS: 5032602247
@@ -37,7 +41,3 @@ KS: 0308"
 2026-08-13,-1000.0,EUR,ARCADE spol. s r.o.,"Odoslaná okamžitá platba, Zaloha na prenajom priestorov","VS: 24260087
 KS: 0308"
 2026-08-12,-738.0,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, Bilboardy august",VS: 202608147
-2026-07-31,-2.6,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.07.2026 do 31.07.2026, Za vedenie účtu/balíka služieb a výpisy: 2,00, Za transakcie: 0,60 , z toho:, 3 x debet - elektronicky: 0,60",
-2026-07-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 30.07.2026","VS: 495000211
-ŠS: 5032602247
-KS: 6898"

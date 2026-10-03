@@ -1,4 +1,6 @@
 date,amount,account_name,message,vs
+2026-10-01,500.0,"Pro-Mal-Stav, s.r.o.",Platba/dar,
+2026-09-30,-5.0,,Poplatok za účet,
 2026-09-19,100.0,Attila Szanto,Platba/Izsman Tomi,
 2026-09-17,200.0,Tomáš Stredl,Platba,
 2026-09-11,200.0,Zoltan Lovasz,Platba/Podpora kampane,

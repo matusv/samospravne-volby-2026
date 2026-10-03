@@ -1,4 +1,23 @@
 date,amount,currency,account_name,message,vs
+2026-10-02,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.09.2026","VS: 497000275
+ŠS: 5032785547
+KS: 6898"
+2026-10-02,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.09.2026","VS: 497000275
+ŠS: 5032785547
+KS: 6898"
+2026-10-02,-18.03,EUR,,"Transakcia platobnou kartou, Suma: 18,03 EUR 30.09.2026 Miesto: FAXCOPY42,LV,SV. MICHALA LEVICE","VS: 405000275
+ŠS: 5032785547
+KS: 0608"
+2026-10-02,-14.5,EUR,,"Transakcia platobnou kartou, Suma: 14,5 EUR 30.09.2026 Miesto: JYSK K930 Vam dakuje Levice","VS: 405000275
+ŠS: 5032785547
+KS: 0608"
+2026-10-02,10.0,EUR,Pavel Králik,"Prijatá platba, Drzim palce",
+2026-10-01,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 29.09.2026","VS: 497000273
+ŠS: 5032785547
+KS: 6898"
+2026-10-01,-280.6,EUR,,"Transakcia platobnou kartou, Suma: 280,6 EUR 29.09.2026 Miesto: ZAHRADKA LEVICE","VS: 405000273
+ŠS: 5032785547
+KS: 0608"
 2026-09-30,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.09.2026 do 30.09.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 4 x prijaté platby: 0,00, 16 x debet - elektronicky: 0,00",
 2026-09-30,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 28.09.2026","VS: 497000272
 ŠS: 5032785547
@@ -49,19 +68,3 @@ KS: 0608"
 2026-09-28,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.09.2026","VS: 497000268
 ŠS: 5032785547
 KS: 6898"
-2026-09-28,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.09.2026","VS: 497000268
-ŠS: 5032785547
-KS: 6898"
-2026-09-28,-114.71,EUR,,"Transakcia platobnou kartou, Suma: 114,71 EUR 24.09.2026 Miesto: FAXCOPY42,LV,SV. MICHALA LEVICE","VS: 405000268
-ŠS: 5032785547
-KS: 0608"
-2026-09-28,-21.21,EUR,,"Transakcia platobnou kartou, Suma: 21,21 EUR 24.09.2026 Miesto: Mailchimp 678-9990141","VS: 405000268
-ŠS: 5032785547
-KS: 0608"
-2026-09-25,20.0,EUR,Pavol Lukac,"Prijatá platba, Vela stastia",
-2026-09-23,-320.0,EUR,Duo veselie,"Odoslaná okamžitá platba, Hudobna produkcia kampan2026",
-2026-09-23,-15.0,EUR,MsLS,"Odoslaná okamžitá platba, Rozhlasove hlasenie kampan 2026","VS: 202600102
-KS: 308"
-2026-09-22,-16.56,EUR,,"Transakcia platobnou kartou, Suma: 16,56 EUR 19.09.2026 Miesto: MERKURY SHOP s.r.o. LEVICE","VS: 405000264
-ŠS: 5032785547
-KS: 0608"
