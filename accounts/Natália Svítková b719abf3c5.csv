@@ -1,4 +1,7 @@
 date,amount,currency,account_name,message,vs
+2026-10-05,-8265.6,EUR,BRANMEDIA s. r. o.,"Odoslaná okamžitá platba, Uhrada faktury: 26100001 prenajom billboardovych ploch oktober",VS: 26100001
+2026-10-05,-138.38,EUR,MG company s.r.o.,"Odoslaná okamžitá platba, Tla letakov A6","VS: 2502026
+KS: 308"
 2026-09-30,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.09.2026 do 30.09.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 20 x prijaté platby: 0,00, 5 x debet - elektronicky: 0,00",
 2026-09-30,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA CLASSIC DEB. CL Suma: 3 EUR 29.09.2026","VS: 495000272
 ŠS: 1139269320
@@ -30,5 +33,3 @@ KS: 0"
 ŠS: 636210"
 2026-09-07,500.0,EUR,Porubec Ivan,"Prijatá platba, Eleonora Porubcova",
 2026-09-07,500.0,EUR,Porubec Ivan,"Prijatá platba, Ivan Porubec",
-2026-09-07,750.0,EUR,KDH - Krestanskodemokraticke hnutie,"Prijatá platba, Penazny dar",VS: 31082026
-2026-09-05,50.0,EUR,"Trgala Tomáš, Mgr.","Prijatá platba, Dar na kampan",

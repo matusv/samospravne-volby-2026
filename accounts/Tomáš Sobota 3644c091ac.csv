@@ -1,4 +1,5 @@
 date,amount,currency,account_name,message,vs
+2026-10-04,500.0,EUR,Vestiga s. r. o.,"Prijatá platba, Prispevok na kampan",
 2026-10-02,100.0,EUR,Peter Luptak,"Prijatá platba, Peter Luptak - Financny prispevok na komunalne volby 2026","VS: 02102026
 ŠS: **********
 KS: 0558"
@@ -40,4 +41,3 @@ KS: 0308"
 2026-08-14,500.0,EUR,Tomáš Jalovecký,"Prijatá platba, Prispevok na kampan",
 2026-08-13,-1000.0,EUR,ARCADE spol. s r.o.,"Odoslaná okamžitá platba, Zaloha na prenajom priestorov","VS: 24260087
 KS: 0308"
-2026-08-12,-738.0,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, Bilboardy august",VS: 202608147

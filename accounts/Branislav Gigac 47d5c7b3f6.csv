@@ -1,4 +1,8 @@
 date,amount,currency,account_name,message,vs
+2026-10-04,500.0,EUR,Jaroslav Vojtas,"Prijatá platba, Sandra Frischknecht Vojtas a Viktor Vojtas, Zurich, Switzerland",ŠS: **********
+2026-10-04,-821.64,EUR,"NUBIUM, s. r. o.","Odoslaná okamžitá platba, NUBIUM, s. r. o. prenajom + tlac",VS: 2620001725
+2026-10-04,-616.23,EUR,"NUBIUM, s. r. o.","Odoslaná okamžitá platba, NUBIUM, s. r. o. prenajom + tlac",VS: 2610006262
+2026-10-04,700.0,EUR,Michal Simko,"Prijatá platba, ",
 2026-10-02,1500.0,EUR,Sidonia Cicmancova,"Prijatá platba, ",
 2026-10-01,1000.0,EUR,Renata KOCSISOVA,"Prijatá platba, Dar",
 2026-10-01,-584.5,EUR,"REGIONPRESS, s.r.o.","Odoslaná okamžitá platba, REGIONPRESS, s.r.o. - inzercia",VS: 134260318
@@ -25,7 +29,3 @@ KS: 0308"
 2026-09-07,1000.0,EUR,František Küffer,"Prijatá platba, ",
 2026-09-06,3000.0,EUR,Silvia Turzikova,"Prijatá platba, ",
 2026-09-05,20.0,EUR,Jaroslav Zabka,"Prijatá platba, Zabka Jaroslav - dar na kampan",
-2026-08-31,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.08.2026 do 31.08.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 19 x prijaté platby: 0,00, 9 x debet - elektronicky: 0,00",
-2026-08-30,100.0,EUR,Bahna Samuel,"Prijatá platba, ",
-2026-08-29,-4559.61,EUR,"REGIONPRESS, s.r.o.","Odoslaná platba elektronicky, REGIONPRESS, s.r.o. - inzercia vo vydaniach Prievidzska",VS: 134260261
-2026-08-29,-300.0,EUR,NAtraKY - potulne divadlo,"Odoslaná okamžitá platba, NAtraKY - potulne divadlo - rozpravka na Susedskom popoludni na Zapotockoch",VS: 1322026

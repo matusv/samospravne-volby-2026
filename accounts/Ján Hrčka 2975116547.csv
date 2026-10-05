@@ -1,4 +1,7 @@
 date,amount,account_name,message,vs
+2026-10-02,150.0,Mgr.Miroslava Makovnikova Mosna,Platba/Makovnikova,
+2026-10-02,-420.0,Michal Mikuš,Platba/Bundy s potlačou FA20260022,20260022
+2026-10-02,150.0,"Vetrák Milan, JUDr.",Platba/Vetrak-prispevok-spolocna-kampan-komunalne-volby-2026,
 2026-10-01,35.0,"Chajdiak Jozef, Ing. Mgr.",Platba/Jozef Chajdiak,
 2026-10-01,400.0,"Chajdiak Jozef, Ing. Mgr.",Platba/Jozef Chajdiak,
 2026-09-30,35.0,Viera Nemethova,Platba/SEPA Okamzita platba,
