@@ -37,14 +37,12 @@ date,amount,account_name,message,vs,name
 2026-08-28,-100.0,HERMELYOVA KATARINA,Vrátenie vkladu v hotovosti,,Katarína Hermelyová
 2026-04-15,0.01,Ivan Rostas,SK73 0200 0000 0045 5336 2157 . dakujem,,Kresťanskodemokratické hnutie
 2026-04-17,-0.01,Ivan Rostas,Mylná platba,,Kresťanskodemokratické hnutie
-2025-11-26,-50.0,Katarina Campisova,,,Ladislav Hozlár
-2025-11-26,50.0,Katarína Čampišová,Chybna platba,,Ladislav Hozlár
 2026-04-07,253.0,Bosák Tibor,Tibor Bosák,,Ladislav Lörinc
 2026-04-14,272.0,SNOPKOVA EMILIA,?/DO2026-04-14/SP,,Ladislav Lörinc
 2026-04-14,274.0,Szöllösiová Terézia,Terézia Szollosiova,14042026.0,Ladislav Lörinc
 2026-04-15,220.0,Závodská Gabriela,OO26041500098735,137885.0,Ladislav Lörinc
-2026-04-17,252.0,"Klasovitá Soňa, Ing.",Sona Klasovita,17042026.0,Ladislav Lörinc
 2026-04-17,225.0,Ondrejka Matúš,OO26041700046627,,Ladislav Lörinc
+2026-04-17,252.0,"Klasovitá Soňa, Ing.",Sona Klasovita,17042026.0,Ladislav Lörinc
 2026-04-20,-253.0,Bosák Tibor,Vrátenie chybnej platby,,Ladislav Lörinc
 2026-04-21,251.0,Mária Hrajnohová,T2462492454255878148,21042026.0,Ladislav Lörinc
 2026-04-22,243.0,"Adamková Alena, Ing.",Alena Adamkova,,Ladislav Lörinc
@@ -55,9 +53,9 @@ date,amount,account_name,message,vs,name
 2026-05-13,-252.0,"Klasovitá Soňa, Ing.",Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-13,-220.0,Závodská Gabriela,Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-14,-274.0,Szöllösiová Terézia,Vrátenie chybnej platby,,Ladislav Lörinc
-2026-05-26,-256.0,Novák Ján,Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-26,-225.0,Ondrejka Matúš,Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-26,-272.0,SNOPKOVA EMILIA,Vrátenie chybnej platby,,Ladislav Lörinc
+2026-05-26,-256.0,Novák Ján,Vrátenie chybnej platby,,Ladislav Lörinc
 2026-09-01,-251.0,Mária Hrajnohová,Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-20,300.0,Kristina Simonova,,,Ladislav Smatana
 2026-05-27,-300.0,KRISTINA SIMONOVA,VRATENIE PLATBY,,Ladislav Smatana

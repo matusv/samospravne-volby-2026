@@ -1,4 +1,20 @@
 date,amount,currency,account_name,message,vs
+2026-10-05,1120.0,EUR,Roman Durcat,"Prijatá platba, ",
+2026-10-05,1180.0,EUR,Hasko Matej,"Prijatá platba, Vratme zivot do Levic",
+2026-10-05,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 03.10.2026","VS: 497000277
+ŠS: 5032785547
+KS: 6898"
+2026-10-05,-14.5,EUR,,"Transakcia platobnou kartou, Suma: 14,5 EUR 03.10.2026 Miesto: JYSK K930 Vam dakuje Levice","VS: 405000277
+ŠS: 5032785547
+KS: 0608"
+2026-10-05,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.10.2026","VS: 497000276
+ŠS: 5032785547
+KS: 6898"
+2026-10-05,-10.99,EUR,,"Transakcia platobnou kartou, Suma: 10,99 EUR 01.10.2026 Miesto: FAXCOPY42,LV,SV. MICHALA LEVICE","VS: 405000276
+ŠS: 5032785547
+KS: 0608"
+2026-10-05,-1188.92,EUR,"Petit Printing Press, a.s., organizacna zlozka","Odoslaná okamžitá platba, Noviny c.3 kampan2026","VS: 2624100037
+KS: 308"
 2026-10-02,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.09.2026","VS: 497000275
 ŠS: 5032785547
 KS: 6898"
@@ -45,26 +61,5 @@ KS: 0608"
 ŠS: 5032785547
 KS: 0608"
 2026-09-28,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2026","VS: 497000270
-ŠS: 5032785547
-KS: 6898"
-2026-09-28,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2026","VS: 497000270
-ŠS: 5032785547
-KS: 6898"
-2026-09-28,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2026","VS: 497000270
-ŠS: 5032785547
-KS: 6898"
-2026-09-28,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2026","VS: 497000270
-ŠS: 5032785547
-KS: 6898"
-2026-09-28,-71.93,EUR,,"Transakcia platobnou kartou, Suma: 71,93 EUR 26.09.2026 Miesto: Lidl dakuje 196 Levice","VS: 405000270
-ŠS: 5032785547
-KS: 0608"
-2026-09-28,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.09.2026","VS: 497000269
-ŠS: 5032785547
-KS: 6898"
-2026-09-28,-77.56,EUR,,"Transakcia platobnou kartou, Suma: 77,56 EUR 25.09.2026 Miesto: MIRA OFFICE LEVICE","VS: 405000269
-ŠS: 5032785547
-KS: 0608"
-2026-09-28,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.09.2026","VS: 497000268
 ŠS: 5032785547
 KS: 6898"
