@@ -1,4 +1,7 @@
 date,amount,currency,account_name,message,vs
+2026-10-06,-1943.4,EUR,Kanovits Group s. r. o.,"Odoslaná okamžitá platba, Tlac billboardov","VS: 26009185
+KS: 0308"
+2026-10-06,1750.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 102026
 2026-10-01,-199.26,EUR,"UNIPOSTER, s.r.o.","Odoslaná okamžitá platba, Tlac plagatov na billboardy 10/2026",VS: 269009
 2026-10-01,-1291.5,EUR,H K Plus s.r.o.,"Odoslaná okamžitá platba, Prenajom billboardov 10/2026",VS: 20260102
 2026-10-01,-1955.7,EUR,H K PLUS S.R.O.,"Odoslaná okamžitá platba, Prenajom billboardov 9/2026",VS: 20260095
@@ -32,5 +35,3 @@ KS: 6898"
 ŠS: 5032755813
 KS: 6898"
 2026-08-26,-250.0,EUR,Olidarosi s.r.o.,"Odoslaná okamžitá platba, Fotograficke sluzby",VS: 2026028
-2026-08-26,250.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 082026
-2026-08-25,-9473.45,EUR,Kanovits Group s.r.o.,"Odoslaná okamžitá platba, Prenajom reklamnych ploch, billboardy",VS: 26080003

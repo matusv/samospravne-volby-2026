@@ -1,4 +1,5 @@
 date,amount,currency,account_name,message,vs
+2026-10-07,100.0,EUR,"Višňovská Diana, MUDr.","Prijatá platba, drzime palce principe",
 2026-10-05,-196.8,EUR,"euroAWK, spol. s. r. o.","Odoslaná okamžitá platba, Roman Macs",VS: 266039
 2026-10-01,-104.55,EUR,"VISTA real Pezinok, s.r.o.","Odoslaná okamžitá platba, Platba faktury 2601289","VS: 2601289
 KS: 0308"
@@ -28,4 +29,3 @@ KS: 0308"
 2026-07-23,3000.0,EUR,"Mács Roman, JUDr.","Prijatá platba, ",
 2026-07-15,-267.45,EUR,MaximAlex s.r.o.,"Odoslaná okamžitá platba, Platba faktury 26100128","VS: 26100128
 KS: 0308"
-2026-07-06,-633.45,EUR,Ing. Filip Kubik - Cubic Visuals,"Odoslaná okamžitá platba, ",VS: 0412026

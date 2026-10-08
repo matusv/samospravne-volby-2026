@@ -1,4 +1,10 @@
 date,amount,account_name,message,vs
+2026-10-07,800.0,Frantisek Orlovsky,2628090000278631,2026.0
+2026-10-07,800.0,Babinová Mária,Babin - dar,
+2026-10-06,-0.02,,"/VS2821600182/SS/KS0558 06.10.2026 3,96 EUR",
+2026-10-06,-3.96,Mesto Sabinov,Úhrada dane za užívanie verejného priestranstva,2821600182.0
+2026-10-06,-4.05,,"/VS202669/SS/KS 06.10.2026 1013,00 EUR",
+2026-10-06,-1013.0,ZARMAR Consulting s.r.o.,"Úhrada FA 202669 za propagačný materiál - perá, tašky",202669.0
 2026-10-05,-5.37,,"/VS2622100073/SS/KS 05.10.2026 1343,16 EUR",
 2026-10-05,-1343.16,"Petit Press, a.s.",Úhrada ZF 26221000073 za inzerciu,2622100073.0
 2026-10-03,800.0,"Zreľak Andrej, PhDr.",Zrelak dar,

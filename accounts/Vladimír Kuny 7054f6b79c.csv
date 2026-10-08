@@ -1,4 +1,37 @@
 date,amount,currency,account_name,message,vs
+2026-10-08,-713.4,EUR,"CLIENT SERVICE, s.r.o.","Odoslaná okamžitá platba, Mgr.Vladimir Kuny 05.10.2026 reklamna plocha","VS: 10260601
+KS: 0008"
+2026-10-08,-319.8,EUR,sirux s.r.o.,"Odoslaná okamžitá platba, Prenajom reklamnej plochy kampan2026",VS: 2601669
+2026-10-08,-25.0,EUR,MsKS,"Odoslaná okamžitá platba, Vysielanie rozhlas kampan2026","VS: 202600108
+KS: 308"
+2026-10-08,-1560.87,EUR,ARS SPEKTRUM,"Odoslaná okamžitá platba, Uhrada faktury 260245 print letakov kampan2026","VS: 260245
+KS: 308"
+2026-10-08,-429.99,EUR,GOURMET s.r.o.,"Odoslaná okamžitá platba, Platba faktury 2601112 catering kampan 2026","VS: 2601112
+KS: 0308"
+2026-10-08,100.0,EUR,"Schweierová Tatiana, Ing.","Prijatá platba, 202610",
+2026-10-07,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 05.10.2026","VS: 497000279
+ŠS: 5032785547
+KS: 6898"
+2026-10-07,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 05.10.2026","VS: 497000279
+ŠS: 5032785547
+KS: 6898"
+2026-10-07,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 05.10.2026","VS: 497000279
+ŠS: 5032785547
+KS: 6898"
+2026-10-07,-15.16,EUR,,"Transakcia platobnou kartou, Suma: 15,16 EUR 05.10.2026 Miesto: FAXCOPY42,LV,SV. MICHALA LEVICE","VS: 405000279
+ŠS: 5032785547
+KS: 0608"
+2026-10-07,-17.0,EUR,,"Transakcia platobnou kartou, Suma: 17 EUR 05.10.2026 Miesto: OC Dituria, LV, Sv. Mich Levice","VS: 405000279
+ŠS: 5032785547
+KS: 0608"
+2026-10-07,-28.0,EUR,,"Transakcia platobnou kartou, Suma: 28 EUR 05.10.2026 Miesto: FAXCOPY42,LV,SV. MICHALA LEVICE","VS: 405000279
+ŠS: 5032785547
+KS: 0608"
+2026-10-07,500.0,EUR,Martin Markus,"Prijatá platba, Odoslane z Revolutu",
+2026-10-06,600.0,EUR,Alexandra Toth Dobrovolna,"Prijatá platba, Vratme zivot do Levic",
+2026-10-06,100.0,EUR,Peter Nagy,"Prijatá platba, 202610",
+2026-10-06,2520.0,EUR,Roderik Baltazar,"Prijatá platba, Roderik Baltazar",VS: **********
+2026-10-06,1433.43,EUR,Rybar Viliam,"Prijatá platba, Dar kampan 2026",
 2026-10-05,1120.0,EUR,Roman Durcat,"Prijatá platba, ",
 2026-10-05,1180.0,EUR,Hasko Matej,"Prijatá platba, Vratme zivot do Levic",
 2026-10-05,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 03.10.2026","VS: 497000277
@@ -16,50 +49,5 @@ KS: 0608"
 2026-10-05,-1188.92,EUR,"Petit Printing Press, a.s., organizacna zlozka","Odoslaná okamžitá platba, Noviny c.3 kampan2026","VS: 2624100037
 KS: 308"
 2026-10-02,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.09.2026","VS: 497000275
-ŠS: 5032785547
-KS: 6898"
-2026-10-02,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.09.2026","VS: 497000275
-ŠS: 5032785547
-KS: 6898"
-2026-10-02,-18.03,EUR,,"Transakcia platobnou kartou, Suma: 18,03 EUR 30.09.2026 Miesto: FAXCOPY42,LV,SV. MICHALA LEVICE","VS: 405000275
-ŠS: 5032785547
-KS: 0608"
-2026-10-02,-14.5,EUR,,"Transakcia platobnou kartou, Suma: 14,5 EUR 30.09.2026 Miesto: JYSK K930 Vam dakuje Levice","VS: 405000275
-ŠS: 5032785547
-KS: 0608"
-2026-10-02,10.0,EUR,Pavel Králik,"Prijatá platba, Drzim palce",
-2026-10-01,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 29.09.2026","VS: 497000273
-ŠS: 5032785547
-KS: 6898"
-2026-10-01,-280.6,EUR,,"Transakcia platobnou kartou, Suma: 280,6 EUR 29.09.2026 Miesto: ZAHRADKA LEVICE","VS: 405000273
-ŠS: 5032785547
-KS: 0608"
-2026-09-30,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.09.2026 do 30.09.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 4 x prijaté platby: 0,00, 16 x debet - elektronicky: 0,00",
-2026-09-30,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 28.09.2026","VS: 497000272
-ŠS: 5032785547
-KS: 6898"
-2026-09-30,-87.5,EUR,,"Transakcia platobnou kartou, Suma: 87,5 EUR 28.09.2026 Miesto: THE CAFFE Levice","VS: 405000272
-ŠS: 5032785547
-KS: 0608"
-2026-09-30,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 29.09.2026","VS: 495000272
-ŠS: 5032785547
-KS: 6898"
-2026-09-29,-1845.0,EUR,naknap s. r. o.,"Odoslaná okamžitá platba, Kom., graficke sluzby - kampan 2026","VS: 20260027
-KS: 0308"
-2026-09-29,-850.0,EUR,David Javorsky,"Odoslaná okamžitá platba, Vyroba kampanoveho spotu","VS: 2026031
-KS: 0308"
-2026-09-29,-140.0,EUR,Mesto Levice,"Odoslaná okamžitá platba, Dan/poplatok za uzivanie verejnehopriestranstva","VS: 3080000441
-ŠS: 2603020531
-KS: 558"
-2026-09-28,-63.21,EUR,,"Transakcia platobnou kartou, Suma: 63,21 EUR 26.09.2026 Miesto: COOP NZ PJ 202 Levice","VS: 405000270
-ŠS: 5032785547
-KS: 0608"
-2026-09-28,-8.0,EUR,,"Transakcia platobnou kartou, Suma: 8 EUR 26.09.2026 Miesto: TEDI,LV,TURECKY RAD LEVICE","VS: 405000270
-ŠS: 5032785547
-KS: 0608"
-2026-09-28,-247.03,EUR,,"Transakcia platobnou kartou, Suma: 247,03 EUR 26.09.2026 Miesto: Maso-udeniny NIVO Levice","VS: 405000270
-ŠS: 5032785547
-KS: 0608"
-2026-09-28,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2026","VS: 497000270
 ŠS: 5032785547
 KS: 6898"
