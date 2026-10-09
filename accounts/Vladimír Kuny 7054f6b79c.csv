@@ -1,4 +1,21 @@
 date,amount,currency,account_name,message,vs
+2026-10-08,-31.8,EUR,,"Transakcia platobnou kartou, Suma: 31,8 EUR 06.10.2026 Miesto: PEKAREN BATOVCE LEVICE","VS: 405000281
+ŠS: 5032785547
+KS: 0608"
+2026-10-08,-46.25,EUR,,"Transakcia platobnou kartou, Suma: 46,25 EUR 06.10.2026 Miesto: Maso-udeniny NIVO Levice","VS: 405000281
+ŠS: 5032785547
+KS: 0608"
+2026-10-08,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 06.10.2026","VS: 497000281
+ŠS: 5032785547
+KS: 6898"
+2026-10-08,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 06.10.2026","VS: 497000281
+ŠS: 5032785547
+KS: 6898"
+2026-10-08,-28.0,EUR,Mesto Levice,"Odoslaná okamžitá platba, Prenajom priestranstva kampan2026","VS: 3080000445
+ŠS: 2603020626
+KS: 558"
+2026-10-08,-247.23,EUR,Limax,"Odoslaná okamžitá platba, Samolepky tlac kampan2026","VS: 10260159
+KS: 308"
 2026-10-08,-713.4,EUR,"CLIENT SERVICE, s.r.o.","Odoslaná okamžitá platba, Mgr.Vladimir Kuny 05.10.2026 reklamna plocha","VS: 10260601
 KS: 0008"
 2026-10-08,-319.8,EUR,sirux s.r.o.,"Odoslaná okamžitá platba, Prenajom reklamnej plochy kampan2026",VS: 2601669
@@ -34,20 +51,3 @@ KS: 0608"
 2026-10-06,1433.43,EUR,Rybar Viliam,"Prijatá platba, Dar kampan 2026",
 2026-10-05,1120.0,EUR,Roman Durcat,"Prijatá platba, ",
 2026-10-05,1180.0,EUR,Hasko Matej,"Prijatá platba, Vratme zivot do Levic",
-2026-10-05,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 03.10.2026","VS: 497000277
-ŠS: 5032785547
-KS: 6898"
-2026-10-05,-14.5,EUR,,"Transakcia platobnou kartou, Suma: 14,5 EUR 03.10.2026 Miesto: JYSK K930 Vam dakuje Levice","VS: 405000277
-ŠS: 5032785547
-KS: 0608"
-2026-10-05,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.10.2026","VS: 497000276
-ŠS: 5032785547
-KS: 6898"
-2026-10-05,-10.99,EUR,,"Transakcia platobnou kartou, Suma: 10,99 EUR 01.10.2026 Miesto: FAXCOPY42,LV,SV. MICHALA LEVICE","VS: 405000276
-ŠS: 5032785547
-KS: 0608"
-2026-10-05,-1188.92,EUR,"Petit Printing Press, a.s., organizacna zlozka","Odoslaná okamžitá platba, Noviny c.3 kampan2026","VS: 2624100037
-KS: 308"
-2026-10-02,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.09.2026","VS: 497000275
-ŠS: 5032785547
-KS: 6898"

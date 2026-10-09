@@ -1,4 +1,15 @@
 date,amount,account_name,message,vs
+2026-10-07,30000.0,Progresívne Slovensko,Platba/prevod medzi uctami,
+2026-10-07,990.0,Roman Olejnik,Platba,1
+2026-10-07,-15.0,Mesto Pezinok,Platba/Mesto Pezinok - spravny poplatok za zabratie priestranstva PK hanulik 21.10.2026,754358661
+2026-10-07,-15.0,Mesto Pezinok,Platba/Mesto Pezinok - spravny poplatok za zabratie priestranstva PK hanulik 19.10.2026,754258660
+2026-10-07,-15.0,Mesto Pezinok,Platba/Mesto Pezinok - spravny poplatok za zabratie priestranstva PK hanulik 17.10.2026,75458659
+2026-10-07,-15.0,Mesto Pezinok,Platba/Mesto Pezinok - spravny poplatok za zabratie priestranstva PK hanulik 5.10.2026,75458658
+2026-10-07,-319.8,ARTON s.r.o.,Platba/Arton - tlac plagatov revuca benesova 26.08.2026,260433
+2026-10-07,-8.8,,Transakčná daň 06.10.2026,
+2026-10-07,-1901.55,"Petit Printing Press, a.s., organizačná zložka",Platba/Petit Printing Press - tlacoviny BA SM vagac 10/2026,2624100038
+2026-10-07,100.0,Lubos Slovak,Platba PO26100786597392/3,
+2026-10-07,150.0,Stanislav Radovan,Platba,4
 2026-10-06,-119.07,,Transakčná daň 05.10.2026,
 2026-10-06,100.0,Dusan Vigas,Platba,01
 2026-10-06,-2200.0,Laura Luscikova,Platba/Laura Luscikova: analyticke prace a poradenstvo komunal 09/2026,20260003
@@ -153,20 +164,20 @@ date,amount,account_name,message,vs
 2026-09-26,42.0,"Beňáková Nora, Ing.",Platba,7
 2026-09-26,15.0,LUCIA HAJDUKOVÁ,Platba/DAR MARIAN PORVAZNIK,120059
 2026-09-26,50.0,KNEZOVA EVA,Platba/dar Marian Porvaznik,120057
-2026-10-06,-119.07,,Transakčná daň 05.10.2026,
-2026-10-06,100.0,Dusan Vigas,Platba,01
-2026-10-06,-2200.0,Laura Luscikova,Platba/Laura Luscikova: analyticke prace a poradenstvo komunal 09/2026,20260003
-2026-10-05,-811.8,KPK Print s.r.o.,Platba/KPK print - tlacoviny ksk porvaznik 09/2026,92609031
-2026-10-05,-1500.0,Marek Brezovsky,Platba/Mgr. Marek Brezovsky - marketingove sluzby kampan SNV Ilasova - 2026/09,1120260003
-2026-10-05,-1116.37,Ing. Jozef Šivec - Webing.sk,Platba/Jozef Sivec - webing - letaky SNv Ilasova 09/2026,2600208
-2026-10-05,-1300.0,Tomas Krjak,Platba/Krjak - manazment kampane Revuca Benesova 09/2026,20260008
-2026-10-05,-10.0,Mesto REVÚCA,Platba/Mesto Revuca - Daň/poplatok za užívanie verejného priestranstva 3.10.2026,1500005727
-2026-10-05,-324.72,DOOH s. r. o.,Platba/DOOH - zaloha za reklamne sluzby Pezinok Hanulik 09-10/2026,260800027
-2026-10-05,-73.75,Mesto Liptovsky Mikulas,Platba/Mesto Liptovsky Miskulas - poplatok za zabratie priestranstva kampan LM Sufliarsks 25.9.2026,202667193
-2026-10-05,-2765.0,"Slovenská pošta, a.s.",Platba/Slovenska posta - roznos letakov letna tour 08/2026,9001894032
-2026-10-05,-100.0,Stredoslovenske osvetove stredisko,Platba/Stredoslovenske osvetove stredisko - prenajom priestorov BB javorcikova 9.7.2026,202026
-2026-10-05,-539.99,BIZ Family s.r.o.,Platba/BLZ Fily - prenajom priestorov letna tour 24.9.2026,20260043
-2026-10-05,-27.04,"ANWELL, s.r.o.","Platba/ANWELL, bannery BA SM Vagac 2026/09",20264491
+2026-09-26,100.0,Norbert Blaskovics,Platba/Norbert Blaskovics,9
+2026-09-25,250.0,Marko Surkos,Platba/Podpora pre Mateja Vagaca - Volby 2026,7
+2026-09-25,42.0,Michal Sladek,Platba/Michal Sladek,7
+2026-09-25,42.0,Lukáš Teren,Platba,7
+2026-09-25,10.0,Peter Sabo,Platba/dar Marian Porvaznik,120056
+2026-09-25,100.0,Jozef Kral,Platba/podpora pre Judit Ilasovu,6
+2026-09-25,50.0,Monika Farka,Platba,7
+2026-09-25,42.0,"Dojčánová Anna, Mgr.",Platba,7
+2026-09-25,50.0,MVDr.Jaroslav Barto CSc.,Platba/kampan Roman Valo,9
+2026-09-25,-100.0,Mestska cast Bratislava - Dubravka,Platba/Mestska cast Ba - Dubravka - prenajom priestorov letna tour 26.9.2026,41260200
+2026-09-25,150.0,CloudDev s. r. o.,Platba,3
+2026-09-25,20.0,Gabriela Luptakova,Platba/Roman Valo,9
+2026-09-25,25.0,Jana Schwarzova,Platba/dar Marian Porvaznik,120055
+2026-09-24,50.0,Romana Brutovska,Platba/dar Marian Porvaznik,120052
 2026-09-24,25.0,Dagmar Repaská,Platba/Dar,120051
 2026-09-24,42.0,Bútora Ivan,Platba,7
 2026-09-24,10.0,"Koctúr Tomáš, Ing., PhD.",Platba/dar Marian Porvaznik,120049
