@@ -1,4 +1,10 @@
 date,amount,account_name,message,vs
+2026-10-08,275.0,"Schultz Boris, Ing. arch.",Platba/Dar,
+2026-10-08,-3000.0,Mestska cast Bratislava - Karlova Ves,Platba/inzercia,275
+2026-10-08,1000.0,"Vician Martin, Ing.",Platba/dotacia transparentneho uctu,
+2026-10-08,2000.0,"Vician Martin, Ing.",Platba/dotacia transparentneho uctu,
+2026-10-08,-345.0,MAGIC OFFICE s. r. o.,"Platba/balony, kuzelnik",20260031
+2026-10-08,-142.0,Povega s.r.o.,Platba/Platba faktury 260100081 - BA rozky,260100081
 2026-10-07,670.0,Paško Martin,Platba/Dobrovolny dar,
 2026-10-07,100.0,Mertus Michal,Platba/Dar na kampan,
 2026-10-07,-14.32,Intuit Ireland Software L,EUR NÁKUP POS Intuit Ireland Software L / Dublin 2 / (POS 99999999),

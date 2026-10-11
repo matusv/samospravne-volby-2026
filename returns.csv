@@ -92,9 +92,9 @@ date,amount,account_name,message,vs,name
 2026-07-13,800.0,GALA LADISLAV,Platba/15,15,Progresívne Slovensko
 2026-07-21,-2000.0,Andrea Janicka Rudnayova,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
 2026-08-28,1000.0,Diana Mesikova,Platba,1,Progresívne Slovensko
-2026-09-01,-1000.0,Diana Mesikova,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
-2026-09-01,1000.0,BENCO STANISLAV,Platba,2,Progresívne Slovensko
 2026-09-01,-1000.0,bohowski s. r. o.,Platba/Bohowski - konzultacne a marketingove sluzby 08/2026,20260033,Progresívne Slovensko
+2026-09-01,1000.0,BENCO STANISLAV,Platba,2,Progresívne Slovensko
+2026-09-01,-1000.0,Diana Mesikova,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
 2026-09-01,1000.0,bohowski s. r. o.,Platba/Vratenie nespravnej platby,,Progresívne Slovensko
 2026-09-02,750.0,Juraj Smutko,Platba,12,Progresívne Slovensko
 2026-09-03,141.4,Juraj Štefunko,Platba/Vratenie mylnej platby,,Progresívne Slovensko

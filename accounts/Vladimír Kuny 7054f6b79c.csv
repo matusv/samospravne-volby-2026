@@ -1,4 +1,31 @@
 date,amount,currency,account_name,message,vs
+2026-10-11,500.0,EUR,Peter Bielik,"Prijatá platba, Marcela Bielikova",
+2026-10-10,100.0,EUR,Dusan Tuhy,"Prijatá platba, ",
+2026-10-10,10.0,EUR,Ivan Čierny,"Prijatá platba, 202610",
+2026-10-09,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 07.10.2026","VS: 497000281
+ŠS: 5032785547
+KS: 6898"
+2026-10-09,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 07.10.2026","VS: 497000281
+ŠS: 5032785547
+KS: 6898"
+2026-10-09,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 07.10.2026","VS: 497000281
+ŠS: 5032785547
+KS: 6898"
+2026-10-09,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 07.10.2026","VS: 497000281
+ŠS: 5032785547
+KS: 6898"
+2026-10-09,-99.01,EUR,,"Transakcia platobnou kartou, Suma: 99,01 EUR 07.10.2026 Miesto: FAXCOPY42,LV,SV. MICHALA LEVICE","VS: 405000281
+ŠS: 5032785547
+KS: 0608"
+2026-10-09,-68.38,EUR,,"Transakcia platobnou kartou, Suma: 68,38 EUR 07.10.2026 Miesto: MIRA OFFICE LEVICE","VS: 405000281
+ŠS: 5032785547
+KS: 0608"
+2026-10-09,-43.5,EUR,,"Transakcia platobnou kartou, Suma: 43,5 EUR 07.10.2026 Miesto: JYSK K930 Vam dakuje Levice","VS: 405000281
+ŠS: 5032785547
+KS: 0608"
+2026-10-09,-29.99,EUR,,"Transakcia platobnou kartou, Suma: 29,99 EUR 07.10.2026 Miesto: GOOGLE*GOOGLE PLAY APP IRELAND","VS: 405000281
+ŠS: 5032785547
+KS: 0608"
 2026-10-08,-31.8,EUR,,"Transakcia platobnou kartou, Suma: 31,8 EUR 06.10.2026 Miesto: PEKAREN BATOVCE LEVICE","VS: 405000281
 ŠS: 5032785547
 KS: 0608"
@@ -32,22 +59,3 @@ KS: 6898"
 2026-10-07,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 05.10.2026","VS: 497000279
 ŠS: 5032785547
 KS: 6898"
-2026-10-07,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 05.10.2026","VS: 497000279
-ŠS: 5032785547
-KS: 6898"
-2026-10-07,-15.16,EUR,,"Transakcia platobnou kartou, Suma: 15,16 EUR 05.10.2026 Miesto: FAXCOPY42,LV,SV. MICHALA LEVICE","VS: 405000279
-ŠS: 5032785547
-KS: 0608"
-2026-10-07,-17.0,EUR,,"Transakcia platobnou kartou, Suma: 17 EUR 05.10.2026 Miesto: OC Dituria, LV, Sv. Mich Levice","VS: 405000279
-ŠS: 5032785547
-KS: 0608"
-2026-10-07,-28.0,EUR,,"Transakcia platobnou kartou, Suma: 28 EUR 05.10.2026 Miesto: FAXCOPY42,LV,SV. MICHALA LEVICE","VS: 405000279
-ŠS: 5032785547
-KS: 0608"
-2026-10-07,500.0,EUR,Martin Markus,"Prijatá platba, Odoslane z Revolutu",
-2026-10-06,600.0,EUR,Alexandra Toth Dobrovolna,"Prijatá platba, Vratme zivot do Levic",
-2026-10-06,100.0,EUR,Peter Nagy,"Prijatá platba, 202610",
-2026-10-06,2520.0,EUR,Roderik Baltazar,"Prijatá platba, Roderik Baltazar",VS: **********
-2026-10-06,1433.43,EUR,Rybar Viliam,"Prijatá platba, Dar kampan 2026",
-2026-10-05,1120.0,EUR,Roman Durcat,"Prijatá platba, ",
-2026-10-05,1180.0,EUR,Hasko Matej,"Prijatá platba, Vratme zivot do Levic",
