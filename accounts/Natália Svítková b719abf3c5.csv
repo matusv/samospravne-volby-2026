@@ -1,4 +1,7 @@
 date,amount,currency,account_name,message,vs
+2026-10-12,-3895.53,EUR,"Red Post, s. r. o.","Odoslaná okamžitá platba, Redpost distribucia novin","VS: 2026056
+KS: 0308"
+2026-10-12,430.0,EUR,Cyril Crkon,"Prijatá platba, ",
 2026-10-06,-2499.36,EUR,Regionpress,"Odoslaná okamžitá platba, Uhrada faktury 13 426 0326/ roznosnovin",VS: 134260326
 2026-10-05,-8265.6,EUR,BRANMEDIA s. r. o.,"Odoslaná okamžitá platba, Uhrada faktury: 26100001 prenajom billboardovych ploch oktober",VS: 26100001
 2026-10-05,-138.38,EUR,MG company s.r.o.,"Odoslaná okamžitá platba, Tla letakov A6","VS: 2502026
@@ -30,6 +33,3 @@ KS: 0"
 2026-09-08,375.0,EUR,Martina Margolienova,"Prijatá platba, Kandidacky prispevok",
 2026-09-08,-7576.8,EUR,BRANMEDIA s. r. o.,"Odoslaná okamžitá platba, Uhrada faktury: 26090040 - prenajom billboardov 09/26",VS: 26090040
 2026-09-08,375.0,EUR,Lukáš Ranik,"Prijatá platba, Dar",
-2026-09-07,750.0,EUR,Iveta Pospisilova,"Prijatá platba, dar","VS: 636210
-ŠS: 636210"
-2026-09-07,500.0,EUR,Porubec Ivan,"Prijatá platba, Eleonora Porubcova",

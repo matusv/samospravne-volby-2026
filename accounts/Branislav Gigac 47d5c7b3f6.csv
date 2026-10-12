@@ -1,4 +1,11 @@
 date,amount,currency,account_name,message,vs
+2026-10-12,-200.0,EUR,Mgr. Branislav Cukan,"Odoslaná okamžitá platba, Mgr. Branislav Cukan - rozpravka Prndolino na Susedskom popoludni na Dlhej",KS: 0308
+2026-10-12,215.0,EUR,LUKÁŠ ZELENÍK,"Prijatá platba, DAR",
+2026-10-11,258.79,EUR,Dominika Mokra,"Prijatá platba, DAR",
+2026-10-11,215.0,EUR,Huba Radovan,"Prijatá platba, Dar",
+2026-10-11,215.72,EUR,"Parničan Maroš, Ing.","Prijatá platba, Dar",
+2026-10-11,215.72,EUR,Svetlana Kocisova,"Prijatá platba, DAR",
+2026-10-11,216.0,EUR,Veronika Drabikova,"Prijatá platba, dar",
 2026-10-11,-189.0,EUR,"S fertuskou, s.r.o.","Odoslaná okamžitá platba, S fertuskou, s.r.o. - kolaciky a pagaciky na ranne kavy a stretnutia","VS: 26006
 KS: 0308"
 2026-10-09,-1416.96,EUR,ENERGIO,"Odoslaná okamžitá platba, ENERGIO - online",VS: 20260981
@@ -20,11 +27,3 @@ KS: 0308"
 2026-10-04,700.0,EUR,Michal Simko,"Prijatá platba, ",
 2026-10-02,1500.0,EUR,Sidonia Cicmancova,"Prijatá platba, ",
 2026-10-01,1000.0,EUR,Renata KOCSISOVA,"Prijatá platba, Dar",
-2026-10-01,-584.5,EUR,"REGIONPRESS, s.r.o.","Odoslaná okamžitá platba, REGIONPRESS, s.r.o. - inzercia",VS: 134260318
-2026-10-01,-1639.59,EUR,"REGIONPRESS, s.r.o.","Odoslaná okamžitá platba, REGIONPRESS, s.r.o. tlac a dostribucia novin",VS: 134260317
-2026-10-01,-516.6,EUR,"euroAWK, spol. s.r.o.","Odoslaná okamžitá platba, euroAWK, spol. s.r.o. - reklamne plochy",VS: 2670187
-2026-09-30,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.09.2026 do 30.09.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 7 x prijaté platby: 0,00, 8 x debet - elektronicky: 0,00",
-2026-09-30,-77.99,EUR,Kulturne a spolocenske stredisko v Prievidzi,"Odoslaná okamžitá platba, Kulturne a spolocenske stredisko vPrievidzi - vylep a tlac plagatov","VS: 2026179
-KS: 0308"
-2026-09-29,-310.0,EUR,Viliam Drab,"Odoslaná okamžitá platba, Mgr. Viliam Drab: FA2026014 - Mgr.Branislav Gigac - 2026/09 - videoprodukcia",VS: 2026014
-2026-09-28,-200.0,EUR,Mgr. Branislav Cukan,"Odoslaná okamžitá platba, Mgr. Branislav Cukan - rozpravka Kiki a Kuky na Susedskom popoludni na Zabniku",KS: 0308
