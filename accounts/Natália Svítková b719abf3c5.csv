@@ -1,4 +1,7 @@
 date,amount,currency,account_name,message,vs
+2026-10-13,6000.0,EUR,Demokrati,"Prijatá platba, Dar na kampan",VS: 12102026
+2026-10-13,250.0,EUR,Erik Mičian,"Prijatá platba, Erik Mician dar",
+2026-10-12,250.0,EUR,JANA ŠTEFÁNEKOVÁ,"Prijatá platba, JANA STEFANEKOVA DAR",
 2026-10-12,-3895.53,EUR,"Red Post, s. r. o.","Odoslaná okamžitá platba, Redpost distribucia novin","VS: 2026056
 KS: 0308"
 2026-10-12,430.0,EUR,Cyril Crkon,"Prijatá platba, ",
@@ -30,6 +33,3 @@ KS: 0308"
 ŠS: 0
 KS: 0"
 2026-09-09,350.0,EUR,NADA TRELOVA SONOGOVA,"Prijatá platba, Nada Trelova Sonogova -dar",
-2026-09-08,375.0,EUR,Martina Margolienova,"Prijatá platba, Kandidacky prispevok",
-2026-09-08,-7576.8,EUR,BRANMEDIA s. r. o.,"Odoslaná okamžitá platba, Uhrada faktury: 26090040 - prenajom billboardov 09/26",VS: 26090040
-2026-09-08,375.0,EUR,Lukáš Ranik,"Prijatá platba, Dar",

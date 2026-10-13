@@ -1,4 +1,22 @@
 date,amount,currency,account_name,message,vs
+2026-10-12,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 09.10.2026","VS: 497000283
+ŠS: 5032785547
+KS: 6898"
+2026-10-12,-308.61,EUR,,"Transakcia platobnou kartou, Suma: 308,61 EUR 09.10.2026 Miesto: SLOVAK PARCEL SERVICE Ivanka pri Du","VS: 405000283
+ŠS: 5032785547
+KS: 0608"
+2026-10-12,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 08.10.2026","VS: 497000282
+ŠS: 5032785547
+KS: 6898"
+2026-10-12,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 08.10.2026","VS: 497000282
+ŠS: 5032785547
+KS: 6898"
+2026-10-12,-85.9,EUR,,"Transakcia platobnou kartou, Suma: 85,9 EUR 08.10.2026 Miesto: FAXCOPY42,LV,SV. MICHALA LEVICE","VS: 405000282
+ŠS: 5032785547
+KS: 0608"
+2026-10-12,-126.5,EUR,,"Transakcia platobnou kartou, Suma: 126,5 EUR 08.10.2026 Miesto: Pizza33 - Levice LEVICE","VS: 405000282
+ŠS: 5032785547
+KS: 0608"
 2026-10-11,500.0,EUR,Peter Bielik,"Prijatá platba, Marcela Bielikova",
 2026-10-10,100.0,EUR,Dusan Tuhy,"Prijatá platba, ",
 2026-10-10,10.0,EUR,Ivan Čierny,"Prijatá platba, 202610",
@@ -46,16 +64,3 @@ KS: 308"
 2026-10-08,-713.4,EUR,"CLIENT SERVICE, s.r.o.","Odoslaná okamžitá platba, Mgr.Vladimir Kuny 05.10.2026 reklamna plocha","VS: 10260601
 KS: 0008"
 2026-10-08,-319.8,EUR,sirux s.r.o.,"Odoslaná okamžitá platba, Prenajom reklamnej plochy kampan2026",VS: 2601669
-2026-10-08,-25.0,EUR,MsKS,"Odoslaná okamžitá platba, Vysielanie rozhlas kampan2026","VS: 202600108
-KS: 308"
-2026-10-08,-1560.87,EUR,ARS SPEKTRUM,"Odoslaná okamžitá platba, Uhrada faktury 260245 print letakov kampan2026","VS: 260245
-KS: 308"
-2026-10-08,-429.99,EUR,GOURMET s.r.o.,"Odoslaná okamžitá platba, Platba faktury 2601112 catering kampan 2026","VS: 2601112
-KS: 0308"
-2026-10-08,100.0,EUR,"Schweierová Tatiana, Ing.","Prijatá platba, 202610",
-2026-10-07,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 05.10.2026","VS: 497000279
-ŠS: 5032785547
-KS: 6898"
-2026-10-07,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 05.10.2026","VS: 497000279
-ŠS: 5032785547
-KS: 6898"

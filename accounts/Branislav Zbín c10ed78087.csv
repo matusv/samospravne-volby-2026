@@ -1,4 +1,16 @@
 date,amount,currency,account_name,message,vs
+2026-10-12,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 09.10.2026","VS: 497000283
+ŠS: 1139298253
+KS: 6898"
+2026-10-12,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 09.10.2026","VS: 497000283
+ŠS: 1139298253
+KS: 6898"
+2026-10-12,-72.56,EUR,,"Transakcia platobnou kartou, Suma: 72,56 EUR 09.10.2026 Miesto: Tesco Puchov Puchov","VS: 405000283
+ŠS: 1139298253
+KS: 0608"
+2026-10-12,-242.76,EUR,,"Transakcia platobnou kartou, Suma: 242,76 EUR 09.10.2026 Miesto: PD Koseca Kosecke Podhr","VS: 405000283
+ŠS: 1139298253
+KS: 0608"
 2026-09-30,-15.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.09.2026 do 30.09.2026, Za vedenie účtu/balíka služieb a výpisy: 15,00, Za transakcie: 0,00, 2 x prijaté platby: 0,00",
 2026-09-30,50.0,EUR,Patricia Marekova,"Prijatá platba, ",
 2026-09-02,50.0,EUR,Eva Turzova,"Prijatá platba, ",
