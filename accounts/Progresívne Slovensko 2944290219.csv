@@ -1,4 +1,30 @@
 date,amount,account_name,message,vs
+2026-10-12,42.0,Rene Parak,Platba,7
+2026-10-12,100.0,Radka Stefankova Vyoralova,Platba/Diana za lepsiu Bystricu! :),
+2026-10-12,-1082.4,Bittner print s.r.o.,Platba/Bittner - tlac novin PK Hanulik 10/2026,2020260083
+2026-10-12,100.0,Dusan Vigas,Platba,01
+2026-10-12,300.0,Kačmár Martin,Platba/Kacmar platba za kampan c.2,2
+2026-10-12,100.0,Jana Kozmonova,Platba,4
+2026-10-12,-300.0,MAGIC OFFICE s. r. o.,Platba/Magic office - kuzelnik letna tour BA 12.9.2026,20260030
+2026-10-12,129.15,"Amrich Rastislav, Ing.",Platba/Spolupráca sa počíta,2
+2026-10-12,-3690.0,Swaynetic.AI s. r. o.,Platba/Swaynetic.AI - online reklama KSK porvaznik 09/2026,20260090
+2026-10-12,-250.0,Sprava majetku Mesta Myjava sro,Platba/Sprava majetku Mesta Myjava - ucastnicky poplatok za diskusiu Myjava Gala 20.6.2026,2026629
+2026-10-12,-35.0,"Perpetuum Mobile, s.r.o.",Platba/Perpetuum Mobile - tlacoviny BA SM vagac 7.10/2026,26030
+2026-10-12,-35.0,"Perpetuum Mobile, s.r.o.",Platba/Perpetuum Mobile - tlacoviny BA SM vagac 10/2026,26032
+2026-10-12,-768.75,Abyss,Platba/Abyss - reklamne predmety kampan KE mudrak 10/2026,32610002
+2026-10-12,-1079.94,Abyss,Platba/Abyss - reklamne predmety kampan KE mudrak 10/2026,32610001
+2026-10-12,-123.0,"Riverton, s.r.o.",Platba/Riverton - prenajom billboardu Ke mudrak 10/2026,13102026
+2026-10-12,-135.3,"Riverton, s.r.o.",Platba/Riverton - prenajom bullboardy KE mudrak 09/2026,14092026
+2026-10-12,-595.0,Opre Cidery s.r.o.,Platba/Opre Cidery- vyroba kampanovych predmwtov ginger shot KE Mudrak 10/2026,20260664
+2026-10-12,-835.79,More Design s. r. o.,Platba/More Design s.r.o - dizajn webu KE mudrak 09/2026,202629
+2026-10-12,-752.76,"Popradska tlaciaren, vydavatelstvo,","Platba/Popradska tlaciaren, vydavatelstvo - tlac letakov kamoan PSK Luscikova 09/2026",2609079
+2026-10-12,-3923.7,"UNIPOSTER, s.r.o.",Platba/Uniposter - prenajom billboardov kampan Ke mudrak 10/2026,269013
+2026-10-12,50000.0,Progresívne Slovensko,Platba/prevod medzi uctami,
+2026-10-12,-3191.85,KPK Print s.r.o.,Platba/KpK Print - prenajom ploch reklamnych KSK Porvaznik 10/2026,92609251
+2026-10-12,400.0,"Ohraďan Andrej, Ing.",Platba/Andrej Ohraďan,4
+2026-10-12,200.0,Drahomir Halcin,Platba/Drahomir Halcin,3
+2026-10-12,2000.0,Tomas Murgas,Platba/Tomas Murgas - Dar,7
+2026-10-12,110.0,RASTISLAV LETNICKY,Platba,3
 2026-10-10,20.0,Pavel Koniar,Platba/RS si zasluzi novy impulz ),9
 2026-10-10,-23.89,,Transakčná daň 09.10.2026,
 2026-10-10,20.0,Rossová Lucia,Platba,1
@@ -561,32 +587,32 @@ date,amount,account_name,message,vs
 2026-08-22,-500.0,LOCALL s.r.o.,"Platba/letna tour Kosice nasa krcma, prenajom obcerstvenie",2026002
 2026-08-22,500.0,Viktória Veselá,Platba,2
 2026-08-22,50.0,ANDREA ŠUSTEKOVÁ,Platba/ANDREA SUSTEKOVA,1
-2026-08-22,-119.93,,Transakčná daň 21.08.2026,
-2026-08-22,150.0,Peter Tapak,Platba/Judita Ilasova - volebna kampan,6
-2026-08-22,200.0,MRS LAURA HEYMANS TRIMAJ,Platba PO26082172871741/VS 7 - Matej Vagac,
-2026-08-21,1500.0,MARCEL VRCHOTA,Platba/MARIAN PORVAZNIK KSK,12
-2026-08-21,-159.95,,Transakčná daň 20.08.2026,
-2026-08-21,150.0,Janka Bandzuchova,Platba,6
-2026-08-21,30.0,Šušolová Mária,Platba/3,3
-2026-08-21,500.0,Frantisek Hrozek,Platba,2
-2026-08-21,-344.4,"UNIMEDIA, s.r.o.",Platba/unimedia reklamna kampan outdoor KV kraje LM Sufliarska 09-10/2026,720260050
-2026-08-21,-885.6,euroAWK spol sro,Platba/euroAWK - zaloha za kampan Humenne 08/2026,2670221
-2026-08-21,-313.65,Grafprint,Platba/Grafprint - tlac propagacnych materialov Bb Javorcikova 08/2026,426239
-2026-08-21,-634.65,"COLORgrafik, spol. s r.o.",Platba/Colorgrafik - tlac letakov kampan BB Javorcikova 08/2026,20260089
-2026-08-21,-7970.4,"FOCUS Centrum pre sociálnu a marketingovú analýzu, s r.o. v skratke FO",Platba/Focus - prieskum verejnej mienky BB javorcikova 08/2026,20262078
-2026-08-21,-7453.8,ARTON s.r.o.,Platba/Arton najom billboardov 09-10/26 porvaznik ksk ke,260376
-2026-08-21,-4667.85,ARTON s.r.o.,Platba/Arton najom billboardov 09-10/26 mudrak ke,260386
-2026-08-21,-243.54,euroAWK spol sro,Platba/euroAWK - tlac plagatu kampan BB Javorcikova 09-10/2026,264687
-2026-08-21,-68.88,euroAWK spol sro,Platba/euroAWK - tlac plagatu kampan BB Javorcikova 08/2026,264686
-2026-08-21,-573.18,"ARES SECURITY CORPORATION, s.r.o.",Platba/Ares security - bezpecnostne aluzby na podujati kampan letna tour 4.8. a 6.8.2026,10260274
-2026-08-21,-3000.0,Martin Péchy,Platba/Pechy kampanova komunikacia ba 07/2026,20260010
-2026-08-21,-1859.76,euroAWK spol sro,Platba/euroAWK - zaloha za kampan BB Javorcikova 15.8./2026,2670236
-2026-08-21,-1084.86,euroAWK spol sro,Platba/euroAWK - zaloha za kampan BB Javorcikova 08/2026,2670170
-2026-08-21,-664.2,"Pandan, s. r. o.","Platba/Pandan - tlac letakov letna tour ZV, Bb, Sv 08/2026",202608039
-2026-08-21,-132.0,Livia Derianova Chmelikova,Platba/Livia Derianova Chmelikova - malovanie na tvar kampan Ksk porvaznik 30.7.2026,VS
-2026-08-21,-85.0,Livia Derianova Chmelikova,Platba/Livia Derianova Chmelikova - malovanie na tvar kampan Ksk porvaznik 5.7.2026,VS
-2026-08-20,328.0,Petra Helt,Platba/Trnava kampan,
-2026-08-20,333.0,"Antalič Radovan, JUDr.",Platba,
+2026-06-23,-421.89,Grafon,Platba/Grafon - tlac letakov kampan Lm sufliarska 06/2026,6261307
+2026-06-23,-415.27,euroAWK,Platba/euroAWK - zaloha za kampan Ke Holeczy 062026,2670069
+2026-06-23,-1200.0,Laura Luscikova,Platba/Laura Luscikova: kampanovy manazment PP Luscikova - 2026/06,2026002
+2026-06-23,-317.63,"FOODMANIA, s. r. o.",Platba/Foodmania - catering na kampan event LM Sufliarska 06/2026,260601
+2026-06-23,-100.0,Peter Coch,Platba/Peter Coch - fotenie kampan BB Javorcikova 06/2026,92026
+2026-06-23,-2505.0,Michaela Figurova,Platba/Michaela Figurova - manazment kampane a marketing Myjava Gala 03-06/2026,2026001
+2026-06-23,-184.5,ARTON s.r.o.,Platba/Arton - tlac plagatov kampan Ps; 12.06.2026,202606486
+2026-06-23,-90.0,Pavol Roman,Platba/Pavol Toman - tlacovka tlmocenie do spj viskupic tt 06/2026,2026024
+2026-06-23,-270.6,ARTON s.r.o.,Platba/Arton - tlac letakov LM Sufliarska 09.06.2026,202606326
+2026-06-23,-150.06,"Pandan, s. r. o.",Platba/Pandan - tlac letakov - kampan PP Luscikova 06/2026,202606027
+2026-06-23,-400.0,Mgr. Zuzana Plešová - Fotodizajn Zuzana,Platba/Zuzana Plesova - fotenie KE Holeczy 06/2026,202606011
+2026-06-23,-251.9,"EPYX, s.r.o.",Platba/EPYX - logovanie a tricka kampan SNV ilasova 06/2026,2600250
+2026-06-23,-239.0,"ABASOFT, s. r. o.",Platba/Abasoft - tlac predmetov SNV Ilasova 05/2026,260501
+2026-06-23,-134.07,LK REKLAMA s.r.o.,Platba/LK reklama - kampan PP Luscikova 06/2026,20260106
+2026-06-23,-2.95,Expresta s.r.o.,Platba/Expresta - nalepky kampan LM Sufliarska 05/2026,41399253
+2026-06-23,-45.0,Reklama Boka,Platba/Reklama Boka - tlac plagatov kampan Ke Ksk Porvaznik 06/2026,026151
+2026-06-23,-2337.0,"UNIMEDIA, s.r.o.",Platba/unimedia reklamna kampan outdoor KV kraje 06/26,420260538
+2026-06-23,-3059.13,"UNIMEDIA, s.r.o.",Platba/unimedia reklamna kampan outdoor Ke ksk porvaznik 06/26,420260537
+2026-06-23,-5712.61,"UNIMEDIA, s.r.o.",Platba/unimedia reklamna kampan outdoor Ke Mudrak 06/26,420260536
+2026-06-23,-830.25,"BUY NOW studio, s. r. o.",Platba/BUY NOW studio - grafika ps komunal 05/2026,2026022
+2026-06-23,20.0,Judita Ilasova,Platba,6
+2026-06-19,22000.0,"Horváth Tomáš, Ing.",Platba/Tomáš Horváth,07
+2026-06-19,10.0,Antol Peter,TPP/Peter Antol,4
+2026-06-19,-0.98,,Transakčná daň 18.06.2026,
+2026-06-19,5.0,Diana Javorcikova,PLATBA,1
+2026-06-18,10.0,"Futáková Janka, Mgr.",Platba,1
 2026-06-18,-246.0,Artforum Kosice,"Platba/Artforum Kosice - prenajom priestorov 1.6.2026 - debata o knihe - KE KSK porvaznik, mudrak",1151821
 2026-06-18,-0.04,,Transakčná daň 17.06.2026,
 2026-06-18,20.0,Kováč Mergová Magdaléna,Platba,1

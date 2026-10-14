@@ -1,4 +1,7 @@
 date,amount,currency,account_name,message,vs
+2026-10-13,-500.0,EUR,Gemersko-malohontske osvetove stredisko,"Odoslaná okamžitá platba, Prenajom priestorov - sala","VS: 006626
+KS: 0308"
+2026-10-13,500.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 102026
 2026-10-06,-1943.4,EUR,Kanovits Group s. r. o.,"Odoslaná okamžitá platba, Tlac billboardov","VS: 26009185
 KS: 0308"
 2026-10-06,1750.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 102026
@@ -31,7 +34,3 @@ KS: 0308"
 2026-08-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: MC BUSINESS DEBETNA CL Suma: 3 EUR 28.08.2026","VS: 295000240
 ŠS: 3400020725
 KS: 6898"
-2026-08-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 28.08.2026","VS: 495000240
-ŠS: 5032755813
-KS: 6898"
-2026-08-26,-250.0,EUR,Olidarosi s.r.o.,"Odoslaná okamžitá platba, Fotograficke sluzby",VS: 2026028

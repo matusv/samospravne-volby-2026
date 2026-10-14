@@ -1,4 +1,6 @@
 date,amount,currency,account_name,message,vs
+2026-10-14,1000.0,EUR,Marián Kolesár,"Prijatá platba, ",
+2026-10-14,-323.0,EUR,Pastel group s. r. o.,"Odoslaná okamžitá platba, ",VS: 20260136
 2026-10-11,-126.69,EUR,Pastel group s. r. o.,"Odoslaná okamžitá platba, ",VS: 20260133
 2026-09-29,-109.47,EUR,Pastel group s. r. o.,"Odoslaná okamžitá platba, ",VS: 20260122
 2026-09-21,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 19.09.2026","VS: 497000263

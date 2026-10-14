@@ -1,4 +1,8 @@
 date,amount,currency,account_name,message,vs
+2026-10-14,-500.0,EUR,"DS STUDIO Production, s.r.o.","Odoslaná platba elektronicky, DS STUDIO Production, s.r.o. - fotenie primator a poslanci",VS: 2026015
+2026-10-13,199.95,EUR,Oľga Kurbelová,"Prijatá platba, Dar",
+2026-10-13,220.0,EUR,"Gális Július, Mgr.","Prijatá platba, Dar",KS: 0558
+2026-10-13,259.0,EUR,Petráš Vladimír,"Prijatá platba, Dar",
 2026-10-12,215.0,EUR,Jaroslav Vojtas,"Prijatá platba, DAR",
 2026-10-12,-500.0,EUR,"Chilli Peppers, s.r.o.","Odoslaná okamžitá platba, Chilli Peppers, s.r.o. - graficke prace na kampani",
 2026-10-12,-1328.4,EUR,Concinnity s.r.o.,"Odoslaná okamžitá platba, Concinnity s.r.o. - skladacky pre kandidatov na poslankyne a poslancov MsZ",VS: 20260394
@@ -23,7 +27,3 @@ KS: 0308"
 2026-10-07,-700.0,EUR,Rozpravkovy moment s. r. o.,"Odoslaná okamžitá platba, Rozpravkovy moment s. r. o. - animacne sluzby - Susedske popoludnia vPrievidzi",VS: 1610021
 2026-10-07,1500.0,EUR,Pavol Polievka,"Prijatá platba, Pavol Polievka",
 2026-10-06,828.0,EUR,Ludovit KOCSIS,"Prijatá platba, Dar",
-2026-10-05,-250.0,EUR,Igor Kasala,"Odoslaná okamžitá platba, Trubaduri - divadlo s usmevom. Vystupenie na susedskom popoludni na Mladezi",
-2026-10-05,-493.85,EUR,"REGIONPRESS, s.r.o.","Odoslaná okamžitá platba, REGIONPRESS, s.r.o. - inzercia",VS: 134260321
-2026-10-04,500.0,EUR,Jaroslav Vojtas,"Prijatá platba, Sandra Frischknecht Vojtas a Viktor Vojtas, Zurich, Switzerland",ŠS: **********
-2026-10-04,-821.64,EUR,"NUBIUM, s. r. o.","Odoslaná okamžitá platba, NUBIUM, s. r. o. prenajom + tlac",VS: 2620001725
