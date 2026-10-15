@@ -1,4 +1,6 @@
 date,amount,currency,account_name,message,vs
+2026-10-14,-1000.0,EUR,JK-combi s.r.o.,"Odoslaná okamžitá platba, Ing.Kysel Stefan 12.10.2026",VS: 2610015
+2026-10-14,1000.0,EUR,KYSEL STEFAN,"Prijatá platba, /DO2026-10-14/SP",
 2026-10-13,-1500.0,EUR,JK-combi s.r.o.,"Odoslaná okamžitá platba, Ing.Kysel Stefan 12.10.2026",VS: 2610015
 2026-10-13,1500.0,EUR,KYSEL STEFAN,"Prijatá platba, /DO2026-10-13/SP",
 2026-09-30,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.09.2026 do 30.09.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00",

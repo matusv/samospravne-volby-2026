@@ -1,4 +1,8 @@
 date,amount,currency,account_name,message,vs
+2026-10-15,-418.2,EUR,"NUBIUM, s.r.o.","Odoslaná platba elektronicky, Zaloha na kampan za poskytnute sluzby",VS: 16120200
+2026-10-15,-541.2,EUR,Annamaria Corosova - FLASH COMPANY,"Odoslaná platba elektronicky, Prenajom reklamnej plochy 10/2026",VS: 26233
+2026-10-15,1100.0,EUR,Magyar Szovetseg - Madarska alianci a,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 102026
+2026-10-14,-102.79,EUR,,"Transakčná daň z prevodov, ",KS: 0558
 2026-10-13,-500.0,EUR,Gemersko-malohontske osvetove stredisko,"Odoslaná okamžitá platba, Prenajom priestorov - sala","VS: 006626
 KS: 0308"
 2026-10-13,500.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 102026
@@ -28,9 +32,3 @@ KS: 0308"
 2026-09-08,-4760.1,EUR,"KANOVITS FINEART, s.r.o.","Odoslaná okamžitá platba, Fotograficke sluzby","VS: 260900001
 KS: 0308"
 2026-09-08,4800.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 092026
-2026-09-02,-36162.0,EUR,H K PLUS S.R.O.,"Odoslaná okamžitá platba, Zaloha na kampan VUC",VS: 30260006
-2026-09-02,36100.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 092026
-2026-08-31,-3.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.08.2026 do 31.08.2026, Za vedenie účtu/balíka služieb a výpisy: 2,00, Za transakcie: 1,00 , z toho:, 5 x debet - elektronicky: 1,00",
-2026-08-31,-3.0,EUR,,"Poplatok platobné karty, Miesto: MC BUSINESS DEBETNA CL Suma: 3 EUR 28.08.2026","VS: 295000240
-ŠS: 3400020725
-KS: 6898"

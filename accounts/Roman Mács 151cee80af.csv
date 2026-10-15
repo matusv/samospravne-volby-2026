@@ -1,4 +1,6 @@
 date,amount,currency,account_name,message,vs
+2026-10-15,-349.69,EUR,MaximAlex s.r.o.,"Odoslaná okamžitá platba, Platba faktury 26100188","VS: 26100188
+KS: 0308"
 2026-10-13,5000.0,EUR,Hinner Vladimír,"Prijatá platba, ",
 2026-10-12,-467.4,EUR,3CTECH S. R. O.,"Odoslaná okamžitá platba, ","VS: 2681000048
 KS: 0308"
@@ -29,4 +31,3 @@ KS: 0308"
 2026-08-04,385.0,EUR,"Ries Michal, Dipl.,Ing.","Prijatá platba, ",
 2026-07-27,-202.95,EUR,Ing. Filip Kubik - Cubic Visuals,"Odoslaná okamžitá platba, Uhrada faktury: 0472026",VS: 0472026
 2026-07-23,-144.66,EUR,Plotbase s.r.o.,"Odoslaná okamžitá platba, ",
-2026-07-23,3000.0,EUR,"Mács Roman, JUDr.","Prijatá platba, ",

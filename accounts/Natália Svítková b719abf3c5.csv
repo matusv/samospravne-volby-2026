@@ -1,4 +1,5 @@
 date,amount,currency,account_name,message,vs
+2026-10-14,250.0,EUR,Nováková Rudinská Katarína,"Prijatá platba, Katarina Nováková Rudinská Dar",VS: 102026
 2026-10-14,-4098.48,EUR,"Red Post, s. r. o.","Odoslaná okamžitá platba, Uhrada rozbozu Redpost","VS: 2026079
 KS: 0308"
 2026-10-13,200.0,EUR,"Beňová Viera, RNDr.","Prijatá platba, kampaň",
@@ -31,4 +32,3 @@ KS: 0558"
 2026-09-10,750.0,EUR,"Oulehle Peter, MUDr.","Prijatá platba, MUDr. Peter Oulehle",
 2026-09-10,-3591.6,EUR,"2muse, s.r.o.","Odoslaná okamžitá platba, Platba faktury 260100292- prieskum1","VS: 260100292
 KS: 0308"
-2026-09-10,750.0,EUR,Peter Mikulas,"Prijatá platba, Peter Mikulas",

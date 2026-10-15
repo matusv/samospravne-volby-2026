@@ -1,4 +1,28 @@
 date,amount,currency,account_name,message,vs
+2026-10-15,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 14.10.2026","VS: 497000288
+ŠS: 5032785547
+KS: 6898"
+2026-10-15,-2.8,EUR,,"Transakcia platobnou kartou, Suma: 2,8 EUR 14.10.2026 Miesto: TUJVEL, S.R.O. LEVICE","VS: 405000288
+ŠS: 5032785547
+KS: 0608"
+2026-10-15,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 13.10.2026","VS: 497000287
+ŠS: 5032785547
+KS: 6898"
+2026-10-15,-152.8,EUR,,"Transakcia platobnou kartou, Suma: 152,8 EUR 13.10.2026 Miesto: ORINOCO PUB LEVICE","VS: 405000287
+ŠS: 5032785547
+KS: 0608"
+2026-10-14,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 12.10.2026","VS: 497000286
+ŠS: 5032785547
+KS: 6898"
+2026-10-14,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 12.10.2026","VS: 497000286
+ŠS: 5032785547
+KS: 6898"
+2026-10-14,-18.54,EUR,,"Transakcia platobnou kartou, Suma: 18,54 EUR 12.10.2026 Miesto: MIRA OFFICE LEVICE","VS: 405000286
+ŠS: 5032785547
+KS: 0608"
+2026-10-14,-105.0,EUR,,"Transakcia platobnou kartou, Suma: 105 EUR 12.10.2026 Miesto: THE CAFFE Levice","VS: 405000286
+ŠS: 5032785547
+KS: 0608"
 2026-10-13,-30.4,EUR,,"Transakcia platobnou kartou, Suma: 30,4 EUR 11.10.2026 Miesto: Maxis2- kaviaren LEVICE","VS: 405000285
 ŠS: 5032785547
 KS: 0608"
@@ -43,27 +67,3 @@ KS: 6898"
 2026-10-09,-99.01,EUR,,"Transakcia platobnou kartou, Suma: 99,01 EUR 07.10.2026 Miesto: FAXCOPY42,LV,SV. MICHALA LEVICE","VS: 405000281
 ŠS: 5032785547
 KS: 0608"
-2026-10-09,-68.38,EUR,,"Transakcia platobnou kartou, Suma: 68,38 EUR 07.10.2026 Miesto: MIRA OFFICE LEVICE","VS: 405000281
-ŠS: 5032785547
-KS: 0608"
-2026-10-09,-43.5,EUR,,"Transakcia platobnou kartou, Suma: 43,5 EUR 07.10.2026 Miesto: JYSK K930 Vam dakuje Levice","VS: 405000281
-ŠS: 5032785547
-KS: 0608"
-2026-10-09,-29.99,EUR,,"Transakcia platobnou kartou, Suma: 29,99 EUR 07.10.2026 Miesto: GOOGLE*GOOGLE PLAY APP IRELAND","VS: 405000281
-ŠS: 5032785547
-KS: 0608"
-2026-10-08,-31.8,EUR,,"Transakcia platobnou kartou, Suma: 31,8 EUR 06.10.2026 Miesto: PEKAREN BATOVCE LEVICE","VS: 405000281
-ŠS: 5032785547
-KS: 0608"
-2026-10-08,-46.25,EUR,,"Transakcia platobnou kartou, Suma: 46,25 EUR 06.10.2026 Miesto: Maso-udeniny NIVO Levice","VS: 405000281
-ŠS: 5032785547
-KS: 0608"
-2026-10-08,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 06.10.2026","VS: 497000281
-ŠS: 5032785547
-KS: 6898"
-2026-10-08,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 06.10.2026","VS: 497000281
-ŠS: 5032785547
-KS: 6898"
-2026-10-08,-28.0,EUR,Mesto Levice,"Odoslaná okamžitá platba, Prenajom priestranstva kampan2026","VS: 3080000445
-ŠS: 2603020626
-KS: 558"
