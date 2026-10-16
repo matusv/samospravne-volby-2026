@@ -1,4 +1,12 @@
 date,amount,currency,account_name,message,vs
+2026-10-16,250.0,EUR,GALA LADISLAV,"Prijatá platba, /DO2026-10-16/SPLadislav Gala Dar",
+2026-10-16,250.0,EUR,Milan Duracka,"Prijatá platba, Milan Duracka dar",
+2026-10-16,250.0,EUR,Juraj Gasparek,"Prijatá platba, Dar",
+2026-10-16,250.0,EUR,MATÚŠ BANDÚR,"Prijatá platba, MATUS BANDUR",
+2026-10-16,750.0,EUR,Juraj Hort,"Prijatá platba, ",
+2026-10-16,-690.03,EUR,VKMM,"Odoslaná okamžitá platba, Tlac billboardy- oktober",VS: 1260085
+2026-10-16,-744.15,EUR,VKMM,"Odoslaná okamžitá platba, Tlac bilboardy- september",VS: 1260075
+2026-10-16,250.0,EUR,Ing. Richard Scepko,"Prijatá platba, Richard Scepko Dar",
 2026-10-14,250.0,EUR,Nováková Rudinská Katarína,"Prijatá platba, Katarina Nováková Rudinská Dar",VS: 102026
 2026-10-14,-4098.48,EUR,"Red Post, s. r. o.","Odoslaná okamžitá platba, Uhrada rozbozu Redpost","VS: 2026079
 KS: 0308"
@@ -22,13 +30,3 @@ KS: 6898"
 KS: 308"
 2026-09-29,200.0,EUR,Pavol Hromadka,"Prijatá platba, ",
 2026-09-28,750.0,EUR,Katarina Malanova,"Prijatá platba, Juraj Malan",
-2026-09-24,12.0,EUR,Illeš Robert,"Prijatá platba, Dar na víťazstvo vo voľbách novej županky.",
-2026-09-24,400.0,EUR,"Trelová Sonogová Naďa, PhDr.","Prijatá platba, ",
-2026-09-24,750.0,EUR,Jana Danova,"Prijatá platba, peter dano","VS: 9
-KS: 0558"
-2026-09-16,2500.0,EUR,Zdenko Cepan,"Prijatá platba, ",
-2026-09-11,750.0,EUR,Ladislav Matejka,"Prijatá platba, Matejka Ladislav",
-2026-09-11,750.0,EUR,Tomas Urminsky,"Prijatá platba, NMnV podporuje Svitkovu",
-2026-09-10,750.0,EUR,"Oulehle Peter, MUDr.","Prijatá platba, MUDr. Peter Oulehle",
-2026-09-10,-3591.6,EUR,"2muse, s.r.o.","Odoslaná okamžitá platba, Platba faktury 260100292- prieskum1","VS: 260100292
-KS: 0308"

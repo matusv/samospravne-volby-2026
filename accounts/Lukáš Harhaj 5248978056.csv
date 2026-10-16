@@ -1,4 +1,10 @@
 date,amount,account_name,message,vs
+2026-10-16,100.0,Igor Hascak,SEPA Okamzita platba,
+2026-10-16,-280.0,"impresio, s.r.o.",Lukas Harhaj - leták,2603.0
+2026-10-16,100.0,HARHAJ NIKOLA,?/DO2026-10-16/SP,
+2026-10-16,70.0,Harhaj Lukáš,F001161020266174411,
+2026-10-16,-200.0,Vitaliy Povkhanych,Zahraničný účet / omyl,
+2026-10-16,200.0,Vitaliy Povkhanych,2628990000193516,
 2026-10-15,100.0,Damian Korpesio,1161262882780473,
 2026-10-14,-200.0,Lubobouw,Zahranicna platba / omyl,
 2026-10-14,200.0,Lubobouw,36062793,

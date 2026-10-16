@@ -1,4 +1,13 @@
 date,amount,currency,account_name,message,vs
+2026-10-16,-516.6,EUR,"Pirozkaren, s.r.o.","Odoslaná okamžitá platba, Pirozkaren, s.r.o. - oskvarkove pagace a moravske kolace na stretnutia v mestskych castiach, ranne kavy a susedske popoludnie",
+2026-10-16,434.0,EUR,Porubec Ivan,"Prijatá platba, Dar",
+2026-10-16,58.0,EUR,Veronika Drabikova,"Prijatá platba, dar",
+2026-10-16,100.0,EUR,Bibiana Hromadkova,"Prijatá platba, Dar na kampan",
+2026-10-16,500.0,EUR,"Svítok Juraj, JUDr.","Prijatá platba, Dar",
+2026-10-16,220.0,EUR,Klaudia Katrencin,"Prijatá platba, ",
+2026-10-16,-180.0,EUR,"Socialforce, s. r. o.","Odoslaná okamžitá platba, Socialforce, s. r. o. - marketingove poradenstvo",VS: 2026039
+2026-10-16,-132.0,EUR,"S fertuskou, s.r.o.","Odoslaná okamžitá platba, S fertuskou, s.r.o. - kolaciky na ranne kavy","VS: 26007
+KS: 0308"
 2026-10-15,58.0,EUR,LUKÁŠ ZELENÍK,"Prijatá platba, DAR",
 2026-10-15,-858.54,EUR,"Petit Press, a.s.","Odoslaná okamžitá platba, Petit Press, a.s. - inzercia MY EXTRA PARDON","VS: 2633101687
 KS: 0308"
@@ -18,14 +27,3 @@ KS: 0308"
 2026-10-12,215.0,EUR,LUKÁŠ ZELENÍK,"Prijatá platba, DAR",
 2026-10-11,258.79,EUR,Dominika Mokra,"Prijatá platba, DAR",
 2026-10-11,215.0,EUR,Huba Radovan,"Prijatá platba, Dar",
-2026-10-11,215.72,EUR,"Parničan Maroš, Ing.","Prijatá platba, Dar",
-2026-10-11,215.72,EUR,Svetlana Kocisova,"Prijatá platba, DAR",
-2026-10-11,216.0,EUR,Veronika Drabikova,"Prijatá platba, dar",
-2026-10-11,-189.0,EUR,"S fertuskou, s.r.o.","Odoslaná okamžitá platba, S fertuskou, s.r.o. - kolaciky a pagaciky na ranne kavy a stretnutia","VS: 26006
-KS: 0308"
-2026-10-09,-1416.96,EUR,ENERGIO,"Odoslaná okamžitá platba, ENERGIO - online",VS: 20260981
-2026-10-09,-1131.85,EUR,Rink.sk s.r.o.,"Odoslaná okamžitá platba, Rink.sk s.r.o. - plagaty, bannery,propagacne materialy","VS: 2026529
-KS: 0308"
-2026-10-08,-582.49,EUR,"Petit Press, a.s.","Odoslaná okamžitá platba, Petit Press, a.s. Online reklama","VS: 2633101704
-KS: 0308"
-2026-10-07,750.0,EUR,Rastislav Babjak,"Prijatá platba, Odoslane z Revolutu",

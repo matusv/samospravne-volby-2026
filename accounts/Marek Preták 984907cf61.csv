@@ -1,4 +1,10 @@
 date,amount,currency,account_name,message,vs
+2026-10-16,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 14.10.2026","VS: 497000288
+ŠS: 1139224978
+KS: 6898"
+2026-10-16,-616.0,EUR,,"Transakcia platobnou kartou, Suma: 616 EUR 14.10.2026 Miesto: POSTA LUCENEC 1 LUCENEC","VS: 405000288
+ŠS: 1139224978
+KS: 0608"
 2026-10-14,-315.0,EUR,"JAKOMAT, spol. s r.o.","Odoslaná okamžitá platba, Platba za poskytnute sluzby 12.10.2026",KS: 0308
 2026-10-10,-400.0,EUR,PIXELS GROUP s. r. o.,"Odoslaná platba elektronicky, Ajax PR akcia s tombolou","VS: 260001
 KS: 008"
@@ -29,6 +35,3 @@ KS: 0608"
 2026-08-27,-658.05,EUR,Abracadabra s.r.o.,"Odoslaná okamžitá platba, Uhrada faktury: 20260095",VS: 20260095
 2026-08-14,-309.96,EUR,Pieskovisko s.r.o.,"Odoslaná okamžitá platba, Roll up",VS: 0520260044
 2026-07-31,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.07.2026 do 31.07.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 2 x debet - elektronicky: 0,00",
-2026-07-30,-385.0,EUR,Vladimir Veverka s. r. o.,"Odoslaná okamžitá platba, Uhrada faktury: 20260052 foto sluzby",VS: 20260052
-2026-07-25,-21.4,EUR,Websupport s.r.o.,"Odoslaná okamžitá platba, Platba za domenu","VS: 1026233616
-KS: 0308"

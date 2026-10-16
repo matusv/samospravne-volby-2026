@@ -50,16 +50,16 @@ date,amount,account_name,message,vs,name
 2026-04-20,-253.0,Bosák Tibor,Vrátenie chybnej platby,,Ladislav Lörinc
 2026-04-21,251.0,Mária Hrajnohová,T2462492454255878148,21042026.0,Ladislav Lörinc
 2026-04-22,243.0,"Adamková Alena, Ing.",Alena Adamkova,,Ladislav Lörinc
-2026-04-23,256.0,Novák Ján,Vklad,,Ladislav Lörinc
 2026-04-23,271.0,"Zálepa Ladislav, PaedDr.",Ladislav Zalepa,23042026.0,Ladislav Lörinc
+2026-04-23,256.0,Novák Ján,Vklad,,Ladislav Lörinc
 2026-05-04,-243.0,"Adamková Alena, Ing.",Vrátenie chybnej platby,,Ladislav Lörinc
-2026-05-13,-271.0,"Zálepa Ladislav, PaedDr.",Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-13,-252.0,"Klasovitá Soňa, Ing.",Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-13,-220.0,Závodská Gabriela,Vrátenie chybnej platby,,Ladislav Lörinc
+2026-05-13,-271.0,"Zálepa Ladislav, PaedDr.",Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-14,-274.0,Szöllösiová Terézia,Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-26,-272.0,SNOPKOVA EMILIA,Vrátenie chybnej platby,,Ladislav Lörinc
-2026-05-26,-225.0,Ondrejka Matúš,Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-26,-256.0,Novák Ján,Vrátenie chybnej platby,,Ladislav Lörinc
+2026-05-26,-225.0,Ondrejka Matúš,Vrátenie chybnej platby,,Ladislav Lörinc
 2026-09-01,-251.0,Mária Hrajnohová,Vrátenie chybnej platby,,Ladislav Lörinc
 2026-05-20,300.0,Kristina Simonova,,,Ladislav Smatana
 2026-05-27,-300.0,KRISTINA SIMONOVA,VRATENIE PLATBY,,Ladislav Smatana
@@ -69,6 +69,8 @@ date,amount,account_name,message,vs,name
 2026-03-24,-0.55,Echko Mário,"Vrátenie platby - Echko Mário, 18.03.2026",,Lucia Búšová
 2026-10-14,200.0,Lubobouw,36062793,,Lukáš Harhaj
 2026-10-14,-200.0,Lubobouw,Zahranicna platba / omyl,,Lukáš Harhaj
+2026-10-16,200.0,Vitaliy Povkhanych,2628990000193516,,Lukáš Harhaj
+2026-10-16,-200.0,Vitaliy Povkhanych,Zahraničný účet / omyl,,Lukáš Harhaj
 2026-09-07,-34.7,Matej Greschner,Kruzkobranie-sponzorsky dar Lopty,,Maroš Greschner
 2026-09-07,34.7,Matej Greschner,spatna platba kruzkobranie,,Maroš Greschner
 2026-08-06,223.86,"ISPA, spol. s r.o.",?/DO2026-08-05/SP,202603149.0,Matej Lančarič
@@ -85,20 +87,20 @@ date,amount,account_name,message,vs,name
 2026-06-04,-250.0,Adzimová Fedorová Miroslava,Vrátenie chybnej platby,,Patrik Vaško
 2026-06-04,-250.0,Lavo Juraj,Vrátenie chybnej platby,,Patrik Vaško
 2026-06-04,-200.0,"SLOVENSKÁ POŠTA, A.S.",Vrátenie chybnej platby,,Patrik Vaško
-2026-09-21,100.0,Peter Hajas,drzim palce vo volbach a verim ti,,Peter Fiabáne
 2026-09-21,-100.0,Peter Hajas,"Dakujem, platby od sponzorov mojich protikandidatov neprijimam.",,Peter Fiabáne
+2026-09-21,100.0,Peter Hajas,drzim palce vo volbach a verim ti,,Peter Fiabáne
 2024-07-22,100.0,Zlatica Suliova,ZLATIICA SULIOVA,122950,Peter Rék
 2024-09-02,-100.0,Zlatica Suliova,ZLATIICA SULIOVA Vratenie mylnej platby.,122950,Peter Rék
 2026-04-15,25.0,Stanislav Dubovsky,PLATBA/Dar,35,Progresívne Slovensko
 2026-04-30,43.0,Ing.Peter Majer,Platba/Kosice s viziou,2,Progresívne Slovensko
 2026-04-30,-25.0,Stanislav Dubovsky,Platba/vratenie daru stanislav dubovsky,,Progresívne Slovensko
-2026-07-13,800.0,GALA LADISLAV,Platba/15,15,Progresívne Slovensko
 2026-07-13,2000.0,Andrea Janicka Rudnayova,Platba/kampan KSK,12,Progresívne Slovensko
+2026-07-13,800.0,GALA LADISLAV,Platba/15,15,Progresívne Slovensko
 2026-07-21,-2000.0,Andrea Janicka Rudnayova,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
 2026-08-28,1000.0,Diana Mesikova,Platba,1,Progresívne Slovensko
-2026-09-01,-1000.0,Diana Mesikova,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
-2026-09-01,1000.0,BENCO STANISLAV,Platba,2,Progresívne Slovensko
 2026-09-01,-1000.0,bohowski s. r. o.,Platba/Bohowski - konzultacne a marketingove sluzby 08/2026,20260033,Progresívne Slovensko
+2026-09-01,1000.0,BENCO STANISLAV,Platba,2,Progresívne Slovensko
+2026-09-01,-1000.0,Diana Mesikova,Platba/vratenie daru podla 85/2005 Z.z.,,Progresívne Slovensko
 2026-09-01,1000.0,bohowski s. r. o.,Platba/Vratenie nespravnej platby,,Progresívne Slovensko
 2026-09-02,750.0,Juraj Smutko,Platba,12,Progresívne Slovensko
 2026-09-03,141.4,Juraj Štefunko,Platba/Vratenie mylnej platby,,Progresívne Slovensko

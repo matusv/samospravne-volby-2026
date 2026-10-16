@@ -1,4 +1,12 @@
 date,amount,currency,account_name,message,vs
+2026-10-16,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 14.10.2026","VS: 497000288
+ŠS: 1139276788
+KS: 6898"
+2026-10-16,-65.44,EUR,,"Transakcia platobnou kartou, Suma: 65,44 EUR 14.10.2026 Miesto: WEOPACK, PK Pezinok","VS: 405000288
+ŠS: 1139276788
+KS: 0608"
+2026-10-16,-1463.7,EUR,"VALEUR, s.r.o.","Odoslaná okamžitá platba, ",VS: 6742026
+2026-10-16,30.0,EUR,"Löwyová Jana, Ing.","Prijatá platba, Jana Löwyová",
 2026-10-15,-349.69,EUR,MaximAlex s.r.o.,"Odoslaná okamžitá platba, Platba faktury 26100188","VS: 26100188
 KS: 0308"
 2026-10-13,5000.0,EUR,Hinner Vladimír,"Prijatá platba, ",
@@ -27,7 +35,3 @@ KS: 0308"
 2026-08-13,3000.0,EUR,"Mács Roman, JUDr.","Prijatá platba, ",
 2026-08-11,-1832.72,EUR,3CTECH S. R. O.,"Odoslaná okamžitá platba, ","VS: 2681000022
 KS: 0308"
-2026-08-07,-799.5,EUR,Ing. Filip Kubik - Cubic Visuals,"Odoslaná okamžitá platba, Uhrada faktury: 0522026",VS: 0522026
-2026-08-04,385.0,EUR,"Ries Michal, Dipl.,Ing.","Prijatá platba, ",
-2026-07-27,-202.95,EUR,Ing. Filip Kubik - Cubic Visuals,"Odoslaná okamžitá platba, Uhrada faktury: 0472026",VS: 0472026
-2026-07-23,-144.66,EUR,Plotbase s.r.o.,"Odoslaná okamžitá platba, ",

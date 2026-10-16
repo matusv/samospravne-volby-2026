@@ -1,4 +1,7 @@
 date,amount,currency,account_name,message,vs
+2026-10-16,300.0,EUR,Peter Luptak,"Prijatá platba, Peter Luptak - Financny prispevok na komunalne volby 2026","ŠS: **********
+KS: 0558"
+2026-10-16,-147.6,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, Bilboard",VS: 202610442
 2026-10-14,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 12.10.2026","VS: 497000286
 ŠS: 5032602247
 KS: 6898"
@@ -42,5 +45,3 @@ KS: 6898"
 2026-08-25,-172.2,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, Bilboardy jun 2026",VS: 202606159
 2026-08-24,-7213.95,EUR,"Ako, s.r.o.","Odoslaná okamžitá platba, Prieskum verejnej mienky","VS: 5220262657
 KS: 0308"
-2026-08-21,700.0,EUR,MÁRIA DÓŠOVÁ,"Prijatá platba, PODPORA NA KAMPAN",
-2026-08-21,5000.0,EUR,SOBOTA TOMAS,"Prijatá platba, /DO2026-08-21/SPprevod na kampan",
