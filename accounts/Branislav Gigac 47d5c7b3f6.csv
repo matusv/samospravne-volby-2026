@@ -1,4 +1,5 @@
 date,amount,currency,account_name,message,vs
+2026-10-18,100.0,EUR,Edita Pekarova,"Prijatá platba, Dar",
 2026-10-16,-516.6,EUR,"Pirozkaren, s.r.o.","Odoslaná okamžitá platba, Pirozkaren, s.r.o. - oskvarkove pagace a moravske kolace na stretnutia v mestskych castiach, ranne kavy a susedske popoludnie",
 2026-10-16,434.0,EUR,Porubec Ivan,"Prijatá platba, Dar",
 2026-10-16,58.0,EUR,Veronika Drabikova,"Prijatá platba, dar",
@@ -26,4 +27,3 @@ KS: 0308"
 2026-10-12,-200.0,EUR,Mgr. Branislav Cukan,"Odoslaná okamžitá platba, Mgr. Branislav Cukan - rozpravka Prndolino na Susedskom popoludni na Dlhej",KS: 0308
 2026-10-12,215.0,EUR,LUKÁŠ ZELENÍK,"Prijatá platba, DAR",
 2026-10-11,258.79,EUR,Dominika Mokra,"Prijatá platba, DAR",
-2026-10-11,215.0,EUR,Huba Radovan,"Prijatá platba, Dar",

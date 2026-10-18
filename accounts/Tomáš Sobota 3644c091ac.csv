@@ -1,4 +1,6 @@
 date,amount,currency,account_name,message,vs
+2026-10-17,-98.4,EUR,"BB EXPO, spol. s r.o.","Odoslaná okamžitá platba, Bilboard","VS: 26170720
+KS: 0308"
 2026-10-16,300.0,EUR,Peter Luptak,"Prijatá platba, Peter Luptak - Financny prispevok na komunalne volby 2026","ŠS: **********
 KS: 0558"
 2026-10-16,-147.6,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, Bilboard",VS: 202610442
@@ -43,5 +45,3 @@ KS: 6898"
 2026-08-25,-147.6,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, Bilboardy - Tlac",VS: 202607546
 2026-08-25,-516.6,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, Bilboardy jun 2026",VS: 202606170
 2026-08-25,-172.2,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, Bilboardy jun 2026",VS: 202606159
-2026-08-24,-7213.95,EUR,"Ako, s.r.o.","Odoslaná okamžitá platba, Prieskum verejnej mienky","VS: 5220262657
-KS: 0308"

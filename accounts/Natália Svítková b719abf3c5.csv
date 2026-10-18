@@ -1,4 +1,7 @@
 date,amount,currency,account_name,message,vs
+2026-10-18,-602.7,EUR,"REKUK, spol. s r.o.","Odoslaná okamžitá platba, Dotlac letakov A5, A6, A4","VS: 2026010035
+KS: 0008"
+2026-10-17,250.0,EUR,Tomáš Bořuta,"Prijatá platba, Dar",
 2026-10-16,250.0,EUR,GALA LADISLAV,"Prijatá platba, /DO2026-10-16/SPLadislav Gala Dar",
 2026-10-16,250.0,EUR,Milan Duracka,"Prijatá platba, Milan Duracka dar",
 2026-10-16,250.0,EUR,Juraj Gasparek,"Prijatá platba, Dar",
@@ -28,5 +31,3 @@ KS: 6898"
 2026-09-30,-2000.0,EUR,Matej Kukucka,"Odoslaná okamžitá platba, Graficke sluzby",VS: 502026
 2026-09-30,-289.05,EUR,MG company s.r.o.,"Odoslaná okamžitá platba, Uhrada za balony","VS: 2162026
 KS: 308"
-2026-09-29,200.0,EUR,Pavol Hromadka,"Prijatá platba, ",
-2026-09-28,750.0,EUR,Katarina Malanova,"Prijatá platba, Juraj Malan",
