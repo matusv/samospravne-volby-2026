@@ -1,4 +1,7 @@
 date,amount,currency,account_name,message,vs
+2026-10-19,-882.0,EUR,web positive s.r.o.,"Odoslaná okamžitá platba, Graficke prace","VS: 24102026
+KS: 0308"
+2026-10-19,880.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 102026
 2026-10-15,-418.2,EUR,"NUBIUM, s.r.o.","Odoslaná platba elektronicky, Zaloha na kampan za poskytnute sluzby",VS: 16120200
 2026-10-15,-541.2,EUR,Annamaria Corosova - FLASH COMPANY,"Odoslaná platba elektronicky, Prenajom reklamnej plochy 10/2026",VS: 26233
 2026-10-15,1100.0,EUR,Magyar Szovetseg - Madarska alianci a,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 102026
@@ -29,6 +32,3 @@ KS: 0308"
 2026-09-14,-91.71,EUR,,"Transakčná daň z prevodov, ",KS: 0558
 2026-09-09,-2610.0,EUR,web positive s.r.o.,"Odoslaná okamžitá platba, Graficke prace - volby 2026",VS: 1992026
 2026-09-09,2600.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 092026
-2026-09-08,-4760.1,EUR,"KANOVITS FINEART, s.r.o.","Odoslaná okamžitá platba, Fotograficke sluzby","VS: 260900001
-KS: 0308"
-2026-09-08,4800.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 092026
