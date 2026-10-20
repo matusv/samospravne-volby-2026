@@ -1,4 +1,52 @@
 date,amount,account_name,message,vs
+2026-10-20,-40.0,,"NOTPROVIDED 20.10.2026 15000,00 EUR",
+2026-10-20,-15000.0,Maven Strategy Sro,Strategicke poradenstvo pre volebnu kampan,
+2026-10-20,-1000.0,Ján Kaločaj,Produkcia na koncerte 18.10.,20260024.0
+2026-10-20,-4.0,,"/VS20260024/SS/KS 20.10.2026 1000,00 EUR",
+2026-10-20,-6.0,,"/VS2026010/SS/KS 20.10.2026 1500,00 EUR",
+2026-10-20,-1500.0,Nina Micudova,Marketingove sluzby 10/26,2026010.0
+2026-10-20,-8.8,,"/VS2026007/SS/KS 20.10.2026 2200,00 EUR",
+2026-10-20,-2200.0,Katarina Rajcanova,Medialne poradenstvo 10/26,2026007.0
+2026-10-20,-2.93,,"/VS3326001649/SS/KS 20.10.2026 732,00 EUR",
+2026-10-20,-732.0,Hlavne Mesto SR,Dan za uzivanie verejneho priestranstva koncert 18.10.,3326001649.0
+2026-10-20,-0.4,,"/VS20260013/SS/KS0308 20.10.2026 100,00 EUR",
+2026-10-20,-100.0,Ing. Veronika Kevesova,Protipoziarny plan koncert 18.10.,20260013.0
+2026-10-20,-0.12,,"/VS2026023/SS/KS 20.10.2026 30,00 EUR",
+2026-10-20,-30.0,Studio Dominika Bolgacova,Fotografovanie jesennej Bratislavy,2026023.0
+2026-10-20,-2.46,,"/VS20260110/SS/KS0308 20.10.2026 615,00 EUR",
+2026-10-20,-615.0,Swaynetic.AI s. r. o.,Aegics licencia,20260110.0
+2026-10-20,-0.91,,"/VS720260084/SS/KS 20.10.2026 228,29 EUR",
+2026-10-20,-228.29,Unimedia,Prelep CTL na koncert 18.10.,720260084.0
+2026-10-20,-0.08,,"/VS261000001/SS/KS0308 20.10.2026 20,00 EUR",
+2026-10-20,-20.0,3J s.r.o.,Prenajom hasiacich pristrojov koncert 18.10.,261000001.0
+2026-10-20,-1.72,,"/VS2026003/SS/KS 20.10.2026 430,50 EUR",
+2026-10-20,-430.5,Beta Generation s. r. o.,Prenajom kaviarne pre zazemie na koncert 18.10.,2026003.0
+2026-10-20,-0.4,,"/VS2026016/SS/KS 20.10.2026 100,00 EUR",
+2026-10-20,-100.0,"Design and Friends, s. r. o.",Fotografie na zaklade licencnej zmluvy,2026016.0
+2026-10-20,-4.67,,"/VS20260161/SS/KS 20.10.2026 1168,50 EUR",
+2026-10-20,-1168.5,Crot Production s.r.o.,Letecke zabery koncert 18.10. A letecke zabery videa UFO,20260161.0
+2026-10-20,-10.08,,"/VS9001900477/SS/KS0308 20.10.2026 2520,02 EUR",
+2026-10-20,-2520.02,Slovenska Posta,Letakovanie volebnych novin,9001900477.0
+2026-10-20,-0.49,,"/VS2026057/SS/KS 20.10.2026 123,00 EUR",
+2026-10-20,-123.0,"SafetyCrew, s.r.o.",Prenajom vysielacky koncert 18.10.,2026057.0
+2026-10-20,-0.6,,"/VS20260017/SS/KS 20.10.2026 150,00 EUR",
+2026-10-20,-150.0,Erik Šiška,Stage management koncert 18.10.,20260017.0
+2026-10-20,-0.12,,"/VS310260240/SS/KS 20.10.2026 30,75 EUR",
+2026-10-20,-30.75,Muzeum Mesta Bratislavy,Prenajom pripojky koncert 18.10.,310260240.0
+2026-10-20,-10.0,,"/VS2026092/SS/KS 20.10.2026 2500,00 EUR",
+2026-10-20,-2500.0,Martina Mihalkovic Strapakova,Marketingove sluzby 9/26,2026092.0
+2026-10-20,-10.0,,"/VS202610/SS/KS 20.10.2026 2500,00 EUR",
+2026-10-20,-2500.0,Martina Mihalkovic Strapakova,Marketingove sluzby 10/26,202610.0
+2026-10-20,-4.0,,"NOTPROVIDED 20.10.2026 1000,00 EUR",
+2026-10-20,-1000.0,Miroslav Gupka,Marketingove sluzby 10/26 Kampan Petrzalka Daniel Klimovsky,
+2026-10-20,-40.0,,"/VS2026114/SS/KS 20.10.2026 13204,05 EUR",
+2026-10-20,-13204.05,MM AUDIO s. r. o.,"Technicke zabezpecenie - podium, zvuk,svetlo oplotenie a stany koncert 18.10.",2026114.0
+2026-10-20,-3.4,,"/VS20260037/SS/KS 20.10.2026 850,00 EUR",
+2026-10-20,-850.0,Martin Ancsin - MFAproduction,Videoprodukcia kampanovych videi oktober,20260037.0
+2026-10-20,-1.8,,"/VS202642/SS/KS 20.10.2026 450,00 EUR",
+2026-10-20,-450.0,Marek Jancuch,Fotografovanie koncertu 18.10.,202642.0
+2026-10-20,-3.99,,"/VS2026084/SS/KS 20.10.2026 996,30 EUR",
+2026-10-20,-996.3,Peter Hulansky - HUVADO,Zabezpecenie backlinu pre koncert 18.10.,2026084.0
 2026-10-20,20.0,Martina Kesely Simkova,dar,20264599.0
 2026-10-20,10.0,KLOTTON SAMUEL,?/DO2026-10-20/SP,20264598.0
 2026-10-19,-7.54,,"/VS202610053/SS/KS 19.10.2026 1884,36 EUR",

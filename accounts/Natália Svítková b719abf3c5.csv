@@ -1,4 +1,5 @@
 date,amount,currency,account_name,message,vs
+2026-10-20,3000.0,EUR,Progresívne Slovensko,"Prijatá platba, dar",VS: 2026
 2026-10-20,15.15,EUR,Illeš Robert,"Prijatá platba, Na víťazstvo Demokratov !",
 2026-10-20,-5535.0,EUR,MG company s.r.o.,"Odoslaná okamžitá platba, Tlac novin ( PB,NMnV, Il, Pe)","VS: 2622026
 KS: 308"
@@ -27,4 +28,3 @@ KS: 0308"
 KS: 0308"
 2026-10-12,430.0,EUR,Cyril Crkon,"Prijatá platba, ",
 2026-10-06,-2499.36,EUR,Regionpress,"Odoslaná okamžitá platba, Uhrada faktury 13 426 0326/ roznosnovin",VS: 134260326
-2026-10-05,-8265.6,EUR,BRANMEDIA s. r. o.,"Odoslaná okamžitá platba, Uhrada faktury: 26100001 prenajom billboardovych ploch oktober",VS: 26100001
