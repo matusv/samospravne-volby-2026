@@ -1,4 +1,7 @@
 date,amount,currency,account_name,message,vs
+2026-10-20,1000.0,EUR,Dubovcová Andrea,"Prijatá platba, ",
+2026-10-20,-280.0,EUR,Kulturne a spolocenske stredisko v Prievidzi,"Odoslaná okamžitá platba, Kulturne a spolocenske stredisko vPrievidzi - prenajom domov kulturyv mestskych castiach na stretnutias obyvatelmi","VS: 2026204
+KS: 0308"
 2026-10-19,-200.0,EUR,Mgr. Branislav Cukan,"Odoslaná okamžitá platba, Mgr. Branislav Cukan - rozpravka Prndolino na Susedskom popoludni v Mestskom parku",KS: 0308
 2026-10-19,-200.0,EUR,Viktor Reisel Rufo,"Odoslaná okamžitá platba, Viktor Reisel Rufo - nafukovaci hrad akcie",VS: 10260037
 2026-10-19,220.0,EUR,Eva Strbakova,"Prijatá platba, Dar",
@@ -25,5 +28,3 @@ KS: 0308"
 2026-10-13,199.95,EUR,Oľga Kurbelová,"Prijatá platba, Dar",
 2026-10-13,220.0,EUR,"Gális Július, Mgr.","Prijatá platba, Dar",KS: 0558
 2026-10-13,259.0,EUR,Petráš Vladimír,"Prijatá platba, Dar",
-2026-10-12,215.0,EUR,Jaroslav Vojtas,"Prijatá platba, DAR",
-2026-10-12,-500.0,EUR,"Chilli Peppers, s.r.o.","Odoslaná okamžitá platba, Chilli Peppers, s.r.o. - graficke prace na kampani",
