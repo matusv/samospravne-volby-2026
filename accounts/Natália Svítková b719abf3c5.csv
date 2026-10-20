@@ -1,4 +1,8 @@
 date,amount,currency,account_name,message,vs
+2026-10-20,15.15,EUR,Illeš Robert,"Prijatá platba, Na víťazstvo Demokratov !",
+2026-10-20,-5535.0,EUR,MG company s.r.o.,"Odoslaná okamžitá platba, Tlac novin ( PB,NMnV, Il, Pe)","VS: 2622026
+KS: 308"
+2026-10-19,-280.56,EUR,"Coria, spol. s r. o.","Odoslaná okamžitá platba, Coria, spol. s r. o.: dotlac letakov PU",VS: 2026076
 2026-10-19,500.0,EUR,Peter Matos,"Prijatá platba, Dar Peter Matos",
 2026-10-19,250.0,EUR,Tomáš Merašický,"Prijatá platba, Tomas Merasicky prispevok na kampan pre Nataliu Svitkovu",
 2026-10-18,-602.7,EUR,"REKUK, spol. s r.o.","Odoslaná okamžitá platba, Dotlac letakov A5, A6, A4","VS: 2026010035
@@ -24,9 +28,3 @@ KS: 0308"
 2026-10-12,430.0,EUR,Cyril Crkon,"Prijatá platba, ",
 2026-10-06,-2499.36,EUR,Regionpress,"Odoslaná okamžitá platba, Uhrada faktury 13 426 0326/ roznosnovin",VS: 134260326
 2026-10-05,-8265.6,EUR,BRANMEDIA s. r. o.,"Odoslaná okamžitá platba, Uhrada faktury: 26100001 prenajom billboardovych ploch oktober",VS: 26100001
-2026-10-05,-138.38,EUR,MG company s.r.o.,"Odoslaná okamžitá platba, Tla letakov A6","VS: 2502026
-KS: 308"
-2026-09-30,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.09.2026 do 30.09.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 20 x prijaté platby: 0,00, 5 x debet - elektronicky: 0,00",
-2026-09-30,-3.0,EUR,,"Poplatok platobné karty, Miesto: VISA CLASSIC DEB. CL Suma: 3 EUR 29.09.2026","VS: 495000272
-ŠS: 1139269320
-KS: 6898"

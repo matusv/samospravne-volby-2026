@@ -1,4 +1,5 @@
 date,amount,currency,account_name,message,vs
+2026-10-20,1032.0,EUR,Alexander Dako,"Prijatá platba, Dar Mgr.Alexander Dako",VS: 26010078
 2026-10-19,-882.0,EUR,web positive s.r.o.,"Odoslaná okamžitá platba, Graficke prace","VS: 24102026
 KS: 0308"
 2026-10-19,880.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 102026
@@ -31,4 +32,3 @@ KS: 0308"
 2026-09-24,7850.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 092026
 2026-09-14,-91.71,EUR,,"Transakčná daň z prevodov, ",KS: 0558
 2026-09-09,-2610.0,EUR,web positive s.r.o.,"Odoslaná okamžitá platba, Graficke prace - volby 2026",VS: 1992026
-2026-09-09,2600.0,EUR,Magyar Szövetség - Maďarská aliancia,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov",VS: 092026

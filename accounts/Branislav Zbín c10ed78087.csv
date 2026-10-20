@@ -1,4 +1,16 @@
 date,amount,currency,account_name,message,vs
+2026-10-19,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 14.10.2026","VS: 497000289
+ŠS: 1139298253
+KS: 6898"
+2026-10-19,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 14.10.2026","VS: 497000289
+ŠS: 1139298253
+KS: 6898"
+2026-10-19,-360.0,EUR,,"Transakcia platobnou kartou, Suma: 360 EUR 14.10.2026 Miesto: OBECNY URAD BELUSA BELUSA","VS: 405000289
+ŠS: 1139298253
+KS: 0608"
+2026-10-19,-316.0,EUR,,"Transakcia platobnou kartou, Suma: 316 EUR 14.10.2026 Miesto: Futbalovy klub Belusa BELUSA","VS: 405000289
+ŠS: 1139298253
+KS: 0608"
 2026-10-19,-300.0,EUR,BLK,"Odoslaná okamžitá platba, BLK-marketing, reklamne predmety",VS: 20260110
 2026-10-19,-69.72,EUR,AME s.r.o,"Odoslaná platba elektronicky, Platba faktury FV-5034/2026","VS: 10715034
 KS: 8"

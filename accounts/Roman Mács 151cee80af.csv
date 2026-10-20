@@ -1,4 +1,11 @@
 date,amount,currency,account_name,message,vs
+2026-10-20,-105.78,EUR,MESTSKY PODNIK SLUZIEB,"Odoslaná okamžitá platba, Faktura c.: 9102600443",VS: 9102600443
+2026-10-19,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 16.10.2026","VS: 497000290
+ŠS: 1139276788
+KS: 6898"
+2026-10-19,-26.76,EUR,,"Transakcia platobnou kartou, Suma: 26,76 EUR 16.10.2026 Miesto: Lidl dakuje 279 Pezinok","VS: 405000290
+ŠS: 1139276788
+KS: 0608"
 2026-10-16,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 14.10.2026","VS: 497000288
 ŠS: 1139276788
 KS: 6898"
@@ -30,8 +37,3 @@ KS: 0308"
 2026-08-31,-15.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.08.2026 do 31.08.2026, Za vedenie účtu/balíka služieb a výpisy: 15,00, Za transakcie: 0,00, 2 x prijaté platby: 0,00, 5 x debet - elektronicky: 0,00",
 2026-08-25,-885.6,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, JUDR. Roman Macs Hornung N (tlac 30) 11.08.2026",VS: 202608322
 2026-08-22,-769.98,EUR,K-S advertising s. r. o.,"Odoslaná okamžitá platba, ",VS: 0692026
-2026-08-13,-725.7,EUR,"Agentura AGE, s.r.o.","Odoslaná okamžitá platba, prenajom BB ploch a tlac BB","VS: 260001
-KS: 0308"
-2026-08-13,3000.0,EUR,"Mács Roman, JUDr.","Prijatá platba, ",
-2026-08-11,-1832.72,EUR,3CTECH S. R. O.,"Odoslaná okamžitá platba, ","VS: 2681000022
-KS: 0308"

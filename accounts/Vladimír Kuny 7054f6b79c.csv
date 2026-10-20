@@ -1,4 +1,40 @@
 date,amount,currency,account_name,message,vs
+2026-10-19,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 16.10.2026","VS: 497000290
+ŠS: 5032785547
+KS: 6898"
+2026-10-19,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 15.10.2026","VS: 497000290
+ŠS: 5032785547
+KS: 6898"
+2026-10-19,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 15.10.2026","VS: 497000290
+ŠS: 5032785547
+KS: 6898"
+2026-10-19,-4.6,EUR,,"Transakcia platobnou kartou, Suma: 4,6 EUR 16.10.2026 Miesto: PAPIERNICTVO LEVITA LEVICE","VS: 405000290
+ŠS: 5032785547
+KS: 0608"
+2026-10-19,-86.39,EUR,,"Transakcia platobnou kartou, Suma: 86,39 EUR 15.10.2026 Miesto: Tesco Levice Levice","VS: 405000290
+ŠS: 5032785547
+KS: 0608"
+2026-10-19,-12.0,EUR,,"Transakcia platobnou kartou, Suma: 12 EUR 15.10.2026 Miesto: DAFFER S R O LEVICE","VS: 405000290
+ŠS: 5032785547
+KS: 0608"
+2026-10-19,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 15.10.2026","VS: 497000289
+ŠS: 5032785547
+KS: 6898"
+2026-10-19,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 14.10.2026","VS: 497000289
+ŠS: 5032785547
+KS: 6898"
+2026-10-19,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 14.10.2026","VS: 497000289
+ŠS: 5032785547
+KS: 6898"
+2026-10-19,-7.37,EUR,,"Transakcia platobnou kartou, Suma: 7,37 EUR 15.10.2026 Miesto: Cloetta Slovakia s.r.o Levice","VS: 405000289
+ŠS: 5032785547
+KS: 0608"
+2026-10-19,-24.0,EUR,,"Transakcia platobnou kartou, Suma: 24 EUR 14.10.2026 Miesto: MIRA OFFICE LEVICE","VS: 405000289
+ŠS: 5032785547
+KS: 0608"
+2026-10-19,-70.95,EUR,,"Transakcia platobnou kartou, Suma: 70,95 EUR 14.10.2026 Miesto: MIRA OFFICE LEVICE","VS: 405000289
+ŠS: 5032785547
+KS: 0608"
 2026-10-16,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 14.10.2026","VS: 497000288
 ŠS: 5032785547
 KS: 6898"
@@ -33,36 +69,3 @@ KS: 6898"
 2026-10-14,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 12.10.2026","VS: 497000286
 ŠS: 5032785547
 KS: 6898"
-2026-10-14,-18.54,EUR,,"Transakcia platobnou kartou, Suma: 18,54 EUR 12.10.2026 Miesto: MIRA OFFICE LEVICE","VS: 405000286
-ŠS: 5032785547
-KS: 0608"
-2026-10-14,-105.0,EUR,,"Transakcia platobnou kartou, Suma: 105 EUR 12.10.2026 Miesto: THE CAFFE Levice","VS: 405000286
-ŠS: 5032785547
-KS: 0608"
-2026-10-13,-30.4,EUR,,"Transakcia platobnou kartou, Suma: 30,4 EUR 11.10.2026 Miesto: Maxis2- kaviaren LEVICE","VS: 405000285
-ŠS: 5032785547
-KS: 0608"
-2026-10-13,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 11.10.2026","VS: 497000285
-ŠS: 5032785547
-KS: 6898"
-2026-10-13,-13.0,EUR,MsKS,"Odoslaná okamžitá platba, Vylep plagatov","VS: 202600112
-KS: 308"
-2026-10-12,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 09.10.2026","VS: 497000283
-ŠS: 5032785547
-KS: 6898"
-2026-10-12,-308.61,EUR,,"Transakcia platobnou kartou, Suma: 308,61 EUR 09.10.2026 Miesto: SLOVAK PARCEL SERVICE Ivanka pri Du","VS: 405000283
-ŠS: 5032785547
-KS: 0608"
-2026-10-12,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 08.10.2026","VS: 497000282
-ŠS: 5032785547
-KS: 6898"
-2026-10-12,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 08.10.2026","VS: 497000282
-ŠS: 5032785547
-KS: 6898"
-2026-10-12,-85.9,EUR,,"Transakcia platobnou kartou, Suma: 85,9 EUR 08.10.2026 Miesto: FAXCOPY42,LV,SV. MICHALA LEVICE","VS: 405000282
-ŠS: 5032785547
-KS: 0608"
-2026-10-12,-126.5,EUR,,"Transakcia platobnou kartou, Suma: 126,5 EUR 08.10.2026 Miesto: Pizza33 - Levice LEVICE","VS: 405000282
-ŠS: 5032785547
-KS: 0608"
-2026-10-11,500.0,EUR,Peter Bielik,"Prijatá platba, Marcela Bielikova",
