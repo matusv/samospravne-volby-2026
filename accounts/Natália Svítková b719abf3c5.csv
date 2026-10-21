@@ -1,4 +1,6 @@
 date,amount,currency,account_name,message,vs
+2026-10-21,-100.0,EUR,Azul s.r.o.,"Odoslaná okamžitá platba, Prenajom saly","VS: 20262124
+KS: 0308"
 2026-10-21,100.0,EUR,"Svítok Juraj, JUDr.","Prijatá platba, Dar",
 2026-10-21,-5144.24,EUR,VKMM s.r.o.,"Odoslaná okamžitá platba, Vyroba a tlac tlacovin A4,A5, A6, A3",VS: 1260089
 2026-10-21,750.0,EUR,Vladimir Poruban,"Prijatá platba, Vladimir Poruban",
@@ -26,4 +28,3 @@ KS: 0308"
 2026-10-13,200.0,EUR,"Beňová Viera, RNDr.","Prijatá platba, kampaň",
 2026-10-13,6000.0,EUR,Demokrati,"Prijatá platba, Dar na kampan",VS: 12102026
 2026-10-13,250.0,EUR,Erik Mičian,"Prijatá platba, Erik Mician dar",
-2026-10-12,250.0,EUR,JANA ŠTEFÁNEKOVÁ,"Prijatá platba, JANA STEFANEKOVA DAR",

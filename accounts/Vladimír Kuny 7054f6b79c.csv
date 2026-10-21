@@ -1,4 +1,5 @@
 date,amount,currency,account_name,message,vs
+2026-10-21,2000.0,EUR,Vladimír Kuny,"Prijatá platba, Dar",
 2026-10-19,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 16.10.2026","VS: 497000290
 ŠS: 5032785547
 KS: 6898"
@@ -63,9 +64,6 @@ KS: 6898"
 2026-10-15,-152.8,EUR,,"Transakcia platobnou kartou, Suma: 152,8 EUR 13.10.2026 Miesto: ORINOCO PUB LEVICE","VS: 405000287
 ŠS: 5032785547
 KS: 0608"
-2026-10-14,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 12.10.2026","VS: 497000286
-ŠS: 5032785547
-KS: 6898"
 2026-10-14,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 12.10.2026","VS: 497000286
 ŠS: 5032785547
 KS: 6898"

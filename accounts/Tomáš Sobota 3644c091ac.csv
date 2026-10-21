@@ -1,4 +1,6 @@
 date,amount,currency,account_name,message,vs
+2026-10-21,-664.2,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, Tlac plagatov bilboard",VS: 202610461
+2026-10-21,-520.0,EUR,Samuel Sobota,"Odoslaná okamžitá platba, Distribucia letakov 10000 ks",VS: 2026008
 2026-10-20,-2261.72,EUR,SERIGRAFIKA s.r.o.,"Odoslaná okamžitá platba, Tlacoviny a magnetky",VS: 260390
 2026-10-17,-98.4,EUR,"BB EXPO, spol. s r.o.","Odoslaná okamžitá platba, Bilboard","VS: 26170720
 KS: 0308"
@@ -43,5 +45,3 @@ KS: 0008"
 ŠS: 5032602247
 KS: 6898"
 2026-08-28,-1402.2,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, Bilboardy 09-10/26 preddavkova FA",VS: 260412
-2026-08-25,-147.6,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, Bilboardy - Tlac",VS: 202607546
-2026-08-25,-516.6,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, Bilboardy jun 2026",VS: 202606170
