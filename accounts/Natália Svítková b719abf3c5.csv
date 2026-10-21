@@ -1,4 +1,7 @@
 date,amount,currency,account_name,message,vs
+2026-10-21,100.0,EUR,"Svítok Juraj, JUDr.","Prijatá platba, Dar",
+2026-10-21,-5144.24,EUR,VKMM s.r.o.,"Odoslaná okamžitá platba, Vyroba a tlac tlacovin A4,A5, A6, A3",VS: 1260089
+2026-10-21,750.0,EUR,Vladimir Poruban,"Prijatá platba, Vladimir Poruban",
 2026-10-20,3000.0,EUR,Progresívne Slovensko,"Prijatá platba, dar",VS: 2026
 2026-10-20,15.15,EUR,Illeš Robert,"Prijatá platba, Na víťazstvo Demokratov !",
 2026-10-20,-5535.0,EUR,MG company s.r.o.,"Odoslaná okamžitá platba, Tlac novin ( PB,NMnV, Il, Pe)","VS: 2622026
@@ -24,7 +27,3 @@ KS: 0308"
 2026-10-13,6000.0,EUR,Demokrati,"Prijatá platba, Dar na kampan",VS: 12102026
 2026-10-13,250.0,EUR,Erik Mičian,"Prijatá platba, Erik Mician dar",
 2026-10-12,250.0,EUR,JANA ŠTEFÁNEKOVÁ,"Prijatá platba, JANA STEFANEKOVA DAR",
-2026-10-12,-3895.53,EUR,"Red Post, s. r. o.","Odoslaná okamžitá platba, Redpost distribucia novin","VS: 2026056
-KS: 0308"
-2026-10-12,430.0,EUR,Cyril Crkon,"Prijatá platba, ",
-2026-10-06,-2499.36,EUR,Regionpress,"Odoslaná okamžitá platba, Uhrada faktury 13 426 0326/ roznosnovin",VS: 134260326
