@@ -1,4 +1,8 @@
 date,amount,currency,account_name,message,vs
+2026-10-22,-166.05,EUR,Rink.sk s.r.o.,"Odoslaná okamžitá platba, Rink.sk s.r.o. - roll upy - pred moratoriom","VS: 2026559
+KS: 0308"
+2026-10-22,-100.0,EUR,Ing. Anna Plesniva,"Odoslaná okamžitá platba, Vratenie platby - moratorium",
+2026-10-22,-50.0,EUR,Lukas Bartovic,"Odoslaná okamžitá platba, Vratenie platby - moratorium",
 2026-10-22,50.0,EUR,Lukas Bartovic,"Prijatá platba, Lukas Bartovic - dar. Nie som Prievidzan ale odhodlanie, cestnost a zapal su sympaticke. Drzim palce!",
 2026-10-22,100.0,EUR,Ing. Anna Plesnivá,"Prijatá platba, Anna Plesnivá - dar",
 2026-10-21,-180.0,EUR,Kulturne a spolocenske stredisko v Prievidzi,"Odoslaná okamžitá platba, Kulturne a spolocenske stredisko vPrievidzi - vylep plagatov","VS: 2026199
@@ -24,8 +28,3 @@ KS: 0308"
 2026-10-16,-132.0,EUR,"S fertuskou, s.r.o.","Odoslaná okamžitá platba, S fertuskou, s.r.o. - kolaciky na ranne kavy","VS: 26007
 KS: 0308"
 2026-10-15,58.0,EUR,LUKÁŠ ZELENÍK,"Prijatá platba, DAR",
-2026-10-15,-858.54,EUR,"Petit Press, a.s.","Odoslaná okamžitá platba, Petit Press, a.s. - inzercia MY EXTRA PARDON","VS: 2633101687
-KS: 0308"
-2026-10-15,-36.9,EUR,"GRYF MEDIA, s.r.o.","Odoslaná platba elektronicky, GRYF MEDIA, s.r.o. Prelep","VS: 2600415
-KS: 0308"
-2026-10-14,225.0,EUR,Lubica Galisova,"Prijatá platba, dar",

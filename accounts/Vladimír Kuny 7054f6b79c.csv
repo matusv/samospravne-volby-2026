@@ -1,4 +1,7 @@
 date,amount,currency,account_name,message,vs
+2026-10-22,-100.0,EUR,Photo Services s. r. o.,"Odoslaná okamžitá platba, Photo Services s. r. o.: 2026019 -Vladimir Kuny kampan2026- 2026/10",VS: 2026019
+2026-10-22,-10.0,EUR,MsKS,"Odoslaná okamžitá platba, Mestsky rozhlas - kampan 2026","VS: 202600116
+KS: 308"
 2026-10-21,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 19.10.2026","VS: 497000293
 ŠS: 5032785547
 KS: 6898"
@@ -64,7 +67,3 @@ KS: 0608"
 KS: 0008"
 2026-10-16,-2324.7,EUR,Levicka televizna spolocnost s.r.o.,"Odoslaná okamžitá platba, Mgr. Vladimir Kuny Vysielanie videospotu 15.10.2026","VS: 126063
 KS: 0308"
-2026-10-16,-66.42,EUR,LIMAX LM,"Odoslaná okamžitá platba, Samolepka 50mm kampan2026","VS: 10260163
-KS: 308"
-2026-10-16,-1007.37,EUR,ARS SPEKTRUM,"Odoslaná okamžitá platba, Volebny list A4 skladany","VS: 260259
-KS: 308"

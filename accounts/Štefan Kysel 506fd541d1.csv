@@ -1,4 +1,6 @@
 date,amount,currency,account_name,message,vs
+2026-10-22,-258.3,EUR,Arton s.r.o.,"Odoslaná okamžitá platba, ",VS: 20264565
+2026-10-22,258.3,EUR,KYSEL STEFAN,"Prijatá platba, /DO2026-10-22/SP",
 2026-10-16,-184.5,EUR,"NUBIUM, s. r. o.","Odoslaná okamžitá platba, Ing. Stefan Kysel Trzby za reklamne sluzby .RK. 07.09.2026",VS: 2620001544
 2026-10-16,-147.6,EUR,"NUBIUM, s. r. o.","Odoslaná okamžitá platba, Ing. Stefan Kysel Trzby za reklamne sluzby .RK. 06.10.2026",VS: 2620001765
 2026-10-16,333.0,EUR,KYSEL STEFAN,"Prijatá platba, /DO2026-10-16/SP",
