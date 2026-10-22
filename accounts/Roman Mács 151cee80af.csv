@@ -1,4 +1,6 @@
 date,amount,currency,account_name,message,vs
+2026-10-22,-651.41,EUR,ARDSYSTEM s.r.o.,"Odoslaná okamžitá platba, JUDr.Roman Macs Prenajom informacnych tabul 21.10.2026","VS: 68226043
+KS: 0308"
 2026-10-20,-166.05,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, JUDr. Roman Macs Krsakova N (tlac 20) 30.09.2026",VS: 202609637
 2026-10-20,-105.78,EUR,MESTSKY PODNIK SLUZIEB,"Odoslaná okamžitá platba, Faktura c.: 9102600443",VS: 9102600443
 2026-10-19,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 16.10.2026","VS: 497000290
@@ -36,4 +38,3 @@ KS: 0308"
 2026-09-03,-565.8,EUR,3CTECH S. R. O.,"Odoslaná okamžitá platba, ","VS: 2681000035
 KS: 0308"
 2026-08-31,-15.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.08.2026 do 31.08.2026, Za vedenie účtu/balíka služieb a výpisy: 15,00, Za transakcie: 0,00, 2 x prijaté platby: 0,00, 5 x debet - elektronicky: 0,00",
-2026-08-25,-885.6,EUR,ARTON s.r.o.,"Odoslaná okamžitá platba, JUDR. Roman Macs Hornung N (tlac 30) 11.08.2026",VS: 202608322

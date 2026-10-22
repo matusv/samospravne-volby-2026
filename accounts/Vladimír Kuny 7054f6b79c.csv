@@ -1,4 +1,22 @@
 date,amount,currency,account_name,message,vs
+2026-10-21,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 19.10.2026","VS: 497000293
+ŠS: 5032785547
+KS: 6898"
+2026-10-21,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 19.10.2026","VS: 497000293
+ŠS: 5032785547
+KS: 6898"
+2026-10-21,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 19.10.2026","VS: 497000293
+ŠS: 5032785547
+KS: 6898"
+2026-10-21,-2.1,EUR,,"Transakcia platobnou kartou, Suma: 2,1 EUR 19.10.2026 Miesto: FAXCOPY42,LV,SV. MICHALA LEVICE","VS: 405000293
+ŠS: 5032785547
+KS: 0608"
+2026-10-21,-191.04,EUR,,"Transakcia platobnou kartou, Suma: 191,04 EUR 19.10.2026 Miesto: BILLA 241 LEVICE","VS: 405000293
+ŠS: 5032785547
+KS: 0608"
+2026-10-21,-9.9,EUR,,"Transakcia platobnou kartou, Suma: 9,9 EUR 19.10.2026 Miesto: DAFFER S R O LEVICE","VS: 405000293
+ŠS: 5032785547
+KS: 0608"
 2026-10-21,2000.0,EUR,Vladimír Kuny,"Prijatá platba, Dar",
 2026-10-19,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 16.10.2026","VS: 497000290
 ŠS: 5032785547
@@ -50,20 +68,3 @@ KS: 0308"
 KS: 308"
 2026-10-16,-1007.37,EUR,ARS SPEKTRUM,"Odoslaná okamžitá platba, Volebny list A4 skladany","VS: 260259
 KS: 308"
-2026-10-16,-13.0,EUR,MESTSKE KULTURNE STREDISKO LEVICE,"Odoslaná okamžitá platba, Vylep plagatov kampan 2026","VS: 202600115
-KS: 308"
-2026-10-15,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 14.10.2026","VS: 497000288
-ŠS: 5032785547
-KS: 6898"
-2026-10-15,-2.8,EUR,,"Transakcia platobnou kartou, Suma: 2,8 EUR 14.10.2026 Miesto: TUJVEL, S.R.O. LEVICE","VS: 405000288
-ŠS: 5032785547
-KS: 0608"
-2026-10-15,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 13.10.2026","VS: 497000287
-ŠS: 5032785547
-KS: 6898"
-2026-10-15,-152.8,EUR,,"Transakcia platobnou kartou, Suma: 152,8 EUR 13.10.2026 Miesto: ORINOCO PUB LEVICE","VS: 405000287
-ŠS: 5032785547
-KS: 0608"
-2026-10-14,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 12.10.2026","VS: 497000286
-ŠS: 5032785547
-KS: 6898"
