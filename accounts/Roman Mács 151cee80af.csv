@@ -1,4 +1,6 @@
 date,amount,currency,account_name,message,vs
+2026-10-23,-295.6,EUR,"Agentura AGE, s.r.o.","Odoslaná okamžitá platba, prenajom City light","VS: 2026043
+KS: 0308"
 2026-10-22,-500.0,EUR,Branislav Cech - BrunoC,"Odoslaná okamžitá platba, Platba faktury 2026039","VS: 2026039
 KS: 0308"
 2026-10-22,-150.0,EUR,Zdruzenie pezinskych vinohradnikov a vinarov,"Odoslaná okamžitá platba, Prenajom priestorov Mestska vinoteka","VS: 2600060
@@ -38,4 +40,3 @@ KS: 0308"
 2026-09-26,30.0,EUR,Naništa Roman,"Prijatá platba, Pre dobreho primatora",
 2026-09-25,30.0,EUR,"Naništa Jakub, Ing.","Prijatá platba, Za lepší Pezinok",VS: 25092026
 2026-09-25,150.0,EUR,"Naništová Lívia, Ing.","Prijatá platba, ",VS: 2026
-2026-09-18,-430.5,EUR,Ing. Filip Kubik - Cubic Visuals,"Odoslaná okamžitá platba, Uhrada faktury: 0632026",VS: 0632026

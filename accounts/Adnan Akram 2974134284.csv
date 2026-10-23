@@ -1,4 +1,8 @@
 date,amount,account_name,message,vs
+2026-10-21,-1000.0,"INSIMA, s. r. o.",Payment,20260131
+2026-10-21,-2000.0,"INSIMA, s. r. o.",Payment,20260131
+2026-10-21,1200.0,Akram Adnan,Payment,
+2026-10-21,2000.0,Akram Adnan,Payment,
 2026-10-13,-2976.6,"INSIMA, s. r. o.",Payment,20260126
 2026-10-13,1700.0,Akram Adnan,Payment,
 2026-09-30,-5.0,,Account charge,
