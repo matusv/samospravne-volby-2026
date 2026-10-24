@@ -1,4 +1,11 @@
 date,amount,currency,account_name,message,vs
+2026-10-24,100.0,EUR,Alexander Gazo,"Prijatá platba, ",
+2026-10-23,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.10.2026","VS: 497000296
+ŠS: 5032785547
+KS: 6898"
+2026-10-23,-22.56,EUR,,"Transakcia platobnou kartou, Suma: 22,56 EUR 21.10.2026 Miesto: NITRAZDROJ AS PJ 038 LEVICE","VS: 405000296
+ŠS: 5032785547
+KS: 0608"
 2026-10-22,-100.0,EUR,Photo Services s. r. o.,"Odoslaná okamžitá platba, Photo Services s. r. o.: 2026019 -Vladimir Kuny kampan2026- 2026/10",VS: 2026019
 2026-10-22,-10.0,EUR,MsKS,"Odoslaná okamžitá platba, Mestsky rozhlas - kampan 2026","VS: 202600116
 KS: 308"
@@ -60,10 +67,3 @@ KS: 0608"
 2026-10-16,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 14.10.2026","VS: 497000288
 ŠS: 5032785547
 KS: 6898"
-2026-10-16,-185.18,EUR,,"Transakcia platobnou kartou, Suma: 185,18 EUR 14.10.2026 Miesto: FAXCOPY42,LV,SV. MICHALA LEVICE","VS: 405000288
-ŠS: 5032785547
-KS: 0608"
-2026-10-16,-159.9,EUR,"CLIENT SERVICE, s.r.o.","Odoslaná okamžitá platba, Mgr.Vladimir Kuny 15.10.2026 bilboard","VS: 10260622
-KS: 0008"
-2026-10-16,-2324.7,EUR,Levicka televizna spolocnost s.r.o.,"Odoslaná okamžitá platba, Mgr. Vladimir Kuny Vysielanie videospotu 15.10.2026","VS: 126063
-KS: 0308"

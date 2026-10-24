@@ -1,1 +1,10 @@
 date,amount,currency,account_name,message,vs
+2026-10-12,-260.0,EUR,Tobias Bakos - QIU,"Odoslaná okamžitá platba, WEB-QIU",VS: 20260024
+2026-10-12,270.0,EUR,Jozef Hranec,"Prijatá platba, ",
+2026-10-04,-50.0,EUR,Bielikova,"Odoslaná okamžitá platba, Bielikova",VS: 0101
+2026-10-04,60.0,EUR,Jozef Hranec,"Prijatá platba, ",
+2026-09-30,-10.0,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.09.2026 do 30.09.2026, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 2 x prijaté platby: 0,00, 2 x debet - elektronicky: 0,00",
+2026-09-26,-120.0,EUR,Bielikova,"Odoslaná okamžitá platba, Jozef Hranec",VS: 0101
+2026-09-16,10.0,EUR,Suchánek Miloš,"Prijatá platba, Drzim palce",VS: 16092026
+2026-09-16,-183.91,EUR,RESOLGROUP s. r. o.,"Odoslaná okamžitá platba, Uhrada faktury: 26090016",VS: 26090016
+2026-09-15,300.0,EUR,Jozef Hranec,"Prijatá platba, Jozef Hranec",

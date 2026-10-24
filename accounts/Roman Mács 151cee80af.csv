@@ -1,4 +1,5 @@
 date,amount,currency,account_name,message,vs
+2026-10-24,-1000.0,EUR,"VPS - VINOHRADNICTVO PAVELKA A SYN, S.R.O.","Odoslaná okamžitá platba, Uhrada faktury VS:20260984",VS: 20260984
 2026-10-23,-295.6,EUR,"Agentura AGE, s.r.o.","Odoslaná okamžitá platba, prenajom City light","VS: 2026043
 KS: 0308"
 2026-10-22,-500.0,EUR,Branislav Cech - BrunoC,"Odoslaná okamžitá platba, Platba faktury 2026039","VS: 2026039
@@ -39,4 +40,3 @@ KS: 0308"
 2026-09-26,500.0,EUR,"Mács Roman, JUDr.","Prijatá platba, ",
 2026-09-26,30.0,EUR,Naništa Roman,"Prijatá platba, Pre dobreho primatora",
 2026-09-25,30.0,EUR,"Naništa Jakub, Ing.","Prijatá platba, Za lepší Pezinok",VS: 25092026
-2026-09-25,150.0,EUR,"Naništová Lívia, Ing.","Prijatá platba, ",VS: 2026
